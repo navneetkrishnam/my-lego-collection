@@ -13,6 +13,7 @@ export default function HomePage({ sets, loading }) {
   });
   const [searchQuery, setSearchQuery] = useState('');
   const [sortOption, setSortOption] = useState('Name (A-Z)');
+  const [isMobileFilterOpen, setIsMobileFilterOpen] = useState(false);
 
   const navigate = useNavigate();
 
@@ -104,13 +105,33 @@ export default function HomePage({ sets, loading }) {
       <SummaryCards sets={sets} />
 
       <div className="page-layout">
-        {/* Sidebar */}
-        <FilterSidebar 
-          filters={filters} 
-          setFilters={setFilters} 
-          themeOptions={themeOptions}
-          ageOptions={ageOptions}
-        />
+        {/* Desktop Sidebar */}
+        <div className="desktop-only">
+          <FilterSidebar 
+            filters={filters} 
+            setFilters={setFilters} 
+            themeOptions={themeOptions}
+            ageOptions={ageOptions}
+          />
+        </div>
+
+        {/* Mobile Filter Drawer */}
+        <div className={`mobile-filter-overlay mobile-only ${isMobileFilterOpen ? 'open' : ''}`} onClick={(e) => { if (e.target.classList.contains('mobile-filter-overlay')) setIsMobileFilterOpen(false); }}>
+          <div className="mobile-filter-drawer">
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '2rem' }}>
+              <h3 style={{ margin: 0, fontSize: '1.5rem' }}>Filters</h3>
+              <button onClick={() => setIsMobileFilterOpen(false)} style={{ background: 'var(--bg-surface-hover)', borderRadius: '50%', width: '36px', height: '36px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+              </button>
+            </div>
+            <FilterSidebar 
+              filters={filters} 
+              setFilters={setFilters} 
+              themeOptions={themeOptions}
+              ageOptions={ageOptions}
+            />
+          </div>
+        </div>
 
         {/* Main Content Area */}
         <div style={{ flexGrow: 1 }}>
@@ -145,6 +166,16 @@ export default function HomePage({ sets, loading }) {
                 <polyline points="6 9 12 15 18 9"></polyline>
               </svg>
             </div>
+            
+            {/* Mobile Filter Button */}
+            <button 
+              className="btn btn-secondary mobile-filter-btn"
+              onClick={() => setIsMobileFilterOpen(true)}
+              style={{ flexGrow: 1 }}
+            >
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon></svg>
+              Filters {(Object.values(filters).reduce((acc, arr) => acc + arr.length, 0) > 0) && `(${Object.values(filters).reduce((acc, arr) => acc + arr.length, 0)})`}
+            </button>
           </div>
 
           <div style={{ marginBottom: '1.5rem', fontSize: '0.875rem', color: 'var(--text-secondary)', display: 'flex', alignItems: 'center', gap: '1rem' }}>

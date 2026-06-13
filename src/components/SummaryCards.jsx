@@ -9,7 +9,7 @@ export default function SummaryCards({ sets }) {
   const notStarted = sets.filter(s => s.status === 'Not Started').length;
 
   return (
-    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '1rem', marginBottom: '2rem' }}>
+    <div className="summary-grid">
       <div className="glass-panel" style={{ padding: '1.5rem' }}>
         <div style={{ fontSize: '0.875rem', color: 'var(--text-secondary)', marginBottom: '0.5rem' }}>Unique Sets</div>
         <div style={{ fontSize: '2rem', fontWeight: 'bold', color: 'var(--text-primary)' }}>{uniqueSets}</div>

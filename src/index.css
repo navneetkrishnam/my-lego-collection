@@ -362,3 +362,97 @@ a {
     height: 300px;
   }
 }
+
+/* Summary Grid Horizontal Scroll */
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 900px) {
+  .summary-grid {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    padding-bottom: 1rem;
+    /* Hide scrollbar for cleaner look */
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  .summary-grid::-webkit-scrollbar {
+    display: none;
+  }
+  .summary-grid > div {
+    flex: 0 0 70%;
+    scroll-snap-align: center;
+  }
+}
+
+/* Mobile Filter Drawer */
+.mobile-filter-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(4px);
+  z-index: 999;
+  display: flex;
+  justify-content: flex-end;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.mobile-filter-overlay.open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.mobile-filter-drawer {
+  width: 85%;
+  max-width: 320px;
+  height: 100%;
+  background: var(--bg-surface);
+  box-shadow: -8px 0 32px rgba(0,0,0,0.1);
+  padding: 2rem 1.5rem;
+  transform: translateX(100%);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow-y: auto;
+}
+
+.mobile-filter-overlay.open .mobile-filter-drawer {
+  transform: translateX(0);
+}
+
+.mobile-filter-btn {
+  display: none;
+}
+
+@media (min-width: 901px) {
+  .mobile-only {
+    display: none !important;
+  }
+}
+
+@media (max-width: 900px) {
+  .desktop-only {
+    display: none !important;
+  }
+  
+  .mobile-filter-btn {
+    display: inline-flex;
+  }
+  
+  /* Reset sidebar layout when inside drawer */
+  .mobile-filter-drawer .sidebar-container {
+    width: 100%;
+    border-bottom: none;
+    padding-bottom: 0;
+    gap: 2rem;
+  }
+}
