@@ -8,7 +8,7 @@ function App() {
   const { sets, loading, addHistoryRecord, editHistoryRecord, deleteHistoryRecord } = useLegoData();
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <div className="container" style={{ paddingTop: '2rem', paddingBottom: '3rem' }}>
         <header style={{ marginBottom: '3rem' }}>
           <h1 style={{ fontSize: '3rem', marginBottom: '0.5rem' }}>My Lego Collection</h1>
