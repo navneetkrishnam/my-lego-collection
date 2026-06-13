@@ -15,6 +15,7 @@ export default function HomePage({ sets, loading }) {
   const [sortOption, setSortOption] = useState('Name (A-Z)');
   const [isMobileFilterOpen, setIsMobileFilterOpen] = useState(false);
   const [isMobileReportOpen, setIsMobileReportOpen] = useState(false);
+  const [isSortMenuOpen, setIsSortMenuOpen] = useState(false);
 
   const navigate = useNavigate();
 
@@ -211,22 +212,35 @@ export default function HomePage({ sets, loading }) {
                 Filters {(Object.values(filters).reduce((acc, arr) => acc + arr.length, 0) > 0) && `(${Object.values(filters).reduce((acc, arr) => acc + arr.length, 0)})`}
               </button>
               <div style={{ position: 'relative', flexShrink: 0 }}>
-                <button className="btn btn-secondary" style={{ height: '100%', padding: '0 1rem' }}>
+                <button 
+                  className="btn btn-secondary" 
+                  style={{ height: '100%', padding: '0 1rem' }}
+                  onClick={() => setIsSortMenuOpen(!isSortMenuOpen)}
+                >
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                    <line x1="12" y1="5" x2="12" y2="19"></line>
-                    <polyline points="19 12 12 19 5 12"></polyline>
-                    <polyline points="5 12 12 5 19 12"></polyline>
+                    <line x1="7" y1="4" x2="7" y2="20"></line>
+                    <polyline points="3 16 7 20 11 16"></polyline>
+                    <line x1="17" y1="20" x2="17" y2="4"></line>
+                    <polyline points="21 8 17 4 13 8"></polyline>
                   </svg>
                 </button>
-                <select 
-                  value={sortOption}
-                  onChange={(e) => setSortOption(e.target.value)}
-                  style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', opacity: 0, cursor: 'pointer' }}
-                >
-                  <option value="Name (A-Z)">Name (A-Z)</option>
-                  <option value="Pieces (Low-High)">Pieces (Low-High)</option>
-                  <option value="Pieces (High-Low)">Pieces (High-Low)</option>
-                </select>
+
+                {isSortMenuOpen && (
+                  <>
+                    <div style={{ position: 'fixed', inset: 0, zIndex: 90 }} onClick={() => setIsSortMenuOpen(false)}></div>
+                    <div className="glass-panel" style={{ position: 'absolute', top: '100%', right: 0, marginTop: '0.5rem', zIndex: 100, minWidth: '180px', display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
+                      {['Name (A-Z)', 'Pieces (Low-High)', 'Pieces (High-Low)'].map(option => (
+                        <button 
+                          key={option}
+                          style={{ padding: '0.75rem 1rem', textAlign: 'left', background: sortOption === option ? 'var(--bg-surface-hover)' : 'transparent', color: sortOption === option ? 'var(--accent-blue)' : 'var(--text-primary)', fontWeight: sortOption === option ? 600 : 400, borderBottom: '1px solid var(--glass-border)' }}
+                          onClick={() => { setSortOption(option); setIsSortMenuOpen(false); }}
+                        >
+                          {option}
+                        </button>
+                      ))}
+                    </div>
+                  </>
+                )}
               </div>
             </div>
           </div>
