@@ -172,8 +172,17 @@ export default function HomePage({ sets, loading }) {
                   placeholder="Search sets by name or ID..." 
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
-                  style={{ paddingLeft: '2.5rem', borderRadius: '999px' }}
+                  style={{ paddingLeft: '2.5rem', paddingRight: searchQuery ? '2.5rem' : '1rem', borderRadius: '999px' }}
                 />
+                {searchQuery && (
+                  <button 
+                    onClick={() => setSearchQuery('')}
+                    style={{ position: 'absolute', right: '0.75rem', top: '50%', transform: 'translateY(-50%)', background: 'var(--bg-surface-hover)', borderRadius: '50%', width: '24px', height: '24px', display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'var(--text-secondary)', cursor: 'pointer', border: 'none' }}
+                    title="Clear search"
+                  >
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+                  </button>
+                )}
               </div>
 
               {/* Desktop Sort Dropdown */}
