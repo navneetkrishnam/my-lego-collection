@@ -38,5 +38,10 @@ const persistDataPlugin = () => {
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), persistDataPlugin()],
-  base: '/my-lego-collection/'
+  base: '/my-lego-collection/',
+  server: {
+    watch: {
+      ignored: ['**/public/data/sets.json']
+    }
+  }
 })
