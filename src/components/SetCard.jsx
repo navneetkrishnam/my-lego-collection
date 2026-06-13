@@ -36,7 +36,7 @@ export default function SetCard({ set, onClick, onMarkAsDone }) {
     >
 
 
-      <div style={{ height: '200px', width: '100%', marginBottom: '1rem', overflow: 'hidden', borderRadius: '8px' }}>
+      <div style={{ position: 'relative', height: '200px', width: '100%', marginBottom: '1rem', overflow: 'hidden', borderRadius: '8px' }}>
         <img 
           src={set.thumbnail ? `${import.meta.env.BASE_URL}${set.thumbnail.replace(/^\//, '')}` : ''} 
           alt={set.name} 
@@ -48,6 +48,26 @@ export default function SetCard({ set, onClick, onMarkAsDone }) {
             transform: isHovered ? 'scale(1.05)' : 'scale(1)'
           }} 
         />
+        <div style={{
+          position: 'absolute',
+          top: '8px',
+          right: '8px',
+          background: 'rgba(0, 0, 0, 0.65)',
+          backdropFilter: 'blur(4px)',
+          WebkitBackdropFilter: 'blur(4px)',
+          color: '#fff',
+          padding: '4px 8px',
+          borderRadius: '12px',
+          fontSize: '0.75rem',
+          fontWeight: 600,
+          display: 'flex',
+          alignItems: 'center',
+          gap: '4px',
+          boxShadow: '0 2px 8px rgba(0,0,0,0.2)'
+        }}>
+          <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+          {calculateETA(set.pieces)}
+        </div>
       </div>
 
       <div style={{ display: 'flex', alignItems: 'center', marginBottom: '1rem', width: '100%' }}>
@@ -71,14 +91,8 @@ export default function SetCard({ set, onClick, onMarkAsDone }) {
       }}>
         {set.name}
       </h3>
-      <div style={{ color: 'var(--text-secondary)', fontSize: '0.875rem', marginBottom: '1rem', display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between' }}>
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '0.25rem' }}>
-          <span>#{set.id} • {set.pieces} pieces</span>
-          <span style={{ display: 'flex', alignItems: 'center', gap: '0.25rem', color: 'var(--text-tertiary)', fontSize: '0.8rem' }}>
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-            Build ETA: {calculateETA(set.pieces)}
-          </span>
-        </div>
+      <div style={{ color: 'var(--text-secondary)', fontSize: '0.875rem', marginBottom: '1rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+        <span>#{set.id} • {set.pieces} pieces</span>
         <a 
           href={`https://www.lego.com/en-us/product/-${set.id}`} 
           target="_blank" 
