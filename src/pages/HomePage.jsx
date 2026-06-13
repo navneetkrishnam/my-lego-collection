@@ -3,13 +3,15 @@ import { useNavigate } from 'react-router-dom';
 import SummaryCards from '../components/SummaryCards';
 import FilterSidebar from '../components/FilterSidebar';
 import SetCard from '../components/SetCard';
+import { calculateRawMinutes } from '../utils/eta';
 
 export default function HomePage({ sets, loading }) {
   const [filters, setFilters] = useState({
     status: [],
     theme: [],
     age: [],
-    pieces: []
+    pieces: [],
+    time: []
   });
   const [searchQuery, setSearchQuery] = useState('');
   const [sortOption, setSortOption] = useState('Name (A-Z)');
@@ -72,6 +74,19 @@ export default function HomePage({ sets, loading }) {
           return false;
         });
         if (!matchesPiece) return false;
+      }
+
+      // Time intersection
+      if (filters.time.length > 0) {
+        const mins = calculateRawMinutes(s.pieces);
+        const matchesTime = filters.time.some(tf => {
+          if (tf === '< 30 mins' && mins < 30) return true;
+          if (tf === '30-60 mins' && mins >= 30 && mins <= 60) return true;
+          if (tf === '1-2 hours' && mins > 60 && mins <= 120) return true;
+          if (tf === '2+ hours' && mins > 120) return true;
+          return false;
+        });
+        if (!matchesTime) return false;
       }
 
       // Search Query
@@ -173,7 +188,7 @@ export default function HomePage({ sets, loading }) {
                 className="btn btn-secondary" 
                 style={{ flex: 1, padding: '0.75rem', fontSize: '1rem' }}
                 disabled={!Object.values(filters).some(arr => arr.length > 0)}
-                onClick={() => setFilters({ status: [], theme: [], age: [], pieces: [] })}
+                onClick={() => setFilters({ status: [], theme: [], age: [], pieces: [], time: [] })}
               >
                 Clear
               </button>
@@ -286,7 +301,7 @@ export default function HomePage({ sets, loading }) {
             {(Object.values(filters).some(arr => arr.length > 0) || searchQuery.trim() !== '') && (
               <button 
                 onClick={() => {
-                  setFilters({ status: [], theme: [], age: [], pieces: [] });
+                  setFilters({ status: [], theme: [], age: [], pieces: [], time: [] });
                   setSearchQuery('');
                 }}
                 style={{ background: 'none', border: 'none', color: 'var(--accent-blue)', fontSize: '0.875rem', cursor: 'pointer', fontWeight: 600, padding: 0 }}

@@ -21,6 +21,11 @@ export default function FilterSidebar({ filters, setFilters, themeOptions = [], 
       id: 'pieces',
       title: 'Pieces',
       options: ['< 500 pcs', '500-1000 pcs', '1000-2000 pcs', '2000+ pcs']
+    },
+    {
+      id: 'time',
+      title: 'Build Time',
+      options: ['< 30 mins', '30-60 mins', '1-2 hours', '2+ hours']
     }
   ];
 
@@ -41,7 +46,8 @@ export default function FilterSidebar({ filters, setFilters, themeOptions = [], 
       status: [],
       theme: [],
       age: [],
-      pieces: []
+      pieces: [],
+      time: []
     });
   };
 

@@ -1,18 +1,23 @@
-export function calculateETA(pieces) {
-  if (!pieces || pieces <= 0) return "N/A";
-  
+export function calculateRawMinutes(pieces) {
+  if (!pieces || pieces <= 0) return 0;
+
   let ratePerHour;
   if (pieces < 300) {
-    ratePerHour = 250;
+    ratePerHour = 300;
   } else if (pieces <= 1000) {
-    ratePerHour = 200;
+    ratePerHour = 250;
   } else {
-    ratePerHour = 150;
+    ratePerHour = 200;
   }
-  
+
   const minutes = (pieces / ratePerHour) * 60;
   const roundedMins = Math.round(minutes / 5) * 5;
-  
-  // Ensure at least 5 mins
-  return `${Math.max(5, roundedMins)} mins`;
+
+  return Math.max(5, roundedMins);
+}
+
+export function calculateETA(pieces) {
+  const mins = calculateRawMinutes(pieces);
+  if (mins === 0) return "N/A";
+  return `${mins} mins`;
 }
