@@ -36,7 +36,7 @@ export default function SetCard({ set, onClick, onMarkAsDone }) {
     >
 
 
-      <div style={{ position: 'relative', height: '200px', width: '100%', marginBottom: '1rem', overflow: 'hidden', borderRadius: '8px' }}>
+      <div style={{ height: '200px', width: '100%', marginBottom: '1rem', overflow: 'hidden', borderRadius: '8px' }}>
         <img 
           src={set.thumbnail ? `${import.meta.env.BASE_URL}${set.thumbnail.replace(/^\//, '')}` : ''} 
           alt={set.name} 
@@ -48,32 +48,16 @@ export default function SetCard({ set, onClick, onMarkAsDone }) {
             transform: isHovered ? 'scale(1.05)' : 'scale(1)'
           }} 
         />
-        <div style={{
-          position: 'absolute',
-          top: '8px',
-          right: '8px',
-          background: 'rgba(0, 0, 0, 0.65)',
-          backdropFilter: 'blur(4px)',
-          WebkitBackdropFilter: 'blur(4px)',
-          color: '#fff',
-          padding: '4px 8px',
-          borderRadius: '12px',
-          fontSize: '0.75rem',
-          fontWeight: 600,
-          display: 'flex',
-          alignItems: 'center',
-          gap: '4px',
-          boxShadow: '0 2px 8px rgba(0,0,0,0.2)'
-        }}>
-          <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-          {calculateETA(set.pieces)}
-        </div>
       </div>
 
       <div style={{ display: 'flex', alignItems: 'center', marginBottom: '1rem', width: '100%' }}>
         <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap' }}>
           <span className={`badge ${getThemeClass(set.theme)}`}>{set.theme}</span>
           <span className="badge" style={{ background: 'var(--bg-surface-hover)', color: 'var(--text-secondary)', border: '1px solid var(--glass-border)' }}>{set.age}</span>
+          <span className="badge" style={{ display: 'flex', alignItems: 'center', gap: '4px', background: 'var(--bg-surface)', color: 'var(--text-primary)', border: '1px solid var(--glass-border)' }}>
+            <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="var(--text-tertiary)" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+            {calculateETA(set.pieces)}
+          </span>
         </div>
         {set.status === 'Done' && (
           <span className="badge" style={{ backgroundColor: 'var(--accent-green)', color: '#fff', border: 'none', marginLeft: 'auto' }}>
