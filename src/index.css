@@ -373,21 +373,7 @@ a {
 
 @media (max-width: 900px) {
   .summary-grid {
-    display: flex;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    padding-bottom: 1rem;
-    /* Hide scrollbar for cleaner look */
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
-  }
-  .summary-grid::-webkit-scrollbar {
-    display: none;
-  }
-  .summary-grid > div {
-    flex: 0 0 70%;
-    scroll-snap-align: center;
+    grid-template-columns: 1fr;
   }
 }
 
