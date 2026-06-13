@@ -17,7 +17,7 @@ const persistDataPlugin = () => {
           req.on('end', () => {
             try {
               const data = JSON.parse(body);
-              const filePath = path.resolve(__dirname, 'src/data/sets.json');
+              const filePath = path.resolve(__dirname, 'public/data/sets.json');
               fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
               res.statusCode = 200;
               res.end(JSON.stringify({ success: true }));

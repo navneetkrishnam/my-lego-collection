@@ -8,7 +8,7 @@ export function useLegoData() {
 
   const fetchSets = async () => {
     try {
-      const response = await fetch('/src/data/sets.json?t=' + Date.now());
+      const response = await fetch(`${import.meta.env.BASE_URL}data/sets.json?t=${Date.now()}`);
       const jsonData = await response.json();
       setSets(jsonData);
     } catch (e) {

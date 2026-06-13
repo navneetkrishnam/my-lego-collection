@@ -37,7 +37,7 @@ export default function SetCard({ set, onClick, onMarkAsDone }) {
 
       <div style={{ height: '200px', width: '100%', marginBottom: '1rem', overflow: 'hidden', borderRadius: '8px' }}>
         <img 
-          src={set.thumbnail} 
+          src={set.thumbnail ? `${import.meta.env.BASE_URL}${set.thumbnail.replace(/^\//, '')}` : ''} 
           alt={set.name} 
           style={{ 
             width: '100%', 

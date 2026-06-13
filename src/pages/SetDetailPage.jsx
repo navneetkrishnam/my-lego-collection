@@ -110,7 +110,7 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
             onMouseMove={handleMouseMove}
           >
             <img 
-              src={displayImages.length > 0 ? displayImages[selectedImageIndex] : set.thumbnail} 
+              src={displayImages.length > 0 ? `${import.meta.env.BASE_URL}${displayImages[selectedImageIndex].replace(/^\//, '')}` : (set.thumbnail ? `${import.meta.env.BASE_URL}${set.thumbnail.replace(/^\//, '')}` : '')} 
               alt={set.name} 
               style={{ 
                 width: '100%', 
@@ -146,7 +146,7 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
             {displayImages.map((img, i) => (
               <img 
                 key={i} 
-                src={img} 
+                src={img ? `${import.meta.env.BASE_URL}${img.replace(/^\//, '')}` : ''} 
                 alt={`Preview ${i}`} 
                 onClick={() => setSelectedImageIndex(i)}
                 style={{ 
