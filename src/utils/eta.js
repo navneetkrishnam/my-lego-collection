@@ -3,11 +3,11 @@ export function calculateETA(pieces) {
   
   let ratePerHour;
   if (pieces < 300) {
-    ratePerHour = 300;
-  } else if (pieces <= 1000) {
     ratePerHour = 250;
-  } else {
+  } else if (pieces <= 1000) {
     ratePerHour = 200;
+  } else {
+    ratePerHour = 150;
   }
   
   const minutes = (pieces / ratePerHour) * 60;
