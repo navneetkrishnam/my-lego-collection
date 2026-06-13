@@ -158,11 +158,22 @@ export default function HomePage({ sets, loading }) {
               padding: '1rem 0 2rem 0', 
               marginBottom: '-2rem',
               borderTop: '1px solid var(--glass-border)',
-              zIndex: 10
+              zIndex: 10,
+              display: 'flex',
+              gap: '1rem'
             }}>
+              {Object.values(filters).some(arr => arr.length > 0) && (
+                <button 
+                  className="btn btn-secondary" 
+                  style={{ flex: 1, padding: '1rem', fontSize: '1.125rem' }}
+                  onClick={() => setFilters({ status: [], theme: [], age: [], pieces: [] })}
+                >
+                  Clear
+                </button>
+              )}
               <button 
                 className="btn btn-primary" 
-                style={{ width: '100%', padding: '1rem', fontSize: '1.125rem', boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}
+                style={{ flex: 2, padding: '1rem', fontSize: '1.125rem', boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}
                 onClick={() => setIsMobileFilterOpen(false)}
               >
                 Apply Filters
