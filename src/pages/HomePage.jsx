@@ -142,20 +142,32 @@ export default function HomePage({ sets, loading }) {
               </button>
             </div>
             
-            <FilterSidebar 
-              filters={filters} 
-              setFilters={setFilters} 
-              themeOptions={themeOptions}
-              ageOptions={ageOptions}
-            />
+            <div style={{ paddingBottom: '1rem' }}>
+              <FilterSidebar 
+                filters={filters} 
+                setFilters={setFilters} 
+                themeOptions={themeOptions}
+                ageOptions={ageOptions}
+              />
+            </div>
 
-            <button 
-              className="btn btn-primary" 
-              style={{ width: '100%', marginTop: '2rem', padding: '1rem', fontSize: '1.125rem' }}
-              onClick={() => setIsMobileFilterOpen(false)}
-            >
-              Apply Filters
-            </button>
+            <div style={{ 
+              position: 'sticky', 
+              bottom: '-2rem', 
+              background: 'var(--bg-base)', 
+              padding: '1rem 0 2rem 0', 
+              marginBottom: '-2rem',
+              borderTop: '1px solid var(--glass-border)',
+              zIndex: 10
+            }}>
+              <button 
+                className="btn btn-primary" 
+                style={{ width: '100%', padding: '1rem', fontSize: '1.125rem', boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}
+                onClick={() => setIsMobileFilterOpen(false)}
+              >
+                Apply Filters
+              </button>
+            </div>
           </div>
         </div>
 
