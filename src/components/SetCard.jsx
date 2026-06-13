@@ -54,10 +54,6 @@ export default function SetCard({ set, onClick, onMarkAsDone }) {
         <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap' }}>
           <span className={`badge ${getThemeClass(set.theme)}`}>{set.theme}</span>
           <span className="badge" style={{ background: 'var(--bg-surface-hover)', color: 'var(--text-secondary)', border: '1px solid var(--glass-border)' }}>{set.age}</span>
-          <span className="badge" style={{ display: 'flex', alignItems: 'center', gap: '4px', background: 'var(--bg-surface)', color: 'var(--text-primary)', border: '1px solid var(--glass-border)' }}>
-            <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="var(--text-tertiary)" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-            {calculateETA(set.pieces)}
-          </span>
         </div>
         {set.status === 'Done' && (
           <span className="badge" style={{ backgroundColor: 'var(--accent-green)', color: '#fff', border: 'none', marginLeft: 'auto' }}>
@@ -66,15 +62,32 @@ export default function SetCard({ set, onClick, onMarkAsDone }) {
         )}
       </div>
 
-      <h3 style={{ 
-        fontSize: '1.25rem', 
-        marginBottom: '0.25rem',
-        whiteSpace: 'nowrap',
-        overflow: 'hidden',
-        textOverflow: 'ellipsis'
-      }}>
-        {set.name}
-      </h3>
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '0.5rem', marginBottom: '0.25rem' }}>
+        <h3 style={{ 
+          fontSize: '1.25rem', 
+          margin: 0,
+          whiteSpace: 'nowrap',
+          overflow: 'hidden',
+          textOverflow: 'ellipsis'
+        }}>
+          {set.name}
+        </h3>
+        <div style={{
+          background: 'rgba(0, 0, 0, 0.75)',
+          color: '#fff',
+          padding: '4px 8px',
+          borderRadius: '12px',
+          fontSize: '0.75rem',
+          fontWeight: 600,
+          display: 'flex',
+          alignItems: 'center',
+          gap: '4px',
+          flexShrink: 0
+        }}>
+          <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+          {calculateETA(set.pieces)}
+        </div>
+      </div>
       <div style={{ color: 'var(--text-secondary)', fontSize: '0.875rem', marginBottom: '1rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
         <span>#{set.id} • {set.pieces} pieces</span>
         <a 
