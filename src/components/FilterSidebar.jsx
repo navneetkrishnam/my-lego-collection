@@ -58,16 +58,7 @@ export default function FilterSidebar({ filters, setFilters, themeOptions = [], 
   const hasAnyFilter = Object.values(filters).some(arr => arr.length > 0);
 
   return (
-    <div style={{
-      width: '250px',
-      flexShrink: 0,
-      display: 'flex',
-      flexDirection: 'column',
-      gap: '2.5rem',
-      paddingRight: '1.5rem',
-      borderRight: '1px solid var(--glass-border)',
-      height: 'fit-content'
-    }}>
+    <div className="sidebar-container">
 
       {SECTIONS.map(section => (
         <div key={section.id}>

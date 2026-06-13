@@ -11,7 +11,7 @@ function App() {
     <BrowserRouter basename={import.meta.env.BASE_URL}>
       <div className="container" style={{ paddingTop: '2rem', paddingBottom: '3rem' }}>
         <header style={{ marginBottom: '3rem' }}>
-          <h1 style={{ fontSize: '3rem', marginBottom: '0.5rem' }}>My Lego Collection</h1>
+          <h1 className="header-title">My Lego Collection</h1>
           <p style={{ color: 'var(--text-secondary)', fontSize: '1.125rem' }}>Track, manage, and celebrate your builds.</p>
         </header>
 

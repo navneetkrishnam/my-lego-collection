@@ -91,16 +91,7 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
         ← Back to Collection
       </button>
 
-      <div 
-        className="glass-panel"
-        style={{
-          width: '100%',
-          display: 'grid',
-          gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))',
-          gap: '3rem',
-          padding: '3rem',
-        }}
-      >
+      <div className="glass-panel set-detail-grid">
         {/* Left Side: Images */}
         <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
           <div 
@@ -177,7 +168,7 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
               <span style={{ color: 'var(--accent-blue)' }}>+</span> Log a New Build
             </h4>
             
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1rem', marginBottom: '1.5rem' }}>
+            <div className="log-build-grid">
               <div>
                 <label style={{ display: 'block', marginBottom: '0.5rem', fontWeight: 600, fontSize: '0.875rem' }}>Builders</label>
                 <MultiSelectDropdown 
@@ -219,10 +210,10 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
         {set.history && set.history.length > 0 ? (
           <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '1.25rem', padding: 0 }}>
             {set.history.map((record, i) => (
-              <li key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: '1.25rem', background: 'var(--glass-bg)', padding: '1rem', borderRadius: '8px', border: '1px solid var(--glass-border)' }}>
+              <li key={i} className="history-item-layout" style={{ background: 'var(--glass-bg)', padding: '1rem', borderRadius: '8px', border: '1px solid var(--glass-border)' }}>
                 {editingIndex === i ? (
                   <div style={{ width: '100%' }}>
-                    <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1rem', marginBottom: '1rem' }}>
+                    <div className="history-edit-grid">
                       <div>
                         <label style={{ display: 'block', marginBottom: '0.5rem', fontSize: '0.75rem', color: 'var(--text-secondary)' }}>Builders</label>
                         <MultiSelectDropdown 
