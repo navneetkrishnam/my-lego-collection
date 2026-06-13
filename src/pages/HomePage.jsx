@@ -169,15 +169,20 @@ export default function HomePage({ sets, loading }) {
               >
                 Apply Filters
               </button>
-              {Object.values(filters).some(arr => arr.length > 0) && (
-                <button 
-                  className="btn btn-secondary" 
-                  style={{ flex: 1, padding: '0.75rem', fontSize: '1rem' }}
-                  onClick={() => setFilters({ status: [], theme: [], age: [], pieces: [] })}
-                >
-                  Clear
-                </button>
-              )}
+              <button 
+                className="btn btn-secondary" 
+                style={{ 
+                  flex: 1, 
+                  padding: '0.75rem', 
+                  fontSize: '1rem',
+                  opacity: Object.values(filters).some(arr => arr.length > 0) ? 1 : 0.5,
+                  cursor: Object.values(filters).some(arr => arr.length > 0) ? 'pointer' : 'not-allowed'
+                }}
+                disabled={!Object.values(filters).some(arr => arr.length > 0)}
+                onClick={() => setFilters({ status: [], theme: [], age: [], pieces: [] })}
+              >
+                Clear
+              </button>
             </div>
           </div>
         </div>
