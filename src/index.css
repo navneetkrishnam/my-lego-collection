@@ -175,8 +175,14 @@ a {
   color: var(--text-primary);
   border-color: var(--glass-border);
 }
-.btn-secondary:hover {
+.btn-secondary:hover:not(:disabled) {
   background-color: var(--bg-surface-hover);
+}
+.btn-secondary:disabled {
+  background-color: transparent;
+  color: var(--text-tertiary);
+  opacity: 0.4;
+  cursor: not-allowed;
 }
 
 .btn-danger {
