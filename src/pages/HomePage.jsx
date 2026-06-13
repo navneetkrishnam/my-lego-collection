@@ -225,7 +225,7 @@ export default function HomePage({ sets, loading }) {
             </div>
             
             {/* Mobile Action Buttons */}
-            <div className="mobile-filter-btn" style={{ width: '100%', display: 'flex', gap: '0.5rem' }}>
+            <div className="mobile-filter-btn">
               <button 
                 className="btn btn-secondary"
                 onClick={() => setIsMobileReportOpen(true)}
