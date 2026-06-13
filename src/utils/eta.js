@@ -2,9 +2,9 @@ export function calculateRawMinutes(pieces) {
   if (!pieces || pieces <= 0) return 0;
 
   let ratePerHour;
-  if (pieces < 300) {
+  if (pieces < 500) {
     ratePerHour = 300;
-  } else if (pieces <= 1000) {
+  } else if (pieces <= 2000) {
     ratePerHour = 250;
   } else {
     ratePerHour = 200;
