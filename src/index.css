@@ -413,19 +413,28 @@ a {
   pointer-events: auto;
 }
 
-.mobile-filter-drawer {
+.mobile-filter-drawer, .mobile-report-drawer {
   width: 100%;
   max-width: 100%;
   height: 100%;
   background: var(--bg-base);
   box-shadow: -8px 0 32px rgba(0,0,0,0.1);
   padding: 2rem 1.5rem;
-  transform: translateX(100%);
-  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   overflow-y: auto;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.mobile-filter-overlay.open .mobile-filter-drawer {
+.mobile-filter-drawer {
+  transform: translateX(100%);
+}
+
+.mobile-report-drawer {
+  transform: translateX(-100%);
+  box-shadow: 8px 0 32px rgba(0,0,0,0.1);
+}
+
+.mobile-filter-overlay.open .mobile-filter-drawer,
+.mobile-filter-overlay.open .mobile-report-drawer {
   transform: translateX(0);
 }
 

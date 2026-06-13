@@ -14,6 +14,7 @@ export default function HomePage({ sets, loading }) {
   const [searchQuery, setSearchQuery] = useState('');
   const [sortOption, setSortOption] = useState('Name (A-Z)');
   const [isMobileFilterOpen, setIsMobileFilterOpen] = useState(false);
+  const [isMobileReportOpen, setIsMobileReportOpen] = useState(false);
 
   const navigate = useNavigate();
 
@@ -117,20 +118,29 @@ export default function HomePage({ sets, loading }) {
           />
         </div>
 
+        {/* Mobile Report Drawer */}
+        <div className={`mobile-filter-overlay mobile-only ${isMobileReportOpen ? 'open' : ''}`} style={{ justifyContent: 'flex-start' }} onClick={(e) => { if (e.target.classList.contains('mobile-filter-overlay')) setIsMobileReportOpen(false); }}>
+          <div className="mobile-report-drawer">
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '2rem' }}>
+              <h3 style={{ margin: 0, fontSize: '1.5rem' }}>Collection Report</h3>
+              <button onClick={() => setIsMobileReportOpen(false)} style={{ background: 'var(--bg-surface-hover)', borderRadius: '50%', width: '36px', height: '36px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+              </button>
+            </div>
+            <SummaryCards sets={sets} />
+          </div>
+        </div>
+
         {/* Mobile Filter Drawer */}
         <div className={`mobile-filter-overlay mobile-only ${isMobileFilterOpen ? 'open' : ''}`} onClick={(e) => { if (e.target.classList.contains('mobile-filter-overlay')) setIsMobileFilterOpen(false); }}>
           <div className="mobile-filter-drawer">
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '2rem' }}>
-              <h3 style={{ margin: 0, fontSize: '1.5rem' }}>Report</h3>
+              <h3 style={{ margin: 0, fontSize: '1.5rem' }}>Filters</h3>
               <button onClick={() => setIsMobileFilterOpen(false)} style={{ background: 'var(--bg-surface-hover)', borderRadius: '50%', width: '36px', height: '36px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
               </button>
             </div>
             
-            <SummaryCards sets={sets} />
-
-            <div style={{ height: '1px', background: 'var(--glass-border)', margin: '2rem 0' }}></div>
-
             <FilterSidebar 
               filters={filters} 
               setFilters={setFilters} 
@@ -182,15 +192,25 @@ export default function HomePage({ sets, loading }) {
               </svg>
             </div>
             
-            {/* Mobile Filter Button */}
-            <button 
-              className="btn btn-secondary mobile-filter-btn"
-              onClick={() => setIsMobileFilterOpen(true)}
-              style={{ flexGrow: 1 }}
-            >
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon></svg>
-              Report {(Object.values(filters).reduce((acc, arr) => acc + arr.length, 0) > 0) && `(${Object.values(filters).reduce((acc, arr) => acc + arr.length, 0)})`}
-            </button>
+            {/* Mobile Action Buttons */}
+            <div className="mobile-filter-btn" style={{ width: '100%', display: 'flex', gap: '0.5rem' }}>
+              <button 
+                className="btn btn-secondary"
+                onClick={() => setIsMobileReportOpen(true)}
+                style={{ flex: 1 }}
+              >
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="20" x2="18" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="6" y1="20" x2="6" y2="14"></line></svg>
+                Report
+              </button>
+              <button 
+                className="btn btn-secondary"
+                onClick={() => setIsMobileFilterOpen(true)}
+                style={{ flex: 1 }}
+              >
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon></svg>
+                Filters {(Object.values(filters).reduce((acc, arr) => acc + arr.length, 0) > 0) && `(${Object.values(filters).reduce((acc, arr) => acc + arr.length, 0)})`}
+              </button>
+            </div>
           </div>
 
           <div style={{ marginBottom: '1.5rem', fontSize: '0.875rem', color: 'var(--text-secondary)', display: 'flex', alignItems: 'center', gap: '1rem' }}>
