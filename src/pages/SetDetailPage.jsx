@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import CustomDatePicker from '../components/CustomDatePicker';
 import MultiSelectDropdown from '../components/MultiSelectDropdown';
+import { calculateETA } from '../utils/eta';
 
 export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDeleteHistory }) {
   const { id } = useParams();
@@ -160,6 +161,10 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
           <h2 style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }}>{set.name}</h2>
           <div style={{ color: 'var(--text-secondary)', fontSize: '1.125rem', marginBottom: '2rem' }}>
             Set #{set.id} • {set.pieces} pieces • {set.age} • {set.theme}
+            <div style={{ marginTop: '1rem', display: 'flex', alignItems: 'center', gap: '0.5rem', color: 'var(--text-primary)', fontSize: '1rem', background: 'var(--bg-surface)', padding: '0.75rem 1.25rem', borderRadius: '8px', width: 'fit-content', border: '1px solid var(--glass-border)' }}>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent-blue)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+              <strong>Est. Build Time:</strong> {calculateETA(set.pieces)}
+            </div>
           </div>
 
           {/* Log a New Build Section (Moved to Top) */}

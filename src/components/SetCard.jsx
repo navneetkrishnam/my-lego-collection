@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { calculateETA } from '../utils/eta';
 
 export default function SetCard({ set, onClick, onMarkAsDone }) {
   const [isHovered, setIsHovered] = useState(false);
@@ -70,8 +71,14 @@ export default function SetCard({ set, onClick, onMarkAsDone }) {
       }}>
         {set.name}
       </h3>
-      <div style={{ color: 'var(--text-secondary)', fontSize: '0.875rem', marginBottom: '1rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-        <span>#{set.id} • {set.pieces} pieces</span>
+      <div style={{ color: 'var(--text-secondary)', fontSize: '0.875rem', marginBottom: '1rem', display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '0.25rem' }}>
+          <span>#{set.id} • {set.pieces} pieces</span>
+          <span style={{ display: 'flex', alignItems: 'center', gap: '0.25rem', color: 'var(--text-tertiary)', fontSize: '0.8rem' }}>
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+            Build ETA: {calculateETA(set.pieces)}
+          </span>
+        </div>
         <a 
           href={`https://www.lego.com/en-us/product/-${set.id}`} 
           target="_blank" 
