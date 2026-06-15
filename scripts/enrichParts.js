@@ -26,8 +26,13 @@ async function scrapeVariant(page, id) {
   const randomUA = USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
   await page.setUserAgent(randomUA);
 
+  const useAltUrl = process.argv.includes('--alt-url');
+  const targetUrl = useAltUrl 
+    ? `https://www.lego.com/en-us/pick-and-build/pick-a-brick?icmp=PAB_All_Pieces&query=${id}`
+    : `https://www.lego.com/en-us/pick-and-build/pick-a-brick?query=${id}`;
+
   try {
-    await page.goto(`https://www.lego.com/en-us/pick-and-build/pick-a-brick?query=${id}`, { waitUntil: 'domcontentloaded', timeout: 30000 });
+    await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
   } catch (err) {
     console.log(`[${id}] Timeout on load.`);
     return null; // Might be a block or timeout, let it retry later
@@ -131,6 +136,7 @@ async function run() {
   // Get args
   const args = process.argv.slice(2);
   const testMode = args.includes('--test');
+  const retryNotFound = args.includes('--retry-not-found');
   const limit = testMode ? 5 : Infinity;
   
   // Parse concurrency from args, default to 3
@@ -143,7 +149,8 @@ async function run() {
   const pendingVariants = [];
   for (const shape of partsIndex) {
     for (const variant of shape.variants) {
-      if (!cache[variant.id]) {
+      const inCache = cache[variant.id];
+      if (!inCache || (retryNotFound && inCache.colorName === null)) {
         pendingVariants.push(variant.id);
       }
     }
