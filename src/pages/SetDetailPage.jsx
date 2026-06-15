@@ -183,40 +183,77 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
           <h2 style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }}>{set.name}</h2>
           <div style={{ color: 'var(--text-secondary)', fontSize: '1.125rem', marginBottom: '2rem' }}>
             Set #{set.id} • {set.pieces} pieces • {set.age} • {set.theme}
-            <div style={{ marginTop: '1rem', display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap' }}>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: 'var(--text-primary)', fontSize: '1rem', background: 'var(--bg-surface)', padding: '0.75rem 1.25rem', borderRadius: '8px', border: '1px solid var(--glass-border)' }}>
+            <div style={{ 
+              marginTop: '1.5rem', 
+              display: 'flex', 
+              alignItems: 'center', 
+              gap: '0.75rem', 
+              flexWrap: 'wrap'
+            }}>
+              {/* Build Time Indicator (Flat Info) */}
+              <div style={{ 
+                display: 'flex', alignItems: 'center', gap: '0.375rem', 
+                color: 'var(--text-secondary)', fontSize: '0.9rem'
+              }}>
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent-blue)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-                <strong>Est. Build Time:</strong> {calculateETA(set.pieces)}
+                <span>ETA: <strong style={{ color: 'var(--text-primary)', fontWeight: 600 }}>{calculateETA(set.pieces)}</strong></span>
               </div>
+              
+              {/* Vertical Divider (desktop) or spacing (mobile) */}
+              <div style={{ width: '1px', height: '20px', background: 'var(--glass-border)', margin: '0 0.25rem' }}></div>
+
+              {/* Product Page Button (Outlined Action Pill) */}
               <a 
                 href={`https://www.lego.com/en-us/product/-${set.id}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ 
-                  display: 'flex', alignItems: 'center', gap: '0.5rem', color: 'var(--text-primary)', fontSize: '1rem', background: 'var(--bg-surface)', padding: '0.75rem 1.25rem', borderRadius: '8px', border: '1px solid var(--glass-border)', textDecoration: 'none', transition: 'background 0.2s' 
+                  display: 'flex', alignItems: 'center', gap: '0.375rem', 
+                  color: 'var(--accent-yellow)', fontSize: '0.875rem', fontWeight: 600,
+                  padding: '0.4rem 1rem', borderRadius: '24px', 
+                  border: '1px solid var(--accent-yellow)',
+                  textDecoration: 'none', transition: 'all 0.2s ease',
+                  background: 'transparent'
                 }}
-                onMouseEnter={e => e.currentTarget.style.background = 'var(--bg-surface-hover)'}
-                onMouseLeave={e => e.currentTarget.style.background = 'var(--bg-surface)'}
+                onMouseEnter={e => {
+                  e.currentTarget.style.background = 'rgba(255, 213, 0, 0.1)';
+                  e.currentTarget.style.transform = 'translateY(-1px)';
+                }}
+                onMouseLeave={e => {
+                  e.currentTarget.style.background = 'transparent';
+                  e.currentTarget.style.transform = 'translateY(0)';
+                }}
                 title="View product details on Lego.com"
               >
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent-yellow)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
-                <strong>View Product Page</strong>
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ marginLeft: '4px', opacity: 0.7 }}><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
+                <span>Product</span>
               </a>
+
+              {/* Parts Button (Outlined Action Pill) */}
               <a 
                 href={`https://www.lego.com/en-in/service/replacement-parts/missing/${set.id}/pieces?search=*`}
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ 
-                  display: 'flex', alignItems: 'center', gap: '0.5rem', color: 'var(--text-primary)', fontSize: '1rem', background: 'var(--bg-surface)', padding: '0.75rem 1.25rem', borderRadius: '8px', border: '1px solid var(--glass-border)', textDecoration: 'none', transition: 'background 0.2s' 
+                  display: 'flex', alignItems: 'center', gap: '0.375rem', 
+                  color: '#bf5af2', fontSize: '0.875rem', fontWeight: 600,
+                  padding: '0.4rem 1rem', borderRadius: '24px', 
+                  border: '1px solid #bf5af2',
+                  textDecoration: 'none', transition: 'all 0.2s ease',
+                  background: 'transparent'
                 }}
-                onMouseEnter={e => e.currentTarget.style.background = 'var(--bg-surface-hover)'}
-                onMouseLeave={e => e.currentTarget.style.background = 'var(--bg-surface)'}
+                onMouseEnter={e => {
+                  e.currentTarget.style.background = 'rgba(191, 90, 242, 0.1)';
+                  e.currentTarget.style.transform = 'translateY(-1px)';
+                }}
+                onMouseLeave={e => {
+                  e.currentTarget.style.background = 'transparent';
+                  e.currentTarget.style.transform = 'translateY(0)';
+                }}
                 title="View individual pieces on Lego.com"
               >
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#bf5af2" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="9" y1="3" x2="9" y2="21"></line></svg>
-                <strong>View Parts on Lego</strong>
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ marginLeft: '4px', opacity: 0.7 }}><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="9" y1="3" x2="9" y2="21"></line></svg>
+                <span>Parts</span>
               </a>
             </div>
           </div>
