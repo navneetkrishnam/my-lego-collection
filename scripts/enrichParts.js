@@ -99,35 +99,54 @@ async function run() {
   const args = process.argv.slice(2);
   const testMode = args.includes('--test');
   const limit = testMode ? 5 : Infinity;
+  
+  // Parse concurrency from args, default to 3
+  const concurrencyArg = args.find(a => a.startsWith('--concurrency='));
+  const CONCURRENCY = concurrencyArg ? parseInt(concurrencyArg.split('=')[1]) : 3;
 
   const browser = await puppeteer.launch({ headless: 'new' });
-  const page = await browser.newPage();
-  await page.setViewport({ width: 1280, height: 800 });
-
-  let processedCount = 0;
-
+  
+  // Prepare flat list of variants to process
+  const pendingVariants = [];
   for (const shape of partsIndex) {
     for (const variant of shape.variants) {
-      if (processedCount >= limit) break;
-
-      if (cache[variant.id]) {
-        console.log(`[${variant.id}] Skipping, already in cache.`);
-        continue;
+      if (!cache[variant.id]) {
+        pendingVariants.push(variant.id);
       }
+    }
+  }
+  
+  console.log(`Found ${pendingVariants.length} pending pieces. Starting with ${CONCURRENCY} concurrent workers...`);
+
+  // Spin up pages
+  const pages = [];
+  for(let i=0; i < Math.min(CONCURRENCY, pendingVariants.length, limit); i++) {
+    const p = await browser.newPage();
+    await p.setViewport({ width: 1280, height: 800 });
+    pages.push(p);
+  }
+
+  let processedCount = 0;
+  let index = 0;
+
+  async function worker(page, workerId) {
+    while (index < pendingVariants.length && processedCount < limit) {
+      const variantId = pendingVariants[index++];
+      if (!variantId) break;
 
       try {
-        const enriched = await scrapeVariant(page, variant.id);
+        const enriched = await scrapeVariant(page, variantId);
         if (enriched) {
-          cache[variant.id] = enriched;
+          cache[variantId] = enriched;
           fs.writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 2));
-          console.log(`[${variant.id}] Saved ${enriched.alternateImages.length} images, Color: ${enriched.colorName}`);
+          console.log(`[Worker ${workerId}] [${variantId}] Saved ${enriched.alternateImages.length} images, Color: ${enriched.colorName}`);
         } else {
-          // save an empty entry to avoid retrying failed ones constantly
-          cache[variant.id] = { colorName: null, alternateImages: [] };
+          cache[variantId] = { colorName: null, alternateImages: [] };
           fs.writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 2));
+          console.log(`[Worker ${workerId}] [${variantId}] Marked as not found.`);
         }
       } catch (err) {
-        console.error(`[${variant.id}] Error: ${err.message}`);
+        console.error(`[Worker ${workerId}] [${variantId}] Error: ${err.message}`);
       }
 
       processedCount++;
@@ -135,8 +154,9 @@ async function run() {
       const delay = Math.floor(Math.random() * 3000) + 3000;
       await new Promise(r => setTimeout(r, delay));
     }
-    if (processedCount >= limit) break;
   }
+
+  await Promise.all(pages.map((p, i) => worker(p, i + 1)));
 
   await browser.close();
 
