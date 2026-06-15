@@ -86,11 +86,28 @@ export default function PartDetailPage({ sets }) {
               border: '1px solid var(--glass-border)'
             }}>
               <img 
-                src={variant.imageUrl} 
-                alt={`${shape.name} - ${variant.id}`} 
-                style={{ width: '100%', height: '140px', objectFit: 'contain', mixBlendMode: 'multiply', marginBottom: '1rem' }} 
+                src={(variant.alternateImages && variant.alternateImages.length > 0) ? variant.alternateImages[0] : variant.imageUrl} 
+                alt={`${shape.name} Variant ${variant.id}`} 
+                style={{ width: '100%', height: 'auto', maxHeight: '150px', objectFit: 'contain', mixBlendMode: 'multiply' }} 
               />
-              <span style={{ fontSize: '1rem', fontWeight: 600, color: 'var(--accent-blue)', background: 'var(--glass-bg)', padding: '0.25rem 0.75rem', borderRadius: '12px' }}>
+              {variant.alternateImages && variant.alternateImages.length > 1 && (
+                <div style={{ display: 'flex', gap: '0.5rem', overflowX: 'auto', maxWidth: '100%', paddingBottom: '0.5rem', marginTop: '1rem', scrollbarWidth: 'thin' }}>
+                  {variant.alternateImages.map((imgUrl, i) => (
+                    <img 
+                      key={i}
+                      src={imgUrl}
+                      alt={`Angle ${i+1}`}
+                      style={{ width: '40px', height: '40px', objectFit: 'contain', border: '1px solid var(--glass-border)', borderRadius: '4px', background: 'var(--bg-surface)' }}
+                    />
+                  ))}
+                </div>
+              )}
+              {variant.colorName && (
+                <span style={{ marginTop: '1rem', fontWeight: 600, color: 'var(--text-primary)', textAlign: 'center' }}>
+                  {variant.colorName}
+                </span>
+              )}
+              <span style={{ marginTop: variant.colorName ? '0.25rem' : '1rem', fontSize: '0.875rem', color: 'var(--text-secondary)' }}>
                 ID: {variant.id}
               </span>
             </div>
