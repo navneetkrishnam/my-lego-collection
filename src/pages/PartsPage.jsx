@@ -26,7 +26,7 @@ export default function PartsPage() {
     return shapes.filter(s => 
       s.name.toLowerCase().includes(lowerQuery) || 
       // Also match by specific variant ID if the user searches for an exact color piece
-      s.variants.some(v => v.id.toString().toLowerCase().includes(lowerQuery))
+      s.variants.some(v => v.id && v.id.toString().toLowerCase().includes(lowerQuery))
     );
   }, [shapes, searchQuery]);
 

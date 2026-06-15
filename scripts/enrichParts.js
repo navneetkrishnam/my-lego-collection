@@ -179,7 +179,7 @@ async function run() {
   async function worker(page, workerId) {
     while (index < pendingVariants.length && processedCount < limit) {
       const variantId = pendingVariants[index++];
-      if (!variantId) break;
+      if (!variantId) continue;
 
       try {
         const enriched = await scrapeVariant(page, variantId);
