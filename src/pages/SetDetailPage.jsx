@@ -184,15 +184,15 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
               <h2 style={{ fontSize: '2.5rem', margin: 0 }}>{set.name}</h2>
               
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginTop: '0.5rem' }}>
-                {/* Product Page Button (Outlined Action Pill) */}
+                {/* Product Page Button (Icon Only) */}
                 <a 
                   href={`https://www.lego.com/en-us/product/-${set.id}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{ 
-                    display: 'flex', alignItems: 'center', gap: '0.375rem', 
-                    color: 'var(--accent-yellow)', fontSize: '0.875rem', fontWeight: 600,
-                    padding: '0.4rem 1rem', borderRadius: '24px', 
+                    display: 'flex', alignItems: 'center', justifyContent: 'center',
+                    color: 'var(--accent-yellow)',
+                    padding: '0.6rem', borderRadius: '50%', 
                     border: '1px solid var(--accent-yellow)',
                     textDecoration: 'none', transition: 'all 0.2s ease',
                     background: 'transparent'
@@ -207,19 +207,18 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
                   }}
                   title="View product details on Lego.com"
                 >
-                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
-                  <span>Product</span>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
                 </a>
 
-                {/* Parts Button (Outlined Action Pill) */}
+                {/* Parts Button (Icon Only) */}
                 <a 
                   href={`https://www.lego.com/en-in/service/replacement-parts/missing/${set.id}/pieces?search=*`}
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{ 
-                    display: 'flex', alignItems: 'center', gap: '0.375rem', 
-                    color: '#bf5af2', fontSize: '0.875rem', fontWeight: 600,
-                    padding: '0.4rem 1rem', borderRadius: '24px', 
+                    display: 'flex', alignItems: 'center', justifyContent: 'center',
+                    color: '#bf5af2',
+                    padding: '0.6rem', borderRadius: '50%', 
                     border: '1px solid #bf5af2',
                     textDecoration: 'none', transition: 'all 0.2s ease',
                     background: 'transparent'
@@ -234,16 +233,14 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
                   }}
                   title="View individual pieces on Lego.com"
                 >
-                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="9" y1="3" x2="9" y2="21"></line></svg>
-                  <span>Parts</span>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="9" y1="3" x2="9" y2="21"></line></svg>
                 </a>
               </div>
             </div>
             
             <div style={{ color: 'var(--text-secondary)', fontSize: '1.125rem', marginBottom: '2rem' }}>
-              Set #{set.id} • {set.pieces} pieces • {set.age} • {set.theme} • <span style={{ color: 'var(--text-primary)', fontWeight: 500 }}><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--accent-blue)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ verticalAlign: 'text-bottom', marginRight: '4px' }}><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>ETA: {calculateETA(set.pieces)}</span>
+              Set #{set.id} • {set.pieces} pieces • {set.age} • {set.theme} • <span style={{ color: 'var(--text-primary)', fontWeight: 500 }}>{calculateETA(set.pieces)}</span>
             </div>
-
 
           {/* Log a New Build Section (Moved to Top) */}
           <div style={{ background: 'var(--bg-base)', padding: '2rem', borderRadius: '12px', border: '1px solid var(--glass-border)', marginBottom: '3rem', boxShadow: '0 4px 12px rgba(0,0,0,0.02)' }}>
