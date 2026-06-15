@@ -8,26 +8,54 @@ puppeteer.use(StealthPlugin());
 const INDEX_PATH = path.join(process.cwd(), 'public', 'data', 'parts-index.json');
 const CACHE_PATH = path.join(process.cwd(), 'public', 'data', 'parts-enrichment-cache.json');
 
-async function scrapeVariant(page, id) {
-  console.log(`[${id}] Navigating to PAB...`);
-  await page.goto(`https://www.lego.com/en-us/pick-and-build/pick-a-brick?query=${id}`, { waitUntil: 'networkidle2' });
-  await new Promise(r => setTimeout(r, 4000));
+const USER_AGENTS = [
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0'
+];
 
-  const clicked = await page.evaluate(() => {
-    const btn = document.querySelector('[data-test="pab-item-button"]');
-    if (btn) {
-      btn.click();
-      return true;
-    }
-    return false;
-  });
+async function scrapeVariant(page, id) {
+  // Set random User-Agent
+  const randomUA = USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
+  await page.setUserAgent(randomUA);
+
+  try {
+    await page.goto(`https://www.lego.com/en-us/pick-and-build/pick-a-brick?query=${id}`, { waitUntil: 'domcontentloaded', timeout: 30000 });
+  } catch (err) {
+    console.log(`[${id}] Timeout on load.`);
+    return null; // Might be a block or timeout, let it retry later
+  }
+
+  // Wait precisely for the button instead of hard sleep
+  let clicked = false;
+  try {
+    await page.waitForSelector('[data-test="pab-item-button"]', { timeout: 8000 });
+    clicked = await page.evaluate(() => {
+      const btn = document.querySelector('[data-test="pab-item-button"]');
+      if (btn) {
+        btn.click();
+        return true;
+      }
+      return false;
+    });
+  } catch (err) {
+    // Button never appeared
+  }
 
   if (!clicked) {
-    console.log(`[${id}] Could not find part button.`);
     return null;
   }
 
-  await new Promise(r => setTimeout(r, 3000));
+  // Wait precisely for the modal instead of hard sleep
+  try {
+    await page.waitForSelector('[role="dialog"], [data-test="pab-item-color-select"]', { timeout: 8000 });
+    // Add a tiny buffer for images to render
+    await new Promise(r => setTimeout(r, 500));
+  } catch (err) {
+    return null;
+  }
 
   const data = await page.evaluate(async () => {
     let colorName = null;
@@ -118,11 +146,23 @@ async function run() {
   
   console.log(`Found ${pendingVariants.length} pending pieces. Starting with ${CONCURRENCY} concurrent workers...`);
 
-  // Spin up pages
+  // Spin up pages with resource blocking
   const pages = [];
   for(let i=0; i < Math.min(CONCURRENCY, pendingVariants.length, limit); i++) {
     const p = await browser.newPage();
-    await p.setViewport({ width: 1280, height: 800 });
+    await p.setViewport({ width: 1280 + Math.floor(Math.random()*100), height: 800 + Math.floor(Math.random()*100) });
+    
+    // Intercept and block unnecessary resources to save CPU/RAM
+    await p.setRequestInterception(true);
+    p.on('request', (req) => {
+      const type = req.resourceType();
+      if (['stylesheet', 'font', 'media'].includes(type) || req.url().includes('tracking') || req.url().includes('analytics')) {
+        req.abort();
+      } else {
+        req.continue();
+      }
+    });
+    
     pages.push(p);
   }
 
@@ -150,8 +190,8 @@ async function run() {
       }
 
       processedCount++;
-      // Sleep to prevent rate limit
-      const delay = Math.floor(Math.random() * 3000) + 3000;
+      // Micro-delay to avoid slamming immediately, much faster than 3-6s
+      const delay = Math.floor(Math.random() * 1000) + 500;
       await new Promise(r => setTimeout(r, delay));
     }
   }
