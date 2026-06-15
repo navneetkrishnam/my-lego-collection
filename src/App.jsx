@@ -4,6 +4,7 @@ import { useLegoData } from './hooks/useLegoData';
 import HomePage from './pages/HomePage';
 import SetDetailPage from './pages/SetDetailPage';
 import PartsPage from './pages/PartsPage';
+import PartDetailPage from './pages/PartDetailPage';
 
 function App() {
   const { sets, loading, addHistoryRecord, editHistoryRecord, deleteHistoryRecord } = useLegoData();
@@ -54,6 +55,7 @@ function App() {
           <Route path="/" element={<HomePage sets={sets} loading={loading} />} />
           <Route path="/set/:id" element={<SetDetailPage sets={sets} onAddHistory={addHistoryRecord} onEditHistory={editHistoryRecord} onDeleteHistory={deleteHistoryRecord} />} />
           <Route path="/parts" element={<PartsPage />} />
+          <Route path="/part/:name" element={<PartDetailPage sets={sets} />} />
         </Routes>
       </div>
     </BrowserRouter>
