@@ -39,12 +39,30 @@ async function run() {
   console.log('Clicked to load pieces. Waiting...');
   await new Promise(r => setTimeout(r, 5000));
 
-  // Pagination loop (Show more)
+  // Pagination loop (Continue)
   let hasMore = true;
   while (hasMore) {
+    // Scroll down to trigger lazy loading of images
+    await page.evaluate(async () => {
+      await new Promise((resolve) => {
+        let totalHeight = 0;
+        const distance = 500;
+        const timer = setInterval(() => {
+          const scrollHeight = document.body.scrollHeight;
+          window.scrollBy(0, distance);
+          totalHeight += distance;
+
+          if (totalHeight >= scrollHeight - window.innerHeight) {
+            clearInterval(timer);
+            resolve();
+          }
+        }, 100);
+      });
+    });
+
     hasMore = await page.evaluate(() => {
       const buttons = Array.from(document.querySelectorAll('button'));
-      const btn = buttons.find(b => b.innerText.includes('Show more'));
+      const btn = buttons.find(b => b.innerText.includes('Continue'));
       if (btn && !btn.disabled) {
         btn.click();
         return true;
@@ -52,23 +70,42 @@ async function run() {
       return false;
     });
     if (hasMore) {
-      console.log('Clicked Show More, waiting...');
-      await new Promise(r => setTimeout(r, 3000));
+      console.log('Clicked Continue, waiting...');
+      await new Promise(r => setTimeout(r, 4000));
     }
   }
 
+  // Final scroll to ensure the last page's images load
+  await page.evaluate(async () => {
+    await new Promise((resolve) => {
+      let totalHeight = 0;
+      const distance = 500;
+      const timer = setInterval(() => {
+        const scrollHeight = document.body.scrollHeight;
+        window.scrollBy(0, distance);
+        totalHeight += distance;
+        if (totalHeight >= scrollHeight - window.innerHeight) {
+          clearInterval(timer);
+          resolve();
+        }
+      }, 100);
+    });
+  });
+
   // Extract parts
   const parts = await page.evaluate(() => {
-    const imgs = Array.from(document.querySelectorAll('img[src*="element"]'));
-    return imgs.map(img => {
-      const container = img.closest('li') || img.parentElement.parentElement.parentElement;
-      const src = img.src;
-      // Convert src to high res by removing query params or changing width/height
+    // Find all 'Select this piece' buttons to reliably locate part containers
+    const buttons = Array.from(document.querySelectorAll('button')).filter(b => b.innerText.includes('Select this piece'));
+    return buttons.map(btn => {
+      const container = btn.closest('li') || btn.parentElement.parentElement.parentElement;
+      const img = container.querySelector('img');
+      const src = img ? img.src : '';
+      
       const highResSrc = src.split('?')[0]; 
-      const idMatch = highResSrc.match(/\/(\d+)\.jpg/);
+      const idMatch = highResSrc.match(/\/(\d+)\.(jpg|png)/);
       const id = idMatch ? idMatch[1] : null;
       
-      const lines = container.innerText.split('\n').map(s => s.trim()).filter(s => s.length > 0);
+      const lines = container.innerText.split('\n').map(s => s.trim()).filter(s => s.length > 0 && s !== 'Select this piece');
       
       return { id, src: highResSrc, text: container.innerText, lines };
     });
