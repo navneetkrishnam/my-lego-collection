@@ -5,19 +5,25 @@ import path from 'path';
 
 puppeteer.use(StealthPlugin());
 
-async function run() {
-  const setId = '31160';
+async function scrapeSet(browser, setId) {
+  const partsDir = path.join(process.cwd(), 'public', 'data', 'parts');
+  if (!fs.existsSync(partsDir)) {
+    fs.mkdirSync(partsDir, { recursive: true });
+  }
+
+  const outPath = path.join(partsDir, `${setId}.json`);
+  if (fs.existsSync(outPath)) {
+    console.log(`Skipping Set ${setId}, already scraped.`);
+    return;
+  }
+
   console.log(`Starting scrape for Set ${setId}...`);
-  
-  const browser = await puppeteer.launch({ headless: 'new' });
   const page = await browser.newPage();
-  
   await page.setViewport({ width: 1280, height: 800 });
 
-  console.log('Navigating...');
-  await page.goto(`https://www.lego.com/en-in/service/replacement-parts/missing/${setId}/pieces`, { waitUntil: 'networkidle2' });
-  
-  await new Promise(r => setTimeout(r, 3000));
+  try {
+    await page.goto(`https://www.lego.com/en-in/service/replacement-parts/missing/${setId}/pieces`, { waitUntil: 'networkidle2' });
+    await new Promise(r => setTimeout(r, 3000));
 
   // Find and click "See all available pieces"
   const clicked = await page.evaluate(() => {
@@ -133,13 +139,40 @@ async function run() {
       id: p.id,
       name: name,
       imageUrl: p.src,
-      rawText: p.text // keep raw text to inspect
+      rawText: p.text
     };
   });
 
-  fs.writeFileSync(path.join(partsDir, `${setId}.json`), JSON.stringify(formattedParts, null, 2));
-  console.log(`Saved parts data to public/data/parts/${setId}.json`);
+  fs.writeFileSync(outPath, JSON.stringify(formattedParts, null, 2));
+  console.log(`Saved parts data to ${outPath}`);
+  } catch (err) {
+    console.error(`Error scraping ${setId}:`, err.message);
+  } finally {
+    await page.close();
+  }
+}
 
+async function run() {
+  const setsPath = path.join(process.cwd(), 'public', 'data', 'sets.json');
+  if (!fs.existsSync(setsPath)) {
+    console.error('sets.json not found!');
+    return;
+  }
+
+  const sets = JSON.parse(fs.readFileSync(setsPath, 'utf-8'));
+  console.log(`Found ${sets.length} sets. Launching browser...`);
+
+  const browser = await puppeteer.launch({ headless: 'new' });
+
+  for (const set of sets) {
+    await scrapeSet(browser, set.id);
+    // Random delay between 3 and 7 seconds to avoid rate limiting
+    const delay = Math.floor(Math.random() * 4000) + 3000;
+    console.log(`Waiting ${delay}ms before next set...`);
+    await new Promise(r => setTimeout(r, delay));
+  }
+
+  console.log('Finished scraping all sets!');
   await browser.close();
 }
 
