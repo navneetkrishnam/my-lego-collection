@@ -19,6 +19,9 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
   const [parts, setParts] = useState(null);
   const [partsLoading, setPartsLoading] = useState(true);
 
+  const [isPartsExpanded, setIsPartsExpanded] = useState(false);
+  const [isHistoryExpanded, setIsHistoryExpanded] = useState(true);
+
   React.useEffect(() => {
     if (set) {
       setPartsLoading(true);
@@ -285,10 +288,18 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
 
       {/* Build History Section (Moved completely below the main grid layout) */}
       <div style={{ marginTop: '4rem', paddingTop: '3rem', borderTop: '1px solid var(--glass-border)' }}>
-        <h3 style={{ marginBottom: '2rem', fontSize: '1.75rem', color: 'var(--text-primary)' }}>Build History</h3>
+        <div 
+          style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', cursor: 'pointer', marginBottom: isHistoryExpanded ? '2rem' : '0' }}
+          onClick={() => setIsHistoryExpanded(!isHistoryExpanded)}
+        >
+          <h3 style={{ fontSize: '1.75rem', color: 'var(--text-primary)', margin: 0 }}>Build History</h3>
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ transform: isHistoryExpanded ? 'rotate(180deg)' : 'rotate(0deg)', transition: 'transform 0.3s ease' }}><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
         
-        {set.history && set.history.length > 0 ? (
-          <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '1.25rem', padding: 0 }}>
+        {isHistoryExpanded && (
+          <div style={{ animation: 'fadeIn 0.3s ease' }}>
+            {set.history && set.history.length > 0 ? (
+              <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '1.25rem', padding: 0 }}>
             {set.history.map((record, i) => (
               <li key={i} className="history-item-layout" style={{ background: 'var(--glass-bg)', padding: '1rem', borderRadius: '8px', border: '1px solid var(--glass-border)' }}>
                 {editingIndex === i ? (
@@ -352,21 +363,36 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
             No builds recorded yet. Be the first to build!
           </div>
         )}
+          </div>
+        )}
       </div>
 
       {/* Parts Inventory Section */}
       {parts && parts.length > 0 && (
-        <div style={{ marginTop: '4rem', paddingTop: '3rem', borderTop: '1px solid var(--glass-border)' }}>
-          <h3 style={{ marginBottom: '1rem', fontSize: '1.75rem', color: 'var(--text-primary)' }}>Parts Inventory</h3>
-          <p style={{ color: 'var(--text-secondary)', marginBottom: '2rem' }}>
-            {parts.length} unique parts available for this set.
-          </p>
-          <div style={{
-            display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fill, minmax(150px, 1fr))',
-            gap: '1rem'
-          }}>
-            {parts.map((part, index) => (
+        <div style={{ marginTop: '2rem', paddingTop: '3rem', borderTop: '1px solid var(--glass-border)' }}>
+          <div 
+            style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', cursor: 'pointer', marginBottom: isPartsExpanded ? '1rem' : '0' }}
+            onClick={() => setIsPartsExpanded(!isPartsExpanded)}
+          >
+            <div>
+              <h3 style={{ fontSize: '1.75rem', color: 'var(--text-primary)', margin: 0 }}>Parts Inventory</h3>
+              {isPartsExpanded && (
+                <p style={{ color: 'var(--text-secondary)', margin: '0.5rem 0 0 0' }}>
+                  {parts.length} unique parts available for this set.
+                </p>
+              )}
+            </div>
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ transform: isPartsExpanded ? 'rotate(180deg)' : 'rotate(0deg)', transition: 'transform 0.3s ease' }}><polyline points="6 9 12 15 18 9"></polyline></svg>
+          </div>
+
+          {isPartsExpanded && (
+            <div style={{ animation: 'fadeIn 0.3s ease', marginTop: '2rem' }}>
+              <div style={{
+                display: 'grid',
+                gridTemplateColumns: 'repeat(auto-fill, minmax(150px, 1fr))',
+                gap: '1rem'
+              }}>
+                {parts.map((part, index) => (
               <div key={index} style={{
                 background: 'var(--bg-surface)',
                 border: '1px solid var(--glass-border)',
@@ -393,11 +419,13 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
                 <span style={{ fontSize: '0.875rem', color: 'var(--text-primary)', lineHeight: 1.2, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }} title={part.name}>
                   {part.name}
                 </span>
-              </div>
-            ))}
+                </div>
+              ))}
+            </div>
           </div>
-        </div>
-      )}
+        )}
+      </div>
+    )}
     </div>
   );
 }
