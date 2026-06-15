@@ -36,7 +36,7 @@ export default function SetCard({ set, onClick, onMarkAsDone }) {
     >
 
 
-      <div style={{ height: '200px', width: '100%', marginBottom: '1rem', overflow: 'hidden', borderRadius: '8px' }}>
+      <div style={{ height: '200px', width: '100%', marginBottom: '1rem', overflow: 'hidden', borderRadius: '8px', background: 'var(--img-bg)' }}>
         <img 
           src={set.thumbnail ? `${import.meta.env.BASE_URL}${set.thumbnail.replace(/^\//, '')}` : ''} 
           alt={set.name} 
@@ -44,6 +44,7 @@ export default function SetCard({ set, onClick, onMarkAsDone }) {
             width: '100%', 
             height: '100%', 
             objectFit: 'contain',
+            mixBlendMode: 'multiply',
             transition: 'transform 0.5s ease',
             transform: isHovered ? 'scale(1.05)' : 'scale(1)'
           }} 

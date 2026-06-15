@@ -173,6 +173,7 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
                   borderRadius: '8px',
                   cursor: 'pointer',
                   border: selectedImageIndex === i ? '2px solid var(--accent-blue)' : '2px solid transparent',
+                  background: 'var(--img-bg)',
                   opacity: selectedImageIndex === i ? 1 : 0.6,
                   transition: 'opacity 0.2s ease'
                 }} 
@@ -393,34 +394,34 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
                 gap: '1rem'
               }}>
                 {parts.map((part, index) => (
-              <div key={index} style={{
-                background: 'var(--bg-surface)',
-                border: '1px solid var(--glass-border)',
-                borderRadius: '12px',
-                padding: '1rem',
-                display: 'flex',
-                flexDirection: 'column',
-                alignItems: 'center',
-                textAlign: 'center',
-                transition: 'transform 0.2s',
-              }}
-              onMouseEnter={e => e.currentTarget.style.transform = 'translateY(-4px)'}
-              onMouseLeave={e => e.currentTarget.style.transform = 'none'}
-              >
-                <img 
-                  src={part.imageUrl} 
-                  alt={part.name} 
-                  style={{ width: '100%', height: '100px', objectFit: 'contain', marginBottom: '0.75rem', mixBlendMode: 'multiply' }}
-                  loading="lazy"
-                />
-                <span style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', fontWeight: 600, display: 'block', marginBottom: '0.25rem' }}>
-                  {part.id}
-                </span>
-                <span style={{ fontSize: '0.875rem', color: 'var(--text-primary)', lineHeight: 1.2, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }} title={part.name}>
-                  {part.name}
-                </span>
-                </div>
-              ))}
+                  <div key={index} style={{
+                    background: 'var(--img-bg)',
+                    border: '1px solid var(--glass-border)',
+                    borderRadius: '12px',
+                    padding: '1rem',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    alignItems: 'center',
+                    textAlign: 'center',
+                    transition: 'transform 0.2s',
+                  }}
+                  onMouseEnter={e => e.currentTarget.style.transform = 'translateY(-4px)'}
+                  onMouseLeave={e => e.currentTarget.style.transform = 'none'}
+                  >
+                    <img 
+                      src={part.imageUrl} 
+                      alt={part.name} 
+                      style={{ width: '100%', height: '100px', objectFit: 'contain', marginBottom: '0.75rem', mixBlendMode: 'multiply' }}
+                      loading="lazy"
+                    />
+                    <span style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', fontWeight: 600, display: 'block', marginBottom: '0.25rem' }}>
+                      {part.id}
+                    </span>
+                    <span style={{ fontSize: '0.875rem', color: 'var(--text-primary)', lineHeight: 1.2, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }} title={part.name}>
+                      {part.name}
+                    </span>
+                  </div>
+                ))}
             </div>
           </div>
         )}

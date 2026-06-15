@@ -114,7 +114,7 @@ export default function PartsPage() {
               e.currentTarget.style.borderColor = 'var(--glass-border)';
             }}
             >
-              <div style={{ height: '140px', position: 'relative', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: '1rem', background: 'var(--bg-base)', borderRadius: '8px' }}>
+              <div style={{ height: '140px', position: 'relative', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: '1rem', background: 'var(--img-bg)', borderRadius: '8px' }}>
                 {/* Just show the first variant's image as the hero image for this shape */}
                 <img 
                   src={shape.variants[0].imageUrl} 

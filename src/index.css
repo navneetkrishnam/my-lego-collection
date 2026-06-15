@@ -29,6 +29,24 @@
   
   --font-body: 'Inter', sans-serif;
   --font-heading: 'Outfit', sans-serif;
+
+  --img-bg: transparent;
+}
+
+.dark {
+  --bg-base: #0f172a;
+  --bg-surface: #1e293b;
+  --bg-surface-hover: #334155;
+  
+  --text-primary: #f8fafc;
+  --text-secondary: #cbd5e1;
+  --text-tertiary: #64748b;
+  
+  --glass-bg: rgba(30, 41, 59, 0.8);
+  --glass-border: rgba(255, 255, 255, 0.1);
+  --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+
+  --img-bg: #e2e8f0; /* Mild grey background for images in dark mode so 'multiply' still works well */
 }
 
 * {
@@ -220,7 +238,7 @@ a {
   height: 400px;
   border-radius: var(--radius-md);
   overflow: hidden;
-  background: var(--bg-surface);
+  background: var(--img-bg);
   border: 1px solid var(--glass-border);
 }
 .image-wrapper img {

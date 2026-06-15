@@ -75,7 +75,7 @@ export default function PartDetailPage({ sets }) {
           }}>
             {/* Variant Image & ID */}
             <div style={{ 
-              background: 'var(--bg-base)', 
+              background: 'var(--img-bg)', 
               borderRadius: '12px', 
               padding: '1.5rem',
               width: '200px',
