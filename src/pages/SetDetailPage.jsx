@@ -395,7 +395,7 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
               }}>
                 {parts.map((part, index) => (
                   <div key={index} style={{
-                    background: 'var(--img-bg)',
+                    background: 'var(--bg-surface)',
                     border: '1px solid var(--glass-border)',
                     borderRadius: '12px',
                     padding: '1rem',
@@ -408,12 +408,23 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
                   onMouseEnter={e => e.currentTarget.style.transform = 'translateY(-4px)'}
                   onMouseLeave={e => e.currentTarget.style.transform = 'none'}
                   >
-                    <img 
-                      src={part.imageUrl} 
-                      alt={part.name} 
-                      style={{ width: '100%', height: '100px', objectFit: 'contain', marginBottom: '0.75rem', mixBlendMode: 'multiply' }}
-                      loading="lazy"
-                    />
+                    <div style={{
+                      width: '100%',
+                      background: 'var(--img-bg)',
+                      borderRadius: '8px',
+                      padding: '0.5rem',
+                      marginBottom: '0.75rem',
+                      display: 'flex',
+                      alignItems: 'center',
+                      justifyContent: 'center'
+                    }}>
+                      <img 
+                        src={part.imageUrl} 
+                        alt={part.name} 
+                        style={{ width: '100%', height: '80px', objectFit: 'contain', mixBlendMode: 'multiply' }}
+                        loading="lazy"
+                      />
+                    </div>
                     <span style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', fontWeight: 600, display: 'block', marginBottom: '0.25rem' }}>
                       {part.id}
                     </span>
