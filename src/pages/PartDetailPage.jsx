@@ -132,9 +132,9 @@ export default function PartDetailPage({ sets }) {
                         e.currentTarget.style.borderColor = 'var(--glass-border)';
                       }}
                     >
-                      {setInfo?.images?.[0] ? (
+                      {setInfo?.thumbnail ? (
                         <img 
-                          src={setInfo.images[0]} 
+                          src={`${import.meta.env.BASE_URL}${setInfo.thumbnail.replace(/^\//, '')}`} 
                           alt={setInfo.name} 
                           style={{ width: '48px', height: '48px', objectFit: 'cover', borderRadius: '6px' }}
                         />
