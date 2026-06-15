@@ -394,7 +394,7 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
                 gap: '1rem'
               }}>
                 {parts.map((part, index) => (
-                  <div key={index} style={{
+                  <Link key={index} to={`/part/${encodeURIComponent(part.name)}`} style={{
                     background: 'var(--bg-surface)',
                     border: '1px solid var(--glass-border)',
                     borderRadius: '12px',
@@ -403,10 +403,19 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
                     flexDirection: 'column',
                     alignItems: 'center',
                     textAlign: 'center',
-                    transition: 'transform 0.2s',
+                    transition: 'transform 0.2s, border-color 0.2s',
+                    textDecoration: 'none',
+                    color: 'inherit',
+                    cursor: 'pointer'
                   }}
-                  onMouseEnter={e => e.currentTarget.style.transform = 'translateY(-4px)'}
-                  onMouseLeave={e => e.currentTarget.style.transform = 'none'}
+                  onMouseEnter={e => {
+                    e.currentTarget.style.transform = 'translateY(-4px)';
+                    e.currentTarget.style.borderColor = 'var(--accent-blue)';
+                  }}
+                  onMouseLeave={e => {
+                    e.currentTarget.style.transform = 'none';
+                    e.currentTarget.style.borderColor = 'var(--glass-border)';
+                  }}
                   >
                     <div style={{
                       width: '100%',
@@ -431,7 +440,7 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
                     <span style={{ fontSize: '0.875rem', color: 'var(--text-primary)', lineHeight: 1.2, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }} title={part.name}>
                       {part.name}
                     </span>
-                  </div>
+                  </Link>
                 ))}
             </div>
           </div>
