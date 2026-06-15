@@ -75,7 +75,7 @@ export default function PartDetailPage({ sets }) {
           }}>
             {/* Variant Image & ID */}
             <div style={{ 
-              background: 'var(--img-bg)', 
+              background: 'var(--bg-surface)', 
               borderRadius: '12px', 
               padding: '1.5rem',
               width: '200px',
@@ -85,23 +85,35 @@ export default function PartDetailPage({ sets }) {
               alignItems: 'center',
               border: '1px solid var(--glass-border)'
             }}>
-              <img 
-                src={(variant.alternateImages && variant.alternateImages.length > 0) ? variant.alternateImages[0] : variant.imageUrl} 
-                alt={`${shape.name} Variant ${variant.id}`} 
-                style={{ width: '100%', height: 'auto', maxHeight: '150px', objectFit: 'contain', mixBlendMode: 'multiply' }} 
-              />
-              {variant.alternateImages && variant.alternateImages.length > 1 && (
-                <div style={{ display: 'flex', gap: '0.5rem', overflowX: 'auto', maxWidth: '100%', paddingBottom: '0.5rem', marginTop: '1rem', scrollbarWidth: 'thin' }}>
-                  {variant.alternateImages.map((imgUrl, i) => (
-                    <img 
-                      key={i}
-                      src={imgUrl}
-                      alt={`Angle ${i+1}`}
-                      style={{ width: '40px', height: '40px', objectFit: 'contain', border: '1px solid var(--glass-border)', borderRadius: '4px', background: 'var(--bg-surface)' }}
-                    />
-                  ))}
-                </div>
-              )}
+              <div style={{
+                background: 'var(--img-bg)',
+                width: '100%',
+                borderRadius: '8px',
+                padding: '0.5rem',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                flexDirection: 'column'
+              }}>
+                <img 
+                  src={(variant.alternateImages && variant.alternateImages.length > 0) ? variant.alternateImages[0] : variant.imageUrl} 
+                  alt={`${shape.name} Variant ${variant.id}`} 
+                  style={{ width: '100%', height: 'auto', maxHeight: '150px', objectFit: 'contain', mixBlendMode: 'multiply' }} 
+                />
+                {variant.alternateImages && variant.alternateImages.length > 1 && (
+                  <div style={{ display: 'flex', gap: '0.5rem', overflowX: 'auto', maxWidth: '100%', paddingTop: '1rem', paddingBottom: '0.5rem', scrollbarWidth: 'thin' }}>
+                    {variant.alternateImages.map((imgUrl, i) => (
+                      <img 
+                        key={i}
+                        src={imgUrl}
+                        alt={`Angle ${i+1}`}
+                        style={{ width: '40px', height: '40px', objectFit: 'contain', border: '1px solid var(--glass-border)', borderRadius: '4px', background: 'transparent' }}
+                      />
+                    ))}
+                  </div>
+                )}
+              </div>
+              
               {variant.colorName && (
                 <span style={{ marginTop: '1rem', fontWeight: 600, color: 'var(--text-primary)', textAlign: 'center' }}>
                   {variant.colorName}

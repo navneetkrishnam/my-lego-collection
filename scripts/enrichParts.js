@@ -47,8 +47,7 @@ async function scrapeVariant(page, id) {
       const imgs = Array.from(document.querySelectorAll('img[src*="element.img"]'));
       imgs.forEach(img => {
         // extract base url without sizing params if possible, or keep as is.
-        // removing .192x192 if it exists to get original resolution
-        let src = img.src.split('?')[0].replace(/\.\d+x\d+/, '');
+        let src = img.src.split('?')[0];
         allImages.add(src);
       });
     };
