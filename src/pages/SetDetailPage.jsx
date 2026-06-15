@@ -16,6 +16,28 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
   const [isHoverZooming, setIsHoverZooming] = useState(false);
   const [zoomOrigin, setZoomOrigin] = useState({ x: 50, y: 50 });
 
+  const [parts, setParts] = useState(null);
+  const [partsLoading, setPartsLoading] = useState(true);
+
+  React.useEffect(() => {
+    if (set) {
+      setPartsLoading(true);
+      fetch(`${import.meta.env.BASE_URL}data/parts/${set.id}.json`)
+        .then(res => {
+          if (!res.ok) throw new Error("Not found");
+          return res.json();
+        })
+        .then(data => {
+          setParts(data);
+          setPartsLoading(false);
+        })
+        .catch(() => {
+          setParts(null);
+          setPartsLoading(false);
+        });
+    }
+  }, [set]);
+
   const handleMouseMove = (e) => {
     const { left, top, width, height } = e.currentTarget.getBoundingClientRect();
     const x = ((e.clientX - left) / width) * 100;
@@ -166,21 +188,23 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent-blue)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
                 <strong>Est. Build Time:</strong> {calculateETA(set.pieces)}
               </div>
-              <a 
-                href={`https://www.lego.com/en-in/service/replacement-parts/missing/${set.id}/pieces?search=*`}
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{ 
-                  display: 'flex', alignItems: 'center', gap: '0.5rem', color: 'var(--text-primary)', fontSize: '1rem', background: 'var(--bg-surface)', padding: '0.75rem 1.25rem', borderRadius: '8px', border: '1px solid var(--glass-border)', textDecoration: 'none', transition: 'background 0.2s' 
-                }}
-                onMouseEnter={e => e.currentTarget.style.background = 'var(--bg-surface-hover)'}
-                onMouseLeave={e => e.currentTarget.style.background = 'var(--bg-surface)'}
-                title="View individual pieces on Lego.com"
-              >
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#bf5af2" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="9" y1="3" x2="9" y2="21"></line></svg>
-                <strong>View Parts Inventory</strong>
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ marginLeft: '4px', opacity: 0.7 }}><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-              </a>
+              {!parts && !partsLoading && (
+                <a 
+                  href={`https://www.lego.com/en-in/service/replacement-parts/missing/${set.id}/pieces?search=*`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ 
+                    display: 'flex', alignItems: 'center', gap: '0.5rem', color: 'var(--text-primary)', fontSize: '1rem', background: 'var(--bg-surface)', padding: '0.75rem 1.25rem', borderRadius: '8px', border: '1px solid var(--glass-border)', textDecoration: 'none', transition: 'background 0.2s' 
+                  }}
+                  onMouseEnter={e => e.currentTarget.style.background = 'var(--bg-surface-hover)'}
+                  onMouseLeave={e => e.currentTarget.style.background = 'var(--bg-surface)'}
+                  title="View individual pieces on Lego.com"
+                >
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#bf5af2" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="9" y1="3" x2="9" y2="21"></line></svg>
+                  <strong>View Parts on Lego</strong>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ marginLeft: '4px', opacity: 0.7 }}><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+                </a>
+              )}
             </div>
           </div>
 
@@ -295,6 +319,51 @@ export default function SetDetailPage({ sets, onAddHistory, onEditHistory, onDel
           </div>
         )}
       </div>
+
+      {/* Parts Inventory Section */}
+      {parts && parts.length > 0 && (
+        <div style={{ marginTop: '4rem', paddingTop: '3rem', borderTop: '1px solid var(--glass-border)' }}>
+          <h3 style={{ marginBottom: '1rem', fontSize: '1.75rem', color: 'var(--text-primary)' }}>Parts Inventory</h3>
+          <p style={{ color: 'var(--text-secondary)', marginBottom: '2rem' }}>
+            {parts.length} unique parts available for this set.
+          </p>
+          <div style={{
+            display: 'grid',
+            gridTemplateColumns: 'repeat(auto-fill, minmax(150px, 1fr))',
+            gap: '1rem'
+          }}>
+            {parts.map((part, index) => (
+              <div key={index} style={{
+                background: 'var(--bg-surface)',
+                border: '1px solid var(--glass-border)',
+                borderRadius: '12px',
+                padding: '1rem',
+                display: 'flex',
+                flexDirection: 'column',
+                alignItems: 'center',
+                textAlign: 'center',
+                transition: 'transform 0.2s',
+              }}
+              onMouseEnter={e => e.currentTarget.style.transform = 'translateY(-4px)'}
+              onMouseLeave={e => e.currentTarget.style.transform = 'none'}
+              >
+                <img 
+                  src={part.imageUrl} 
+                  alt={part.name} 
+                  style={{ width: '100%', height: '100px', objectFit: 'contain', marginBottom: '0.75rem', mixBlendMode: 'multiply' }}
+                  loading="lazy"
+                />
+                <span style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', fontWeight: 600, display: 'block', marginBottom: '0.25rem' }}>
+                  {part.id}
+                </span>
+                <span style={{ fontSize: '0.875rem', color: 'var(--text-primary)', lineHeight: 1.2, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }} title={part.name}>
+                  {part.name}
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
