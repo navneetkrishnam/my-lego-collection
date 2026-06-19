@@ -1,0 +1,21 @@
+{
+  "configVersion": "inventory-config-v1",
+  "parserVersion": "inventory-parser-v1",
+  "inventoryPageDetection": {
+    "finalPageWindow": 30,
+    "minimumQuantityTokens": 8,
+    "minimumElementIdTokens": 8,
+    "minimumSpatialPairs": 8
+  },
+  "textLayerPairing": {
+    "maxVerticalDistance": 14,
+    "maxHorizontalDistance": 4
+  },
+  "statuses": [
+    "PASS",
+    "PASS_WITH_DIFFERENCE",
+    "NO_INVENTORY_PAGE",
+    "EXTRACTION_FAILED",
+    "MANUAL_REVIEW"
+  ]
+}

@@ -8,6 +8,8 @@
     "build:index": "node scripts/buildPartsIndex.js",
     "build": "npm run build:index && vite build && cp dist/index.html dist/404.html",
     "lint": "eslint .",
+    "inventory": "node scripts/legoInventory/cli.js",
+    "test:inventory": "node --test test/legoInventory/*.test.js",
     "preview": "vite preview",
     "enrich:parts": "node scripts/enrichParts.js",
     "enrich:parts:test": "node scripts/enrichParts.js --test",

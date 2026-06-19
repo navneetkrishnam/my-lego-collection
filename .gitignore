@@ -12,3 +12,11 @@ yarn-error.log*
 pnpm-debug.log*
 .DS_Store
 public/data/parts-enrichment-cache.json
+data/pdfs/
+data/inventory/pdf-manifest.json
+data/inventory/raw/
+data/inventory/validation/
+data/inventory/approved/
+data/inventory/review-report.csv
+data/inventory/combined-inventory.csv
+data/inventory/combined-inventory.json

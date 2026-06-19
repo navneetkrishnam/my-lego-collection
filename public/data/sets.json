@@ -1861,5 +1861,39 @@
     ],
     "status": "Not Started",
     "history": []
+  },
+  {
+    "id": "10369",
+    "name": "Plum Blossom",
+    "theme": "Botanicals",
+    "age": "18+",
+    "pieces": 327,
+    "thumbnail": "/images/10369/0.png",
+    "images": [
+      "/images/10369/0.png",
+      "/images/10369/1.png",
+      "/images/10369/2.png",
+      "/images/10369/3.png",
+      "/images/10369/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "10362",
+    "name": "French Café",
+    "theme": "LEGO® Icons",
+    "age": "18+",
+    "pieces": 1101,
+    "thumbnail": "/images/10362/0.png",
+    "images": [
+      "/images/10362/0.png",
+      "/images/10362/1.png",
+      "/images/10362/2.png",
+      "/images/10362/3.png",
+      "/images/10362/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
   }
 ]
