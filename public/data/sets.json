@@ -1997,5 +1997,22 @@
     ],
     "status": "Not Started",
     "history": []
+  },
+  {
+    "id": "31380",
+    "name": "Retro Gaming Console",
+    "theme": "Creator 3-in-1",
+    "age": "8+",
+    "pieces": 268,
+    "thumbnail": "/images/31380/0.png",
+    "images": [
+      "/images/31380/0.png",
+      "/images/31380/1.png",
+      "/images/31380/2.png",
+      "/images/31380/3.png",
+      "/images/31380/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
   }
 ]
