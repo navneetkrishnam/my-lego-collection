@@ -2486,5 +2486,22 @@
     ],
     "status": "Not Started",
     "history": []
+  },
+  {
+    "id": "76417",
+    "name": "Gringotts™ Wizarding Bank – Collectors' Edition",
+    "theme": "Harry Potter™",
+    "age": "18+",
+    "pieces": 4801,
+    "thumbnail": "/images/76417/0.png",
+    "images": [
+      "/images/76417/0.png",
+      "/images/76417/1.png",
+      "/images/76417/2.png",
+      "/images/76417/3.png",
+      "/images/76417/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
   }
 ]
