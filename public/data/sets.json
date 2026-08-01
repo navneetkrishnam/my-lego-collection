@@ -2726,5 +2726,124 @@
     ],
     "status": "Not Started",
     "history": []
+  },
+  {
+    "id": "60366",
+    "name": "Ski and Climbing Center",
+    "theme": "City",
+    "age": "7+",
+    "pieces": 1045,
+    "thumbnail": "/images/60366/0.png",
+    "images": [
+      "/images/60366/0.png",
+      "/images/60366/1.png",
+      "/images/60366/2.png",
+      "/images/60366/3.png",
+      "/images/60366/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "42624",
+    "name": "Adventure Camp Cozy Cabins",
+    "theme": "Friends",
+    "age": "7+",
+    "pieces": 437,
+    "thumbnail": "/images/42624/0.png",
+    "images": [
+      "/images/42624/0.png",
+      "/images/42624/1.png",
+      "/images/42624/2.png",
+      "/images/42624/3.png",
+      "/images/42624/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "31153",
+    "name": "Modern House",
+    "theme": "Creator 3-in-1",
+    "age": "9+",
+    "pieces": 939,
+    "thumbnail": "/images/31153/0.png",
+    "images": [
+      "/images/31153/0.png",
+      "/images/31153/1.png",
+      "/images/31153/2.png",
+      "/images/31153/3.png",
+      "/images/31153/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "60378",
+    "name": "Arctic Explorer Truck and Mobile Lab",
+    "theme": "City",
+    "age": "6+",
+    "pieces": 489,
+    "thumbnail": "/images/60378/0.png",
+    "images": [
+      "/images/60378/0.png",
+      "/images/60378/1.png",
+      "/images/60378/2.png",
+      "/images/60378/3.png",
+      "/images/60378/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "41756",
+    "name": "Holiday Ski Slope and Café",
+    "theme": "Friends",
+    "age": "9+",
+    "pieces": 980,
+    "thumbnail": "/images/41756/0.png",
+    "images": [
+      "/images/41756/0.png",
+      "/images/41756/1.png",
+      "/images/41756/2.png",
+      "/images/41756/3.png",
+      "/images/41756/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "42603",
+    "name": "Stargazing Camping Vehicle",
+    "theme": "Friends",
+    "age": "7+",
+    "pieces": 364,
+    "thumbnail": "/images/42603/0.png",
+    "images": [
+      "/images/42603/0.png",
+      "/images/42603/1.png",
+      "/images/42603/2.png",
+      "/images/42603/3.png",
+      "/images/42603/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "42163",
+    "name": "Heavy-Duty Bulldozer",
+    "theme": "Technic™",
+    "age": "7+",
+    "pieces": 195,
+    "thumbnail": "/images/42163/0.png",
+    "images": [
+      "/images/42163/0.png",
+      "/images/42163/1.png",
+      "/images/42163/2.png",
+      "/images/42163/3.png",
+      "/images/42163/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
   }
 ]
