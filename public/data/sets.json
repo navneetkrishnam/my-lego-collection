@@ -877,8 +877,13 @@
       "/images/41754/3.png",
       "/images/41754/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-08-07",
+        "builder": "Anirud Krishna"
+      }
+    ]
   },
   {
     "id": "42618",
@@ -2473,8 +2478,13 @@
       "/images/76446/3.png",
       "/images/76446/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-08-05",
+        "builder": "Anirud Krishna"
+      }
+    ]
   },
   {
     "id": "42702",
@@ -2758,8 +2768,13 @@
       "/images/31153/3.png",
       "/images/31153/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-08-06",
+        "builder": "Navneet Krishna"
+      }
+    ]
   },
   {
     "id": "60378",
