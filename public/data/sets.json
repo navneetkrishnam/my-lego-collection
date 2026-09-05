@@ -254,8 +254,13 @@
       "/images/60491/3.png",
       "/images/60491/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-04-04",
+        "builder": "Navneet"
+      }
+    ]
   },
   {
     "id": "60469",
@@ -449,8 +454,13 @@
       "/images/60485/3.png",
       "/images/60485/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-05-31",
+        "builder": "Navneet"
+      }
+    ]
   },
   {
     "id": "60350",
@@ -505,8 +515,13 @@
       "/images/60453/3.png",
       "/images/60453/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-08-23",
+        "builder": "Anirud Krishna"
+      }
+    ]
   },
   {
     "id": "60434",
@@ -787,8 +802,13 @@
       "/images/42635/3.png",
       "/images/42635/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-04-10",
+        "builder": "Anirud Krishna"
+      }
+    ]
   },
   {
     "id": "42649",
@@ -1052,8 +1072,13 @@
       "/images/42695/3.png",
       "/images/42695/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-09-09",
+        "builder": "Anirud Krishna"
+      }
+    ]
   },
   {
     "id": "42648",
@@ -1203,8 +1228,13 @@
       "/images/30721/3.png",
       "/images/30721/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-06-19",
+        "builder": "Anirud Krishna, Miti"
+      }
+    ]
   },
   {
     "id": "42659",
@@ -1366,8 +1396,13 @@
       "/images/31169/3.png",
       "/images/31169/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-08-13",
+        "builder": "Anirud, Navneet, Miti"
+      }
+    ]
   },
   {
     "id": "31148",
@@ -1980,8 +2015,13 @@
       "/images/31209/3.png",
       "/images/31209/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-08-10",
+        "builder": "Navneet"
+      }
+    ]
   },
   {
     "id": "10359",
@@ -2082,8 +2122,13 @@
       "/images/40818/3.png",
       "/images/40818/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-08-16",
+        "builder": "Anirud Krishna"
+      }
+    ]
   },
   {
     "id": "40569",
@@ -2274,8 +2319,13 @@
       "/images/60363/3.png",
       "/images/60363/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-08-18",
+        "builder": "Anirud Krishna, Navneet"
+      }
+    ]
   },
   {
     "id": "60497",
@@ -2410,8 +2460,13 @@
       "/images/60415/3.png",
       "/images/60415/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-09-05",
+        "builder": "Anirud Krishna"
+      }
+    ]
   },
   {
     "id": "42701",
