@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { Buffer } from 'node:buffer';
+import { execFileSync } from 'child_process';
 import process from 'node:process';
 import puppeteer from 'puppeteer-extra';
 import StealthPlugin from 'puppeteer-extra-plugin-stealth';
@@ -215,7 +216,7 @@ function upsertOwnedSet(setId) {
   }
 }
 
-function upsertCollectionSet(setId, product, localImages) {
+function upsertCollectionSet(setId, product, localImages, thumbnailPath) {
   const sets = JSON.parse(fs.readFileSync(SETS_JSON_PATH, 'utf8'));
   const existingIndex = sets.findIndex((set) => set.id === setId);
   const existing = existingIndex >= 0 ? sets[existingIndex] : {};
@@ -225,7 +226,7 @@ function upsertCollectionSet(setId, product, localImages) {
     theme: product.theme || existing.theme || 'Unknown',
     age: product.age || existing.age || 'N/A',
     pieces: parseNumber(product.pieces || existing.pieces),
-    thumbnail: localImages[0] || existing.thumbnail || '',
+    thumbnail: thumbnailPath || existing.thumbnail || localImages[0] || '',
     images: localImages.length > 0 ? localImages : existing.images || [],
     status: existing.status || 'Not Started',
     history: existing.history || []
@@ -281,6 +282,18 @@ async function processSet(browser, setId) {
     localImages.push(`/images/${setId}/${index}.png`);
   }
 
+  let thumbnailPath = localImages[0] || '';
+  if (localImages.length > 0) {
+    try {
+      const primaryImagePath = path.join(imageDir, '0.png');
+      const webpThumbPath = path.join(imageDir, 'thumb.webp');
+      execFileSync('cwebp', ['-q', '80', '-resize', '400', '0', primaryImagePath, '-o', webpThumbPath], { stdio: 'pipe' });
+      thumbnailPath = `/images/${setId}/thumb.webp`;
+    } catch (thumbErr) {
+      console.warn(`Could not generate webp thumbnail for ${setId}: ${thumbErr.message}`);
+    }
+  }
+
   const partsPage = await browser.newPage();
   await partsPage.setViewport({ width: 1280, height: 900 });
   await partsPage.setExtraHTTPHeaders({ 'Accept-Language': 'en-IN,en;q=0.9' });
@@ -290,7 +303,7 @@ async function processSet(browser, setId) {
   ensureDir(PARTS_DIR);
   fs.writeFileSync(path.join(PARTS_DIR, `${setId}.json`), JSON.stringify(parts, null, 2));
 
-  upsertCollectionSet(setId, product, localImages);
+  upsertCollectionSet(setId, product, localImages, thumbnailPath);
   upsertOwnedSet(setId);
 
   console.log(
