@@ -35,8 +35,13 @@
       "/images/60488/3.png",
       "/images/60488/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-09-04",
+        "builder": "Anirud Krishna"
+      }
+    ]
   },
   {
     "id": "60500",
@@ -622,8 +627,13 @@
       "/images/42623/3.png",
       "/images/42623/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-09-07",
+        "builder": "Anirud Krishna"
+      }
+    ]
   },
   {
     "id": "42604",
@@ -1817,23 +1827,6 @@
     "history": []
   },
   {
-    "id": "40815",
-    "name": "Birthday Party Cake",
-    "theme": "Other",
-    "age": "7+",
-    "pieces": 219,
-    "thumbnail": "/images/40815/0.png",
-    "images": [
-      "/images/40815/0.png",
-      "/images/40815/1.png",
-      "/images/40815/2.png",
-      "/images/40815/3.png",
-      "/images/40815/4.png"
-    ],
-    "status": "Not Started",
-    "history": []
-  },
-  {
     "id": "40719",
     "name": "Traditional Chess Set",
     "theme": "Other",
@@ -2071,8 +2064,13 @@
       "/images/10362/3.png",
       "/images/10362/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-09-02",
+        "builder": "Navneet"
+      }
+    ]
   },
   {
     "id": "21341",
