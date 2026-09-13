@@ -4,12 +4,12 @@ import fs from 'fs';
 import { ownedSetsPath } from '../../scripts/legoInventory/lib/paths.js';
 import { parseOwnedSetsCsv, readOwnedSets, summarizeOwnedSets } from '../../scripts/legoInventory/lib/ownership.js';
 
-test('canonical owned sets file contains all 156 unique sets and 157 physical boxes', () => {
+test('canonical owned sets file contains all 159 unique sets and 160 physical boxes', () => {
   const sets = readOwnedSets(ownedSetsPath);
   const summary = summarizeOwnedSets(sets);
 
-  assert.equal(summary.uniqueSetCount, 156);
-  assert.equal(summary.physicalBoxCount, 157);
+  assert.equal(summary.uniqueSetCount, 159);
+  assert.equal(summary.physicalBoxCount, 160);
   assert.deepEqual(summary.multiQuantitySets, [{ setNumber: '30719', quantityOwned: 2 }]);
 });
 
@@ -18,8 +18,8 @@ test('canonical owned sets file keeps set order stable', () => {
 
   assert.equal(lines[0], 'set_number,quantity_owned');
   assert.equal(lines[1], '30719,2');
-  assert.equal(lines.at(-2), '42603,1');
-  assert.equal(lines.at(-1), '42163,1');
+  assert.equal(lines.at(-2), '21357,1');
+  assert.equal(lines.at(-1), '43230,1');
 });
 
 test('owned sets parser rejects malformed set numbers', () => {

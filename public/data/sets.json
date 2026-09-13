@@ -2896,5 +2896,56 @@
     ],
     "status": "Not Started",
     "history": []
+  },
+  {
+    "id": "40894",
+    "name": "Koenigsegg Sadair's Spear Steering Wheel",
+    "theme": "Technic™",
+    "age": "18+",
+    "pieces": 228,
+    "thumbnail": "/images/40894/thumb.webp",
+    "images": [
+      "/images/40894/0.png",
+      "/images/40894/1.png",
+      "/images/40894/2.png",
+      "/images/40894/3.png",
+      "/images/40894/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "21357",
+    "name": "Disney Pixar Luxo Jr.",
+    "theme": "Ideas",
+    "age": "18+",
+    "pieces": 613,
+    "thumbnail": "/images/21357/thumb.webp",
+    "images": [
+      "/images/21357/0.png",
+      "/images/21357/1.png",
+      "/images/21357/2.png",
+      "/images/21357/3.png",
+      "/images/21357/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "43230",
+    "name": "Walt Disney Tribute Camera",
+    "theme": "Disney™",
+    "age": "18+",
+    "pieces": 811,
+    "thumbnail": "/images/43230/thumb.webp",
+    "images": [
+      "/images/43230/0.png",
+      "/images/43230/1.png",
+      "/images/43230/2.png",
+      "/images/43230/3.png",
+      "/images/43230/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
   }
 ]
