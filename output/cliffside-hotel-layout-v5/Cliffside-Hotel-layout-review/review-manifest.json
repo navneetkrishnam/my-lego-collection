@@ -1,0 +1,130 @@
+{
+  "revision": "blockout-v5",
+  "model_sha256": "bda1473564180a7a20069d41094a77a6be79ca55ff5c94d88af40049be0fb961",
+  "files": {
+    "README.md": {
+      "bytes": 5618,
+      "sha256": "512fee84a8db9fb0de6b05a178937a5efb606b0ed445cca725e1e9d9fcef131d"
+    },
+    "blockout-concept.png": {
+      "bytes": 3226679,
+      "sha256": "ca4ce6269ec467c9e33a777b57050757b0cf1cda27dd5e0fd14fa05b22041e02"
+    },
+    "blockout-concept.render.json": {
+      "bytes": 740,
+      "sha256": "1c48b887ca51e93abc26002e186f9c9c080333b2f6055dc44cdb330e221bc483"
+    },
+    "blockout-front.png": {
+      "bytes": 2083857,
+      "sha256": "7a85a020c6cca96f69091de4f41dcc33e9388d1d2eb037290a2800d943ce893d"
+    },
+    "blockout-front.render.json": {
+      "bytes": 720,
+      "sha256": "0e1da13c94a113ec04e5bb20deedf4f0ba54e50c89fb40f55216761f2d8feeb4"
+    },
+    "blockout-plan.png": {
+      "bytes": 2114085,
+      "sha256": "083edcf8db63ad6e9baa6576ecb32ab583bbf404e3e5d8cd671b59b279491cd8"
+    },
+    "blockout-plan.render.json": {
+      "bytes": 715,
+      "sha256": "5b63be4453a1016b302b74e36250d94078b18a3a35dd9ef5301b82e1f4fc4389"
+    },
+    "blockout-rear.png": {
+      "bytes": 2067189,
+      "sha256": "df4fa2b1ac2ff9538621a51e8f4e821c918fc4a515b882c85f285603006e67f7"
+    },
+    "blockout-rear.render.json": {
+      "bytes": 736,
+      "sha256": "b703581d8614d39d6492a59d505da4ce0890cb09ffd4c4a31db93aa978dc106a"
+    },
+    "blockout.ldr": {
+      "bytes": 3378329,
+      "sha256": "bda1473564180a7a20069d41094a77a6be79ca55ff5c94d88af40049be0fb961"
+    },
+    "build.py": {
+      "bytes": 8436,
+      "sha256": "7483122de0bbafa4a3dd03138e9f875a46d30f7921e9b0b572017c977c89a8e6"
+    },
+    "check_layout.py": {
+      "bytes": 3699,
+      "sha256": "a724fabfc9fb2265fc43d624329fa25e1b675108c26aef6c3757a2b604d56f41"
+    },
+    "circulation-check.json": {
+      "bytes": 7699,
+      "sha256": "c457c3faec9385514873e7a9fbd27cfc24ee23764fc2c948b2acd2a32c9cac14"
+    },
+    "donor-candidates.json": {
+      "bytes": 6552,
+      "sha256": "8f38b03209f59ee58527f0b0153c4be8125f24dca119099de58909c03d410754"
+    },
+    "donor-reuse.md": {
+      "bytes": 2998,
+      "sha256": "0e575a7790fc17d4eb2bd1e8814623dab4f9452cb983ba02ba4bb8e972f66378"
+    },
+    "donors.py": {
+      "bytes": 2629,
+      "sha256": "0c7d20fad80817bc2a99c3518a26c59877fb7c89a5efdbb0d72384265537badb"
+    },
+    "geometry.py": {
+      "bytes": 4826,
+      "sha256": "6595ada3577bc1a3b2e7259ab0ebe636f41134109eca82f81c9991033dca0ae6"
+    },
+    "layout.json": {
+      "bytes": 288749,
+      "sha256": "862edb1f2d487aab1ec9cf3c605b9eb1b3c9d7537cbc6f2c08f6f0fda9530a9e"
+    },
+    "layout.py": {
+      "bytes": 9718,
+      "sha256": "d6b73d5d940ad8f716e468f822da410dfcd4093773b5301f6cf6a469e30e5411"
+    },
+    "plan-arrival.png": {
+      "bytes": 89457,
+      "sha256": "da040a3931f5427beaf5211706be29ab0db1fe776716a46844adb3ba01af7aae"
+    },
+    "plan-arrival.svg": {
+      "bytes": 23651,
+      "sha256": "0ee4a2ed136a77e27292685a3c6d989e25b49ad090b19dc9e5ecf024238c18c8"
+    },
+    "plan-guest-floor.png": {
+      "bytes": 45961,
+      "sha256": "f203375761a18c90f6415d8d12c14e68953175fdbf19e7e744d084c5b7a775ce"
+    },
+    "plan-guest-floor.svg": {
+      "bytes": 10655,
+      "sha256": "69f80ad538f8594b526856c0401bf9b6a208cdf207a70fdfbec856fa0b7685b6"
+    },
+    "plan-services.png": {
+      "bytes": 61593,
+      "sha256": "85aeec925c1fa12ff26b3aeb825d7a4e3f632a577d5fe7b6bcea9cc186f60dcd"
+    },
+    "plan-services.svg": {
+      "bytes": 19078,
+      "sha256": "898cd32074dc0dbdee08edef2702c07acac580225b015392c0e0fbac9a59f2d9"
+    },
+    "plans-provenance.json": {
+      "bytes": 672,
+      "sha256": "492047605ff96f465731210d8de5a7e101d7851b9398a88f32a011c688d2bdc6"
+    },
+    "plans.py": {
+      "bytes": 8640,
+      "sha256": "da61387fc417c4014585e54d0e606f6be1b14512e75c3a812643d9970fa2fd34"
+    },
+    "render.py": {
+      "bytes": 4888,
+      "sha256": "08728574b11ec0a59405570942c28a6d23c49ae0c4a3ac5c82327537d2537c52"
+    },
+    "verification.json": {
+      "bytes": 1083,
+      "sha256": "1f5e7d3d0f2d3741ed29e51db6a1bfadd612ee2c760a44468420b35c74a0598f"
+    },
+    "verify.py": {
+      "bytes": 6924,
+      "sha256": "d2fe5ceb134165aa1a03bc5fee398e65875d0210567002bc36891b87a88c2858"
+    },
+    "reference-concept.png": {
+      "bytes": 2420873,
+      "sha256": "ebf1e0ac0c13cfb5e602b7fb6c23d5bb9a1ec7ca9aa90efc63d8b459a9074e6a"
+    }
+  }
+}

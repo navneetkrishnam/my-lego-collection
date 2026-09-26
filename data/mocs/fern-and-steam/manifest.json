@@ -1,0 +1,27 @@
+{
+  "scope": "Final Fern & Steam revision 1 package",
+  "sha256": {
+    "data/mocs/fern-and-steam/.gitignore": "32dae3052f331ee34d628ef535709b301259a45df7c7522c4d35dcf49873f00b",
+    "data/mocs/fern-and-steam/DESIGN.md": "b06483377304e7573e9a90c6e90fb88c33cd52e0f1330db9c63700e15daeb642",
+    "data/mocs/fern-and-steam/PLAN.md": "6ff81b9258381745812d738edf9b42cc21734c8261add9d605013a6c994ac740",
+    "data/mocs/fern-and-steam/README.md": "153cf768cc109eafb12da1b94373705c1133d1dd5c20cc311ad5829e8253813f",
+    "data/mocs/fern-and-steam/REVIEW.md": "439f3a75eecc9d85743ded60b38257ec4ad13a22034e367020ecee47870663b1",
+    "data/mocs/fern-and-steam/allocation.json": "7cba297a5b5019b212a674cd4202e1e1a4e90768bf46b9a2898264936f38a24a",
+    "data/mocs/fern-and-steam/audit.py": "7b1e4d19aa929dae326919a5463dd037c6fe7fd6763a0e09e2d450c56632bbf4",
+    "data/mocs/fern-and-steam/bom.json": "a758d412b50559fdc3a1594ccf7067fe42e71ad499c2e2ac057b0bfb65464577",
+    "data/mocs/fern-and-steam/fern-and-steam.ldr": "e34ba847722be24eb06214b86fe811fc87021d9e76007f1b755c6aadeb817e23",
+    "data/mocs/fern-and-steam/inventory-snapshot.json": "2fe4643be26cafcf0e4bceea489b617962f7063b40ef76db4ad6dbf92b421f3b",
+    "data/mocs/fern-and-steam/make_guide.py": "3efcab0aeaa5ab26a6be7db6a59497e84f022660671e54b4d015dc6228972739",
+    "data/mocs/fern-and-steam/model.json": "21f16874dec8fb0165aa99a4f04102a43c5ffb943776985b821444c3384aa09b",
+    "data/mocs/fern-and-steam/model.py": "59a4f20ee6533ed9bcb9ef5dd8a84dac41d79506fd65585b8882412b7d4809d1",
+    "data/mocs/fern-and-steam/part-map.json": "bfd48497e8f89a8ed6a739e2ff3d4f08d977f78ab08e4b2ce9477fec3e65c154",
+    "data/mocs/fern-and-steam/picking-list.md": "f91923b2dfbfd8fc9d420685d94579b46f358b9287b7650902c3c8141ce8b4a1",
+    "data/mocs/fern-and-steam/preview.png": "3061bb7d4404743afaec1b9300e2ff5a7fbb0686d91c606f16d1cdcc12f101f3",
+    "data/mocs/fern-and-steam/requirements-guide.txt": "14ec660e08df1aefdea3589a05c91c7dd74b295fa97745ff145a9c26dbb5e9c2",
+    "data/mocs/fern-and-steam/test_model.py": "61bba8c67fd67e39ababc72d539596225ca253a1f5eb245580e59a440fedc98c",
+    "data/mocs/fern-and-steam/test_verify.py": "9202ff892c2e3767a72e7d9b8c36dd89c0eeae0af729971286ffb700c23de1fe",
+    "data/mocs/fern-and-steam/verification.json": "096b802cc5bd1b21ab7db3b12ebb376b37e6539131eb04a20e1d4d233e0dd47a",
+    "data/mocs/fern-and-steam/verify.py": "71907dd02a6266880b241e67d9e9d393146110791d709c6e1ab9a0f0a5461317",
+    "output/pdf/fern-and-steam-build-guide.pdf": "8c2c180b35334760a17d4ec03ef78f9880da1f280c90d10da3eac4c8faf583f4"
+  }
+}

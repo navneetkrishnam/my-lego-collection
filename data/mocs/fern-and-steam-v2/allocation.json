@@ -1,0 +1,2114 @@
+[
+  {
+    "copy": 1,
+    "element": "300301",
+    "instance": 1,
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "300501",
+    "instance": 1,
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "300501",
+    "instance": 2,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "300501",
+    "instance": 3,
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "300501",
+    "instance": 4,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "300901",
+    "instance": 1,
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "300901",
+    "instance": 2,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "300901",
+    "instance": 3,
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "300901",
+    "instance": 4,
+    "set": "31209"
+  },
+  {
+    "copy": 1,
+    "element": "300901",
+    "instance": 5,
+    "set": "40528"
+  },
+  {
+    "copy": 1,
+    "element": "300901",
+    "instance": 6,
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "301001",
+    "instance": 1,
+    "set": "11039"
+  },
+  {
+    "copy": 1,
+    "element": "301001",
+    "instance": 2,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "301001",
+    "instance": 3,
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "301001",
+    "instance": 4,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "301001",
+    "instance": 5,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "301001",
+    "instance": 6,
+    "set": "31134"
+  },
+  {
+    "copy": 1,
+    "element": "301001",
+    "instance": 7,
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "301001",
+    "instance": 8,
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "301001",
+    "instance": 9,
+    "set": "31172"
+  },
+  {
+    "copy": 1,
+    "element": "301001",
+    "instance": 10,
+    "set": "31209"
+  },
+  {
+    "copy": 1,
+    "element": "301001",
+    "instance": 11,
+    "set": "31392"
+  },
+  {
+    "copy": 1,
+    "element": "301001",
+    "instance": 12,
+    "set": "40528"
+  },
+  {
+    "copy": 1,
+    "element": "302026",
+    "instance": 1,
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "302026",
+    "instance": 2,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "302026",
+    "instance": 3,
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "302026",
+    "instance": 4,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "302026",
+    "instance": 5,
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "302026",
+    "instance": 6,
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "302026",
+    "instance": 7,
+    "set": "31380"
+  },
+  {
+    "copy": 1,
+    "element": "302026",
+    "instance": 8,
+    "set": "31392"
+  },
+  {
+    "copy": 1,
+    "element": "302026",
+    "instance": 9,
+    "set": "40803"
+  },
+  {
+    "copy": 1,
+    "element": "302026",
+    "instance": 10,
+    "set": "40804"
+  },
+  {
+    "copy": 1,
+    "element": "302026",
+    "instance": 11,
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "302026",
+    "instance": 12,
+    "set": "40817"
+  },
+  {
+    "copy": 1,
+    "element": "302326",
+    "instance": 1,
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "302326",
+    "instance": 2,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "302326",
+    "instance": 3,
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "302326",
+    "instance": 4,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 1,
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 2,
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 3,
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 4,
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 5,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 6,
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 7,
+    "set": "31149"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 8,
+    "set": "40719"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 9,
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 10,
+    "set": "42614"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 11,
+    "set": "43279"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 12,
+    "set": "60375"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 13,
+    "set": "60439"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 14,
+    "set": "60453"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 15,
+    "set": "60454"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 16,
+    "set": "60489"
+  },
+  {
+    "copy": 1,
+    "element": "303426",
+    "instance": 17,
+    "set": "60511"
+  },
+  {
+    "copy": 1,
+    "element": "303626",
+    "instance": 1,
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "303626",
+    "instance": 2,
+    "set": "31209"
+  },
+  {
+    "copy": 1,
+    "element": "303626",
+    "instance": 3,
+    "set": "42610"
+  },
+  {
+    "copy": 1,
+    "element": "303626",
+    "instance": 4,
+    "set": "42619"
+  },
+  {
+    "copy": 1,
+    "element": "303626",
+    "instance": 5,
+    "set": "60371"
+  },
+  {
+    "copy": 1,
+    "element": "303626",
+    "instance": 6,
+    "set": "60434"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 1,
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 2,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 3,
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 4,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 5,
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 6,
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 7,
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 8,
+    "set": "31155"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 9,
+    "set": "31160"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 10,
+    "set": "40719"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 11,
+    "set": "40954"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 12,
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 13,
+    "set": "41737"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 14,
+    "set": "41743"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 15,
+    "set": "41744"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "instance": 16,
+    "set": "41756"
+  },
+  {
+    "copy": 1,
+    "element": "371026",
+    "instance": 1,
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "371026",
+    "instance": 2,
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "371026",
+    "instance": 3,
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "371026",
+    "instance": 4,
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "371026",
+    "instance": 5,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "371026",
+    "instance": 6,
+    "set": "21355"
+  },
+  {
+    "copy": 1,
+    "element": "371026",
+    "instance": 7,
+    "set": "31149"
+  },
+  {
+    "copy": 1,
+    "element": "371026",
+    "instance": 8,
+    "set": "31172"
+  },
+  {
+    "copy": 1,
+    "element": "371026",
+    "instance": 9,
+    "set": "31209"
+  },
+  {
+    "copy": 1,
+    "element": "371026",
+    "instance": 10,
+    "set": "31380"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "instance": 1,
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "instance": 2,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "instance": 3,
+    "set": "31134"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "instance": 4,
+    "set": "31209"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "instance": 5,
+    "set": "40818"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "instance": 6,
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "instance": 7,
+    "set": "41736"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "instance": 8,
+    "set": "41744"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "instance": 9,
+    "set": "41756"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "instance": 10,
+    "set": "42605"
+  },
+  {
+    "copy": 1,
+    "element": "379526",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "379526",
+    "instance": 2,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "379526",
+    "instance": 3,
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "379526",
+    "instance": 4,
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "379526",
+    "instance": 5,
+    "set": "31147"
+  },
+  {
+    "copy": 1,
+    "element": "379526",
+    "instance": 6,
+    "set": "31209"
+  },
+  {
+    "copy": 1,
+    "element": "379526",
+    "instance": 7,
+    "set": "40804"
+  },
+  {
+    "copy": 1,
+    "element": "379526",
+    "instance": 8,
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "379526",
+    "instance": 9,
+    "set": "40817"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 2,
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 3,
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 4,
+    "set": "31155"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 5,
+    "set": "31156"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 6,
+    "set": "40519"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 7,
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 8,
+    "set": "40818"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 9,
+    "set": "41737"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 10,
+    "set": "42646"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 11,
+    "set": "42652"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 12,
+    "set": "42663"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 13,
+    "set": "42671"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 14,
+    "set": "42676"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 15,
+    "set": "42704"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "instance": 16,
+    "set": "60469"
+  },
+  {
+    "copy": 1,
+    "element": "4114026",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4157277",
+    "instance": 1,
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "4210794",
+    "instance": 1,
+    "set": "40528"
+  },
+  {
+    "copy": 1,
+    "element": "4210794",
+    "instance": 2,
+    "set": "60337"
+  },
+  {
+    "copy": 1,
+    "element": "4210794",
+    "instance": 3,
+    "set": "60434"
+  },
+  {
+    "copy": 1,
+    "element": "4210794",
+    "instance": 4,
+    "set": "60469"
+  },
+  {
+    "copy": 1,
+    "element": "4210794",
+    "instance": 5,
+    "set": "60502"
+  },
+  {
+    "copy": 1,
+    "element": "4210794",
+    "instance": 6,
+    "set": "60511"
+  },
+  {
+    "copy": 1,
+    "element": "4210997",
+    "instance": 1,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4210997",
+    "instance": 2,
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4210997",
+    "instance": 3,
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "4210997",
+    "instance": 4,
+    "set": "42655"
+  },
+  {
+    "copy": 1,
+    "element": "4210997",
+    "instance": 5,
+    "set": "42659"
+  },
+  {
+    "copy": 1,
+    "element": "4210997",
+    "instance": 6,
+    "set": "60330"
+  },
+  {
+    "copy": 1,
+    "element": "4210997",
+    "instance": 7,
+    "set": "60337"
+  },
+  {
+    "copy": 1,
+    "element": "4210997",
+    "instance": 8,
+    "set": "60434"
+  },
+  {
+    "copy": 1,
+    "element": "4210997",
+    "instance": 9,
+    "set": "60481"
+  },
+  {
+    "copy": 1,
+    "element": "4210997",
+    "instance": 10,
+    "set": "60482"
+  },
+  {
+    "copy": 1,
+    "element": "4210997",
+    "instance": 11,
+    "set": "60483"
+  },
+  {
+    "copy": 1,
+    "element": "4210997",
+    "instance": 12,
+    "set": "60484"
+  },
+  {
+    "copy": 1,
+    "element": "4210997",
+    "instance": 13,
+    "set": "76446"
+  },
+  {
+    "copy": 1,
+    "element": "4211149",
+    "instance": 1,
+    "set": "10349"
+  },
+  {
+    "copy": 1,
+    "element": "4211149",
+    "instance": 2,
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "4211149",
+    "instance": 3,
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "4211151",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211151",
+    "instance": 2,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4211183",
+    "instance": 1,
+    "set": "10329"
+  },
+  {
+    "copy": 1,
+    "element": "4211183",
+    "instance": 2,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211183",
+    "instance": 3,
+    "set": "30689"
+  },
+  {
+    "copy": 1,
+    "element": "4211183",
+    "instance": 4,
+    "set": "41737"
+  },
+  {
+    "copy": 1,
+    "element": "4211183",
+    "instance": 5,
+    "set": "42624"
+  },
+  {
+    "copy": 1,
+    "element": "4211183",
+    "instance": 6,
+    "set": "42648"
+  },
+  {
+    "copy": 1,
+    "element": "4211183",
+    "instance": 7,
+    "set": "42671"
+  },
+  {
+    "copy": 1,
+    "element": "4211183",
+    "instance": 8,
+    "set": "42699"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "instance": 1,
+    "set": "10344"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "instance": 2,
+    "set": "11039"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "instance": 3,
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "instance": 4,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "instance": 5,
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "instance": 6,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "instance": 7,
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4211201",
+    "instance": 1,
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "4211201",
+    "instance": 2,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211201",
+    "instance": 3,
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4211201",
+    "instance": 4,
+    "set": "41756"
+  },
+  {
+    "copy": 1,
+    "element": "4211201",
+    "instance": 5,
+    "set": "42691"
+  },
+  {
+    "copy": 1,
+    "element": "4211204",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211204",
+    "instance": 2,
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "4211225",
+    "instance": 1,
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "4211225",
+    "instance": 2,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211225",
+    "instance": 3,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4211225",
+    "instance": 4,
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4211247",
+    "instance": 1,
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "4211356",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211356",
+    "instance": 2,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4211356",
+    "instance": 3,
+    "set": "21355"
+  },
+  {
+    "copy": 1,
+    "element": "4211356",
+    "instance": 4,
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "4211356",
+    "instance": 5,
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "4211356",
+    "instance": 6,
+    "set": "31147"
+  },
+  {
+    "copy": 1,
+    "element": "4211356",
+    "instance": 7,
+    "set": "31148"
+  },
+  {
+    "copy": 1,
+    "element": "4211356",
+    "instance": 8,
+    "set": "40519"
+  },
+  {
+    "copy": 1,
+    "element": "4211356",
+    "instance": 9,
+    "set": "40528"
+  },
+  {
+    "copy": 1,
+    "element": "4211356",
+    "instance": 10,
+    "set": "40569"
+  },
+  {
+    "copy": 1,
+    "element": "4211356",
+    "instance": 11,
+    "set": "40804"
+  },
+  {
+    "copy": 1,
+    "element": "4211388",
+    "instance": 1,
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "4211388",
+    "instance": 2,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211413",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211413",
+    "instance": 2,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4211413",
+    "instance": 3,
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4211413",
+    "instance": 4,
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "4211414",
+    "instance": 1,
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "4211414",
+    "instance": 2,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4211414",
+    "instance": 3,
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "4211414",
+    "instance": 4,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "4211414",
+    "instance": 5,
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "4211414",
+    "instance": 6,
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "4211414",
+    "instance": 7,
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "4211415",
+    "instance": 1,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4211415",
+    "instance": 2,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "4211415",
+    "instance": 3,
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "4211415",
+    "instance": 4,
+    "set": "40519"
+  },
+  {
+    "copy": 1,
+    "element": "4211481",
+    "instance": 1,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4211481",
+    "instance": 2,
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "4211481",
+    "instance": 3,
+    "set": "31169"
+  },
+  {
+    "copy": 1,
+    "element": "4211481",
+    "instance": 4,
+    "set": "41727"
+  },
+  {
+    "copy": 1,
+    "element": "4211481",
+    "instance": 5,
+    "set": "42652"
+  },
+  {
+    "copy": 1,
+    "element": "4211481",
+    "instance": 6,
+    "set": "42670"
+  },
+  {
+    "copy": 1,
+    "element": "4211481",
+    "instance": 7,
+    "set": "42674"
+  },
+  {
+    "copy": 1,
+    "element": "4211481",
+    "instance": 8,
+    "set": "42687"
+  },
+  {
+    "copy": 1,
+    "element": "4211481",
+    "instance": 9,
+    "set": "42704"
+  },
+  {
+    "copy": 1,
+    "element": "4211481",
+    "instance": 10,
+    "set": "60337"
+  },
+  {
+    "copy": 1,
+    "element": "4211481",
+    "instance": 11,
+    "set": "60371"
+  },
+  {
+    "copy": 1,
+    "element": "4211481",
+    "instance": 12,
+    "set": "60434"
+  },
+  {
+    "copy": 1,
+    "element": "4211481",
+    "instance": 13,
+    "set": "60469"
+  },
+  {
+    "copy": 1,
+    "element": "4211549",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211549",
+    "instance": 2,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4211549",
+    "instance": 3,
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "4211549",
+    "instance": 4,
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "4216695",
+    "instance": 1,
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "4245571",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4245571",
+    "instance": 2,
+    "set": "42646"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "instance": 1,
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "instance": 2,
+    "set": "31155"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "instance": 3,
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "instance": 4,
+    "set": "42663"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "instance": 5,
+    "set": "42666"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "instance": 6,
+    "set": "42670"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "instance": 7,
+    "set": "42671"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "instance": 8,
+    "set": "42674"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "instance": 9,
+    "set": "42692"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "instance": 10,
+    "set": "42695"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "instance": 11,
+    "set": "42699"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "instance": 12,
+    "set": "60316"
+  },
+  {
+    "copy": 1,
+    "element": "4550324",
+    "instance": 1,
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 2,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 3,
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 4,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 5,
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 6,
+    "set": "40519"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 7,
+    "set": "40569"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 8,
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 9,
+    "set": "41756"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 10,
+    "set": "42612"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 11,
+    "set": "42674"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 12,
+    "set": "42695"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 13,
+    "set": "60316"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 14,
+    "set": "60350"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 15,
+    "set": "60375"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 16,
+    "set": "60497"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 17,
+    "set": "60502"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 18,
+    "set": "76417"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "instance": 19,
+    "set": "76446"
+  },
+  {
+    "copy": 1,
+    "element": "4659665",
+    "instance": 1,
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "4659665",
+    "instance": 2,
+    "set": "42670"
+  },
+  {
+    "copy": 1,
+    "element": "6031057",
+    "instance": 1,
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "6122047",
+    "instance": 1,
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "6122047",
+    "instance": 2,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "6122047",
+    "instance": 3,
+    "set": "21355"
+  },
+  {
+    "copy": 1,
+    "element": "6122047",
+    "instance": 4,
+    "set": "40519"
+  },
+  {
+    "copy": 1,
+    "element": "6122047",
+    "instance": 5,
+    "set": "41737"
+  },
+  {
+    "copy": 1,
+    "element": "6122047",
+    "instance": 6,
+    "set": "41759"
+  },
+  {
+    "copy": 1,
+    "element": "6122047",
+    "instance": 7,
+    "set": "42669"
+  },
+  {
+    "copy": 1,
+    "element": "6122047",
+    "instance": 8,
+    "set": "60320"
+  },
+  {
+    "copy": 1,
+    "element": "6122047",
+    "instance": 9,
+    "set": "60337"
+  },
+  {
+    "copy": 1,
+    "element": "6122047",
+    "instance": 10,
+    "set": "60453"
+  },
+  {
+    "copy": 1,
+    "element": "6122047",
+    "instance": 11,
+    "set": "76446"
+  },
+  {
+    "copy": 1,
+    "element": "6182261",
+    "instance": 1,
+    "set": "11039"
+  },
+  {
+    "copy": 1,
+    "element": "6182261",
+    "instance": 2,
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "6182261",
+    "instance": 3,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "6182261",
+    "instance": 4,
+    "set": "21355"
+  },
+  {
+    "copy": 1,
+    "element": "6206149",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "6206149",
+    "instance": 2,
+    "set": "21355"
+  },
+  {
+    "copy": 1,
+    "element": "6206149",
+    "instance": 3,
+    "set": "30721"
+  },
+  {
+    "copy": 1,
+    "element": "6206149",
+    "instance": 4,
+    "set": "42614"
+  },
+  {
+    "copy": 1,
+    "element": "6212501",
+    "instance": 1,
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "6212501",
+    "instance": 2,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "6212501",
+    "instance": 3,
+    "set": "40713"
+  },
+  {
+    "copy": 1,
+    "element": "6212501",
+    "instance": 4,
+    "set": "40818"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "instance": 1,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "instance": 2,
+    "set": "21355"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "instance": 3,
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "instance": 4,
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "instance": 5,
+    "set": "31391"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "instance": 6,
+    "set": "40528"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "instance": 7,
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "instance": 8,
+    "set": "41743"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "instance": 9,
+    "set": "41744"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "instance": 10,
+    "set": "42618"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "instance": 11,
+    "set": "42642"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "instance": 12,
+    "set": "42648"
+  },
+  {
+    "copy": 1,
+    "element": "6249033",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "6249033",
+    "instance": 2,
+    "set": "42604"
+  },
+  {
+    "copy": 1,
+    "element": "6256127",
+    "instance": 1,
+    "set": "41744"
+  },
+  {
+    "copy": 1,
+    "element": "6256127",
+    "instance": 2,
+    "set": "42605"
+  },
+  {
+    "copy": 1,
+    "element": "6262945",
+    "instance": 1,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "6295242",
+    "instance": 1,
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "6295242",
+    "instance": 2,
+    "set": "11506"
+  },
+  {
+    "copy": 1,
+    "element": "6295242",
+    "instance": 3,
+    "set": "41727"
+  },
+  {
+    "copy": 1,
+    "element": "6295242",
+    "instance": 4,
+    "set": "41736"
+  },
+  {
+    "copy": 1,
+    "element": "6400754",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "6400754",
+    "instance": 2,
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "6400754",
+    "instance": 3,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "6400754",
+    "instance": 4,
+    "set": "30697"
+  },
+  {
+    "copy": 1,
+    "element": "6447541",
+    "instance": 1,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "6447541",
+    "instance": 2,
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "6447541",
+    "instance": 3,
+    "set": "42624"
+  },
+  {
+    "copy": 1,
+    "element": "6447541",
+    "instance": 4,
+    "set": "42669"
+  },
+  {
+    "copy": 1,
+    "element": "6503221",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "6503221",
+    "instance": 2,
+    "set": "42659"
+  },
+  {
+    "copy": 1,
+    "element": "6503221",
+    "instance": 3,
+    "set": "60453"
+  },
+  {
+    "copy": 1,
+    "element": "6503221",
+    "instance": 4,
+    "set": "60454"
+  },
+  {
+    "copy": 1,
+    "element": "6511024",
+    "instance": 1,
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "6511024",
+    "instance": 2,
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "6514119",
+    "instance": 1,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "instance": 1,
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "instance": 2,
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "instance": 3,
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "instance": 4,
+    "set": "41756"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "instance": 5,
+    "set": "42646"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "instance": 6,
+    "set": "42655"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "instance": 7,
+    "set": "42663"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "instance": 8,
+    "set": "42669"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "instance": 9,
+    "set": "42671"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "instance": 10,
+    "set": "42680"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "instance": 11,
+    "set": "42695"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "instance": 12,
+    "set": "60453"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 1,
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 2,
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 3,
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 4,
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 5,
+    "set": "40528"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 6,
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 7,
+    "set": "41737"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 8,
+    "set": "41744"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 9,
+    "set": "41756"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 10,
+    "set": "42605"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 11,
+    "set": "42614"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 12,
+    "set": "42670"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 13,
+    "set": "42671"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 14,
+    "set": "42687"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 15,
+    "set": "42689"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 16,
+    "set": "42704"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 17,
+    "set": "43271"
+  },
+  {
+    "copy": 1,
+    "element": "663601",
+    "instance": 18,
+    "set": "60316"
+  },
+  {
+    "copy": 1,
+    "element": "663626",
+    "instance": 1,
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "663626",
+    "instance": 2,
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "663626",
+    "instance": 3,
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "663626",
+    "instance": 4,
+    "set": "31147"
+  }
+]

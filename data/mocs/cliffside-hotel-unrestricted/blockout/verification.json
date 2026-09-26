@@ -1,0 +1,39 @@
+{
+  "scope": "deterministic proxy geometry and render provenance only",
+  "deterministic_regeneration": true,
+  "finite_nondegenerate_geometry": true,
+  "dimension_bounds_match": true,
+  "bounds_world_stud_units": [
+    [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    [
+      96.0,
+      89.75,
+      88.0
+    ]
+  ],
+  "model_sha256": "73b1f44612018754f1ed0d9d7ccd6ca42fa638cc8c4740061d8039392379c64a",
+  "views": {
+    "concept": {
+      "hashes_match": true,
+      "image_readable": true
+    },
+    "front": {
+      "hashes_match": true,
+      "image_readable": true
+    },
+    "rear": {
+      "hashes_match": true,
+      "image_readable": true
+    },
+    "plan": {
+      "hashes_match": true,
+      "image_readable": true
+    }
+  },
+  "lego_parts_verified": false,
+  "physical_assembly_tested": false
+}

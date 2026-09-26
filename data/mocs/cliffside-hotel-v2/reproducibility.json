@@ -1,0 +1,15 @@
+{
+  "allocation_pass": true,
+  "allocation_rows": 1894,
+  "current_digital_reports_pass": true,
+  "current_render_hashes_pass": true,
+  "deterministic_placements": true,
+  "donor_sets": 137,
+  "exact_elements": 295,
+  "instruction_quantity_rows_verified": 129,
+  "ldr_sha256": "3735f15106308553b8d1d56457aee50b39f5bdfdc5805f345c18416034515402",
+  "model_sha256": "e57dcb2a193e6168e9073df5f04a77333c5018bba012d3e700296484d38c0bde",
+  "physical_build_tested": false,
+  "piece_count": 2648,
+  "visual_status": "Review draft; roof and cliff detail remain simplified relative to the approved concept"
+}

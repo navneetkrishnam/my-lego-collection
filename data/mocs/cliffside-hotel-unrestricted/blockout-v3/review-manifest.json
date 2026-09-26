@@ -1,0 +1,33 @@
+{
+  "scope": "Architectural room-layout review; not LEGO part instances",
+  "files": {
+    "README.md": "1e00bd0f73454f517b023f9456eb22c9e5f02618cff34b095c81ab47a5e0502f",
+    "blockout-concept.png": "db090c12b923e9e37d3af0d08aba8489c6253501a01ef719c47be83b39ea2c35",
+    "blockout-concept.render.json": "12027b1396b0c0683b1a613c28b59dde1f6581e74c46961fa9d1340015d6c588",
+    "blockout-front.png": "6b48f3f11c863d9e3d871e3557755376950ba04832878c3a55d1fc09fde4115e",
+    "blockout-front.render.json": "da88b192defa0b3d78554a969b848c5565291a968d11a2946b33f4d52f3b70b7",
+    "blockout-plan.png": "bbd3a13338f00795b1aab337145021e7162c688c2aa9cf71737c5d2e96d98ac3",
+    "blockout-plan.render.json": "9f06a66f25efdab060547f688409d5d75c55e333d42f42e9c1ee2b4d4a9127d3",
+    "blockout-rear.png": "22cb26d0697b7ccb5b8dadd36d4110b394dfd055ac7e0f4c7f95816f511ace2a",
+    "blockout-rear.render.json": "90d8540b42578caff7e296c4e11c7e312aa70bef2006b31b11232e395b2b7c79",
+    "blockout.ldr": "473fd61bf62f08cbf34f50f43fe2b3179163d1c0166c02984be7f5598a19c42e",
+    "build.py": "02d8c6306d4fb05058b66f8a88b5cb6a5c7f14632a0d027f74e06444937524d5",
+    "check_layout.py": "af6ea91dc957b3b2f2b59d2ac9bba7ea7ea1d31e3d4abc887322c129ba0ebf72",
+    "circulation-check.json": "58543f5129cd564cc9b263e76dfa3de6c0979a4b8013f4adce586e0d03c4f466",
+    "geometry.py": "6595ada3577bc1a3b2e7259ab0ebe636f41134109eca82f81c9991033dca0ae6",
+    "layout.json": "cb0f19b611c1e877dc649209f688cce07c56c08930a456804ee4d7cf334a3458",
+    "layout.py": "3ff34f2d5347ad2d2870787b829d300b43c1cc374aacb127810c59cd9b315bf7",
+    "plan-arrival.png": "1aec32fbdf641a8d59fff292bc9d3dba8ed8316ae77e08af5676a38ebe0611a6",
+    "plan-arrival.svg": "10e3c82e19f47cec3adeb73bacd890fef2c6c1ad7cd033af8c6509ba5d687f5d",
+    "plan-guest-floor.png": "235cf1c67ccc5316649d544d0d8d2829535f3215dd9b6d63be71386e3a457fa0",
+    "plan-guest-floor.svg": "2189b9952f05de7d69c278b65ba04a6cc9fa8b1e4164171676fa6c5041d36a39",
+    "plan-services.png": "0026e1f53e383c4c3a21a8ac8573c3ade31a78454a50514eeea268717db78e1a",
+    "plan-services.svg": "b4b438234642fecd7c7b83bfc2f49235191115753c018b25b6a545356c414212",
+    "plans-provenance.json": "87d48fa9c9fdaaa073750729d91012b63fc15d6232b9a27a8b1900298a93da69",
+    "plans.py": "f0c3c646b197c41aa8730deca41bbd7856c1a32fc37202bb53554ae52aaf6ddd",
+    "render.py": "08728574b11ec0a59405570942c28a6d23c49ae0c4a3ac5c82327537d2537c52",
+    "verification.json": "28bb2bb4d09261bc44f1aa74b8f76c9e5bc42958faa060a4e4f2a417cef83a6b",
+    "verify.py": "60bdf0aa7b225afc5267fd956ed936c834136840aaad17188bfc5bd165e87b81",
+    "reference-concept.png": "ebf1e0ac0c13cfb5e602b7fb6c23d5bb9a1ec7ca9aa90efc63d8b459a9074e6a"
+  }
+}

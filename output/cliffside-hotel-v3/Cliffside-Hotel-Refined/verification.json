@@ -1,0 +1,20 @@
+{
+  "piece_count": 3275,
+  "exact_elements": 401,
+  "shortages": [],
+  "duplicates": [],
+  "ordinary_body_overlaps": [],
+  "invalid_inserts": [],
+  "invalid_hinges": [],
+  "invalid_transforms": [],
+  "connected_components": 1,
+  "isolated_components": [],
+  "inventory_pass": true,
+  "digital_checks_pass": true,
+  "limitations": [
+    "Ordinary body occupancy covers axis-aligned parts and each roof plane separately; pitched-to-building crossings need mesh checks.",
+    "Stud/bar/clip positions establish connectivity, not clutch strength, rigidity or construction access.",
+    "Physical build not tested."
+  ],
+  "model_sha256": "404ada1bb0d576b969e550f9b2b86cf1d3dab386e6544510aa6fbfa1efeb122a"
+}

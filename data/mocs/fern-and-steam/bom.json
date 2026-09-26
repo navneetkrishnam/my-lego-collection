@@ -1,0 +1,2612 @@
+[
+  {
+    "color": "White",
+    "d": 2,
+    "element": "300301",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3003.dat",
+    "h": 3,
+    "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300301.jpg",
+    "kind": "box",
+    "ldraw": "3003.dat",
+    "ldraw_color": 15,
+    "minimum": 19,
+    "name": "Brick 2 x 2",
+    "required": 1,
+    "rgb": "#F4F4F4",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "French Caf\u00e9",
+        "set": "10362"
+      },
+      {
+        "copy": 1,
+        "name": "Creative Happy Box",
+        "set": "11042"
+      },
+      {
+        "copy": 1,
+        "name": "Himeji Castle",
+        "set": "21060"
+      },
+      {
+        "copy": 1,
+        "name": "The Botanical Garden",
+        "set": "21353"
+      },
+      {
+        "copy": 1,
+        "name": "The Evolution of STEM",
+        "set": "21355"
+      },
+      {
+        "copy": 1,
+        "name": "LEGO Brand Retail Store",
+        "set": "40528"
+      },
+      {
+        "copy": 1,
+        "name": "Traditional Chess Set",
+        "set": "40719"
+      },
+      {
+        "copy": 1,
+        "name": "Sports Center",
+        "set": "41744"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+        "set": "42604"
+      },
+      {
+        "copy": 1,
+        "name": "Mars\u00a0Space\u00a0Base and Rocket",
+        "set": "42605"
+      },
+      {
+        "copy": 1,
+        "name": "Pop Star Music Tour Bus",
+        "set": "42619"
+      },
+      {
+        "copy": 1,
+        "name": "Restaurant and Cooking School",
+        "set": "42655"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Friends Club House",
+        "set": "42689"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Grand Hotel",
+        "set": "42704"
+      },
+      {
+        "copy": 1,
+        "name": "Fire Station",
+        "set": "60320"
+      },
+      {
+        "copy": 1,
+        "name": "Hospital",
+        "set": "60330"
+      },
+      {
+        "copy": 1,
+        "name": "Express Passenger Train",
+        "set": "60337"
+      },
+      {
+        "copy": 1,
+        "name": "Burger Truck",
+        "set": "60404"
+      },
+      {
+        "copy": 1,
+        "name": "Space Base and Rocket Launchpad",
+        "set": "60434"
+      }
+    ],
+    "studded": true,
+    "w": 2
+  },
+  {
+    "color": "White",
+    "d": 2,
+    "element": "300401",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3004.dat",
+    "h": 3,
+    "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300401.jpg",
+    "kind": "box",
+    "ldraw": "3004.dat",
+    "ldraw_color": 15,
+    "minimum": 43,
+    "name": "Brick 1 x 2",
+    "required": 15,
+    "rgb": "#F4F4F4",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Creative Food Friends",
+        "set": "11039"
+      },
+      {
+        "copy": 1,
+        "name": "Creative Happy Box",
+        "set": "11042"
+      },
+      {
+        "copy": 1,
+        "name": "Stranger Things: The Creel House",
+        "set": "11370"
+      },
+      {
+        "copy": 1,
+        "name": "Himeji Castle",
+        "set": "21060"
+      },
+      {
+        "copy": 1,
+        "name": "Polaroid OneStep SX-70 Camera",
+        "set": "21345"
+      },
+      {
+        "copy": 1,
+        "name": "The Botanical Garden",
+        "set": "21353"
+      },
+      {
+        "copy": 1,
+        "name": "The Evolution of STEM",
+        "set": "21355"
+      },
+      {
+        "copy": 1,
+        "name": "Main Street",
+        "set": "31141"
+      },
+      {
+        "copy": 1,
+        "name": "Record Player with Flowers",
+        "set": "31172"
+      },
+      {
+        "copy": 1,
+        "name": "The Amazing Spider-Man",
+        "set": "31209"
+      },
+      {
+        "copy": 1,
+        "name": "LEGO Brand Retail Store",
+        "set": "40528"
+      },
+      {
+        "copy": 1,
+        "name": "EVE & WALL\u2022E",
+        "set": "40619"
+      },
+      {
+        "copy": 1,
+        "name": "Optimus Prime Robot & Vehicle",
+        "set": "40803"
+      },
+      {
+        "copy": 1,
+        "name": "Arcade Machine",
+        "set": "40805"
+      },
+      {
+        "copy": 1,
+        "name": "Germany Postcard",
+        "set": "40954"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake International School",
+        "set": "41731"
+      },
+      {
+        "copy": 1,
+        "name": "Sports Center",
+        "set": "41744"
+      },
+      {
+        "copy": 1,
+        "name": "Leo's Room",
+        "set": "41754"
+      },
+      {
+        "copy": 1,
+        "name": "Stargazing Camping Vehicle",
+        "set": "42603"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+        "set": "42604"
+      },
+      {
+        "copy": 1,
+        "name": "Mars\u00a0Space\u00a0Base and Rocket",
+        "set": "42605"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Caf\u00e9",
+        "set": "42618"
+      },
+      {
+        "copy": 1,
+        "name": "Pop Star Music Tour Bus",
+        "set": "42619"
+      },
+      {
+        "copy": 1,
+        "name": "Beach Water Scooter",
+        "set": "42623"
+      },
+      {
+        "copy": 1,
+        "name": "Restaurant and Cooking School",
+        "set": "42655"
+      },
+      {
+        "copy": 1,
+        "name": "Friendship Camper Van Adventure",
+        "set": "42663"
+      },
+      {
+        "copy": 1,
+        "name": "Beekeepers' House and Flower Garden",
+        "set": "42669"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Apartments and Stores",
+        "set": "42670"
+      },
+      {
+        "copy": 1,
+        "name": "Comic Book and Game Store",
+        "set": "42674"
+      },
+      {
+        "copy": 1,
+        "name": "Liann's Family House",
+        "set": "42687"
+      },
+      {
+        "copy": 1,
+        "name": "Garden Restaurant",
+        "set": "42691"
+      },
+      {
+        "copy": 1,
+        "name": "Mermaid Roller Coaster Ride",
+        "set": "42703"
+      },
+      {
+        "copy": 1,
+        "name": "WALL-E and EVE",
+        "set": "43279"
+      },
+      {
+        "copy": 1,
+        "name": "Police Station",
+        "set": "60316"
+      },
+      {
+        "copy": 1,
+        "name": "Hospital",
+        "set": "60330"
+      },
+      {
+        "copy": 1,
+        "name": "Express Passenger Train",
+        "set": "60337"
+      },
+      {
+        "copy": 1,
+        "name": "Lunar Research Base",
+        "set": "60350"
+      },
+      {
+        "copy": 1,
+        "name": "Ice-Cream Shop",
+        "set": "60363"
+      },
+      {
+        "copy": 1,
+        "name": "Ski and Climbing Center",
+        "set": "60366"
+      },
+      {
+        "copy": 1,
+        "name": "Space Base and Rocket Launchpad",
+        "set": "60434"
+      },
+      {
+        "copy": 1,
+        "name": "Space Science Lab",
+        "set": "60439"
+      },
+      {
+        "copy": 1,
+        "name": "Drive-Through Car Wash",
+        "set": "60497"
+      },
+      {
+        "copy": 1,
+        "name": "Airport with Airplane",
+        "set": "60502"
+      }
+    ],
+    "studded": true,
+    "w": 1
+  },
+  {
+    "color": "White",
+    "d": 1,
+    "element": "300501",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3005.dat",
+    "h": 3,
+    "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300501.jpg",
+    "kind": "box",
+    "ldraw": "3005.dat",
+    "ldraw_color": 15,
+    "minimum": 43,
+    "name": "Brick 1 x 1",
+    "required": 20,
+    "rgb": "#F4F4F4",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "French Caf\u00e9",
+        "set": "10362"
+      },
+      {
+        "copy": 1,
+        "name": "Stranger Things: The Creel House",
+        "set": "11370"
+      },
+      {
+        "copy": 1,
+        "name": "Great Pyramid of Giza",
+        "set": "21058"
+      },
+      {
+        "copy": 1,
+        "name": "Himeji Castle",
+        "set": "21060"
+      },
+      {
+        "copy": 1,
+        "name": "Polaroid OneStep SX-70 Camera",
+        "set": "21345"
+      },
+      {
+        "copy": 1,
+        "name": "The Botanical Garden",
+        "set": "21353"
+      },
+      {
+        "copy": 1,
+        "name": "Main Street",
+        "set": "31141"
+      },
+      {
+        "copy": 1,
+        "name": "Modern House",
+        "set": "31153"
+      },
+      {
+        "copy": 1,
+        "name": "Aircraft: Race Plane",
+        "set": "31160"
+      },
+      {
+        "copy": 1,
+        "name": "Music Decor Piano with Cat",
+        "set": "31392"
+      },
+      {
+        "copy": 1,
+        "name": "LEGO Brand Retail Store",
+        "set": "40528"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake International School",
+        "set": "41731"
+      },
+      {
+        "copy": 1,
+        "name": "Beach Amusement Park",
+        "set": "41737"
+      },
+      {
+        "copy": 1,
+        "name": "Hair Salon",
+        "set": "41743"
+      },
+      {
+        "copy": 1,
+        "name": "Sports Center",
+        "set": "41744"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+        "set": "42604"
+      },
+      {
+        "copy": 1,
+        "name": "Mars\u00a0Space\u00a0Base and Rocket",
+        "set": "42605"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Ice Cream Truck",
+        "set": "42644"
+      },
+      {
+        "copy": 1,
+        "name": "Hair Salon and Accessories Store",
+        "set": "42662"
+      },
+      {
+        "copy": 1,
+        "name": "Friendship Camper Van Adventure",
+        "set": "42663"
+      },
+      {
+        "copy": 1,
+        "name": "Beekeepers' House and Flower Garden",
+        "set": "42669"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Apartments and Stores",
+        "set": "42670"
+      },
+      {
+        "copy": 1,
+        "name": "Plant Caf\u00e9 & Flower Shop",
+        "set": "42671"
+      },
+      {
+        "copy": 1,
+        "name": "Comic Book and Game Store",
+        "set": "42674"
+      },
+      {
+        "copy": 1,
+        "name": "Fun Water Park Day",
+        "set": "42676"
+      },
+      {
+        "copy": 1,
+        "name": "Liann's Family House",
+        "set": "42687"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Friends Club House",
+        "set": "42689"
+      },
+      {
+        "copy": 1,
+        "name": "Garden Restaurant",
+        "set": "42691"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Grand Hotel",
+        "set": "42704"
+      },
+      {
+        "copy": 1,
+        "name": "WALL-E and EVE",
+        "set": "43279"
+      },
+      {
+        "copy": 1,
+        "name": "Police Station",
+        "set": "60316"
+      },
+      {
+        "copy": 1,
+        "name": "Hospital",
+        "set": "60330"
+      },
+      {
+        "copy": 1,
+        "name": "Ski and Climbing Center",
+        "set": "60366"
+      },
+      {
+        "copy": 1,
+        "name": "Emergency Vehicles HQ",
+        "set": "60371"
+      },
+      {
+        "copy": 1,
+        "name": "Arctic Explorer Truck and Mobile Lab",
+        "set": "60378"
+      },
+      {
+        "copy": 1,
+        "name": "Penguin Slushy Van",
+        "set": "60384"
+      },
+      {
+        "copy": 1,
+        "name": "Space Base and Rocket Launchpad",
+        "set": "60434"
+      },
+      {
+        "copy": 1,
+        "name": "Space Science Lab",
+        "set": "60439"
+      },
+      {
+        "copy": 1,
+        "name": "Donut Truck",
+        "set": "60452"
+      },
+      {
+        "copy": 1,
+        "name": "Holiday Adventure Camper Van",
+        "set": "60454"
+      },
+      {
+        "copy": 1,
+        "name": "Central Train Station",
+        "set": "60469"
+      },
+      {
+        "copy": 1,
+        "name": "Airport with Airplane",
+        "set": "60502"
+      },
+      {
+        "copy": 1,
+        "name": "Gringotts\u2122 Wizarding Bank \u2013 Collectors' Edition",
+        "set": "76417"
+      }
+    ],
+    "studded": true,
+    "w": 1
+  },
+  {
+    "color": "White",
+    "d": 4,
+    "element": "301001",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3010.dat",
+    "h": 3,
+    "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/301001.jpg",
+    "kind": "box",
+    "ldraw": "3010.dat",
+    "ldraw_color": 15,
+    "minimum": 38,
+    "name": "Brick 1 x 4",
+    "required": 6,
+    "rgb": "#F4F4F4",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Creative Food Friends",
+        "set": "11039"
+      },
+      {
+        "copy": 1,
+        "name": "Stranger Things: The Creel House",
+        "set": "11370"
+      },
+      {
+        "copy": 1,
+        "name": "Great Pyramid of Giza",
+        "set": "21058"
+      },
+      {
+        "copy": 1,
+        "name": "Himeji Castle",
+        "set": "21060"
+      },
+      {
+        "copy": 1,
+        "name": "The Botanical Garden",
+        "set": "21353"
+      },
+      {
+        "copy": 1,
+        "name": "Space Shuttle",
+        "set": "31134"
+      },
+      {
+        "copy": 1,
+        "name": "Main Street",
+        "set": "31141"
+      },
+      {
+        "copy": 1,
+        "name": "Modern House",
+        "set": "31153"
+      },
+      {
+        "copy": 1,
+        "name": "Record Player with Flowers",
+        "set": "31172"
+      },
+      {
+        "copy": 1,
+        "name": "The Amazing Spider-Man",
+        "set": "31209"
+      },
+      {
+        "copy": 1,
+        "name": "Music Decor Piano with Cat",
+        "set": "31392"
+      },
+      {
+        "copy": 1,
+        "name": "LEGO Brand Retail Store",
+        "set": "40528"
+      },
+      {
+        "copy": 1,
+        "name": "EVE & WALL\u2022E",
+        "set": "40619"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake International School",
+        "set": "41731"
+      },
+      {
+        "copy": 1,
+        "name": "Hair Salon",
+        "set": "41743"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+        "set": "42604"
+      },
+      {
+        "copy": 1,
+        "name": "Mars\u00a0Space\u00a0Base and Rocket",
+        "set": "42605"
+      },
+      {
+        "copy": 1,
+        "name": "Restaurant and Cooking School",
+        "set": "42655"
+      },
+      {
+        "copy": 1,
+        "name": "Friendship Camper Van Adventure",
+        "set": "42663"
+      },
+      {
+        "copy": 1,
+        "name": "Puppy Playground",
+        "set": "42665"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Apartments and Stores",
+        "set": "42670"
+      },
+      {
+        "copy": 1,
+        "name": "Garden Restaurant",
+        "set": "42691"
+      },
+      {
+        "copy": 1,
+        "name": "Mermaid Roller Coaster Ride",
+        "set": "42703"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Grand Hotel",
+        "set": "42704"
+      },
+      {
+        "copy": 1,
+        "name": "Police Station",
+        "set": "60316"
+      },
+      {
+        "copy": 1,
+        "name": "Fire Station",
+        "set": "60320"
+      },
+      {
+        "copy": 1,
+        "name": "Hospital",
+        "set": "60330"
+      },
+      {
+        "copy": 1,
+        "name": "Express Passenger Train",
+        "set": "60337"
+      },
+      {
+        "copy": 1,
+        "name": "Lunar Research Base",
+        "set": "60350"
+      },
+      {
+        "copy": 1,
+        "name": "Ice-Cream Shop",
+        "set": "60363"
+      },
+      {
+        "copy": 1,
+        "name": "Ski and Climbing Center",
+        "set": "60366"
+      },
+      {
+        "copy": 1,
+        "name": "Emergency Vehicles HQ",
+        "set": "60371"
+      },
+      {
+        "copy": 1,
+        "name": "Penguin Slushy Van",
+        "set": "60384"
+      },
+      {
+        "copy": 1,
+        "name": "Space Base and Rocket Launchpad",
+        "set": "60434"
+      },
+      {
+        "copy": 1,
+        "name": "Holiday Adventure Camper Van",
+        "set": "60454"
+      },
+      {
+        "copy": 1,
+        "name": "Central Train Station",
+        "set": "60469"
+      },
+      {
+        "copy": 1,
+        "name": "Motorcycle Transporter",
+        "set": "60491"
+      },
+      {
+        "copy": 1,
+        "name": "Airport with Airplane",
+        "set": "60502"
+      }
+    ],
+    "studded": true,
+    "w": 1
+  },
+  {
+    "color": "Green",
+    "d": 2,
+    "element": "302228",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3022.dat",
+    "h": 1,
+    "image_url": "https://www.lego.com/cdn/cs/set/assets/bltfbebf14761b040c9/302228.jpg",
+    "kind": "box",
+    "ldraw": "3022.dat",
+    "ldraw_color": 2,
+    "minimum": 5,
+    "name": "Plate 2 x 2",
+    "required": 3,
+    "rgb": "#237841",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Tiny Plants",
+        "set": "10329"
+      },
+      {
+        "copy": 1,
+        "name": "Teenage Mutant Ninja Turtles Figures",
+        "set": "40878"
+      },
+      {
+        "copy": 1,
+        "name": "Sports Center",
+        "set": "41744"
+      },
+      {
+        "copy": 1,
+        "name": "Panda Sanctuary Animal Care",
+        "set": "42648"
+      },
+      {
+        "copy": 1,
+        "name": "Friendship Camper Van Adventure",
+        "set": "42663"
+      }
+    ],
+    "studded": true,
+    "w": 2
+  },
+  {
+    "color": "Black",
+    "d": 8,
+    "element": "303526",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3035.dat",
+    "h": 1,
+    "image_url": "https://www.lego.com/cdn/cs/set/assets/blt5a8c2151104912e2/303526.jpg",
+    "kind": "box",
+    "ldraw": "3035.dat",
+    "ldraw_color": 0,
+    "minimum": 8,
+    "name": "Plate 4 x 8",
+    "required": 8,
+    "rgb": "#242728",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "French Caf\u00e9",
+        "set": "10362"
+      },
+      {
+        "copy": 1,
+        "name": "Arcade Machine",
+        "set": "40805"
+      },
+      {
+        "copy": 1,
+        "name": "Karaoke Music Party",
+        "set": "42610"
+      },
+      {
+        "copy": 1,
+        "name": "Pop Star Music Tour Bus",
+        "set": "42619"
+      },
+      {
+        "copy": 1,
+        "name": "Recycling Truck",
+        "set": "60386"
+      },
+      {
+        "copy": 1,
+        "name": "Construction Steamroller",
+        "set": "60401"
+      },
+      {
+        "copy": 1,
+        "name": "Space Science Lab",
+        "set": "60439"
+      },
+      {
+        "copy": 1,
+        "name": "Central Train Station",
+        "set": "60469"
+      }
+    ],
+    "studded": true,
+    "w": 4
+  },
+  {
+    "color": "White",
+    "d": 2,
+    "element": "306901",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3069b.dat",
+    "h": 1,
+    "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/306901.jpg",
+    "kind": "box",
+    "ldraw": "3069b.dat",
+    "ldraw_color": 15,
+    "minimum": 45,
+    "name": "Tile 1 x 2",
+    "required": 3,
+    "rgb": "#F4F4F4",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Stranger Things: The Creel House",
+        "set": "11370"
+      },
+      {
+        "copy": 1,
+        "name": "Great Pyramid of Giza",
+        "set": "21058"
+      },
+      {
+        "copy": 1,
+        "name": "Himeji Castle",
+        "set": "21060"
+      },
+      {
+        "copy": 1,
+        "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+        "set": "21341"
+      },
+      {
+        "copy": 1,
+        "name": "Polaroid OneStep SX-70 Camera",
+        "set": "21345"
+      },
+      {
+        "copy": 1,
+        "name": "The Botanical Garden",
+        "set": "21353"
+      },
+      {
+        "copy": 1,
+        "name": "Space Shuttle",
+        "set": "31134"
+      },
+      {
+        "copy": 1,
+        "name": "Flowers in Watering Can",
+        "set": "31149"
+      },
+      {
+        "copy": 1,
+        "name": "Modern House",
+        "set": "31153"
+      },
+      {
+        "copy": 1,
+        "name": "LEGO Brand Retail Store",
+        "set": "40528"
+      },
+      {
+        "copy": 1,
+        "name": "Japan Postcard",
+        "set": "40713"
+      },
+      {
+        "copy": 1,
+        "name": "Arcade Machine",
+        "set": "40805"
+      },
+      {
+        "copy": 1,
+        "name": "Germany Postcard",
+        "set": "40954"
+      },
+      {
+        "copy": 1,
+        "name": "Dog Rescue Center",
+        "set": "41727"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake International School",
+        "set": "41731"
+      },
+      {
+        "copy": 1,
+        "name": "Beach Amusement Park",
+        "set": "41737"
+      },
+      {
+        "copy": 1,
+        "name": "Hair Salon",
+        "set": "41743"
+      },
+      {
+        "copy": 1,
+        "name": "Leo's Room",
+        "set": "41754"
+      },
+      {
+        "copy": 1,
+        "name": "Holiday Ski Slope and Caf\u00e9",
+        "set": "41756"
+      },
+      {
+        "copy": 1,
+        "name": "Planet Earth and Moon in Orbit",
+        "set": "42179"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+        "set": "42604"
+      },
+      {
+        "copy": 1,
+        "name": "Mars\u00a0Space\u00a0Base and Rocket",
+        "set": "42605"
+      },
+      {
+        "copy": 1,
+        "name": "Karaoke Music Party",
+        "set": "42610"
+      },
+      {
+        "copy": 1,
+        "name": "Vintage Fashion Store",
+        "set": "42614"
+      },
+      {
+        "copy": 1,
+        "name": "Pop Star Music Tour Bus",
+        "set": "42619"
+      },
+      {
+        "copy": 1,
+        "name": "Friendship Movie Night",
+        "set": "42642"
+      },
+      {
+        "copy": 1,
+        "name": "Autumn\u2019s Room",
+        "set": "42646"
+      },
+      {
+        "copy": 1,
+        "name": "Restaurant and Cooking School",
+        "set": "42655"
+      },
+      {
+        "copy": 1,
+        "name": "Friendship Road-Trip Travel Car",
+        "set": "42659"
+      },
+      {
+        "copy": 1,
+        "name": "Beekeepers' House and Flower Garden",
+        "set": "42669"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Apartments and Stores",
+        "set": "42670"
+      },
+      {
+        "copy": 1,
+        "name": "Liann's Family House",
+        "set": "42687"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Friends Club House",
+        "set": "42689"
+      },
+      {
+        "copy": 1,
+        "name": "Koala Habitat & Care Center",
+        "set": "42701"
+      },
+      {
+        "copy": 1,
+        "name": "Spinning Flower & Fairy Teacup Ride",
+        "set": "42702"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Grand Hotel",
+        "set": "42704"
+      },
+      {
+        "copy": 1,
+        "name": "Police Station",
+        "set": "60316"
+      },
+      {
+        "copy": 1,
+        "name": "Hospital",
+        "set": "60330"
+      },
+      {
+        "copy": 1,
+        "name": "Lunar Research Base",
+        "set": "60350"
+      },
+      {
+        "copy": 1,
+        "name": "Emergency Vehicles HQ",
+        "set": "60371"
+      },
+      {
+        "copy": 1,
+        "name": "Police Car and Muscle Car Chase",
+        "set": "60415"
+      },
+      {
+        "copy": 1,
+        "name": "Space Base and Rocket Launchpad",
+        "set": "60434"
+      },
+      {
+        "copy": 1,
+        "name": "Jet vs. Car",
+        "set": "60489"
+      },
+      {
+        "copy": 1,
+        "name": "The LEGO\u00ae Van",
+        "set": "60500"
+      },
+      {
+        "copy": 1,
+        "name": "Gringotts\u2122 Wizarding Bank \u2013 Collectors' Edition",
+        "set": "76417"
+      }
+    ],
+    "studded": false,
+    "w": 1
+  },
+  {
+    "color": "Yellow",
+    "d": 1,
+    "element": "389924",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3899.dat",
+    "h": 2.25,
+    "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/389924.jpg",
+    "kind": "mug",
+    "ldraw": "3899.dat",
+    "ldraw_color": 14,
+    "minimum": 12,
+    "name": "Mug",
+    "required": 2,
+    "rgb": "#F2CD37",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Minifigure Vending Machine",
+        "set": "21358"
+      },
+      {
+        "copy": 1,
+        "name": "Stargazing Camping Vehicle",
+        "set": "42603"
+      },
+      {
+        "copy": 1,
+        "name": "Friendship Tree House Hangout",
+        "set": "42652"
+      },
+      {
+        "copy": 1,
+        "name": "Friendship Camper Van Adventure",
+        "set": "42663"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Apartments and Stores",
+        "set": "42670"
+      },
+      {
+        "copy": 1,
+        "name": "Liann's Family House",
+        "set": "42687"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Friends Club House",
+        "set": "42689"
+      },
+      {
+        "copy": 1,
+        "name": "Koala Habitat & Care Center",
+        "set": "42701"
+      },
+      {
+        "copy": 1,
+        "name": "Fire Station",
+        "set": "60320"
+      },
+      {
+        "copy": 1,
+        "name": "Emergency Vehicles HQ",
+        "set": "60371"
+      },
+      {
+        "copy": 1,
+        "name": "Arctic Explorer Truck and Mobile Lab",
+        "set": "60378"
+      },
+      {
+        "copy": 1,
+        "name": "Space Base and Rocket Launchpad",
+        "set": "60434"
+      }
+    ],
+    "studded": false,
+    "w": 1
+  },
+  {
+    "color": "Tan",
+    "d": 4,
+    "element": "4114309",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3020.dat",
+    "h": 1,
+    "image_url": "https://www.lego.com/cdn/cs/set/assets/blt0508e4519d65f17e/4114309.jpg",
+    "kind": "box",
+    "ldraw": "3020.dat",
+    "ldraw_color": 19,
+    "minimum": 27,
+    "name": "Plate 2 x 4",
+    "required": 8,
+    "rgb": "#DEC69C",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Tiny Plants",
+        "set": "10329"
+      },
+      {
+        "copy": 1,
+        "name": "Stranger Things: The Creel House",
+        "set": "11370"
+      },
+      {
+        "copy": 1,
+        "name": "Great Pyramid of Giza",
+        "set": "21058"
+      },
+      {
+        "copy": 1,
+        "name": "Himeji Castle",
+        "set": "21060"
+      },
+      {
+        "copy": 1,
+        "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+        "set": "21341"
+      },
+      {
+        "copy": 1,
+        "name": "The Botanical Garden",
+        "set": "21353"
+      },
+      {
+        "copy": 1,
+        "name": "The Evolution of STEM",
+        "set": "21355"
+      },
+      {
+        "copy": 1,
+        "name": "Space Shuttle",
+        "set": "31134"
+      },
+      {
+        "copy": 1,
+        "name": "Hamster Wheel",
+        "set": "31155"
+      },
+      {
+        "copy": 1,
+        "name": "Floral Art Decor Painting",
+        "set": "31390"
+      },
+      {
+        "copy": 1,
+        "name": "New York Postcard",
+        "set": "40519"
+      },
+      {
+        "copy": 1,
+        "name": "London Bus",
+        "set": "40953"
+      },
+      {
+        "copy": 1,
+        "name": "Germany Postcard",
+        "set": "40954"
+      },
+      {
+        "copy": 1,
+        "name": "Beach Amusement Park",
+        "set": "41737"
+      },
+      {
+        "copy": 1,
+        "name": "Friendship Movie Night",
+        "set": "42642"
+      },
+      {
+        "copy": 1,
+        "name": "Panda Sanctuary Animal Care",
+        "set": "42648"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Apartments and Stores",
+        "set": "42670"
+      },
+      {
+        "copy": 1,
+        "name": "Comic Book and Game Store",
+        "set": "42674"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Friends Club House",
+        "set": "42689"
+      },
+      {
+        "copy": 1,
+        "name": "Garden Restaurant",
+        "set": "42691"
+      },
+      {
+        "copy": 1,
+        "name": "Koala Habitat & Care Center",
+        "set": "42701"
+      },
+      {
+        "copy": 1,
+        "name": "Spinning Flower & Fairy Teacup Ride",
+        "set": "42702"
+      },
+      {
+        "copy": 1,
+        "name": "Mermaid Roller Coaster Ride",
+        "set": "42703"
+      },
+      {
+        "copy": 1,
+        "name": "Ice-Cream Shop",
+        "set": "60363"
+      },
+      {
+        "copy": 1,
+        "name": "Jet vs. Car",
+        "set": "60489"
+      },
+      {
+        "copy": 1,
+        "name": "Airport with Airplane",
+        "set": "60502"
+      },
+      {
+        "copy": 1,
+        "name": "Vintage Steam Train",
+        "set": "60511"
+      }
+    ],
+    "studded": true,
+    "w": 2
+  },
+  {
+    "color": "Reddish brown",
+    "d": 2,
+    "element": "4211151",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3069b.dat",
+    "h": 1,
+    "image_url": "https://www.lego.com/cdn/cs/set/assets/bltc16e885ef6d2c4cc/4211151.jpg",
+    "kind": "box",
+    "ldraw": "3069b.dat",
+    "ldraw_color": 70,
+    "minimum": 7,
+    "name": "Tile 1 x 2",
+    "required": 2,
+    "rgb": "#582A12",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Stranger Things: The Creel House",
+        "set": "11370"
+      },
+      {
+        "copy": 1,
+        "name": "Himeji Castle",
+        "set": "21060"
+      },
+      {
+        "copy": 1,
+        "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+        "set": "21341"
+      },
+      {
+        "copy": 1,
+        "name": "The Botanical Garden",
+        "set": "21353"
+      },
+      {
+        "copy": 1,
+        "name": "The Evolution of STEM",
+        "set": "21355"
+      },
+      {
+        "copy": 1,
+        "name": "Main Street",
+        "set": "31141"
+      },
+      {
+        "copy": 1,
+        "name": "Arcade Machine",
+        "set": "40805"
+      }
+    ],
+    "studded": false,
+    "w": 1
+  },
+  {
+    "color": "Reddish brown",
+    "d": 4,
+    "element": "4211186",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3020.dat",
+    "h": 1,
+    "image_url": "https://www.lego.com/cdn/cs/set/assets/blt5e6fa0e1750f5d26/4211186.jpg",
+    "kind": "box",
+    "ldraw": "3020.dat",
+    "ldraw_color": 70,
+    "minimum": 17,
+    "name": "Plate 2 x 4",
+    "required": 1,
+    "rgb": "#582A12",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Lucky Bamboo",
+        "set": "10344"
+      },
+      {
+        "copy": 1,
+        "name": "Creative Food Friends",
+        "set": "11039"
+      },
+      {
+        "copy": 1,
+        "name": "Creative Happy Box",
+        "set": "11042"
+      },
+      {
+        "copy": 1,
+        "name": "Stranger Things: The Creel House",
+        "set": "11370"
+      },
+      {
+        "copy": 1,
+        "name": "Great Pyramid of Giza",
+        "set": "21058"
+      },
+      {
+        "copy": 1,
+        "name": "Himeji Castle",
+        "set": "21060"
+      },
+      {
+        "copy": 1,
+        "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+        "set": "21341"
+      },
+      {
+        "copy": 1,
+        "name": "The Botanical Garden",
+        "set": "21353"
+      },
+      {
+        "copy": 1,
+        "name": "Main Street",
+        "set": "31141"
+      },
+      {
+        "copy": 1,
+        "name": "Friendship Tree House Hangout",
+        "set": "42652"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Apartments and Stores",
+        "set": "42670"
+      },
+      {
+        "copy": 1,
+        "name": "Plant Caf\u00e9 & Flower Shop",
+        "set": "42671"
+      },
+      {
+        "copy": 1,
+        "name": "Garden Restaurant",
+        "set": "42691"
+      },
+      {
+        "copy": 1,
+        "name": "Lunar Research Base",
+        "set": "60350"
+      },
+      {
+        "copy": 1,
+        "name": "Ski and Climbing Center",
+        "set": "60366"
+      },
+      {
+        "copy": 1,
+        "name": "Burger Truck",
+        "set": "60404"
+      },
+      {
+        "copy": 1,
+        "name": "Vintage Steam Train",
+        "set": "60511"
+      }
+    ],
+    "studded": true,
+    "w": 2
+  },
+  {
+    "color": "Reddish brown",
+    "d": 4,
+    "element": "4211194",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/2431.dat",
+    "h": 1,
+    "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211194.jpg",
+    "kind": "box",
+    "ldraw": "2431.dat",
+    "ldraw_color": 70,
+    "minimum": 3,
+    "name": "Tile 1 x 4",
+    "required": 1,
+    "rgb": "#582A12",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+        "set": "21341"
+      },
+      {
+        "copy": 1,
+        "name": "Main Street",
+        "set": "31141"
+      },
+      {
+        "copy": 1,
+        "name": "Emergency Vehicles HQ",
+        "set": "60371"
+      }
+    ],
+    "studded": false,
+    "w": 1
+  },
+  {
+    "color": "Reddish brown",
+    "d": 2,
+    "element": "4211210",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3003.dat",
+    "h": 3,
+    "image_url": "https://www.lego.com/cdn/cs/set/assets/blt23442fafac04822a/4211210.jpg",
+    "kind": "box",
+    "ldraw": "3003.dat",
+    "ldraw_color": 70,
+    "minimum": 8,
+    "name": "Brick 2 x 2",
+    "required": 3,
+    "rgb": "#582A12",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Creative Food Friends",
+        "set": "11039"
+      },
+      {
+        "copy": 1,
+        "name": "Stranger Things: The Creel House",
+        "set": "11370"
+      },
+      {
+        "copy": 1,
+        "name": "Rocking Plants",
+        "set": "11506"
+      },
+      {
+        "copy": 1,
+        "name": "Himeji Castle",
+        "set": "21060"
+      },
+      {
+        "copy": 1,
+        "name": "The Botanical Garden",
+        "set": "21353"
+      },
+      {
+        "copy": 1,
+        "name": "Autumn\u2019s Room",
+        "set": "42646"
+      },
+      {
+        "copy": 1,
+        "name": "Panda Sanctuary Animal Care",
+        "set": "42648"
+      },
+      {
+        "copy": 1,
+        "name": "Friendship Tree House Hangout",
+        "set": "42652"
+      }
+    ],
+    "studded": true,
+    "w": 2
+  },
+  {
+    "color": "Reddish brown",
+    "d": 4,
+    "element": "4211225",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3010.dat",
+    "h": 3,
+    "image_url": "https://www.lego.com/cdn/cs/set/assets/blt4b72288fa91b6cbc/4211225.jpg",
+    "kind": "box",
+    "ldraw": "3010.dat",
+    "ldraw_color": 70,
+    "minimum": 7,
+    "name": "Brick 1 x 4",
+    "required": 1,
+    "rgb": "#582A12",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "French Caf\u00e9",
+        "set": "10362"
+      },
+      {
+        "copy": 1,
+        "name": "Stranger Things: The Creel House",
+        "set": "11370"
+      },
+      {
+        "copy": 1,
+        "name": "Himeji Castle",
+        "set": "21060"
+      },
+      {
+        "copy": 1,
+        "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+        "set": "21341"
+      },
+      {
+        "copy": 1,
+        "name": "The Botanical Garden",
+        "set": "21353"
+      },
+      {
+        "copy": 1,
+        "name": "Holiday Ski Slope and Caf\u00e9",
+        "set": "41756"
+      },
+      {
+        "copy": 1,
+        "name": "Garden Restaurant",
+        "set": "42691"
+      }
+    ],
+    "studded": true,
+    "w": 1
+  },
+  {
+    "color": "Reddish brown",
+    "d": 6,
+    "element": "4211247",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3795.dat",
+    "h": 1,
+    "image_url": "https://www.lego.com/cdn/cs/set/assets/blt4f595b91f99e5139/4211247.jpg",
+    "kind": "box",
+    "ldraw": "3795.dat",
+    "ldraw_color": 70,
+    "minimum": 6,
+    "name": "Plate 2 x 6",
+    "required": 1,
+    "rgb": "#582A12",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "French Caf\u00e9",
+        "set": "10362"
+      },
+      {
+        "copy": 1,
+        "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+        "set": "21341"
+      },
+      {
+        "copy": 1,
+        "name": "Tropical\u00a0Ukulele",
+        "set": "31156"
+      },
+      {
+        "copy": 1,
+        "name": "Garden Restaurant",
+        "set": "42691"
+      },
+      {
+        "copy": 1,
+        "name": "Lunar Research Base",
+        "set": "60350"
+      },
+      {
+        "copy": 1,
+        "name": "Central Train Station",
+        "set": "60469"
+      }
+    ],
+    "studded": true,
+    "w": 2
+  },
+  {
+    "color": "Light bluish grey",
+    "d": 2,
+    "element": "4211388",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3004.dat",
+    "h": 3,
+    "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211388.jpg",
+    "kind": "box",
+    "ldraw": "3004.dat",
+    "ldraw_color": 71,
+    "minimum": 19,
+    "name": "Brick 1 x 2",
+    "required": 2,
+    "rgb": "#A0A5A9",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Creative Happy Box",
+        "set": "11042"
+      },
+      {
+        "copy": 1,
+        "name": "Stranger Things: The Creel House",
+        "set": "11370"
+      },
+      {
+        "copy": 1,
+        "name": "Great Pyramid of Giza",
+        "set": "21058"
+      },
+      {
+        "copy": 1,
+        "name": "Minifigure Vending Machine",
+        "set": "21358"
+      },
+      {
+        "copy": 1,
+        "name": "Main Street",
+        "set": "31141"
+      },
+      {
+        "copy": 1,
+        "name": "Retro Camera",
+        "set": "31147"
+      },
+      {
+        "copy": 1,
+        "name": "Modern House",
+        "set": "31153"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake International School",
+        "set": "41731"
+      },
+      {
+        "copy": 1,
+        "name": "Beach Amusement Park",
+        "set": "41737"
+      },
+      {
+        "copy": 1,
+        "name": "Sports Center",
+        "set": "41744"
+      },
+      {
+        "copy": 1,
+        "name": "Holiday Ski Slope and Caf\u00e9",
+        "set": "41756"
+      },
+      {
+        "copy": 1,
+        "name": "Stargazing Camping Vehicle",
+        "set": "42603"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+        "set": "42604"
+      },
+      {
+        "copy": 1,
+        "name": "Hair Salon and Accessories Store",
+        "set": "42662"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Apartments and Stores",
+        "set": "42670"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Friends Club House",
+        "set": "42689"
+      },
+      {
+        "copy": 1,
+        "name": "Hospital",
+        "set": "60330"
+      },
+      {
+        "copy": 1,
+        "name": "Tow Truck and Sports Car Repair",
+        "set": "60435"
+      },
+      {
+        "copy": 1,
+        "name": "Holiday Adventure Camper Van",
+        "set": "60454"
+      }
+    ],
+    "studded": true,
+    "w": 1
+  },
+  {
+    "color": "Light bluish grey",
+    "d": 2,
+    "element": "4211414",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3069b.dat",
+    "h": 1,
+    "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211414.jpg",
+    "kind": "box",
+    "ldraw": "3069b.dat",
+    "ldraw_color": 71,
+    "minimum": 23,
+    "name": "Tile 1 x 2",
+    "required": 9,
+    "rgb": "#A0A5A9",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "French Caf\u00e9",
+        "set": "10362"
+      },
+      {
+        "copy": 1,
+        "name": "Himeji Castle",
+        "set": "21060"
+      },
+      {
+        "copy": 1,
+        "name": "Polaroid OneStep SX-70 Camera",
+        "set": "21345"
+      },
+      {
+        "copy": 1,
+        "name": "The Botanical Garden",
+        "set": "21353"
+      },
+      {
+        "copy": 1,
+        "name": "Minifigure Vending Machine",
+        "set": "21358"
+      },
+      {
+        "copy": 1,
+        "name": "Main Street",
+        "set": "31141"
+      },
+      {
+        "copy": 1,
+        "name": "Modern House",
+        "set": "31153"
+      },
+      {
+        "copy": 1,
+        "name": "Typewriter with Flowers",
+        "set": "31169"
+      },
+      {
+        "copy": 1,
+        "name": "New York Postcard",
+        "set": "40519"
+      },
+      {
+        "copy": 1,
+        "name": "London Postcard",
+        "set": "40569"
+      },
+      {
+        "copy": 1,
+        "name": "Optimus Prime Robot & Vehicle",
+        "set": "40803"
+      },
+      {
+        "copy": 1,
+        "name": "Dog Rescue Center",
+        "set": "41727"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake International School",
+        "set": "41731"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Bus",
+        "set": "41759"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+        "set": "42604"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Caf\u00e9",
+        "set": "42618"
+      },
+      {
+        "copy": 1,
+        "name": "Beekeepers' House and Flower Garden",
+        "set": "42669"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Apartments and Stores",
+        "set": "42670"
+      },
+      {
+        "copy": 1,
+        "name": "WALL-E and EVE",
+        "set": "43279"
+      },
+      {
+        "copy": 1,
+        "name": "Lunar Research Base",
+        "set": "60350"
+      },
+      {
+        "copy": 1,
+        "name": "Burger Truck",
+        "set": "60404"
+      },
+      {
+        "copy": 1,
+        "name": "Donut Truck",
+        "set": "60452"
+      },
+      {
+        "copy": 1,
+        "name": "Vintage Steam Train",
+        "set": "60511"
+      }
+    ],
+    "studded": false,
+    "w": 1
+  },
+  {
+    "color": "Reddish brown",
+    "d": 2,
+    "element": "4216695",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3022.dat",
+    "h": 1,
+    "image_url": "https://www.lego.com/cdn/cs/set/assets/bltb000158c7aeec5da/4216695.jpg",
+    "kind": "box",
+    "ldraw": "3022.dat",
+    "ldraw_color": 70,
+    "minimum": 13,
+    "name": "Plate 2 x 2",
+    "required": 1,
+    "rgb": "#582A12",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Creative Happy Box",
+        "set": "11042"
+      },
+      {
+        "copy": 1,
+        "name": "Stranger Things: The Creel House",
+        "set": "11370"
+      },
+      {
+        "copy": 1,
+        "name": "Rocking Plants",
+        "set": "11506"
+      },
+      {
+        "copy": 1,
+        "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+        "set": "21341"
+      },
+      {
+        "copy": 1,
+        "name": "The Botanical Garden",
+        "set": "21353"
+      },
+      {
+        "copy": 1,
+        "name": "Main Street",
+        "set": "31141"
+      },
+      {
+        "copy": 1,
+        "name": "Dog Rescue Center",
+        "set": "41727"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake International School",
+        "set": "41731"
+      },
+      {
+        "copy": 1,
+        "name": "Holiday Ski Slope and Caf\u00e9",
+        "set": "41756"
+      },
+      {
+        "copy": 1,
+        "name": "Friendship Tree House Hangout",
+        "set": "42652"
+      },
+      {
+        "copy": 1,
+        "name": "Restaurant and Cooking School",
+        "set": "42655"
+      },
+      {
+        "copy": 1,
+        "name": "Garden Restaurant",
+        "set": "42691"
+      },
+      {
+        "copy": 1,
+        "name": "Drive-Through Car Wash",
+        "set": "60497"
+      }
+    ],
+    "studded": true,
+    "w": 2
+  },
+  {
+    "color": "Reddish brown",
+    "d": 8,
+    "element": "4216945",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3460.dat",
+    "h": 1,
+    "image_url": "https://www.lego.com/cdn/cs/set/assets/blt927a44ed04b8d49c/4216945.jpg",
+    "kind": "box",
+    "ldraw": "3460.dat",
+    "ldraw_color": 70,
+    "minimum": 3,
+    "name": "Plate 1 x 8",
+    "required": 2,
+    "rgb": "#582A12",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Stranger Things: The Creel House",
+        "set": "11370"
+      },
+      {
+        "copy": 1,
+        "name": "Arcade Machine",
+        "set": "40805"
+      },
+      {
+        "copy": 1,
+        "name": "Vintage Steam Train",
+        "set": "60511"
+      }
+    ],
+    "studded": true,
+    "w": 1
+  },
+  {
+    "color": "Reddish brown",
+    "d": 6,
+    "element": "4221590",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3666.dat",
+    "h": 1,
+    "image_url": "https://www.lego.com/cdn/cs/set/assets/blt7336be64aa8e97fc/4221590.jpg",
+    "kind": "box",
+    "ldraw": "3666.dat",
+    "ldraw_color": 70,
+    "minimum": 11,
+    "name": "Plate 1 x 6",
+    "required": 6,
+    "rgb": "#582A12",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "French Caf\u00e9",
+        "set": "10362"
+      },
+      {
+        "copy": 1,
+        "name": "Stranger Things: The Creel House",
+        "set": "11370"
+      },
+      {
+        "copy": 1,
+        "name": "Great Pyramid of Giza",
+        "set": "21058"
+      },
+      {
+        "copy": 1,
+        "name": "Himeji Castle",
+        "set": "21060"
+      },
+      {
+        "copy": 1,
+        "name": "Main Street",
+        "set": "31141"
+      },
+      {
+        "copy": 1,
+        "name": "Tropical\u00a0Ukulele",
+        "set": "31156"
+      },
+      {
+        "copy": 1,
+        "name": "Holiday Ski Slope and Caf\u00e9",
+        "set": "41756"
+      },
+      {
+        "copy": 1,
+        "name": "Restaurant and Cooking School",
+        "set": "42655"
+      },
+      {
+        "copy": 1,
+        "name": "Beekeepers' House and Flower Garden",
+        "set": "42669"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Friends Club House",
+        "set": "42689"
+      },
+      {
+        "copy": 1,
+        "name": "Vintage Steam Train",
+        "set": "60511"
+      }
+    ],
+    "studded": true,
+    "w": 1
+  },
+  {
+    "color": "Tan",
+    "d": 4,
+    "element": "4243824",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3031.dat",
+    "h": 1,
+    "image_url": "https://www.lego.com/cdn/cs/set/assets/blt690e0fc3c862f8a3/4243824.jpg",
+    "kind": "box",
+    "ldraw": "3031.dat",
+    "ldraw_color": 19,
+    "minimum": 5,
+    "name": "Plate 4 x 4",
+    "required": 2,
+    "rgb": "#DEC69C",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "The Evolution of STEM",
+        "set": "21355"
+      },
+      {
+        "copy": 1,
+        "name": "Flowers in Watering Can",
+        "set": "31149"
+      },
+      {
+        "copy": 1,
+        "name": "Beach Amusement Park",
+        "set": "41737"
+      },
+      {
+        "copy": 1,
+        "name": "Panda Sanctuary Animal Care",
+        "set": "42648"
+      },
+      {
+        "copy": 1,
+        "name": "Koala Habitat & Care Center",
+        "set": "42701"
+      }
+    ],
+    "studded": true,
+    "w": 4
+  },
+  {
+    "color": "Tan",
+    "d": 8,
+    "element": "4509897",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/3035.dat",
+    "h": 1,
+    "image_url": "https://www.lego.com/cdn/cs/set/assets/blt8a55d97f03b789da/4509897.jpg",
+    "kind": "box",
+    "ldraw": "3035.dat",
+    "ldraw_color": 19,
+    "minimum": 11,
+    "name": "Plate 4 x 8",
+    "required": 5,
+    "rgb": "#DEC69C",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+        "set": "21341"
+      },
+      {
+        "copy": 1,
+        "name": "Main Street",
+        "set": "31141"
+      },
+      {
+        "copy": 1,
+        "name": "Modern House",
+        "set": "31153"
+      },
+      {
+        "copy": 1,
+        "name": "Beach Amusement Park",
+        "set": "41737"
+      },
+      {
+        "copy": 1,
+        "name": "Hair Salon",
+        "set": "41743"
+      },
+      {
+        "copy": 1,
+        "name": "Leo's Room",
+        "set": "41754"
+      },
+      {
+        "copy": 1,
+        "name": "Adventure Camp Cozy Cabins",
+        "set": "42624"
+      },
+      {
+        "copy": 1,
+        "name": "Comic Book and Game Store",
+        "set": "42674"
+      },
+      {
+        "copy": 1,
+        "name": "Garden Restaurant",
+        "set": "42691"
+      },
+      {
+        "copy": 1,
+        "name": "Koala Habitat & Care Center",
+        "set": "42701"
+      },
+      {
+        "copy": 1,
+        "name": "Holiday Adventure Camper Van",
+        "set": "60454"
+      }
+    ],
+    "studded": true,
+    "w": 4
+  },
+  {
+    "color": "Bright green",
+    "d": 1,
+    "element": "6182261",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/32607.dat",
+    "h": 0.375,
+    "image_url": "https://www.lego.com/cdn/cs/set/assets/blt575914939bb28827/6182261.jpg",
+    "kind": "leaf",
+    "ldraw": "32607.dat",
+    "ldraw_color": 10,
+    "minimum": 28,
+    "name": "Plant with three leaves",
+    "required": 7,
+    "rgb": "#4B9F4A",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Creative Food Friends",
+        "set": "11039"
+      },
+      {
+        "copy": 1,
+        "name": "Great Pyramid of Giza",
+        "set": "21058"
+      },
+      {
+        "copy": 1,
+        "name": "The Botanical Garden",
+        "set": "21353"
+      },
+      {
+        "copy": 1,
+        "name": "The Evolution of STEM",
+        "set": "21355"
+      },
+      {
+        "copy": 1,
+        "name": "LEGO City Set 30721",
+        "set": "30721"
+      },
+      {
+        "copy": 1,
+        "name": "LEGO Brand Retail Store",
+        "set": "40528"
+      },
+      {
+        "copy": 1,
+        "name": "Dog Rescue Center",
+        "set": "41727"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake International School",
+        "set": "41731"
+      },
+      {
+        "copy": 1,
+        "name": "Mars\u00a0Space\u00a0Base and Rocket",
+        "set": "42605"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Caf\u00e9",
+        "set": "42618"
+      },
+      {
+        "copy": 1,
+        "name": "Surfing Dogs and Scooter Adventure",
+        "set": "42641"
+      },
+      {
+        "copy": 1,
+        "name": "Autumn\u2019s Room",
+        "set": "42646"
+      },
+      {
+        "copy": 1,
+        "name": "Friendship Tree House Hangout",
+        "set": "42652"
+      },
+      {
+        "copy": 1,
+        "name": "Restaurant and Cooking School",
+        "set": "42655"
+      },
+      {
+        "copy": 1,
+        "name": "Cat Birthday Party & Tree House",
+        "set": "42666"
+      },
+      {
+        "copy": 1,
+        "name": "Beekeepers' House and Flower Garden",
+        "set": "42669"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Apartments and Stores",
+        "set": "42670"
+      },
+      {
+        "copy": 1,
+        "name": "Plant Caf\u00e9 & Flower Shop",
+        "set": "42671"
+      },
+      {
+        "copy": 1,
+        "name": "Comic Book and Game Store",
+        "set": "42674"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Friends Club House",
+        "set": "42689"
+      },
+      {
+        "copy": 1,
+        "name": "Garden Restaurant",
+        "set": "42691"
+      },
+      {
+        "copy": 1,
+        "name": "Koala Habitat & Care Center",
+        "set": "42701"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Grand Hotel",
+        "set": "42704"
+      },
+      {
+        "copy": 1,
+        "name": "Road Plates",
+        "set": "60304"
+      },
+      {
+        "copy": 1,
+        "name": "Police Station",
+        "set": "60316"
+      },
+      {
+        "copy": 1,
+        "name": "Hospital",
+        "set": "60330"
+      },
+      {
+        "copy": 1,
+        "name": "Emergency Vehicles HQ",
+        "set": "60371"
+      },
+      {
+        "copy": 1,
+        "name": "Central Train Station",
+        "set": "60469"
+      }
+    ],
+    "studded": true,
+    "w": 1
+  },
+  {
+    "color": "Bright pink",
+    "d": 1,
+    "element": "6212501",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/24866.dat",
+    "h": 0.25,
+    "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6212501.jpg",
+    "kind": "flower",
+    "ldraw": "24866.dat",
+    "ldraw_color": 29,
+    "minimum": 13,
+    "name": "Flower with five petals",
+    "required": 3,
+    "rgb": "#E4ADC8",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "French Caf\u00e9",
+        "set": "10362"
+      },
+      {
+        "copy": 1,
+        "name": "Himeji Castle",
+        "set": "21060"
+      },
+      {
+        "copy": 1,
+        "name": "Japan Postcard",
+        "set": "40713"
+      },
+      {
+        "copy": 1,
+        "name": "Italy Postcard",
+        "set": "40818"
+      },
+      {
+        "copy": 1,
+        "name": "Germany Postcard",
+        "set": "40954"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+        "set": "42604"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Caf\u00e9",
+        "set": "42618"
+      },
+      {
+        "copy": 1,
+        "name": "Restaurant and Cooking School",
+        "set": "42655"
+      },
+      {
+        "copy": 1,
+        "name": "Beekeepers' House and Flower Garden",
+        "set": "42669"
+      },
+      {
+        "copy": 1,
+        "name": "Plant Caf\u00e9 & Flower Shop",
+        "set": "42671"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake City Friends Club House",
+        "set": "42689"
+      },
+      {
+        "copy": 1,
+        "name": "Horse & Baby Foal Trailer",
+        "set": "42695"
+      },
+      {
+        "copy": 1,
+        "name": "Ice-Cream Shop",
+        "set": "60363"
+      }
+    ],
+    "studded": true,
+    "w": 1
+  },
+  {
+    "color": "Coral",
+    "d": 1,
+    "element": "6295242",
+    "geometry_source": "https://library.ldraw.org/library/official/parts/24866.dat",
+    "h": 0.25,
+    "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6295242.jpg",
+    "kind": "flower",
+    "ldraw": "24866.dat",
+    "ldraw_color": 353,
+    "minimum": 13,
+    "name": "Flower with five petals",
+    "required": 3,
+    "rgb": "#FF6D77",
+    "sources": [
+      {
+        "copy": 1,
+        "name": "Creative Happy Box",
+        "set": "11042"
+      },
+      {
+        "copy": 1,
+        "name": "Rocking Plants",
+        "set": "11506"
+      },
+      {
+        "copy": 1,
+        "name": "Dog Rescue Center",
+        "set": "41727"
+      },
+      {
+        "copy": 1,
+        "name": "Sea Rescue Center",
+        "set": "41736"
+      },
+      {
+        "copy": 1,
+        "name": "Beach Amusement Park",
+        "set": "41737"
+      },
+      {
+        "copy": 1,
+        "name": "Hair Salon",
+        "set": "41743"
+      },
+      {
+        "copy": 1,
+        "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+        "set": "42604"
+      },
+      {
+        "copy": 1,
+        "name": "Pop Star Music Tour Bus",
+        "set": "42619"
+      },
+      {
+        "copy": 1,
+        "name": "Panda Sanctuary Animal Care",
+        "set": "42648"
+      },
+      {
+        "copy": 1,
+        "name": "Friendship Tree House Hangout",
+        "set": "42652"
+      },
+      {
+        "copy": 1,
+        "name": "Restaurant and Cooking School",
+        "set": "42655"
+      },
+      {
+        "copy": 1,
+        "name": "Plant Caf\u00e9 & Flower Shop",
+        "set": "42671"
+      },
+      {
+        "copy": 1,
+        "name": "Liann's Family House",
+        "set": "42687"
+      }
+    ],
+    "studded": true,
+    "w": 1
+  }
+]

@@ -1,0 +1,2715 @@
+{
+  "assumptions": [
+    "All owned sets are complete and accessible.",
+    "No pieces are already reserved.",
+    "Source membership and enrichment metadata are correct."
+  ],
+  "elements": {
+    "300301": {
+      "color_metadata": "White",
+      "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300301.jpg",
+      "minimum": 19,
+      "source_names": [
+        "BRICK 2X2"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "French Caf\u00e9",
+          "set": "10362"
+        },
+        {
+          "copy": 1,
+          "name": "Creative Happy Box",
+          "set": "11042"
+        },
+        {
+          "copy": 1,
+          "name": "Himeji Castle",
+          "set": "21060"
+        },
+        {
+          "copy": 1,
+          "name": "The Botanical Garden",
+          "set": "21353"
+        },
+        {
+          "copy": 1,
+          "name": "The Evolution of STEM",
+          "set": "21355"
+        },
+        {
+          "copy": 1,
+          "name": "LEGO Brand Retail Store",
+          "set": "40528"
+        },
+        {
+          "copy": 1,
+          "name": "Traditional Chess Set",
+          "set": "40719"
+        },
+        {
+          "copy": 1,
+          "name": "Sports Center",
+          "set": "41744"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+          "set": "42604"
+        },
+        {
+          "copy": 1,
+          "name": "Mars\u00a0Space\u00a0Base and Rocket",
+          "set": "42605"
+        },
+        {
+          "copy": 1,
+          "name": "Pop Star Music Tour Bus",
+          "set": "42619"
+        },
+        {
+          "copy": 1,
+          "name": "Restaurant and Cooking School",
+          "set": "42655"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Friends Club House",
+          "set": "42689"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Grand Hotel",
+          "set": "42704"
+        },
+        {
+          "copy": 1,
+          "name": "Fire Station",
+          "set": "60320"
+        },
+        {
+          "copy": 1,
+          "name": "Hospital",
+          "set": "60330"
+        },
+        {
+          "copy": 1,
+          "name": "Express Passenger Train",
+          "set": "60337"
+        },
+        {
+          "copy": 1,
+          "name": "Burger Truck",
+          "set": "60404"
+        },
+        {
+          "copy": 1,
+          "name": "Space Base and Rocket Launchpad",
+          "set": "60434"
+        }
+      ]
+    },
+    "300401": {
+      "color_metadata": "White",
+      "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300401.jpg",
+      "minimum": 43,
+      "source_names": [
+        "BRICK 1X2"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Creative Food Friends",
+          "set": "11039"
+        },
+        {
+          "copy": 1,
+          "name": "Creative Happy Box",
+          "set": "11042"
+        },
+        {
+          "copy": 1,
+          "name": "Stranger Things: The Creel House",
+          "set": "11370"
+        },
+        {
+          "copy": 1,
+          "name": "Himeji Castle",
+          "set": "21060"
+        },
+        {
+          "copy": 1,
+          "name": "Polaroid OneStep SX-70 Camera",
+          "set": "21345"
+        },
+        {
+          "copy": 1,
+          "name": "The Botanical Garden",
+          "set": "21353"
+        },
+        {
+          "copy": 1,
+          "name": "The Evolution of STEM",
+          "set": "21355"
+        },
+        {
+          "copy": 1,
+          "name": "Main Street",
+          "set": "31141"
+        },
+        {
+          "copy": 1,
+          "name": "Record Player with Flowers",
+          "set": "31172"
+        },
+        {
+          "copy": 1,
+          "name": "The Amazing Spider-Man",
+          "set": "31209"
+        },
+        {
+          "copy": 1,
+          "name": "LEGO Brand Retail Store",
+          "set": "40528"
+        },
+        {
+          "copy": 1,
+          "name": "EVE & WALL\u2022E",
+          "set": "40619"
+        },
+        {
+          "copy": 1,
+          "name": "Optimus Prime Robot & Vehicle",
+          "set": "40803"
+        },
+        {
+          "copy": 1,
+          "name": "Arcade Machine",
+          "set": "40805"
+        },
+        {
+          "copy": 1,
+          "name": "Germany Postcard",
+          "set": "40954"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake International School",
+          "set": "41731"
+        },
+        {
+          "copy": 1,
+          "name": "Sports Center",
+          "set": "41744"
+        },
+        {
+          "copy": 1,
+          "name": "Leo's Room",
+          "set": "41754"
+        },
+        {
+          "copy": 1,
+          "name": "Stargazing Camping Vehicle",
+          "set": "42603"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+          "set": "42604"
+        },
+        {
+          "copy": 1,
+          "name": "Mars\u00a0Space\u00a0Base and Rocket",
+          "set": "42605"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Caf\u00e9",
+          "set": "42618"
+        },
+        {
+          "copy": 1,
+          "name": "Pop Star Music Tour Bus",
+          "set": "42619"
+        },
+        {
+          "copy": 1,
+          "name": "Beach Water Scooter",
+          "set": "42623"
+        },
+        {
+          "copy": 1,
+          "name": "Restaurant and Cooking School",
+          "set": "42655"
+        },
+        {
+          "copy": 1,
+          "name": "Friendship Camper Van Adventure",
+          "set": "42663"
+        },
+        {
+          "copy": 1,
+          "name": "Beekeepers' House and Flower Garden",
+          "set": "42669"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Apartments and Stores",
+          "set": "42670"
+        },
+        {
+          "copy": 1,
+          "name": "Comic Book and Game Store",
+          "set": "42674"
+        },
+        {
+          "copy": 1,
+          "name": "Liann's Family House",
+          "set": "42687"
+        },
+        {
+          "copy": 1,
+          "name": "Garden Restaurant",
+          "set": "42691"
+        },
+        {
+          "copy": 1,
+          "name": "Mermaid Roller Coaster Ride",
+          "set": "42703"
+        },
+        {
+          "copy": 1,
+          "name": "WALL-E and EVE",
+          "set": "43279"
+        },
+        {
+          "copy": 1,
+          "name": "Police Station",
+          "set": "60316"
+        },
+        {
+          "copy": 1,
+          "name": "Hospital",
+          "set": "60330"
+        },
+        {
+          "copy": 1,
+          "name": "Express Passenger Train",
+          "set": "60337"
+        },
+        {
+          "copy": 1,
+          "name": "Lunar Research Base",
+          "set": "60350"
+        },
+        {
+          "copy": 1,
+          "name": "Ice-Cream Shop",
+          "set": "60363"
+        },
+        {
+          "copy": 1,
+          "name": "Ski and Climbing Center",
+          "set": "60366"
+        },
+        {
+          "copy": 1,
+          "name": "Space Base and Rocket Launchpad",
+          "set": "60434"
+        },
+        {
+          "copy": 1,
+          "name": "Space Science Lab",
+          "set": "60439"
+        },
+        {
+          "copy": 1,
+          "name": "Drive-Through Car Wash",
+          "set": "60497"
+        },
+        {
+          "copy": 1,
+          "name": "Airport with Airplane",
+          "set": "60502"
+        }
+      ]
+    },
+    "300501": {
+      "color_metadata": "White",
+      "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300501.jpg",
+      "minimum": 43,
+      "source_names": [
+        "BRICK 1X1"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "French Caf\u00e9",
+          "set": "10362"
+        },
+        {
+          "copy": 1,
+          "name": "Stranger Things: The Creel House",
+          "set": "11370"
+        },
+        {
+          "copy": 1,
+          "name": "Great Pyramid of Giza",
+          "set": "21058"
+        },
+        {
+          "copy": 1,
+          "name": "Himeji Castle",
+          "set": "21060"
+        },
+        {
+          "copy": 1,
+          "name": "Polaroid OneStep SX-70 Camera",
+          "set": "21345"
+        },
+        {
+          "copy": 1,
+          "name": "The Botanical Garden",
+          "set": "21353"
+        },
+        {
+          "copy": 1,
+          "name": "Main Street",
+          "set": "31141"
+        },
+        {
+          "copy": 1,
+          "name": "Modern House",
+          "set": "31153"
+        },
+        {
+          "copy": 1,
+          "name": "Aircraft: Race Plane",
+          "set": "31160"
+        },
+        {
+          "copy": 1,
+          "name": "Music Decor Piano with Cat",
+          "set": "31392"
+        },
+        {
+          "copy": 1,
+          "name": "LEGO Brand Retail Store",
+          "set": "40528"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake International School",
+          "set": "41731"
+        },
+        {
+          "copy": 1,
+          "name": "Beach Amusement Park",
+          "set": "41737"
+        },
+        {
+          "copy": 1,
+          "name": "Hair Salon",
+          "set": "41743"
+        },
+        {
+          "copy": 1,
+          "name": "Sports Center",
+          "set": "41744"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+          "set": "42604"
+        },
+        {
+          "copy": 1,
+          "name": "Mars\u00a0Space\u00a0Base and Rocket",
+          "set": "42605"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Ice Cream Truck",
+          "set": "42644"
+        },
+        {
+          "copy": 1,
+          "name": "Hair Salon and Accessories Store",
+          "set": "42662"
+        },
+        {
+          "copy": 1,
+          "name": "Friendship Camper Van Adventure",
+          "set": "42663"
+        },
+        {
+          "copy": 1,
+          "name": "Beekeepers' House and Flower Garden",
+          "set": "42669"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Apartments and Stores",
+          "set": "42670"
+        },
+        {
+          "copy": 1,
+          "name": "Plant Caf\u00e9 & Flower Shop",
+          "set": "42671"
+        },
+        {
+          "copy": 1,
+          "name": "Comic Book and Game Store",
+          "set": "42674"
+        },
+        {
+          "copy": 1,
+          "name": "Fun Water Park Day",
+          "set": "42676"
+        },
+        {
+          "copy": 1,
+          "name": "Liann's Family House",
+          "set": "42687"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Friends Club House",
+          "set": "42689"
+        },
+        {
+          "copy": 1,
+          "name": "Garden Restaurant",
+          "set": "42691"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Grand Hotel",
+          "set": "42704"
+        },
+        {
+          "copy": 1,
+          "name": "WALL-E and EVE",
+          "set": "43279"
+        },
+        {
+          "copy": 1,
+          "name": "Police Station",
+          "set": "60316"
+        },
+        {
+          "copy": 1,
+          "name": "Hospital",
+          "set": "60330"
+        },
+        {
+          "copy": 1,
+          "name": "Ski and Climbing Center",
+          "set": "60366"
+        },
+        {
+          "copy": 1,
+          "name": "Emergency Vehicles HQ",
+          "set": "60371"
+        },
+        {
+          "copy": 1,
+          "name": "Arctic Explorer Truck and Mobile Lab",
+          "set": "60378"
+        },
+        {
+          "copy": 1,
+          "name": "Penguin Slushy Van",
+          "set": "60384"
+        },
+        {
+          "copy": 1,
+          "name": "Space Base and Rocket Launchpad",
+          "set": "60434"
+        },
+        {
+          "copy": 1,
+          "name": "Space Science Lab",
+          "set": "60439"
+        },
+        {
+          "copy": 1,
+          "name": "Donut Truck",
+          "set": "60452"
+        },
+        {
+          "copy": 1,
+          "name": "Holiday Adventure Camper Van",
+          "set": "60454"
+        },
+        {
+          "copy": 1,
+          "name": "Central Train Station",
+          "set": "60469"
+        },
+        {
+          "copy": 1,
+          "name": "Airport with Airplane",
+          "set": "60502"
+        },
+        {
+          "copy": 1,
+          "name": "Gringotts\u2122 Wizarding Bank \u2013 Collectors' Edition",
+          "set": "76417"
+        }
+      ]
+    },
+    "301001": {
+      "color_metadata": "White",
+      "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/301001.jpg",
+      "minimum": 38,
+      "source_names": [
+        "BRICK 1X4"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Creative Food Friends",
+          "set": "11039"
+        },
+        {
+          "copy": 1,
+          "name": "Stranger Things: The Creel House",
+          "set": "11370"
+        },
+        {
+          "copy": 1,
+          "name": "Great Pyramid of Giza",
+          "set": "21058"
+        },
+        {
+          "copy": 1,
+          "name": "Himeji Castle",
+          "set": "21060"
+        },
+        {
+          "copy": 1,
+          "name": "The Botanical Garden",
+          "set": "21353"
+        },
+        {
+          "copy": 1,
+          "name": "Space Shuttle",
+          "set": "31134"
+        },
+        {
+          "copy": 1,
+          "name": "Main Street",
+          "set": "31141"
+        },
+        {
+          "copy": 1,
+          "name": "Modern House",
+          "set": "31153"
+        },
+        {
+          "copy": 1,
+          "name": "Record Player with Flowers",
+          "set": "31172"
+        },
+        {
+          "copy": 1,
+          "name": "The Amazing Spider-Man",
+          "set": "31209"
+        },
+        {
+          "copy": 1,
+          "name": "Music Decor Piano with Cat",
+          "set": "31392"
+        },
+        {
+          "copy": 1,
+          "name": "LEGO Brand Retail Store",
+          "set": "40528"
+        },
+        {
+          "copy": 1,
+          "name": "EVE & WALL\u2022E",
+          "set": "40619"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake International School",
+          "set": "41731"
+        },
+        {
+          "copy": 1,
+          "name": "Hair Salon",
+          "set": "41743"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+          "set": "42604"
+        },
+        {
+          "copy": 1,
+          "name": "Mars\u00a0Space\u00a0Base and Rocket",
+          "set": "42605"
+        },
+        {
+          "copy": 1,
+          "name": "Restaurant and Cooking School",
+          "set": "42655"
+        },
+        {
+          "copy": 1,
+          "name": "Friendship Camper Van Adventure",
+          "set": "42663"
+        },
+        {
+          "copy": 1,
+          "name": "Puppy Playground",
+          "set": "42665"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Apartments and Stores",
+          "set": "42670"
+        },
+        {
+          "copy": 1,
+          "name": "Garden Restaurant",
+          "set": "42691"
+        },
+        {
+          "copy": 1,
+          "name": "Mermaid Roller Coaster Ride",
+          "set": "42703"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Grand Hotel",
+          "set": "42704"
+        },
+        {
+          "copy": 1,
+          "name": "Police Station",
+          "set": "60316"
+        },
+        {
+          "copy": 1,
+          "name": "Fire Station",
+          "set": "60320"
+        },
+        {
+          "copy": 1,
+          "name": "Hospital",
+          "set": "60330"
+        },
+        {
+          "copy": 1,
+          "name": "Express Passenger Train",
+          "set": "60337"
+        },
+        {
+          "copy": 1,
+          "name": "Lunar Research Base",
+          "set": "60350"
+        },
+        {
+          "copy": 1,
+          "name": "Ice-Cream Shop",
+          "set": "60363"
+        },
+        {
+          "copy": 1,
+          "name": "Ski and Climbing Center",
+          "set": "60366"
+        },
+        {
+          "copy": 1,
+          "name": "Emergency Vehicles HQ",
+          "set": "60371"
+        },
+        {
+          "copy": 1,
+          "name": "Penguin Slushy Van",
+          "set": "60384"
+        },
+        {
+          "copy": 1,
+          "name": "Space Base and Rocket Launchpad",
+          "set": "60434"
+        },
+        {
+          "copy": 1,
+          "name": "Holiday Adventure Camper Van",
+          "set": "60454"
+        },
+        {
+          "copy": 1,
+          "name": "Central Train Station",
+          "set": "60469"
+        },
+        {
+          "copy": 1,
+          "name": "Motorcycle Transporter",
+          "set": "60491"
+        },
+        {
+          "copy": 1,
+          "name": "Airport with Airplane",
+          "set": "60502"
+        }
+      ]
+    },
+    "302228": {
+      "color_metadata": "Dark Green",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/bltfbebf14761b040c9/302228.jpg",
+      "minimum": 5,
+      "source_names": [
+        "PLATE 2X2"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Tiny Plants",
+          "set": "10329"
+        },
+        {
+          "copy": 1,
+          "name": "Teenage Mutant Ninja Turtles Figures",
+          "set": "40878"
+        },
+        {
+          "copy": 1,
+          "name": "Sports Center",
+          "set": "41744"
+        },
+        {
+          "copy": 1,
+          "name": "Panda Sanctuary Animal Care",
+          "set": "42648"
+        },
+        {
+          "copy": 1,
+          "name": "Friendship Camper Van Adventure",
+          "set": "42663"
+        }
+      ]
+    },
+    "303526": {
+      "color_metadata": "Black",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/blt5a8c2151104912e2/303526.jpg",
+      "minimum": 8,
+      "source_names": [
+        "PLATE 4X8"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "French Caf\u00e9",
+          "set": "10362"
+        },
+        {
+          "copy": 1,
+          "name": "Arcade Machine",
+          "set": "40805"
+        },
+        {
+          "copy": 1,
+          "name": "Karaoke Music Party",
+          "set": "42610"
+        },
+        {
+          "copy": 1,
+          "name": "Pop Star Music Tour Bus",
+          "set": "42619"
+        },
+        {
+          "copy": 1,
+          "name": "Recycling Truck",
+          "set": "60386"
+        },
+        {
+          "copy": 1,
+          "name": "Construction Steamroller",
+          "set": "60401"
+        },
+        {
+          "copy": 1,
+          "name": "Space Science Lab",
+          "set": "60439"
+        },
+        {
+          "copy": 1,
+          "name": "Central Train Station",
+          "set": "60469"
+        }
+      ]
+    },
+    "306901": {
+      "color_metadata": "White",
+      "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/306901.jpg",
+      "minimum": 45,
+      "source_names": [
+        "FLAT TILE 1X2"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Stranger Things: The Creel House",
+          "set": "11370"
+        },
+        {
+          "copy": 1,
+          "name": "Great Pyramid of Giza",
+          "set": "21058"
+        },
+        {
+          "copy": 1,
+          "name": "Himeji Castle",
+          "set": "21060"
+        },
+        {
+          "copy": 1,
+          "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+          "set": "21341"
+        },
+        {
+          "copy": 1,
+          "name": "Polaroid OneStep SX-70 Camera",
+          "set": "21345"
+        },
+        {
+          "copy": 1,
+          "name": "The Botanical Garden",
+          "set": "21353"
+        },
+        {
+          "copy": 1,
+          "name": "Space Shuttle",
+          "set": "31134"
+        },
+        {
+          "copy": 1,
+          "name": "Flowers in Watering Can",
+          "set": "31149"
+        },
+        {
+          "copy": 1,
+          "name": "Modern House",
+          "set": "31153"
+        },
+        {
+          "copy": 1,
+          "name": "LEGO Brand Retail Store",
+          "set": "40528"
+        },
+        {
+          "copy": 1,
+          "name": "Japan Postcard",
+          "set": "40713"
+        },
+        {
+          "copy": 1,
+          "name": "Arcade Machine",
+          "set": "40805"
+        },
+        {
+          "copy": 1,
+          "name": "Germany Postcard",
+          "set": "40954"
+        },
+        {
+          "copy": 1,
+          "name": "Dog Rescue Center",
+          "set": "41727"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake International School",
+          "set": "41731"
+        },
+        {
+          "copy": 1,
+          "name": "Beach Amusement Park",
+          "set": "41737"
+        },
+        {
+          "copy": 1,
+          "name": "Hair Salon",
+          "set": "41743"
+        },
+        {
+          "copy": 1,
+          "name": "Leo's Room",
+          "set": "41754"
+        },
+        {
+          "copy": 1,
+          "name": "Holiday Ski Slope and Caf\u00e9",
+          "set": "41756"
+        },
+        {
+          "copy": 1,
+          "name": "Planet Earth and Moon in Orbit",
+          "set": "42179"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+          "set": "42604"
+        },
+        {
+          "copy": 1,
+          "name": "Mars\u00a0Space\u00a0Base and Rocket",
+          "set": "42605"
+        },
+        {
+          "copy": 1,
+          "name": "Karaoke Music Party",
+          "set": "42610"
+        },
+        {
+          "copy": 1,
+          "name": "Vintage Fashion Store",
+          "set": "42614"
+        },
+        {
+          "copy": 1,
+          "name": "Pop Star Music Tour Bus",
+          "set": "42619"
+        },
+        {
+          "copy": 1,
+          "name": "Friendship Movie Night",
+          "set": "42642"
+        },
+        {
+          "copy": 1,
+          "name": "Autumn\u2019s Room",
+          "set": "42646"
+        },
+        {
+          "copy": 1,
+          "name": "Restaurant and Cooking School",
+          "set": "42655"
+        },
+        {
+          "copy": 1,
+          "name": "Friendship Road-Trip Travel Car",
+          "set": "42659"
+        },
+        {
+          "copy": 1,
+          "name": "Beekeepers' House and Flower Garden",
+          "set": "42669"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Apartments and Stores",
+          "set": "42670"
+        },
+        {
+          "copy": 1,
+          "name": "Liann's Family House",
+          "set": "42687"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Friends Club House",
+          "set": "42689"
+        },
+        {
+          "copy": 1,
+          "name": "Koala Habitat & Care Center",
+          "set": "42701"
+        },
+        {
+          "copy": 1,
+          "name": "Spinning Flower & Fairy Teacup Ride",
+          "set": "42702"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Grand Hotel",
+          "set": "42704"
+        },
+        {
+          "copy": 1,
+          "name": "Police Station",
+          "set": "60316"
+        },
+        {
+          "copy": 1,
+          "name": "Hospital",
+          "set": "60330"
+        },
+        {
+          "copy": 1,
+          "name": "Lunar Research Base",
+          "set": "60350"
+        },
+        {
+          "copy": 1,
+          "name": "Emergency Vehicles HQ",
+          "set": "60371"
+        },
+        {
+          "copy": 1,
+          "name": "Police Car and Muscle Car Chase",
+          "set": "60415"
+        },
+        {
+          "copy": 1,
+          "name": "Space Base and Rocket Launchpad",
+          "set": "60434"
+        },
+        {
+          "copy": 1,
+          "name": "Jet vs. Car",
+          "set": "60489"
+        },
+        {
+          "copy": 1,
+          "name": "The LEGO\u00ae Van",
+          "set": "60500"
+        },
+        {
+          "copy": 1,
+          "name": "Gringotts\u2122 Wizarding Bank \u2013 Collectors' Edition",
+          "set": "76417"
+        }
+      ]
+    },
+    "389924": {
+      "color_metadata": "Bright Yellow",
+      "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/389924.jpg",
+      "minimum": 12,
+      "source_names": [
+        "MUG"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Minifigure Vending Machine",
+          "set": "21358"
+        },
+        {
+          "copy": 1,
+          "name": "Stargazing Camping Vehicle",
+          "set": "42603"
+        },
+        {
+          "copy": 1,
+          "name": "Friendship Tree House Hangout",
+          "set": "42652"
+        },
+        {
+          "copy": 1,
+          "name": "Friendship Camper Van Adventure",
+          "set": "42663"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Apartments and Stores",
+          "set": "42670"
+        },
+        {
+          "copy": 1,
+          "name": "Liann's Family House",
+          "set": "42687"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Friends Club House",
+          "set": "42689"
+        },
+        {
+          "copy": 1,
+          "name": "Koala Habitat & Care Center",
+          "set": "42701"
+        },
+        {
+          "copy": 1,
+          "name": "Fire Station",
+          "set": "60320"
+        },
+        {
+          "copy": 1,
+          "name": "Emergency Vehicles HQ",
+          "set": "60371"
+        },
+        {
+          "copy": 1,
+          "name": "Arctic Explorer Truck and Mobile Lab",
+          "set": "60378"
+        },
+        {
+          "copy": 1,
+          "name": "Space Base and Rocket Launchpad",
+          "set": "60434"
+        }
+      ]
+    },
+    "4114309": {
+      "color_metadata": "Brick Yellow",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/blt0508e4519d65f17e/4114309.jpg",
+      "minimum": 27,
+      "source_names": [
+        "PLATE 2X4"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Tiny Plants",
+          "set": "10329"
+        },
+        {
+          "copy": 1,
+          "name": "Stranger Things: The Creel House",
+          "set": "11370"
+        },
+        {
+          "copy": 1,
+          "name": "Great Pyramid of Giza",
+          "set": "21058"
+        },
+        {
+          "copy": 1,
+          "name": "Himeji Castle",
+          "set": "21060"
+        },
+        {
+          "copy": 1,
+          "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+          "set": "21341"
+        },
+        {
+          "copy": 1,
+          "name": "The Botanical Garden",
+          "set": "21353"
+        },
+        {
+          "copy": 1,
+          "name": "The Evolution of STEM",
+          "set": "21355"
+        },
+        {
+          "copy": 1,
+          "name": "Space Shuttle",
+          "set": "31134"
+        },
+        {
+          "copy": 1,
+          "name": "Hamster Wheel",
+          "set": "31155"
+        },
+        {
+          "copy": 1,
+          "name": "Floral Art Decor Painting",
+          "set": "31390"
+        },
+        {
+          "copy": 1,
+          "name": "New York Postcard",
+          "set": "40519"
+        },
+        {
+          "copy": 1,
+          "name": "London Bus",
+          "set": "40953"
+        },
+        {
+          "copy": 1,
+          "name": "Germany Postcard",
+          "set": "40954"
+        },
+        {
+          "copy": 1,
+          "name": "Beach Amusement Park",
+          "set": "41737"
+        },
+        {
+          "copy": 1,
+          "name": "Friendship Movie Night",
+          "set": "42642"
+        },
+        {
+          "copy": 1,
+          "name": "Panda Sanctuary Animal Care",
+          "set": "42648"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Apartments and Stores",
+          "set": "42670"
+        },
+        {
+          "copy": 1,
+          "name": "Comic Book and Game Store",
+          "set": "42674"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Friends Club House",
+          "set": "42689"
+        },
+        {
+          "copy": 1,
+          "name": "Garden Restaurant",
+          "set": "42691"
+        },
+        {
+          "copy": 1,
+          "name": "Koala Habitat & Care Center",
+          "set": "42701"
+        },
+        {
+          "copy": 1,
+          "name": "Spinning Flower & Fairy Teacup Ride",
+          "set": "42702"
+        },
+        {
+          "copy": 1,
+          "name": "Mermaid Roller Coaster Ride",
+          "set": "42703"
+        },
+        {
+          "copy": 1,
+          "name": "Ice-Cream Shop",
+          "set": "60363"
+        },
+        {
+          "copy": 1,
+          "name": "Jet vs. Car",
+          "set": "60489"
+        },
+        {
+          "copy": 1,
+          "name": "Airport with Airplane",
+          "set": "60502"
+        },
+        {
+          "copy": 1,
+          "name": "Vintage Steam Train",
+          "set": "60511"
+        }
+      ]
+    },
+    "4211151": {
+      "color_metadata": "Reddish Brown",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/bltc16e885ef6d2c4cc/4211151.jpg",
+      "minimum": 7,
+      "source_names": [
+        "FLAT TILE 1X2"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Stranger Things: The Creel House",
+          "set": "11370"
+        },
+        {
+          "copy": 1,
+          "name": "Himeji Castle",
+          "set": "21060"
+        },
+        {
+          "copy": 1,
+          "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+          "set": "21341"
+        },
+        {
+          "copy": 1,
+          "name": "The Botanical Garden",
+          "set": "21353"
+        },
+        {
+          "copy": 1,
+          "name": "The Evolution of STEM",
+          "set": "21355"
+        },
+        {
+          "copy": 1,
+          "name": "Main Street",
+          "set": "31141"
+        },
+        {
+          "copy": 1,
+          "name": "Arcade Machine",
+          "set": "40805"
+        }
+      ]
+    },
+    "4211186": {
+      "color_metadata": "Reddish Brown",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/blt5e6fa0e1750f5d26/4211186.jpg",
+      "minimum": 17,
+      "source_names": [
+        "PLATE 2X4"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Lucky Bamboo",
+          "set": "10344"
+        },
+        {
+          "copy": 1,
+          "name": "Creative Food Friends",
+          "set": "11039"
+        },
+        {
+          "copy": 1,
+          "name": "Creative Happy Box",
+          "set": "11042"
+        },
+        {
+          "copy": 1,
+          "name": "Stranger Things: The Creel House",
+          "set": "11370"
+        },
+        {
+          "copy": 1,
+          "name": "Great Pyramid of Giza",
+          "set": "21058"
+        },
+        {
+          "copy": 1,
+          "name": "Himeji Castle",
+          "set": "21060"
+        },
+        {
+          "copy": 1,
+          "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+          "set": "21341"
+        },
+        {
+          "copy": 1,
+          "name": "The Botanical Garden",
+          "set": "21353"
+        },
+        {
+          "copy": 1,
+          "name": "Main Street",
+          "set": "31141"
+        },
+        {
+          "copy": 1,
+          "name": "Friendship Tree House Hangout",
+          "set": "42652"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Apartments and Stores",
+          "set": "42670"
+        },
+        {
+          "copy": 1,
+          "name": "Plant Caf\u00e9 & Flower Shop",
+          "set": "42671"
+        },
+        {
+          "copy": 1,
+          "name": "Garden Restaurant",
+          "set": "42691"
+        },
+        {
+          "copy": 1,
+          "name": "Lunar Research Base",
+          "set": "60350"
+        },
+        {
+          "copy": 1,
+          "name": "Ski and Climbing Center",
+          "set": "60366"
+        },
+        {
+          "copy": 1,
+          "name": "Burger Truck",
+          "set": "60404"
+        },
+        {
+          "copy": 1,
+          "name": "Vintage Steam Train",
+          "set": "60511"
+        }
+      ]
+    },
+    "4211194": {
+      "color_metadata": "Reddish Brown",
+      "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211194.jpg",
+      "minimum": 3,
+      "source_names": [
+        "FLAT TILE 1X4"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+          "set": "21341"
+        },
+        {
+          "copy": 1,
+          "name": "Main Street",
+          "set": "31141"
+        },
+        {
+          "copy": 1,
+          "name": "Emergency Vehicles HQ",
+          "set": "60371"
+        }
+      ]
+    },
+    "4211210": {
+      "color_metadata": "Reddish Brown",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/blt23442fafac04822a/4211210.jpg",
+      "minimum": 8,
+      "source_names": [
+        "BRICK 2X2"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Creative Food Friends",
+          "set": "11039"
+        },
+        {
+          "copy": 1,
+          "name": "Stranger Things: The Creel House",
+          "set": "11370"
+        },
+        {
+          "copy": 1,
+          "name": "Rocking Plants",
+          "set": "11506"
+        },
+        {
+          "copy": 1,
+          "name": "Himeji Castle",
+          "set": "21060"
+        },
+        {
+          "copy": 1,
+          "name": "The Botanical Garden",
+          "set": "21353"
+        },
+        {
+          "copy": 1,
+          "name": "Autumn\u2019s Room",
+          "set": "42646"
+        },
+        {
+          "copy": 1,
+          "name": "Panda Sanctuary Animal Care",
+          "set": "42648"
+        },
+        {
+          "copy": 1,
+          "name": "Friendship Tree House Hangout",
+          "set": "42652"
+        }
+      ]
+    },
+    "4211225": {
+      "color_metadata": "Reddish Brown",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/blt4b72288fa91b6cbc/4211225.jpg",
+      "minimum": 7,
+      "source_names": [
+        "BRICK 1X4"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "French Caf\u00e9",
+          "set": "10362"
+        },
+        {
+          "copy": 1,
+          "name": "Stranger Things: The Creel House",
+          "set": "11370"
+        },
+        {
+          "copy": 1,
+          "name": "Himeji Castle",
+          "set": "21060"
+        },
+        {
+          "copy": 1,
+          "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+          "set": "21341"
+        },
+        {
+          "copy": 1,
+          "name": "The Botanical Garden",
+          "set": "21353"
+        },
+        {
+          "copy": 1,
+          "name": "Holiday Ski Slope and Caf\u00e9",
+          "set": "41756"
+        },
+        {
+          "copy": 1,
+          "name": "Garden Restaurant",
+          "set": "42691"
+        }
+      ]
+    },
+    "4211247": {
+      "color_metadata": "Reddish Brown",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/blt4f595b91f99e5139/4211247.jpg",
+      "minimum": 6,
+      "source_names": [
+        "PLATE 2X6"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "French Caf\u00e9",
+          "set": "10362"
+        },
+        {
+          "copy": 1,
+          "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+          "set": "21341"
+        },
+        {
+          "copy": 1,
+          "name": "Tropical\u00a0Ukulele",
+          "set": "31156"
+        },
+        {
+          "copy": 1,
+          "name": "Garden Restaurant",
+          "set": "42691"
+        },
+        {
+          "copy": 1,
+          "name": "Lunar Research Base",
+          "set": "60350"
+        },
+        {
+          "copy": 1,
+          "name": "Central Train Station",
+          "set": "60469"
+        }
+      ]
+    },
+    "4211388": {
+      "color_metadata": "Medium Stone Grey",
+      "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211388.jpg",
+      "minimum": 19,
+      "source_names": [
+        "BRICK 1X2"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Creative Happy Box",
+          "set": "11042"
+        },
+        {
+          "copy": 1,
+          "name": "Stranger Things: The Creel House",
+          "set": "11370"
+        },
+        {
+          "copy": 1,
+          "name": "Great Pyramid of Giza",
+          "set": "21058"
+        },
+        {
+          "copy": 1,
+          "name": "Minifigure Vending Machine",
+          "set": "21358"
+        },
+        {
+          "copy": 1,
+          "name": "Main Street",
+          "set": "31141"
+        },
+        {
+          "copy": 1,
+          "name": "Retro Camera",
+          "set": "31147"
+        },
+        {
+          "copy": 1,
+          "name": "Modern House",
+          "set": "31153"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake International School",
+          "set": "41731"
+        },
+        {
+          "copy": 1,
+          "name": "Beach Amusement Park",
+          "set": "41737"
+        },
+        {
+          "copy": 1,
+          "name": "Sports Center",
+          "set": "41744"
+        },
+        {
+          "copy": 1,
+          "name": "Holiday Ski Slope and Caf\u00e9",
+          "set": "41756"
+        },
+        {
+          "copy": 1,
+          "name": "Stargazing Camping Vehicle",
+          "set": "42603"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+          "set": "42604"
+        },
+        {
+          "copy": 1,
+          "name": "Hair Salon and Accessories Store",
+          "set": "42662"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Apartments and Stores",
+          "set": "42670"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Friends Club House",
+          "set": "42689"
+        },
+        {
+          "copy": 1,
+          "name": "Hospital",
+          "set": "60330"
+        },
+        {
+          "copy": 1,
+          "name": "Tow Truck and Sports Car Repair",
+          "set": "60435"
+        },
+        {
+          "copy": 1,
+          "name": "Holiday Adventure Camper Van",
+          "set": "60454"
+        }
+      ]
+    },
+    "4211414": {
+      "color_metadata": "Medium Stone Grey",
+      "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211414.jpg",
+      "minimum": 23,
+      "source_names": [
+        "FLAT TILE 1X2"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "French Caf\u00e9",
+          "set": "10362"
+        },
+        {
+          "copy": 1,
+          "name": "Himeji Castle",
+          "set": "21060"
+        },
+        {
+          "copy": 1,
+          "name": "Polaroid OneStep SX-70 Camera",
+          "set": "21345"
+        },
+        {
+          "copy": 1,
+          "name": "The Botanical Garden",
+          "set": "21353"
+        },
+        {
+          "copy": 1,
+          "name": "Minifigure Vending Machine",
+          "set": "21358"
+        },
+        {
+          "copy": 1,
+          "name": "Main Street",
+          "set": "31141"
+        },
+        {
+          "copy": 1,
+          "name": "Modern House",
+          "set": "31153"
+        },
+        {
+          "copy": 1,
+          "name": "Typewriter with Flowers",
+          "set": "31169"
+        },
+        {
+          "copy": 1,
+          "name": "New York Postcard",
+          "set": "40519"
+        },
+        {
+          "copy": 1,
+          "name": "London Postcard",
+          "set": "40569"
+        },
+        {
+          "copy": 1,
+          "name": "Optimus Prime Robot & Vehicle",
+          "set": "40803"
+        },
+        {
+          "copy": 1,
+          "name": "Dog Rescue Center",
+          "set": "41727"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake International School",
+          "set": "41731"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Bus",
+          "set": "41759"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+          "set": "42604"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Caf\u00e9",
+          "set": "42618"
+        },
+        {
+          "copy": 1,
+          "name": "Beekeepers' House and Flower Garden",
+          "set": "42669"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Apartments and Stores",
+          "set": "42670"
+        },
+        {
+          "copy": 1,
+          "name": "WALL-E and EVE",
+          "set": "43279"
+        },
+        {
+          "copy": 1,
+          "name": "Lunar Research Base",
+          "set": "60350"
+        },
+        {
+          "copy": 1,
+          "name": "Burger Truck",
+          "set": "60404"
+        },
+        {
+          "copy": 1,
+          "name": "Donut Truck",
+          "set": "60452"
+        },
+        {
+          "copy": 1,
+          "name": "Vintage Steam Train",
+          "set": "60511"
+        }
+      ]
+    },
+    "4216695": {
+      "color_metadata": "Reddish Brown",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/bltb000158c7aeec5da/4216695.jpg",
+      "minimum": 13,
+      "source_names": [
+        "PLATE 2X2"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Creative Happy Box",
+          "set": "11042"
+        },
+        {
+          "copy": 1,
+          "name": "Stranger Things: The Creel House",
+          "set": "11370"
+        },
+        {
+          "copy": 1,
+          "name": "Rocking Plants",
+          "set": "11506"
+        },
+        {
+          "copy": 1,
+          "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+          "set": "21341"
+        },
+        {
+          "copy": 1,
+          "name": "The Botanical Garden",
+          "set": "21353"
+        },
+        {
+          "copy": 1,
+          "name": "Main Street",
+          "set": "31141"
+        },
+        {
+          "copy": 1,
+          "name": "Dog Rescue Center",
+          "set": "41727"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake International School",
+          "set": "41731"
+        },
+        {
+          "copy": 1,
+          "name": "Holiday Ski Slope and Caf\u00e9",
+          "set": "41756"
+        },
+        {
+          "copy": 1,
+          "name": "Friendship Tree House Hangout",
+          "set": "42652"
+        },
+        {
+          "copy": 1,
+          "name": "Restaurant and Cooking School",
+          "set": "42655"
+        },
+        {
+          "copy": 1,
+          "name": "Garden Restaurant",
+          "set": "42691"
+        },
+        {
+          "copy": 1,
+          "name": "Drive-Through Car Wash",
+          "set": "60497"
+        }
+      ]
+    },
+    "4216945": {
+      "color_metadata": "Reddish Brown",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/blt927a44ed04b8d49c/4216945.jpg",
+      "minimum": 3,
+      "source_names": [
+        "PLATE 1X8"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Stranger Things: The Creel House",
+          "set": "11370"
+        },
+        {
+          "copy": 1,
+          "name": "Arcade Machine",
+          "set": "40805"
+        },
+        {
+          "copy": 1,
+          "name": "Vintage Steam Train",
+          "set": "60511"
+        }
+      ]
+    },
+    "4221590": {
+      "color_metadata": "Reddish Brown",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/blt7336be64aa8e97fc/4221590.jpg",
+      "minimum": 11,
+      "source_names": [
+        "PLATE 1X6"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "French Caf\u00e9",
+          "set": "10362"
+        },
+        {
+          "copy": 1,
+          "name": "Stranger Things: The Creel House",
+          "set": "11370"
+        },
+        {
+          "copy": 1,
+          "name": "Great Pyramid of Giza",
+          "set": "21058"
+        },
+        {
+          "copy": 1,
+          "name": "Himeji Castle",
+          "set": "21060"
+        },
+        {
+          "copy": 1,
+          "name": "Main Street",
+          "set": "31141"
+        },
+        {
+          "copy": 1,
+          "name": "Tropical\u00a0Ukulele",
+          "set": "31156"
+        },
+        {
+          "copy": 1,
+          "name": "Holiday Ski Slope and Caf\u00e9",
+          "set": "41756"
+        },
+        {
+          "copy": 1,
+          "name": "Restaurant and Cooking School",
+          "set": "42655"
+        },
+        {
+          "copy": 1,
+          "name": "Beekeepers' House and Flower Garden",
+          "set": "42669"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Friends Club House",
+          "set": "42689"
+        },
+        {
+          "copy": 1,
+          "name": "Vintage Steam Train",
+          "set": "60511"
+        }
+      ]
+    },
+    "4243824": {
+      "color_metadata": "Brick Yellow",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/blt690e0fc3c862f8a3/4243824.jpg",
+      "minimum": 5,
+      "source_names": [
+        "PLATE 4X4"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "The Evolution of STEM",
+          "set": "21355"
+        },
+        {
+          "copy": 1,
+          "name": "Flowers in Watering Can",
+          "set": "31149"
+        },
+        {
+          "copy": 1,
+          "name": "Beach Amusement Park",
+          "set": "41737"
+        },
+        {
+          "copy": 1,
+          "name": "Panda Sanctuary Animal Care",
+          "set": "42648"
+        },
+        {
+          "copy": 1,
+          "name": "Koala Habitat & Care Center",
+          "set": "42701"
+        }
+      ]
+    },
+    "4509897": {
+      "color_metadata": "Brick Yellow",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/blt8a55d97f03b789da/4509897.jpg",
+      "minimum": 11,
+      "source_names": [
+        "PLATE 4X8"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+          "set": "21341"
+        },
+        {
+          "copy": 1,
+          "name": "Main Street",
+          "set": "31141"
+        },
+        {
+          "copy": 1,
+          "name": "Modern House",
+          "set": "31153"
+        },
+        {
+          "copy": 1,
+          "name": "Beach Amusement Park",
+          "set": "41737"
+        },
+        {
+          "copy": 1,
+          "name": "Hair Salon",
+          "set": "41743"
+        },
+        {
+          "copy": 1,
+          "name": "Leo's Room",
+          "set": "41754"
+        },
+        {
+          "copy": 1,
+          "name": "Adventure Camp Cozy Cabins",
+          "set": "42624"
+        },
+        {
+          "copy": 1,
+          "name": "Comic Book and Game Store",
+          "set": "42674"
+        },
+        {
+          "copy": 1,
+          "name": "Garden Restaurant",
+          "set": "42691"
+        },
+        {
+          "copy": 1,
+          "name": "Koala Habitat & Care Center",
+          "set": "42701"
+        },
+        {
+          "copy": 1,
+          "name": "Holiday Adventure Camper Van",
+          "set": "60454"
+        }
+      ]
+    },
+    "6182261": {
+      "color_metadata": "Bright Green",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/blt575914939bb28827/6182261.jpg",
+      "minimum": 28,
+      "source_names": [
+        "PLANT, W/ PLATE 1X1, NO. 1"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Creative Food Friends",
+          "set": "11039"
+        },
+        {
+          "copy": 1,
+          "name": "Great Pyramid of Giza",
+          "set": "21058"
+        },
+        {
+          "copy": 1,
+          "name": "The Botanical Garden",
+          "set": "21353"
+        },
+        {
+          "copy": 1,
+          "name": "The Evolution of STEM",
+          "set": "21355"
+        },
+        {
+          "copy": 1,
+          "name": "LEGO City Set 30721",
+          "set": "30721"
+        },
+        {
+          "copy": 1,
+          "name": "LEGO Brand Retail Store",
+          "set": "40528"
+        },
+        {
+          "copy": 1,
+          "name": "Dog Rescue Center",
+          "set": "41727"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake International School",
+          "set": "41731"
+        },
+        {
+          "copy": 1,
+          "name": "Mars\u00a0Space\u00a0Base and Rocket",
+          "set": "42605"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Caf\u00e9",
+          "set": "42618"
+        },
+        {
+          "copy": 1,
+          "name": "Surfing Dogs and Scooter Adventure",
+          "set": "42641"
+        },
+        {
+          "copy": 1,
+          "name": "Autumn\u2019s Room",
+          "set": "42646"
+        },
+        {
+          "copy": 1,
+          "name": "Friendship Tree House Hangout",
+          "set": "42652"
+        },
+        {
+          "copy": 1,
+          "name": "Restaurant and Cooking School",
+          "set": "42655"
+        },
+        {
+          "copy": 1,
+          "name": "Cat Birthday Party & Tree House",
+          "set": "42666"
+        },
+        {
+          "copy": 1,
+          "name": "Beekeepers' House and Flower Garden",
+          "set": "42669"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Apartments and Stores",
+          "set": "42670"
+        },
+        {
+          "copy": 1,
+          "name": "Plant Caf\u00e9 & Flower Shop",
+          "set": "42671"
+        },
+        {
+          "copy": 1,
+          "name": "Comic Book and Game Store",
+          "set": "42674"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Friends Club House",
+          "set": "42689"
+        },
+        {
+          "copy": 1,
+          "name": "Garden Restaurant",
+          "set": "42691"
+        },
+        {
+          "copy": 1,
+          "name": "Koala Habitat & Care Center",
+          "set": "42701"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Grand Hotel",
+          "set": "42704"
+        },
+        {
+          "copy": 1,
+          "name": "Road Plates",
+          "set": "60304"
+        },
+        {
+          "copy": 1,
+          "name": "Police Station",
+          "set": "60316"
+        },
+        {
+          "copy": 1,
+          "name": "Hospital",
+          "set": "60330"
+        },
+        {
+          "copy": 1,
+          "name": "Emergency Vehicles HQ",
+          "set": "60371"
+        },
+        {
+          "copy": 1,
+          "name": "Central Train Station",
+          "set": "60469"
+        }
+      ]
+    },
+    "6212501": {
+      "color_metadata": "Light Purple",
+      "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6212501.jpg",
+      "minimum": 13,
+      "source_names": [
+        "FLOWER 1X1"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "French Caf\u00e9",
+          "set": "10362"
+        },
+        {
+          "copy": 1,
+          "name": "Himeji Castle",
+          "set": "21060"
+        },
+        {
+          "copy": 1,
+          "name": "Japan Postcard",
+          "set": "40713"
+        },
+        {
+          "copy": 1,
+          "name": "Italy Postcard",
+          "set": "40818"
+        },
+        {
+          "copy": 1,
+          "name": "Germany Postcard",
+          "set": "40954"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+          "set": "42604"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Caf\u00e9",
+          "set": "42618"
+        },
+        {
+          "copy": 1,
+          "name": "Restaurant and Cooking School",
+          "set": "42655"
+        },
+        {
+          "copy": 1,
+          "name": "Beekeepers' House and Flower Garden",
+          "set": "42669"
+        },
+        {
+          "copy": 1,
+          "name": "Plant Caf\u00e9 & Flower Shop",
+          "set": "42671"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake City Friends Club House",
+          "set": "42689"
+        },
+        {
+          "copy": 1,
+          "name": "Horse & Baby Foal Trailer",
+          "set": "42695"
+        },
+        {
+          "copy": 1,
+          "name": "Ice-Cream Shop",
+          "set": "60363"
+        }
+      ]
+    },
+    "6295242": {
+      "color_metadata": "Vibrant Coral",
+      "image_url": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6295242.jpg",
+      "minimum": 13,
+      "source_names": [
+        "FLOWER 1X1"
+      ],
+      "sources": [
+        {
+          "copy": 1,
+          "name": "Creative Happy Box",
+          "set": "11042"
+        },
+        {
+          "copy": 1,
+          "name": "Rocking Plants",
+          "set": "11506"
+        },
+        {
+          "copy": 1,
+          "name": "Dog Rescue Center",
+          "set": "41727"
+        },
+        {
+          "copy": 1,
+          "name": "Sea Rescue Center",
+          "set": "41736"
+        },
+        {
+          "copy": 1,
+          "name": "Beach Amusement Park",
+          "set": "41737"
+        },
+        {
+          "copy": 1,
+          "name": "Hair Salon",
+          "set": "41743"
+        },
+        {
+          "copy": 1,
+          "name": "Heartlake\u00a0City Shopping\u00a0Mall",
+          "set": "42604"
+        },
+        {
+          "copy": 1,
+          "name": "Pop Star Music Tour Bus",
+          "set": "42619"
+        },
+        {
+          "copy": 1,
+          "name": "Panda Sanctuary Animal Care",
+          "set": "42648"
+        },
+        {
+          "copy": 1,
+          "name": "Friendship Tree House Hangout",
+          "set": "42652"
+        },
+        {
+          "copy": 1,
+          "name": "Restaurant and Cooking School",
+          "set": "42655"
+        },
+        {
+          "copy": 1,
+          "name": "Plant Caf\u00e9 & Flower Shop",
+          "set": "42671"
+        },
+        {
+          "copy": 1,
+          "name": "Liann's Family House",
+          "set": "42687"
+        }
+      ]
+    }
+  },
+  "excluded_rows_without_id": 40,
+  "input_sha256": {
+    "data/owned-sets.csv": "d9223cd16e15868eedaa1c59536d317d6cdea023536180577725585168e788d6",
+    "public/data/parts-enrichment-cache.json": "0f2553621a481dc56103c61e97635371a6bb4b57ccef6f83c6ed6fa6752f7a99",
+    "public/data/parts/10329.json": "08c326ea6e48a1ecd87cf4b763d485d64a663d16b6aff88420ea21a307af2be3",
+    "public/data/parts/10344.json": "3deb4c51b2622f1361c7eadf3268aafa620150cca1ed824d8b12d10d8cfc0f6e",
+    "public/data/parts/10349.json": "ad08ea09744ad2129b211aa0dca92c3ee372508496422c10303fe84d3fbd1772",
+    "public/data/parts/10359.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "public/data/parts/10362.json": "f6a483a626ec6d7024a7d41a130cec1b8ba01e015a0453b2bd0d7a896036b65e",
+    "public/data/parts/10369.json": "d2559ec6abc996270f8d3dcbc31e88c0c53d440d75d799cdd4e667950f6755f9",
+    "public/data/parts/11039.json": "be7cffcf1bf6bf58a1754791c08ce8d6a6c8a9f0577afa018454251320096230",
+    "public/data/parts/11042.json": "a5369d8c11db4f10906392f07d7aa4a3fba0d6e48c9d1786f426966172b76444",
+    "public/data/parts/11370.json": "89c25e8e3dbc4f52a838f0c8359c2ae5b18bf072d1cc1d934bf0d46bf8acc90a",
+    "public/data/parts/11506.json": "03e4dbe5fc29160c5ca5b30056ee7f80d9f46a127edbb015c2d313ced1fe008e",
+    "public/data/parts/11508.json": "8007b7da890dad335619569a6dd09009a1afd495904524e4b7c3ae723df535aa",
+    "public/data/parts/11511.json": "3932a63a1efb9d810d41355750c53bdb0f49b96964ed919849fb333bff1a3801",
+    "public/data/parts/21058.json": "8e82178060d8b03d9c6ec76085c84b97e174d0925bff6a4ba3a8aca0ae27f393",
+    "public/data/parts/21060.json": "cbea18d091083d75af2d2f90d90f7a011940b0920a0ad8b2aa8c0ae1b4b205ae",
+    "public/data/parts/21341.json": "a0162d97a0fbca7c5f705e39765bd0fde036bf5ab8ec400229c294f577a1f81d",
+    "public/data/parts/21345.json": "da2f5726a8eb77a05cd606723b6ebb3a6b2b9c5ec5ce5af84c793beb0d3fb0dc",
+    "public/data/parts/21353.json": "f8f0139038602dd494e2bb06980cdf127aef021aa6c35e5934a9a26fbe250053",
+    "public/data/parts/21355.json": "20792fe477e527dd42fcb3bbf4891a18c6c9c5e8ea564ad86bdb748af22ce448",
+    "public/data/parts/21358.json": "564b49e361d290474c35e845675169af01c808391d21faa55eb18a2ed31657d4",
+    "public/data/parts/30689.json": "5f6751115a8d2b72afe0b7574ad34c6d752f78052427938f2851409ad7411460",
+    "public/data/parts/30697.json": "62debe0de382c0368c7d165ebb40c2edb7a96e3d7845dbeb1f4d06df1ce72216",
+    "public/data/parts/30701.json": "2fd485e284eb0c50beac22f5962d4902c58c110bc37feee9b6314a04438f1399",
+    "public/data/parts/30719.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "public/data/parts/30721.json": "ea217a70eed6ace816a902d30ff04939ae085330d34fb632d89e8747315df04e",
+    "public/data/parts/30722.json": "59dc83c1319db2ea9bb45a5863e13079fc6659f923481be4f2547143188cb559",
+    "public/data/parts/30735.json": "8a9dcf32a07d06ddcec83e5ecc676099dc95004a2695bbd474e53a00c10509df",
+    "public/data/parts/31134.json": "49a5cb6eb8b62062d576de5f18c100a9e37368496d3a47690a8b29385b401481",
+    "public/data/parts/31141.json": "127e1f0b6244fcb570eeb50094025b8fd8ffbd8ae7295de1c41a9008f27ca4e2",
+    "public/data/parts/31147.json": "57a9614b0a80ead614008c507eeb59dadd853903161ab7ae70c5b74599d0d486",
+    "public/data/parts/31148.json": "802c8cb509ce0b643df13b2231a9ca63d254a2207e4901d9f00a69e3143a4895",
+    "public/data/parts/31149.json": "2974aa4fc264e000b30029230982bf251a78336100be2568c6d6119f0e807994",
+    "public/data/parts/31153.json": "0dbb382b45195b477725bb9451ac23b183dea87be74189f04b986c5a9f92c155",
+    "public/data/parts/31155.json": "9251290f79a0d15448cfddcfd8023fdacc5730e63927a4e624d54ce82ce2e471",
+    "public/data/parts/31156.json": "e3a39c0211bf2151de01c6c8f9ebf3ffd04246977634cd2779a421a108ad3fa4",
+    "public/data/parts/31160.json": "51b25c5b7e9b2b58e0515d93e3615f38a0d278b4b42f41acb268143b3fab3b2e",
+    "public/data/parts/31169.json": "3415bb7933834f60c2556d4a009149d49612c2873e2ed585b88efcf341f76cb4",
+    "public/data/parts/31172.json": "ee72771749cfda944636e441e505b934c0c00c33db490af60c6f9425c60c269b",
+    "public/data/parts/31174.json": "1894f649b50073bd42543a2c4fa0268ddee9752ed8c7df9006720b10b7a28106",
+    "public/data/parts/31209.json": "ee2cf0672fc534a42cf1f260df87501b95758b6ad72df62e990fbc990616c95f",
+    "public/data/parts/31380.json": "5145a1795a67ef9b4b4c196365c80acff90e5ed61eb71bfdd7a854f689bd1889",
+    "public/data/parts/31383.json": "4bdd5d3e0d9cb6d36953b1ef8220c89f1f3280c9980350bda396c500f7d565e8",
+    "public/data/parts/31384.json": "188e9701ecafbc21c6706ac2d196e7029c9bda8bf0f7cb71496793d254730a90",
+    "public/data/parts/31390.json": "28e8fe67032682ec783f9b18e57e00099379fb82052a1d4892cca35292331574",
+    "public/data/parts/31391.json": "c604363d1f1933e78b10bae05a88b2b4546a962c46d4af566ceba773b94c7578",
+    "public/data/parts/31392.json": "fb53e6e67d1e0f69a07d61edd50acf2c43a4cb809bfb2e30db7b94c75fe6f208",
+    "public/data/parts/40519.json": "efd5d7d303ab382927caeda5ca92b9a63c650f8dd3aaa1851592e2a5f5e933b3",
+    "public/data/parts/40528.json": "0ccc3aacf8f616b04f4c96413b675a45c705a9cacc1740d2004a76ff6ba1fcf7",
+    "public/data/parts/40569.json": "bf5eb22b22c390a08386b86e9cbe6c2cb2ed54655edbad122474b6ab955565da",
+    "public/data/parts/40619.json": "6d3f674e926627b1fe91a0089d47875dc37fdc3fa85222470f9e22b4c0527e9f",
+    "public/data/parts/40713.json": "7c3b9af48fde9490bd87e7051d5305646d45d2b3a5a118d6e4eb9cb289f4b0f6",
+    "public/data/parts/40719.json": "f292eea9a24e2a7d75876b5892e799d68c17766e7ad1f7b96b6fffd155c54539",
+    "public/data/parts/40803.json": "f637c637a5566b15d69b26d4df447dc56d2a9566ac495b7413cd450e8dccf41d",
+    "public/data/parts/40804.json": "e9a7fb1662331f6c8840a545b42b5c9d94bce13b81aae1bd7455f88bddf80b20",
+    "public/data/parts/40805.json": "6acb213f57f884243c3eec0690a95cf0c9b8936e19bd76faac48bba64b6c6168",
+    "public/data/parts/40817.json": "7e079f3122bd1fc15acc18ba7677f2eedb1082545a4cfc6c8d61f9294e515816",
+    "public/data/parts/40818.json": "f44c15e1ac5ae232c45deefd2b48bb80ed25f563a67f93967db1acf8513f609d",
+    "public/data/parts/40871.json": "9cc88dcf18241396fbf93f61b805f4af70c9f6cc6fe5ab497d1b0db23b35873b",
+    "public/data/parts/40878.json": "818dc4634518c783688e7031638610fb3f959d83c04060489a357d29500d8cdb",
+    "public/data/parts/40886.json": "f38e7dc254e46d1a4e98f79de90b857f732acb6db6166c26c998e93e6d851507",
+    "public/data/parts/40953.json": "21bcc781b52eff5833a194b52ee497d551a6ae63e5b1113bd5b8d7ef56288beb",
+    "public/data/parts/40954.json": "b40717903346ef1e58ec8a9f18aa6656d7933d282560e5dd6c21d2859484943c",
+    "public/data/parts/41727.json": "ad122b1f5b07d9b8ea30bc3a362aa0debf0e9e4d99daf284ae366d6601d58730",
+    "public/data/parts/41731.json": "396b3e1c2c8b57269ed0f52f90121fc11cb677422483e7c4f3057256abe0999b",
+    "public/data/parts/41736.json": "a671f5e52afe4b9a52f70c3a4748652043af86108c2fc31fa3d03c4195826f73",
+    "public/data/parts/41737.json": "cce02faa22c0dfed1c9db9b15a475be937bd65416ae1319ae7be6e889ab43962",
+    "public/data/parts/41743.json": "ada5a5e8bdb68870bb9a530549db6e01e790ed22dcca57c7c8175d1bc0ed9c5e",
+    "public/data/parts/41744.json": "4256a80924ab0c1deabd3fe81bbbb11138184001f0025cc7ddb18d533a17ed79",
+    "public/data/parts/41751.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "public/data/parts/41754.json": "596a1a89f5ac1031589c69cb5f140258ec411fa49cf27e44171574b473ed57bc",
+    "public/data/parts/41756.json": "35c39c8a9cff2ae35b2f391549cb8ecb6adf922005e01df72bce4668d568bd9b",
+    "public/data/parts/41759.json": "abaafc2bd1ff309a863bc23cc5b7e15d52e2024888fbbeafd4980f55b7eb09c8",
+    "public/data/parts/42163.json": "d4e4f5d7294d8fb70625671a2d03697ffaad2d19b4bf288861872cd40d03832a",
+    "public/data/parts/42179.json": "d463f34725b94528377ad607c1c4e7ff71c6e0e0c89c88b1dfe36f2f162e5e5f",
+    "public/data/parts/42221.json": "a93b59448e4850d94157ae03d5ac010ac4d6b327f17ec1334b9a317538a8f31f",
+    "public/data/parts/42603.json": "70ce6c147f92e9ebcc959adc32cda235bacd44c5b4512d9d183766d93ac64615",
+    "public/data/parts/42604.json": "f7ac08a3215c0418bfd39afe1e36162619cfcba2df014e75136bc6400e337357",
+    "public/data/parts/42605.json": "3bcb18e519cef26b97b84f5468b5d1746d5755415780176c1e2c6484a7968a4f",
+    "public/data/parts/42610.json": "f85c22c0e5b45a14e6ffe7f1c9351a3e2e6bb503aa92ffeb211b3b6797ef5bdd",
+    "public/data/parts/42612.json": "0c51198da5dd995181a8f267dcb702007c08b8b6d192d0fd94f0b7053dc4ad96",
+    "public/data/parts/42614.json": "6e739c7aebbf36efcb069d380975eab42048764e4608ab4dbd2d319864d5d68d",
+    "public/data/parts/42618.json": "9b1278e98fdbdad35bb72a2007bb61a46a445f064499b96390662bbdb38b4b88",
+    "public/data/parts/42619.json": "ec454621b5f3b920e3fd9572b670594157a96d130c2069be7a1b500869b88085",
+    "public/data/parts/42623.json": "022d6c0ed5e602f4cd6734c106b639fcbd94c600018432d17555618930bc6805",
+    "public/data/parts/42624.json": "0e903bc940b737b78b01366d1c80440011f1ac0fe96dc3e43522ffc4680b874a",
+    "public/data/parts/42635.json": "9c1cc2e4017c829a4462f6d82f81171293bb025f4a1e3b2269e09ba7938f0536",
+    "public/data/parts/42641.json": "b7e25a77b7bf90e8e7efa7cfa294cde3b2af4e835a51ad15e351b74554870554",
+    "public/data/parts/42642.json": "8181c00d8cac31771eb0b43a5d0b076b3a1d92932b6e19009e3731bda62f5c75",
+    "public/data/parts/42644.json": "44f3514cb7239f09faa226ca3950c9d4ac72d6aac32151d04a072095366b6c32",
+    "public/data/parts/42646.json": "e8a0a14e5087a1bec2eaa4965447a532ff4bd107a1da78b810f60665fb64e589",
+    "public/data/parts/42648.json": "1ca37c92a9ee42b05fe74fbe72a22b5794fdf270e1e83a47cdff4736ed46fc29",
+    "public/data/parts/42649.json": "1fcc66f7051c9fd9171a5d41f78be2be3c0eefb11c2ff49eb4d53a2e5d9530ea",
+    "public/data/parts/42652.json": "45c0ad053661cfdebd27fe12b7c3a91288e5fcd81fb2c721ad45ec8d3257a34d",
+    "public/data/parts/42653.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "public/data/parts/42655.json": "d9bac971cb14ce2c96858aa70a11349525b5f6297047d96c3f6557d5c9595dae",
+    "public/data/parts/42659.json": "f34de21147ffeb4213cad75c7c29b3eff00d2f1dd27a96c058a5047e55cd9018",
+    "public/data/parts/42662.json": "0a9aaa61c484dd935cf63aa445bfde2f3315ceaeb15ac8a5e58c23ab4a9d3c33",
+    "public/data/parts/42663.json": "78495e85eb9e6c2a189e23030afcdcbc27a41f3d62279b47bbedd50cd7c2172e",
+    "public/data/parts/42665.json": "3fe8991bba73a20c79fccf7dc68e68ab7e17d223a4f717d8e2237dc0106a5a2c",
+    "public/data/parts/42666.json": "ae520e41c334baf5f1884d9e57a73311fe147c11150b3802c510ebcd16657a35",
+    "public/data/parts/42669.json": "751fe283d16cb4aa0f60cdf7232c825346393152eadbe66a33d4cb0a324a8bbb",
+    "public/data/parts/42670.json": "39bf39e4bd0ff99e8ce28ddf901f6b33301eb360da38fd6c69c518537b9b1577",
+    "public/data/parts/42671.json": "508a02f240b801d1af7457ff2b64e63f9d9f3508bb2b3783be245c4a0ab249da",
+    "public/data/parts/42674.json": "4aec3a6dad96421159aad2b195e05f9256abf78cff0f7c2adc531096b6199c4d",
+    "public/data/parts/42676.json": "004dcbda8e92c425295a0f51f962931b4d044bb0a307b5f93ba472e0e50c487e",
+    "public/data/parts/42680.json": "24bd2e230544e531e7e8e548cb38755f7cc7a3ee5c93855403bb2ce072e14222",
+    "public/data/parts/42687.json": "f2c9ae5d0658b7d61d81009aa4e6062d653d42d90022fbcb8abd617330916bd9",
+    "public/data/parts/42689.json": "21363cc5dabf1e0f5ed646fd3b098d675d2d7ad2552a9c07a55e7f7497e4aae6",
+    "public/data/parts/42691.json": "cda4ef1950c4bcaba660d0e1bc6b0b17108c5d45e4a59e29f55500d99e95c1c2",
+    "public/data/parts/42692.json": "8533a6ec59ffcdc62f8205be48693a9611b9a2c43eabc7a6a89bc19a9eb2aeaa",
+    "public/data/parts/42695.json": "1c104a3ee02112b674a3b7872863c53b136787f9c673f0ab1aa475580ca3e736",
+    "public/data/parts/42699.json": "be775e12e39dcd039b5e5173c5e65e446c546ccf869f023b7611905fb789c0dc",
+    "public/data/parts/42701.json": "74dd7930586dc3936c69e6a871b40dca8fcfcdd173dcbe3f9398b0e9bdeb7c1a",
+    "public/data/parts/42702.json": "2c6ac0743cce077a5ff2151c70b257ca5a165e61417f66fcd4a3b38e65350d19",
+    "public/data/parts/42703.json": "7913a703d826ccb12c94deeb6072f4182f886eeedad779e248a7c63d87096582",
+    "public/data/parts/42704.json": "477d4c4fb114e34345e33aadca9455754458171dc6d4a61aeb031af8b9728e47",
+    "public/data/parts/43271.json": "50e9a1461ed437ddfd0e8bfa69b7dd8763dc98ac85992a27139091df7e8cd334",
+    "public/data/parts/43279.json": "e152c26a95828a4a08e870f44d5ecfea7bb0c9e70092841ae7ae652c6ca36743",
+    "public/data/parts/60205.json": "7b4b60291498582a388636797356068c1e8da0f2efd498d48b7e1914771f3543",
+    "public/data/parts/60304.json": "b70769f99b2e0f1610c22b54a9a8c17636ea82c4a34301fbda4ce908c319bde8",
+    "public/data/parts/60316.json": "75678cc3b7c7870070815efb81d2dcb49e41dc5b6f9e10ee3a14beb8ebb44ea4",
+    "public/data/parts/60320.json": "7114a6dcfdcadab1d5b98947a5ac53c5d086f45e9a6eeac3e4a759a57a9657ad",
+    "public/data/parts/60330.json": "af27562225c35903a7651cc918cf6be57a84a639942d89a39c81b87ceadd05dc",
+    "public/data/parts/60337.json": "073cee1e0f1ae164757e83a4878fee0c1374c97d8df2aca7f33988d1298ce6aa",
+    "public/data/parts/60350.json": "b09273123fa353f1604ef6383af9fd0fd82c06d8696a68d7d28701077db7fa26",
+    "public/data/parts/60363.json": "3d48ae282d4d8cd4b965362a9e8b37f7baa779a226210cceed24d6816496ad58",
+    "public/data/parts/60366.json": "e6bbcaab38afdb6f3c1e16fc278b83ee766cdd1164aa330b87b2e18d4e276a63",
+    "public/data/parts/60371.json": "e1a67e310507a93d9f68ad5a33b56399f6f7b5c4983cee1c7d45d22212f07071",
+    "public/data/parts/60375.json": "7f6cd39ddfe5ac2b04afcad0f680d3c1c6ca649156a2812b624f38a848df0933",
+    "public/data/parts/60378.json": "ccc07e0377c8f83242f23243399b2873614a219f385984c6aecc0ba15c8c2adb",
+    "public/data/parts/60384.json": "23f893f919e50a39a8c2960854dcf16040141ed6e095ac0315c863dc2a18fda5",
+    "public/data/parts/60386.json": "82e6b2515e536b08c2cf010e04afe5ddc226cda0c2d66ff0462113dbaf96207e",
+    "public/data/parts/60401.json": "52991ecf9885e1ba990467d9bb86efd3687198e79d2a89ca3515a6746ca833f0",
+    "public/data/parts/60404.json": "073246f3246f48ee31deb31a76ae7c176afdf3c2974920c78f6e8f6970ab472f",
+    "public/data/parts/60415.json": "b75fb19c72b1fa1aef11bf0876035b3917bc916c3adccfdeaaa0a13f8f454706",
+    "public/data/parts/60434.json": "c77f24c5c0c9016a6d12198634d86249d7de412d6501601e45c5b2902fe908d1",
+    "public/data/parts/60435.json": "831493a6e4fc805059fd3f762335ef79c87c456113584412acaa2aa75fa7a511",
+    "public/data/parts/60439.json": "29b81cf4cedb7ec21673bfa07dd69822906b4b59fef3e519faca7735b709bcb8",
+    "public/data/parts/60452.json": "0ba7134a41c8d6fc31ec118ad95858a2505a04fbb9e0f7bc3e4dfbd76dc98ff2",
+    "public/data/parts/60453.json": "67d13791eea105d27b946ad84104703b6adbe567bce15cf09b0edf988badf9fa",
+    "public/data/parts/60454.json": "f534300f0a93d3a5d09852c01fdc5c35f8a1c99341868f482ebb123d83840174",
+    "public/data/parts/60469.json": "e5b86dd9c54807411e65d8f314f930297b15d200e316186aaf93e7df1b60ad5e",
+    "public/data/parts/60481.json": "6726d7c24f39bec76b1aefc9c1c2249b7807211502c0bac2c835d1825abce008",
+    "public/data/parts/60482.json": "24f835703780cb1c1d25d3be0ce99b1bad7ec4d399e1a2e9b088a6dd4c3f75ad",
+    "public/data/parts/60483.json": "6a7ac8757c92bf3c1e1992bcb978897f464bb3e6a2cd7dd50fa056bf20307ff9",
+    "public/data/parts/60484.json": "3a445ef73ac774ff08bcdfe73d668442006aeb2983b7fbb9560273f65ee82dd1",
+    "public/data/parts/60485.json": "85e23cbd12f86176adfcd4b015c7e1a11ffe6c708e7fbc1da3fb93c88d60d1fe",
+    "public/data/parts/60487.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "public/data/parts/60488.json": "9be51120ae34c7aadcfcbf144ef3ec89697e02d262798e03a4d9aff8f6f0ed0a",
+    "public/data/parts/60489.json": "d67452391d2146c0bcbe29e7bbd4d5a780531506911538cbf457e9f75cc0581a",
+    "public/data/parts/60491.json": "070a1d4b078b0dba520f0a27853e314e82db7d23ccaf863a71bcc68ca84e6a17",
+    "public/data/parts/60497.json": "c7806b438e0bfc9ff1656988ac3fbdf0148e0480cae4dfd90b0c1560ed42a851",
+    "public/data/parts/60500.json": "bca0a276c63123c68e18c0c3edcffc9722ed84546d54ab4a17d97094076148c4",
+    "public/data/parts/60502.json": "7c0d7270d782ff7d1921787572327c3d33917562ffeab4d9f83e651ebe27e7be",
+    "public/data/parts/60511.json": "5fea9949650ad3e1634d78c0c4a6d21f400ed6f995541d6da9ddbdea49df3f88",
+    "public/data/parts/76417.json": "7a9f9e0052d17d3abf774ead6ad393e6ae936b2cf481a6388da7251c1753ec25",
+    "public/data/parts/76446.json": "f1401cc4ebeb6cce425826397c28278523f5cdb3f4e6714eae13085ff2b0bc99",
+    "public/data/sets.json": "3fdcd060657ec5d21731c57505ffb942d2cace029500c0269c07e75b64b3c33b"
+  },
+  "owned_sets": {
+    "10329": 1,
+    "10344": 1,
+    "10349": 1,
+    "10359": 1,
+    "10362": 1,
+    "10369": 1,
+    "11039": 1,
+    "11042": 1,
+    "11370": 1,
+    "11506": 1,
+    "11508": 1,
+    "11511": 1,
+    "21058": 1,
+    "21060": 1,
+    "21341": 1,
+    "21345": 1,
+    "21353": 1,
+    "21355": 1,
+    "21358": 1,
+    "30689": 1,
+    "30697": 1,
+    "30701": 1,
+    "30719": 2,
+    "30721": 1,
+    "30722": 1,
+    "30735": 1,
+    "31134": 1,
+    "31141": 1,
+    "31147": 1,
+    "31148": 1,
+    "31149": 1,
+    "31153": 1,
+    "31155": 1,
+    "31156": 1,
+    "31160": 1,
+    "31169": 1,
+    "31172": 1,
+    "31174": 1,
+    "31209": 1,
+    "31380": 1,
+    "31383": 1,
+    "31384": 1,
+    "31390": 1,
+    "31391": 1,
+    "31392": 1,
+    "40519": 1,
+    "40528": 1,
+    "40569": 1,
+    "40619": 1,
+    "40713": 1,
+    "40719": 1,
+    "40803": 1,
+    "40804": 1,
+    "40805": 1,
+    "40817": 1,
+    "40818": 1,
+    "40871": 1,
+    "40878": 1,
+    "40886": 1,
+    "40953": 1,
+    "40954": 1,
+    "41727": 1,
+    "41731": 1,
+    "41736": 1,
+    "41737": 1,
+    "41743": 1,
+    "41744": 1,
+    "41751": 1,
+    "41754": 1,
+    "41756": 1,
+    "41759": 1,
+    "42163": 1,
+    "42179": 1,
+    "42221": 1,
+    "42603": 1,
+    "42604": 1,
+    "42605": 1,
+    "42610": 1,
+    "42612": 1,
+    "42614": 1,
+    "42618": 1,
+    "42619": 1,
+    "42623": 1,
+    "42624": 1,
+    "42635": 1,
+    "42641": 1,
+    "42642": 1,
+    "42644": 1,
+    "42646": 1,
+    "42648": 1,
+    "42649": 1,
+    "42652": 1,
+    "42653": 1,
+    "42655": 1,
+    "42659": 1,
+    "42662": 1,
+    "42663": 1,
+    "42665": 1,
+    "42666": 1,
+    "42669": 1,
+    "42670": 1,
+    "42671": 1,
+    "42674": 1,
+    "42676": 1,
+    "42680": 1,
+    "42687": 1,
+    "42689": 1,
+    "42691": 1,
+    "42692": 1,
+    "42695": 1,
+    "42699": 1,
+    "42701": 1,
+    "42702": 1,
+    "42703": 1,
+    "42704": 1,
+    "43271": 1,
+    "43279": 1,
+    "60205": 1,
+    "60304": 1,
+    "60316": 1,
+    "60320": 1,
+    "60330": 1,
+    "60337": 1,
+    "60350": 1,
+    "60363": 1,
+    "60366": 1,
+    "60371": 1,
+    "60375": 1,
+    "60378": 1,
+    "60384": 1,
+    "60386": 1,
+    "60401": 1,
+    "60404": 1,
+    "60415": 1,
+    "60434": 1,
+    "60435": 1,
+    "60439": 1,
+    "60452": 1,
+    "60453": 1,
+    "60454": 1,
+    "60469": 1,
+    "60481": 1,
+    "60482": 1,
+    "60483": 1,
+    "60484": 1,
+    "60485": 1,
+    "60487": 1,
+    "60488": 1,
+    "60489": 1,
+    "60491": 1,
+    "60497": 1,
+    "60500": 1,
+    "60502": 1,
+    "60511": 1,
+    "76417": 1,
+    "76446": 1
+  },
+  "rule": "one exact ID per owned set copy; duplicate rows deduplicated"
+}

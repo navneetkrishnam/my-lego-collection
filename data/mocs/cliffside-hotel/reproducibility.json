@@ -1,0 +1,31 @@
+{
+  "allocations_match_bom": true,
+  "bom_matches_placements": true,
+  "deterministic_exports": true,
+  "donor_allocation_rows": 1557,
+  "donor_sets": 131,
+  "exact_elements": 218,
+  "export_sha256": {
+    "allocation.json": "fe02dd41585911ebd1ab5cde5af8354ac946b0909da45fa121d761ff3e2c0c9d",
+    "bom.json": "425994915120dd5fcae02ad3a51d38aa17fcbe20fa791d08ad8247a0bba14062",
+    "cliffside-hotel.ldr": "76da44f8e03949fb2f414e5a3ed9b6ce125a8d3ebe09e726c85e048293982463",
+    "model.json": "0464c63e3b5fc2565d98d57ff8efb2ffb29b8b2be80a590c8a0c64b7e2f491f6"
+  },
+  "no_donor_overallocation": true,
+  "piece_count": 2188,
+  "render_inputs_match": true,
+  "source_sha256": {
+    "audit.py": "ab15fd9b1eef1f12fe4a0cf3fa2f381db411846b661361be253b740f9b94b3e5",
+    "catalog.py": "c744d6a07d37c1c87296036bc2b4458534e25ff6ed2deaf6cc5228b6d459f9cd",
+    "engine.py": "b5939d7546372d635a0e692479f571df1a442f98d27dc27949008b0fa0fc05e8",
+    "make_guide.py": "48e3606f32afa2f1dc1028c37dba365557fc63c25a1564d58e33b50adfc39cf2",
+    "model.py": "3f03917893d109bcefdeadb7d2c36b931c8e508c0b41eca32b3e973f20ece5fe",
+    "probe_geometry.py": "c17b49708b935913299ae5aff290c23ec20920da9b84984f5c7a0645035ec69f",
+    "roof.py": "38bcca38c37d789d38583c4cda87f8d0443b8a2a6c8c64b86de6aa9caea9c3ff",
+    "test_audit.py": "30753ca189e17d59b02202c39a55382ab57ad79b9cd06f4c1693a1d18d380352",
+    "test_catalog.py": "c0eeae64fb65a08b8b76edd16c6c30d9ecaf5f0e3c459d78620a217b9a9e4f35",
+    "test_engine.py": "d73acbde164f9d8ea911186606c0e9064a4721b08ebfa69ade2373c535a485bd",
+    "verify_package.py": "6d9f08bbe8ef1f60d285d611dc05d81543b448829d2df6b672300bf8eaab509d"
+  },
+  "stage_count": 18
+}

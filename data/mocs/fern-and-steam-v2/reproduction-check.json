@@ -1,0 +1,11 @@
+{
+  "deterministic_exports": {
+    "model.json": "6df2d9af5b105584966844101a88b32c67633a5c3862d34ac472bbd652c579f6",
+    "fern-and-steam-v2.ldr": "32214b3a3d9c40f5b61b482e68b676df3c46fab8749cff6a8278cc78593ffc6c",
+    "bom.json": "690fa55c9d3bbbd71b72eea1cf06c37164b7fc4600d757da2a17c48e1ff47c59",
+    "allocation.json": "ea3fbd26e1ab7cdcbe0d8afb62c27e973661b3b2d89ad1e215c0e3dbba1f8fad",
+    "picking-list.md": "12cd2b3f3edce0e3ced9ed5e0621b3a7138a31070168e0c09314b60e56651bce"
+  },
+  "source_files_unchanged": 157,
+  "unique_allocated_element_set_copy_combinations": 352
+}

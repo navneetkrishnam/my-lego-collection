@@ -1,0 +1,443 @@
+{
+  "scope": "floor topology and actual door gaps; not structural or code certification",
+  "grid_studs": 0.5,
+  "connected_targets": 48,
+  "total_targets": 48,
+  "unreachable": [],
+  "public_core_access_without_private_rooms": true,
+  "pool_clear_loop": true,
+  "targets": [
+    {
+      "floor": "main-0",
+      "space": "Main stair landing",
+      "reachable": true,
+      "node": [
+        51,
+        24
+      ]
+    },
+    {
+      "floor": "main-0",
+      "space": "Common corridor",
+      "reachable": true,
+      "node": [
+        42,
+        28
+      ]
+    },
+    {
+      "floor": "main-0",
+      "space": "Lobby / front desk",
+      "reachable": true,
+      "node": [
+        35,
+        40
+      ]
+    },
+    {
+      "floor": "main-0",
+      "space": "Lobby lounge / library",
+      "reachable": true,
+      "node": [
+        68,
+        22
+      ]
+    },
+    {
+      "floor": "main-0",
+      "space": "Back office",
+      "reachable": true,
+      "node": [
+        26,
+        17
+      ]
+    },
+    {
+      "floor": "main-0",
+      "space": "Lobby WC",
+      "reachable": true,
+      "node": [
+        34.5,
+        13.5
+      ]
+    },
+    {
+      "floor": "main-1",
+      "space": "Main stair landing",
+      "reachable": true,
+      "node": [
+        51,
+        24
+      ]
+    },
+    {
+      "floor": "main-1",
+      "space": "Common corridor",
+      "reachable": true,
+      "node": [
+        42,
+        28
+      ]
+    },
+    {
+      "floor": "main-1",
+      "space": "Garden room \u2014 no balcony",
+      "reachable": true,
+      "node": [
+        27,
+        23
+      ]
+    },
+    {
+      "floor": "main-1",
+      "space": "Corner room \u2014 balcony",
+      "reachable": true,
+      "node": [
+        27,
+        41
+      ]
+    },
+    {
+      "floor": "main-1",
+      "space": "Extended suite \u2014 balcony",
+      "reachable": true,
+      "node": [
+        68,
+        23
+      ]
+    },
+    {
+      "floor": "main-1",
+      "space": "Garden room bath",
+      "reachable": true,
+      "node": [
+        34.5,
+        13.5
+      ]
+    },
+    {
+      "floor": "main-1",
+      "space": "Corner room bath",
+      "reachable": true,
+      "node": [
+        34.5,
+        33.5
+      ]
+    },
+    {
+      "floor": "main-1",
+      "space": "Suite bath",
+      "reachable": true,
+      "node": [
+        59.5,
+        13.5
+      ]
+    },
+    {
+      "floor": "main-1",
+      "space": "Corner room balcony",
+      "reachable": true,
+      "node": [
+        28,
+        54
+      ]
+    },
+    {
+      "floor": "main-1",
+      "space": "Extended suite balcony",
+      "reachable": true,
+      "node": [
+        67,
+        34
+      ]
+    },
+    {
+      "floor": "main-2",
+      "space": "Main stair landing",
+      "reachable": true,
+      "node": [
+        51,
+        24
+      ]
+    },
+    {
+      "floor": "main-2",
+      "space": "Common corridor",
+      "reachable": true,
+      "node": [
+        42,
+        28
+      ]
+    },
+    {
+      "floor": "main-2",
+      "space": "Garden room \u2014 no balcony",
+      "reachable": true,
+      "node": [
+        27,
+        23
+      ]
+    },
+    {
+      "floor": "main-2",
+      "space": "Corner room \u2014 balcony",
+      "reachable": true,
+      "node": [
+        27,
+        41
+      ]
+    },
+    {
+      "floor": "main-2",
+      "space": "Extended suite \u2014 balcony",
+      "reachable": true,
+      "node": [
+        68,
+        23
+      ]
+    },
+    {
+      "floor": "main-2",
+      "space": "Garden room bath",
+      "reachable": true,
+      "node": [
+        34.5,
+        13.5
+      ]
+    },
+    {
+      "floor": "main-2",
+      "space": "Corner room bath",
+      "reachable": true,
+      "node": [
+        34.5,
+        33.5
+      ]
+    },
+    {
+      "floor": "main-2",
+      "space": "Suite bath",
+      "reachable": true,
+      "node": [
+        59.5,
+        13.5
+      ]
+    },
+    {
+      "floor": "main-2",
+      "space": "Corner room balcony",
+      "reachable": true,
+      "node": [
+        28,
+        54
+      ]
+    },
+    {
+      "floor": "main-2",
+      "space": "Extended suite balcony",
+      "reachable": true,
+      "node": [
+        67,
+        34
+      ]
+    },
+    {
+      "floor": "cottage",
+      "space": "Cottage bath",
+      "reachable": true,
+      "node": [
+        91.5,
+        13.5
+      ]
+    },
+    {
+      "floor": "cottage",
+      "space": "Garden cottage",
+      "reachable": true,
+      "node": [
+        86,
+        25
+      ]
+    },
+    {
+      "floor": "spa",
+      "space": "Service stair landing",
+      "reachable": true,
+      "node": [
+        120,
+        54
+      ]
+    },
+    {
+      "floor": "spa",
+      "space": "Service corridor",
+      "reachable": true,
+      "node": [
+        111,
+        57.5
+      ]
+    },
+    {
+      "floor": "spa",
+      "space": "Treatment 1",
+      "reachable": true,
+      "node": [
+        101,
+        50
+      ]
+    },
+    {
+      "floor": "spa",
+      "space": "Treatment 2",
+      "reachable": true,
+      "node": [
+        109,
+        50
+      ]
+    },
+    {
+      "floor": "spa",
+      "space": "Changing / showers",
+      "reachable": true,
+      "node": [
+        105,
+        63
+      ]
+    },
+    {
+      "floor": "spa",
+      "space": "Spa relaxation",
+      "reachable": true,
+      "node": [
+        119,
+        63
+      ]
+    },
+    {
+      "floor": "salon",
+      "space": "Service stair landing",
+      "reachable": true,
+      "node": [
+        120,
+        54
+      ]
+    },
+    {
+      "floor": "salon",
+      "space": "Service corridor",
+      "reachable": true,
+      "node": [
+        111,
+        57.5
+      ]
+    },
+    {
+      "floor": "salon",
+      "space": "Salon",
+      "reachable": true,
+      "node": [
+        104,
+        51
+      ]
+    },
+    {
+      "floor": "salon",
+      "space": "Quiet lounge / arcade",
+      "reachable": true,
+      "node": [
+        111,
+        62
+      ]
+    },
+    {
+      "floor": "salon",
+      "space": "Salon lounge terrace",
+      "reachable": true,
+      "node": [
+        114,
+        72
+      ]
+    },
+    {
+      "floor": "dining",
+      "space": "Service stair landing",
+      "reachable": true,
+      "node": [
+        120,
+        54
+      ]
+    },
+    {
+      "floor": "dining",
+      "space": "Service corridor",
+      "reachable": true,
+      "node": [
+        111,
+        57.5
+      ]
+    },
+    {
+      "floor": "dining",
+      "space": "Kitchen / pantry",
+      "reachable": true,
+      "node": [
+        104,
+        51
+      ]
+    },
+    {
+      "floor": "dining",
+      "space": "Restaurant / pool bar",
+      "reachable": true,
+      "node": [
+        111,
+        61
+      ]
+    },
+    {
+      "floor": "site",
+      "space": "Common side garden",
+      "reachable": true,
+      "node": [
+        17,
+        40
+      ]
+    },
+    {
+      "floor": "site",
+      "space": "Arrival court",
+      "reachable": true,
+      "node": [
+        51,
+        44
+      ]
+    },
+    {
+      "floor": "site",
+      "space": "Cottage garden",
+      "reachable": true,
+      "node": [
+        81,
+        38
+      ]
+    },
+    {
+      "floor": "site",
+      "space": "Shared access promenade",
+      "reachable": true,
+      "node": [
+        87,
+        53
+      ]
+    },
+    {
+      "floor": "site",
+      "space": "Pool deck",
+      "reachable": true,
+      "node": [
+        62,
+        61
+      ]
+    }
+  ]
+}

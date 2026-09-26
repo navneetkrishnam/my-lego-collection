@@ -1,0 +1,531 @@
+{
+  "bounds_errors": [],
+  "candidate_pairs_checked": 566,
+  "strict_surface_crossings": [],
+  "expected_engagement_crossings": [
+    {
+      "a": "H03425",
+      "b": "H03584",
+      "elements": [
+        "4211385",
+        "4568637"
+      ],
+      "kinds": [
+        "brick",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 42,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03430",
+      "b": "H03593",
+      "elements": [
+        "4211388",
+        "4521921"
+      ],
+      "kinds": [
+        "brick",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 22,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03433",
+      "b": "H03581",
+      "elements": [
+        "4211385",
+        "4568637"
+      ],
+      "kinds": [
+        "brick",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 42,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03433",
+      "b": "H03582",
+      "elements": [
+        "4211385",
+        "4568637"
+      ],
+      "kinds": [
+        "brick",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 22,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03434",
+      "b": "H03582",
+      "elements": [
+        "4211388",
+        "4568637"
+      ],
+      "kinds": [
+        "brick",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 20,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03490",
+      "b": "H03559",
+      "elements": [
+        "4514846",
+        "4568637"
+      ],
+      "kinds": [
+        "plate",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 42,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03490",
+      "b": "H03560",
+      "elements": [
+        "4514846",
+        "4568637"
+      ],
+      "kinds": [
+        "plate",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 42,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03490",
+      "b": "H03561",
+      "elements": [
+        "4514846",
+        "4568637"
+      ],
+      "kinds": [
+        "plate",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 42,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03519",
+      "b": "H03579",
+      "elements": [
+        "4211385",
+        "4521921"
+      ],
+      "kinds": [
+        "brick",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 22,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03520",
+      "b": "H03580",
+      "elements": [
+        "4211385",
+        "4521921"
+      ],
+      "kinds": [
+        "brick",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 22,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03527",
+      "b": "H03578",
+      "elements": [
+        "4211386",
+        "4521921"
+      ],
+      "kinds": [
+        "brick",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 22,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03540",
+      "b": "H03556",
+      "elements": [
+        "4211425",
+        "4568637"
+      ],
+      "kinds": [
+        "plate",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 42,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03540",
+      "b": "H03557",
+      "elements": [
+        "4211425",
+        "4568637"
+      ],
+      "kinds": [
+        "plate",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 42,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03541",
+      "b": "H03577",
+      "elements": [
+        "4211429",
+        "4521921"
+      ],
+      "kinds": [
+        "plate",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 22,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03550",
+      "b": "H03565",
+      "elements": [
+        "4251149",
+        "4568637"
+      ],
+      "kinds": [
+        "plate",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 42,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03552",
+      "b": "H03571",
+      "elements": [
+        "4211438",
+        "4521921"
+      ],
+      "kinds": [
+        "plate",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 22,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H03552",
+      "b": "H03572",
+      "elements": [
+        "4211438",
+        "4521921"
+      ],
+      "kinds": [
+        "plate",
+        "rock_cap"
+      ],
+      "modules": [
+        "faceted-cliff",
+        "faceted-cliff"
+      ],
+      "intersection_points": 22,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00243",
+      "b": "H00259",
+      "elements": [
+        "6262945",
+        "4119227"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "storey-1",
+        "floor-and-cornice-1"
+      ],
+      "intersection_points": 16,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00245",
+      "b": "H00259",
+      "elements": [
+        "6262945",
+        "4119227"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "storey-1",
+        "floor-and-cornice-1"
+      ],
+      "intersection_points": 8,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00245",
+      "b": "H00260",
+      "elements": [
+        "6262945",
+        "303501"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "storey-1",
+        "floor-and-cornice-1"
+      ],
+      "intersection_points": 8,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00426",
+      "b": "H00446",
+      "elements": [
+        "6262945",
+        "244501"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "storey-2",
+        "floor-and-cornice-2"
+      ],
+      "intersection_points": 16,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00428",
+      "b": "H00447",
+      "elements": [
+        "6262945",
+        "244501"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "storey-2",
+        "floor-and-cornice-2"
+      ],
+      "intersection_points": 16,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00991",
+      "b": "H01018",
+      "elements": [
+        "6262945",
+        "379501"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "guest-wing",
+        "guest-wing-floor"
+      ],
+      "intersection_points": 24,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00993",
+      "b": "H01019",
+      "elements": [
+        "6262945",
+        "379501"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "guest-wing",
+        "guest-wing-floor"
+      ],
+      "intersection_points": 24,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H01259",
+      "b": "H01273",
+      "elements": [
+        "6262945",
+        "447701"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "connector",
+        "connector-floor"
+      ],
+      "intersection_points": 48,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00656",
+      "b": "H00686",
+      "elements": [
+        "6262945",
+        "303201"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "storey-3",
+        "floor-and-cornice-3"
+      ],
+      "intersection_points": 8,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00658",
+      "b": "H00688",
+      "elements": [
+        "6262945",
+        "303201"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "storey-3",
+        "floor-and-cornice-3"
+      ],
+      "intersection_points": 8,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H01142",
+      "b": "H01164",
+      "elements": [
+        "6262945",
+        "4514842"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "guest-wing",
+        "guest-wing-floor"
+      ],
+      "intersection_points": 48,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H01144",
+      "b": "H01164",
+      "elements": [
+        "6262945",
+        "4514842"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "guest-wing",
+        "guest-wing-floor"
+      ],
+      "intersection_points": 48,
+      "classification": "stud engagement envelope"
+    }
+  ],
+  "scope": "Actual recursively transformed LDraw meshes. Special parts and all tilted instances against neighboring geometry. Every classified contact point must lie inside a shared 6 LDU stud / 4 LDU bar engagement envelope. Coplanar contact and full containment excluded; not a complete solid collision solver.",
+  "model_sha256": "404ada1bb0d576b969e550f9b2b86cf1d3dab386e6544510aa6fbfa1efeb122a"
+}

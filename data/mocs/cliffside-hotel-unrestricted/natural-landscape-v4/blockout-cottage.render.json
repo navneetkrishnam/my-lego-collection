@@ -1,0 +1,34 @@
+{
+  "view": "cottage",
+  "model_sha256": "9f5fd4f609ef1840d4c3a6dfeabfbaa6b3d95c2ec31259c920c8e8d76fe7659d",
+  "render_sha256": "afe571bac591d175ccf0356abf7f4d14cd8cf6568b55c74ec25e6b0679cff0a4",
+  "generator_sha256": "1c080b54c4223187a3d1ac0ce438611a770d03dd7a4e9412369a60b6a0c23203",
+  "renderer_sha256": "9f453003675a524773610b7a5ed518d513ab541c7976110dfbbd4333705b7b31",
+  "camera_direction": [
+    -0.6028324311639939,
+    0.3767702694774962,
+    0.7033045030246595
+  ],
+  "samples": 64,
+  "seed": 42,
+  "layout_sha256": "31601d0b61fc7ce09f6ac25a57b1962c27529da556449ba4ca0ec9136747841d",
+  "geometry_sha256": "6595ada3577bc1a3b2e7259ab0ebe636f41134109eca82f81c9991033dca0ae6",
+  "exterior_sha256": "82c90e3f9bde9491713e769aadd0bda02c94d804660bf0c11534db448ac8013d",
+  "annex_exterior_sha256": "21d6435d7f6d019c3ba6e9fbcba50ae2f3a4d18d7e64181b0bd4060805ac10c5",
+  "atmosphere_sha256": "ae7155c54b3ffd2429d97b586835f654c3f45c44e78c2a62d29d4db3dad33d06",
+  "natural_sha256": "c68f281fb054840ee04f87dce135d031ed874eee8a005b87131d9385436e8be3",
+  "garden_pool_sha256": "2a90fdfb42c3d1fd2e797a4933e0ba8e62fa6d4ce955d65541bae0a78aba9f53",
+  "lighting": "daylight with emitting lantern surfaces",
+  "luminous_triangles": 384,
+  "integrator": "path / max depth 10",
+  "pool_material": "roughplastic glossy proxy, IOR 1.333",
+  "focus_bounds": [
+    79,
+    39,
+    34,
+    97,
+    60,
+    48
+  ],
+  "status": "proxy geometry; not a LEGO parts model"
+}

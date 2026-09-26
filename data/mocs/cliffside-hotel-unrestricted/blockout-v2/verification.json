@@ -1,0 +1,19 @@
+{
+  "scope": "architectural proxy only",
+  "deterministic_export": true,
+  "finite_nondegenerate_geometry": true,
+  "dimensions_match": true,
+  "main_villa_has_L_footprint": true,
+  "garden_and_pergola_beside_villa": true,
+  "two_right_wing_floor_levels_below_courtyard": true,
+  "no_high_terrain_inside_descending_wing": true,
+  "model_sha256": "cf8806ea1283b4cdc193e4c7a16c24d7fa7463c903492a974bb5a1bb1917e2fd",
+  "views": {
+    "concept": "current hashes and readable image",
+    "front": "current hashes and readable image",
+    "rear": "current hashes and readable image",
+    "plan": "current hashes and readable image"
+  },
+  "lego_parts_verified": false,
+  "physical_assembly_tested": false
+}

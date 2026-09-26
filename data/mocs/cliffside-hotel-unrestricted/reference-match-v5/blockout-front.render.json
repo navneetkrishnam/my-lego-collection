@@ -1,0 +1,28 @@
+{
+  "view": "front",
+  "model_sha256": "faca3b8511e721d4835227dc2479b7e3e3c3ec1e30eed42d0fc222287c561f0d",
+  "render_sha256": "1c2f13f8af47f4e125336610d4e60f1ea5c20bdc076d581e0f90ce86d4ef90b6",
+  "generator_sha256": "a8ae1c68afa237cdeb2c1c31f89e1eff86ea4cfddc11303ec19bbaf84ebf0bb4",
+  "renderer_sha256": "eb7ef8ce0e41a97d89689200a0101cbba73a38dd91a84d3168abbd329a1e10e1",
+  "camera_direction": [
+    0.0,
+    0.2696299255199709,
+    0.9629640197141817
+  ],
+  "samples": 48,
+  "seed": 42,
+  "layout_sha256": "31601d0b61fc7ce09f6ac25a57b1962c27529da556449ba4ca0ec9136747841d",
+  "geometry_sha256": "6595ada3577bc1a3b2e7259ab0ebe636f41134109eca82f81c9991033dca0ae6",
+  "exterior_sha256": "82c90e3f9bde9491713e769aadd0bda02c94d804660bf0c11534db448ac8013d",
+  "annex_exterior_sha256": "21d6435d7f6d019c3ba6e9fbcba50ae2f3a4d18d7e64181b0bd4060805ac10c5",
+  "atmosphere_sha256": "9d178738897220429aa31dd5c91653d858fd17ba302765c7c7f7d1ebd27202b2",
+  "reference_finish_sha256": "f8a5617f3540abc3a762950b517cda4a38eb65b11e5da7e4225b8d652f9ed6ff",
+  "natural_sha256": "55396da595d170668960aade636e094e46fd2ec5f416972a9e1cd7b156763676",
+  "garden_pool_sha256": "2a90fdfb42c3d1fd2e797a4933e0ba8e62fa6d4ce955d65541bae0a78aba9f53",
+  "lighting": "daylight with emitting lantern surfaces",
+  "luminous_triangles": 384,
+  "integrator": "path / max depth 10",
+  "pool_material": "roughplastic glossy proxy, IOR 1.333",
+  "focus_bounds": null,
+  "status": "proxy geometry; not a LEGO parts model"
+}

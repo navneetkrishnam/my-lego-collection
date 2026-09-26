@@ -1,0 +1,2042 @@
+{
+  "Black / brick": {
+    "elements": 17,
+    "minimum": 138,
+    "stud_area": 727
+  },
+  "Black / frame": {
+    "elements": 5,
+    "minimum": 31,
+    "stud_area": 122
+  },
+  "Black / hinge": {
+    "elements": 2,
+    "minimum": 23,
+    "stud_area": 46
+  },
+  "Black / insert": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 0
+  },
+  "Black / panel": {
+    "elements": 5,
+    "minimum": 17,
+    "stud_area": 60
+  },
+  "Black / plate": {
+    "elements": 27,
+    "minimum": 390,
+    "stud_area": 5091
+  },
+  "Black / railing": {
+    "elements": 1,
+    "minimum": 12,
+    "stud_area": 24
+  },
+  "Black / round": {
+    "elements": 1,
+    "minimum": 10,
+    "stud_area": 10
+  },
+  "Black / side_stud_brick": {
+    "elements": 2,
+    "minimum": 20,
+    "stud_area": 32
+  },
+  "Black / slope": {
+    "elements": 3,
+    "minimum": 15,
+    "stud_area": 56
+  },
+  "Black / tile": {
+    "elements": 8,
+    "minimum": 145,
+    "stud_area": 631
+  },
+  "Blue / brick": {
+    "elements": 14,
+    "minimum": 51,
+    "stud_area": 242
+  },
+  "Blue / frame": {
+    "elements": 2,
+    "minimum": 2,
+    "stud_area": 6
+  },
+  "Blue / panel": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 4
+  },
+  "Blue / plate": {
+    "elements": 18,
+    "minimum": 100,
+    "stud_area": 836
+  },
+  "Blue / railing": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 4
+  },
+  "Blue / round": {
+    "elements": 1,
+    "minimum": 5,
+    "stud_area": 5
+  },
+  "Blue / side_stud_brick": {
+    "elements": 2,
+    "minimum": 10,
+    "stud_area": 16
+  },
+  "Blue / slope": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 4
+  },
+  "Blue / tile": {
+    "elements": 9,
+    "minimum": 56,
+    "stud_area": 216
+  },
+  "Bright Green / brick": {
+    "elements": 4,
+    "minimum": 6,
+    "stud_area": 20
+  },
+  "Bright Green / flower": {
+    "elements": 1,
+    "minimum": 21,
+    "stud_area": 21
+  },
+  "Bright Green / frame": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Bright Green / leaf": {
+    "elements": 1,
+    "minimum": 28,
+    "stud_area": 28
+  },
+  "Bright Green / plate": {
+    "elements": 14,
+    "minimum": 56,
+    "stud_area": 853
+  },
+  "Bright Green / round": {
+    "elements": 1,
+    "minimum": 4,
+    "stud_area": 4
+  },
+  "Bright Green / slope": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Bright Green / tile": {
+    "elements": 6,
+    "minimum": 26,
+    "stud_area": 86
+  },
+  "Bright Light Blue / brick": {
+    "elements": 4,
+    "minimum": 19,
+    "stud_area": 40
+  },
+  "Bright Light Blue / flower": {
+    "elements": 1,
+    "minimum": 6,
+    "stud_area": 6
+  },
+  "Bright Light Blue / frame": {
+    "elements": 3,
+    "minimum": 5,
+    "stud_area": 14
+  },
+  "Bright Light Blue / plate": {
+    "elements": 10,
+    "minimum": 47,
+    "stud_area": 208
+  },
+  "Bright Light Blue / round": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 2
+  },
+  "Bright Light Blue / side_stud_brick": {
+    "elements": 2,
+    "minimum": 2,
+    "stud_area": 3
+  },
+  "Bright Light Blue / tile": {
+    "elements": 7,
+    "minimum": 40,
+    "stud_area": 114
+  },
+  "Bright Light Orange / brick": {
+    "elements": 6,
+    "minimum": 17,
+    "stud_area": 61
+  },
+  "Bright Light Orange / flower": {
+    "elements": 1,
+    "minimum": 6,
+    "stud_area": 6
+  },
+  "Bright Light Orange / leaf": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Bright Light Orange / plate": {
+    "elements": 12,
+    "minimum": 59,
+    "stud_area": 306
+  },
+  "Bright Light Orange / side_stud_brick": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 2
+  },
+  "Bright Light Orange / slope": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 8
+  },
+  "Bright Light Orange / tile": {
+    "elements": 7,
+    "minimum": 51,
+    "stud_area": 179
+  },
+  "Bright Light Yellow / arch_small": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 4
+  },
+  "Bright Light Yellow / arch_wide": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 12
+  },
+  "Bright Light Yellow / brick": {
+    "elements": 7,
+    "minimum": 17,
+    "stud_area": 55
+  },
+  "Bright Light Yellow / flower": {
+    "elements": 1,
+    "minimum": 7,
+    "stud_area": 7
+  },
+  "Bright Light Yellow / insert": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 0
+  },
+  "Bright Light Yellow / panel": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 6
+  },
+  "Bright Light Yellow / plate": {
+    "elements": 9,
+    "minimum": 34,
+    "stud_area": 163
+  },
+  "Bright Light Yellow / side_stud_brick": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Bright Light Yellow / tile": {
+    "elements": 6,
+    "minimum": 24,
+    "stud_area": 93
+  },
+  "Bright Pink / brick": {
+    "elements": 7,
+    "minimum": 18,
+    "stud_area": 71
+  },
+  "Bright Pink / flower": {
+    "elements": 1,
+    "minimum": 13,
+    "stud_area": 13
+  },
+  "Bright Pink / leaf": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 3
+  },
+  "Bright Pink / panel": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 6
+  },
+  "Bright Pink / plate": {
+    "elements": 11,
+    "minimum": 42,
+    "stud_area": 365
+  },
+  "Bright Pink / side_stud_brick": {
+    "elements": 2,
+    "minimum": 3,
+    "stud_area": 5
+  },
+  "Bright Pink / slope": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Bright Pink / tile": {
+    "elements": 6,
+    "minimum": 33,
+    "stud_area": 146
+  },
+  "Coral / arch_small": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 12
+  },
+  "Coral / brick": {
+    "elements": 6,
+    "minimum": 26,
+    "stud_area": 113
+  },
+  "Coral / flower": {
+    "elements": 1,
+    "minimum": 13,
+    "stud_area": 13
+  },
+  "Coral / leaf": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Coral / plate": {
+    "elements": 8,
+    "minimum": 42,
+    "stud_area": 357
+  },
+  "Coral / side_stud_brick": {
+    "elements": 1,
+    "minimum": 4,
+    "stud_area": 4
+  },
+  "Coral / tile": {
+    "elements": 4,
+    "minimum": 29,
+    "stud_area": 94
+  },
+  "Dark Azure / brick": {
+    "elements": 7,
+    "minimum": 33,
+    "stud_area": 129
+  },
+  "Dark Azure / frame": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Dark Azure / plate": {
+    "elements": 21,
+    "minimum": 76,
+    "stud_area": 1137
+  },
+  "Dark Azure / railing": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Dark Azure / side_stud_brick": {
+    "elements": 2,
+    "minimum": 3,
+    "stud_area": 4
+  },
+  "Dark Azure / slope": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Dark Azure / tile": {
+    "elements": 8,
+    "minimum": 33,
+    "stud_area": 113
+  },
+  "Dark Blue / brick": {
+    "elements": 8,
+    "minimum": 28,
+    "stud_area": 110
+  },
+  "Dark Blue / plate": {
+    "elements": 16,
+    "minimum": 57,
+    "stud_area": 396
+  },
+  "Dark Blue / round": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 2
+  },
+  "Dark Blue / side_stud_brick": {
+    "elements": 2,
+    "minimum": 2,
+    "stud_area": 3
+  },
+  "Dark Blue / slope": {
+    "elements": 2,
+    "minimum": 5,
+    "stud_area": 12
+  },
+  "Dark Blue / tile": {
+    "elements": 9,
+    "minimum": 44,
+    "stud_area": 192
+  },
+  "Dark Bluish Gray / arch_wide": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 6
+  },
+  "Dark Bluish Gray / brick": {
+    "elements": 15,
+    "minimum": 78,
+    "stud_area": 394
+  },
+  "Dark Bluish Gray / frame": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 4
+  },
+  "Dark Bluish Gray / hinge": {
+    "elements": 2,
+    "minimum": 6,
+    "stud_area": 12
+  },
+  "Dark Bluish Gray / panel": {
+    "elements": 3,
+    "minimum": 8,
+    "stud_area": 30
+  },
+  "Dark Bluish Gray / plate": {
+    "elements": 27,
+    "minimum": 237,
+    "stud_area": 3699
+  },
+  "Dark Bluish Gray / railing": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 4
+  },
+  "Dark Bluish Gray / round": {
+    "elements": 1,
+    "minimum": 4,
+    "stud_area": 4
+  },
+  "Dark Bluish Gray / side_stud_brick": {
+    "elements": 2,
+    "minimum": 10,
+    "stud_area": 15
+  },
+  "Dark Bluish Gray / slope": {
+    "elements": 3,
+    "minimum": 9,
+    "stud_area": 38
+  },
+  "Dark Bluish Gray / tile": {
+    "elements": 9,
+    "minimum": 91,
+    "stud_area": 355
+  },
+  "Dark Brown / brick": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 2
+  },
+  "Dark Brown / frame": {
+    "elements": 5,
+    "minimum": 8,
+    "stud_area": 28
+  },
+  "Dark Brown / plate": {
+    "elements": 10,
+    "minimum": 137,
+    "stud_area": 2003
+  },
+  "Dark Brown / round": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 3
+  },
+  "Dark Brown / tile": {
+    "elements": 4,
+    "minimum": 42,
+    "stud_area": 276
+  },
+  "Dark Green / brick": {
+    "elements": 5,
+    "minimum": 12,
+    "stud_area": 50
+  },
+  "Dark Green / fern": {
+    "elements": 1,
+    "minimum": 4,
+    "stud_area": 4
+  },
+  "Dark Green / flower": {
+    "elements": 1,
+    "minimum": 5,
+    "stud_area": 5
+  },
+  "Dark Green / leaf": {
+    "elements": 1,
+    "minimum": 11,
+    "stud_area": 11
+  },
+  "Dark Green / plate": {
+    "elements": 9,
+    "minimum": 21,
+    "stud_area": 105
+  },
+  "Dark Green / slope": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Dark Green / tile": {
+    "elements": 7,
+    "minimum": 13,
+    "stud_area": 53
+  },
+  "Dark Orange / brick": {
+    "elements": 7,
+    "minimum": 21,
+    "stud_area": 61
+  },
+  "Dark Orange / frame": {
+    "elements": 2,
+    "minimum": 3,
+    "stud_area": 12
+  },
+  "Dark Orange / panel": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 4
+  },
+  "Dark Orange / plate": {
+    "elements": 12,
+    "minimum": 40,
+    "stud_area": 262
+  },
+  "Dark Orange / round": {
+    "elements": 1,
+    "minimum": 4,
+    "stud_area": 4
+  },
+  "Dark Orange / side_stud_brick": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 2
+  },
+  "Dark Orange / slope": {
+    "elements": 2,
+    "minimum": 6,
+    "stud_area": 16
+  },
+  "Dark Orange / tile": {
+    "elements": 7,
+    "minimum": 13,
+    "stud_area": 50
+  },
+  "Dark Pink / brick": {
+    "elements": 6,
+    "minimum": 16,
+    "stud_area": 49
+  },
+  "Dark Pink / flower": {
+    "elements": 1,
+    "minimum": 9,
+    "stud_area": 9
+  },
+  "Dark Pink / frame": {
+    "elements": 2,
+    "minimum": 2,
+    "stud_area": 8
+  },
+  "Dark Pink / mug": {
+    "elements": 1,
+    "minimum": 8,
+    "stud_area": 8
+  },
+  "Dark Pink / plate": {
+    "elements": 6,
+    "minimum": 24,
+    "stud_area": 98
+  },
+  "Dark Pink / side_stud_brick": {
+    "elements": 1,
+    "minimum": 4,
+    "stud_area": 4
+  },
+  "Dark Pink / tile": {
+    "elements": 4,
+    "minimum": 13,
+    "stud_area": 44
+  },
+  "Dark Purple / brick": {
+    "elements": 6,
+    "minimum": 8,
+    "stud_area": 32
+  },
+  "Dark Purple / leaf": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Dark Purple / plate": {
+    "elements": 10,
+    "minimum": 30,
+    "stud_area": 205
+  },
+  "Dark Purple / tile": {
+    "elements": 5,
+    "minimum": 12,
+    "stud_area": 29
+  },
+  "Dark Red / arch_wide": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 6
+  },
+  "Dark Red / brick": {
+    "elements": 8,
+    "minimum": 11,
+    "stud_area": 55
+  },
+  "Dark Red / flower": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 2
+  },
+  "Dark Red / frame": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Dark Red / panel": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 4
+  },
+  "Dark Red / plate": {
+    "elements": 11,
+    "minimum": 25,
+    "stud_area": 339
+  },
+  "Dark Red / round": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Dark Red / slope": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Dark Red / tile": {
+    "elements": 6,
+    "minimum": 24,
+    "stud_area": 117
+  },
+  "Dark Tan / brick": {
+    "elements": 7,
+    "minimum": 82,
+    "stud_area": 147
+  },
+  "Dark Tan / hinge": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Dark Tan / insert": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 0
+  },
+  "Dark Tan / panel": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 4
+  },
+  "Dark Tan / plate": {
+    "elements": 25,
+    "minimum": 91,
+    "stud_area": 1690
+  },
+  "Dark Tan / side_stud_brick": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 4
+  },
+  "Dark Tan / slope": {
+    "elements": 2,
+    "minimum": 3,
+    "stud_area": 8
+  },
+  "Dark Tan / tile": {
+    "elements": 7,
+    "minimum": 39,
+    "stud_area": 150
+  },
+  "Dark Turquoise / brick": {
+    "elements": 8,
+    "minimum": 31,
+    "stud_area": 99
+  },
+  "Dark Turquoise / frame": {
+    "elements": 5,
+    "minimum": 10,
+    "stud_area": 40
+  },
+  "Dark Turquoise / hinge": {
+    "elements": 1,
+    "minimum": 5,
+    "stud_area": 10
+  },
+  "Dark Turquoise / leaf": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Dark Turquoise / panel": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Dark Turquoise / plate": {
+    "elements": 15,
+    "minimum": 74,
+    "stud_area": 628
+  },
+  "Dark Turquoise / round": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 2
+  },
+  "Dark Turquoise / slope": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 4
+  },
+  "Dark Turquoise / tile": {
+    "elements": 7,
+    "minimum": 53,
+    "stud_area": 201
+  },
+  "Flat Silver / mug": {
+    "elements": 1,
+    "minimum": 5,
+    "stud_area": 5
+  },
+  "Flat Silver / tile": {
+    "elements": 1,
+    "minimum": 19,
+    "stud_area": 38
+  },
+  "Glitter Trans-Purple / brick": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Glow In Dark White / plate": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Green / brick": {
+    "elements": 9,
+    "minimum": 21,
+    "stud_area": 109
+  },
+  "Green / fern": {
+    "elements": 1,
+    "minimum": 5,
+    "stud_area": 5
+  },
+  "Green / flower": {
+    "elements": 1,
+    "minimum": 11,
+    "stud_area": 11
+  },
+  "Green / frame": {
+    "elements": 2,
+    "minimum": 2,
+    "stud_area": 8
+  },
+  "Green / hinge": {
+    "elements": 2,
+    "minimum": 7,
+    "stud_area": 14
+  },
+  "Green / leaf": {
+    "elements": 1,
+    "minimum": 20,
+    "stud_area": 20
+  },
+  "Green / plate": {
+    "elements": 22,
+    "minimum": 85,
+    "stud_area": 1784
+  },
+  "Green / round": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 2
+  },
+  "Green / side_stud_brick": {
+    "elements": 2,
+    "minimum": 3,
+    "stud_area": 5
+  },
+  "Green / tile": {
+    "elements": 7,
+    "minimum": 22,
+    "stud_area": 89
+  },
+  "Lavender / brick": {
+    "elements": 7,
+    "minimum": 20,
+    "stud_area": 60
+  },
+  "Lavender / fence": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 4
+  },
+  "Lavender / flower": {
+    "elements": 1,
+    "minimum": 11,
+    "stud_area": 11
+  },
+  "Lavender / frame": {
+    "elements": 4,
+    "minimum": 11,
+    "stud_area": 42
+  },
+  "Lavender / insert": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 0
+  },
+  "Lavender / panel": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 12
+  },
+  "Lavender / plate": {
+    "elements": 6,
+    "minimum": 25,
+    "stud_area": 241
+  },
+  "Lavender / round": {
+    "elements": 1,
+    "minimum": 8,
+    "stud_area": 8
+  },
+  "Lavender / slope": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 4
+  },
+  "Lavender / tile": {
+    "elements": 4,
+    "minimum": 15,
+    "stud_area": 36
+  },
+  "Light Aqua / arch_wide": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 18
+  },
+  "Light Aqua / brick": {
+    "elements": 10,
+    "minimum": 38,
+    "stud_area": 114
+  },
+  "Light Aqua / flower": {
+    "elements": 1,
+    "minimum": 7,
+    "stud_area": 7
+  },
+  "Light Aqua / panel": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 18
+  },
+  "Light Aqua / plate": {
+    "elements": 8,
+    "minimum": 41,
+    "stud_area": 181
+  },
+  "Light Aqua / round": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Light Aqua / side_stud_brick": {
+    "elements": 1,
+    "minimum": 4,
+    "stud_area": 4
+  },
+  "Light Aqua / tile": {
+    "elements": 6,
+    "minimum": 26,
+    "stud_area": 96
+  },
+  "Light Bluish Gray / arch_small": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 8
+  },
+  "Light Bluish Gray / arch_wide": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 12
+  },
+  "Light Bluish Gray / brick": {
+    "elements": 18,
+    "minimum": 199,
+    "stud_area": 1011
+  },
+  "Light Bluish Gray / fence": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 12
+  },
+  "Light Bluish Gray / flower": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 3
+  },
+  "Light Bluish Gray / frame": {
+    "elements": 3,
+    "minimum": 8,
+    "stud_area": 28
+  },
+  "Light Bluish Gray / hinge": {
+    "elements": 2,
+    "minimum": 10,
+    "stud_area": 20
+  },
+  "Light Bluish Gray / panel": {
+    "elements": 5,
+    "minimum": 9,
+    "stud_area": 26
+  },
+  "Light Bluish Gray / plate": {
+    "elements": 29,
+    "minimum": 372,
+    "stud_area": 5930
+  },
+  "Light Bluish Gray / railing": {
+    "elements": 1,
+    "minimum": 6,
+    "stud_area": 12
+  },
+  "Light Bluish Gray / round": {
+    "elements": 1,
+    "minimum": 10,
+    "stud_area": 10
+  },
+  "Light Bluish Gray / side_stud_brick": {
+    "elements": 2,
+    "minimum": 27,
+    "stud_area": 39
+  },
+  "Light Bluish Gray / slope": {
+    "elements": 3,
+    "minimum": 22,
+    "stud_area": 60
+  },
+  "Light Bluish Gray / tile": {
+    "elements": 9,
+    "minimum": 193,
+    "stud_area": 802
+  },
+  "Light Nougat / brick": {
+    "elements": 5,
+    "minimum": 15,
+    "stud_area": 37
+  },
+  "Light Nougat / leaf": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Light Nougat / panel": {
+    "elements": 2,
+    "minimum": 4,
+    "stud_area": 22
+  },
+  "Light Nougat / plate": {
+    "elements": 5,
+    "minimum": 10,
+    "stud_area": 27
+  },
+  "Light Nougat / slope": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 4
+  },
+  "Light Nougat / tile": {
+    "elements": 5,
+    "minimum": 6,
+    "stud_area": 23
+  },
+  "Lime / brick": {
+    "elements": 10,
+    "minimum": 42,
+    "stud_area": 195
+  },
+  "Lime / fern": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 3
+  },
+  "Lime / flower": {
+    "elements": 1,
+    "minimum": 8,
+    "stud_area": 8
+  },
+  "Lime / leaf": {
+    "elements": 1,
+    "minimum": 18,
+    "stud_area": 18
+  },
+  "Lime / panel": {
+    "elements": 2,
+    "minimum": 2,
+    "stud_area": 10
+  },
+  "Lime / plate": {
+    "elements": 22,
+    "minimum": 99,
+    "stud_area": 1365
+  },
+  "Lime / round": {
+    "elements": 1,
+    "minimum": 11,
+    "stud_area": 11
+  },
+  "Lime / side_stud_brick": {
+    "elements": 2,
+    "minimum": 7,
+    "stud_area": 9
+  },
+  "Lime / slope": {
+    "elements": 2,
+    "minimum": 4,
+    "stud_area": 12
+  },
+  "Lime / tile": {
+    "elements": 9,
+    "minimum": 50,
+    "stud_area": 211
+  },
+  "Magenta / brick": {
+    "elements": 2,
+    "minimum": 2,
+    "stud_area": 5
+  },
+  "Magenta / flower": {
+    "elements": 1,
+    "minimum": 7,
+    "stud_area": 7
+  },
+  "Magenta / leaf": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 3
+  },
+  "Magenta / plate": {
+    "elements": 7,
+    "minimum": 12,
+    "stud_area": 83
+  },
+  "Magenta / round": {
+    "elements": 1,
+    "minimum": 4,
+    "stud_area": 4
+  },
+  "Magenta / side_stud_brick": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Magenta / tile": {
+    "elements": 5,
+    "minimum": 13,
+    "stud_area": 53
+  },
+  "Medium Azure / arch_wide": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 12
+  },
+  "Medium Azure / brick": {
+    "elements": 10,
+    "minimum": 44,
+    "stud_area": 166
+  },
+  "Medium Azure / frame": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 4
+  },
+  "Medium Azure / hinge": {
+    "elements": 2,
+    "minimum": 4,
+    "stud_area": 8
+  },
+  "Medium Azure / panel": {
+    "elements": 3,
+    "minimum": 3,
+    "stud_area": 12
+  },
+  "Medium Azure / plate": {
+    "elements": 24,
+    "minimum": 104,
+    "stud_area": 1806
+  },
+  "Medium Azure / round": {
+    "elements": 1,
+    "minimum": 8,
+    "stud_area": 8
+  },
+  "Medium Azure / side_stud_brick": {
+    "elements": 1,
+    "minimum": 5,
+    "stud_area": 10
+  },
+  "Medium Azure / slope": {
+    "elements": 2,
+    "minimum": 3,
+    "stud_area": 8
+  },
+  "Medium Azure / tile": {
+    "elements": 8,
+    "minimum": 62,
+    "stud_area": 261
+  },
+  "Medium Blue / brick": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 8
+  },
+  "Medium Blue / plate": {
+    "elements": 2,
+    "minimum": 2,
+    "stud_area": 6
+  },
+  "Medium Blue / tile": {
+    "elements": 2,
+    "minimum": 5,
+    "stud_area": 14
+  },
+  "Medium Lavender / brick": {
+    "elements": 4,
+    "minimum": 13,
+    "stud_area": 37
+  },
+  "Medium Lavender / flower": {
+    "elements": 1,
+    "minimum": 7,
+    "stud_area": 7
+  },
+  "Medium Lavender / leaf": {
+    "elements": 1,
+    "minimum": 4,
+    "stud_area": 4
+  },
+  "Medium Lavender / plate": {
+    "elements": 9,
+    "minimum": 32,
+    "stud_area": 161
+  },
+  "Medium Lavender / side_stud_brick": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Medium Lavender / slope": {
+    "elements": 3,
+    "minimum": 4,
+    "stud_area": 18
+  },
+  "Medium Lavender / tile": {
+    "elements": 4,
+    "minimum": 16,
+    "stud_area": 66
+  },
+  "Medium Nougat / arch_wide": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 12
+  },
+  "Medium Nougat / brick": {
+    "elements": 14,
+    "minimum": 79,
+    "stud_area": 303
+  },
+  "Medium Nougat / fence": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 4
+  },
+  "Medium Nougat / frame": {
+    "elements": 2,
+    "minimum": 2,
+    "stud_area": 10
+  },
+  "Medium Nougat / hinge": {
+    "elements": 2,
+    "minimum": 3,
+    "stud_area": 6
+  },
+  "Medium Nougat / insert": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 0
+  },
+  "Medium Nougat / panel": {
+    "elements": 2,
+    "minimum": 8,
+    "stud_area": 28
+  },
+  "Medium Nougat / plate": {
+    "elements": 19,
+    "minimum": 116,
+    "stud_area": 1774
+  },
+  "Medium Nougat / side_stud_brick": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 4
+  },
+  "Medium Nougat / slope": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 4
+  },
+  "Medium Nougat / tile": {
+    "elements": 8,
+    "minimum": 67,
+    "stud_area": 241
+  },
+  "Metallic Gold / tile": {
+    "elements": 2,
+    "minimum": 3,
+    "stud_area": 4
+  },
+  "Metallic Silver / tile": {
+    "elements": 2,
+    "minimum": 4,
+    "stud_area": 7
+  },
+  "Metallic_Dark_Grey / railing": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Neon Yellow / brick": {
+    "elements": 6,
+    "minimum": 7,
+    "stud_area": 42
+  },
+  "Neon Yellow / plate": {
+    "elements": 7,
+    "minimum": 21,
+    "stud_area": 91
+  },
+  "Neon Yellow / side_stud_brick": {
+    "elements": 2,
+    "minimum": 2,
+    "stud_area": 3
+  },
+  "Neon Yellow / slope": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Neon Yellow / tile": {
+    "elements": 6,
+    "minimum": 27,
+    "stud_area": 110
+  },
+  "Olive Green / brick": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Olive Green / leaf": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 3
+  },
+  "Olive Green / plate": {
+    "elements": 3,
+    "minimum": 3,
+    "stud_area": 13
+  },
+  "Olive Green / slope": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Olive Green / tile": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 8
+  },
+  "Orange / arch_wide": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 6
+  },
+  "Orange / brick": {
+    "elements": 9,
+    "minimum": 33,
+    "stud_area": 120
+  },
+  "Orange / flower": {
+    "elements": 1,
+    "minimum": 6,
+    "stud_area": 6
+  },
+  "Orange / frame": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Orange / leaf": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 2
+  },
+  "Orange / panel": {
+    "elements": 2,
+    "minimum": 3,
+    "stud_area": 8
+  },
+  "Orange / plate": {
+    "elements": 15,
+    "minimum": 71,
+    "stud_area": 602
+  },
+  "Orange / railing": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 4
+  },
+  "Orange / round": {
+    "elements": 1,
+    "minimum": 6,
+    "stud_area": 6
+  },
+  "Orange / side_stud_brick": {
+    "elements": 2,
+    "minimum": 4,
+    "stud_area": 7
+  },
+  "Orange / slope": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 4
+  },
+  "Orange / tile": {
+    "elements": 9,
+    "minimum": 46,
+    "stud_area": 187
+  },
+  "Pearl Gold / flower": {
+    "elements": 1,
+    "minimum": 4,
+    "stud_area": 4
+  },
+  "Pearl Gold / hinge": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 6
+  },
+  "Pearl Gold / leaf": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 2
+  },
+  "Pearl Gold / plate": {
+    "elements": 3,
+    "minimum": 6,
+    "stud_area": 16
+  },
+  "Pearl Gold / round": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 3
+  },
+  "Pearl Gold / tile": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 6
+  },
+  "Red / arch_wide": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 6
+  },
+  "Red / brick": {
+    "elements": 16,
+    "minimum": 86,
+    "stud_area": 440
+  },
+  "Red / flower": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 2
+  },
+  "Red / frame": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 4
+  },
+  "Red / hinge": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 4
+  },
+  "Red / mug": {
+    "elements": 1,
+    "minimum": 6,
+    "stud_area": 6
+  },
+  "Red / panel": {
+    "elements": 4,
+    "minimum": 6,
+    "stud_area": 18
+  },
+  "Red / plate": {
+    "elements": 20,
+    "minimum": 134,
+    "stud_area": 1063
+  },
+  "Red / railing": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 6
+  },
+  "Red / round": {
+    "elements": 1,
+    "minimum": 10,
+    "stud_area": 10
+  },
+  "Red / side_stud_brick": {
+    "elements": 2,
+    "minimum": 9,
+    "stud_area": 15
+  },
+  "Red / slope": {
+    "elements": 3,
+    "minimum": 4,
+    "stud_area": 18
+  },
+  "Red / tile": {
+    "elements": 9,
+    "minimum": 73,
+    "stud_area": 252
+  },
+  "Reddish Brown / arch": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 6
+  },
+  "Reddish Brown / brick": {
+    "elements": 18,
+    "minimum": 84,
+    "stud_area": 413
+  },
+  "Reddish Brown / fence": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 4
+  },
+  "Reddish Brown / frame": {
+    "elements": 4,
+    "minimum": 10,
+    "stud_area": 24
+  },
+  "Reddish Brown / hinge": {
+    "elements": 1,
+    "minimum": 6,
+    "stud_area": 12
+  },
+  "Reddish Brown / insert": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 0
+  },
+  "Reddish Brown / panel": {
+    "elements": 3,
+    "minimum": 10,
+    "stud_area": 36
+  },
+  "Reddish Brown / plate": {
+    "elements": 22,
+    "minimum": 161,
+    "stud_area": 1306
+  },
+  "Reddish Brown / railing": {
+    "elements": 1,
+    "minimum": 4,
+    "stud_area": 8
+  },
+  "Reddish Brown / round": {
+    "elements": 1,
+    "minimum": 9,
+    "stud_area": 9
+  },
+  "Reddish Brown / side_stud_brick": {
+    "elements": 2,
+    "minimum": 11,
+    "stud_area": 17
+  },
+  "Reddish Brown / slope": {
+    "elements": 2,
+    "minimum": 70,
+    "stud_area": 272
+  },
+  "Reddish Brown / tile": {
+    "elements": 9,
+    "minimum": 69,
+    "stud_area": 291
+  },
+  "Reddish Orange / flower": {
+    "elements": 1,
+    "minimum": 4,
+    "stud_area": 4
+  },
+  "Reddish Orange / hinge": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 6
+  },
+  "Reddish Orange / plate": {
+    "elements": 5,
+    "minimum": 13,
+    "stud_area": 50
+  },
+  "Reddish Orange / tile": {
+    "elements": 4,
+    "minimum": 9,
+    "stud_area": 22
+  },
+  "Sand Blue / frame": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Sand Blue / plate": {
+    "elements": 3,
+    "minimum": 3,
+    "stud_area": 9
+  },
+  "Sand Blue / side_stud_brick": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Sand Blue / slope": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Sand Blue / tile": {
+    "elements": 5,
+    "minimum": 10,
+    "stud_area": 31
+  },
+  "Sand Green / brick": {
+    "elements": 3,
+    "minimum": 8,
+    "stud_area": 14
+  },
+  "Sand Green / frame": {
+    "elements": 4,
+    "minimum": 6,
+    "stud_area": 22
+  },
+  "Sand Green / plate": {
+    "elements": 11,
+    "minimum": 25,
+    "stud_area": 155
+  },
+  "Sand Green / slope": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Sand Green / tile": {
+    "elements": 6,
+    "minimum": 15,
+    "stud_area": 51
+  },
+  "Satin Trans-Clear / round": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Satin Trans-Dark Pink / fern": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Satin Trans-Dark Pink / round": {
+    "elements": 1,
+    "minimum": 5,
+    "stud_area": 5
+  },
+  "Satin Trans-Purple / round": {
+    "elements": 1,
+    "minimum": 5,
+    "stud_area": 5
+  },
+  "Tan / arch": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 6
+  },
+  "Tan / arch_small": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 8
+  },
+  "Tan / arch_wide": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 6
+  },
+  "Tan / brick": {
+    "elements": 18,
+    "minimum": 264,
+    "stud_area": 1137
+  },
+  "Tan / frame": {
+    "elements": 4,
+    "minimum": 5,
+    "stud_area": 14
+  },
+  "Tan / hinge": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 6
+  },
+  "Tan / panel": {
+    "elements": 5,
+    "minimum": 26,
+    "stud_area": 82
+  },
+  "Tan / plate": {
+    "elements": 28,
+    "minimum": 459,
+    "stud_area": 6619
+  },
+  "Tan / railing": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 6
+  },
+  "Tan / round": {
+    "elements": 1,
+    "minimum": 5,
+    "stud_area": 5
+  },
+  "Tan / side_stud_brick": {
+    "elements": 2,
+    "minimum": 19,
+    "stud_area": 31
+  },
+  "Tan / slope": {
+    "elements": 3,
+    "minimum": 7,
+    "stud_area": 30
+  },
+  "Tan / tile": {
+    "elements": 9,
+    "minimum": 198,
+    "stud_area": 758
+  },
+  "Trans-Black / panel": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 4
+  },
+  "Trans-Bright Green / plate": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Trans-Brown / panel": {
+    "elements": 3,
+    "minimum": 3,
+    "stud_area": 10
+  },
+  "Trans-Brown / tile": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Trans-Clear / brick": {
+    "elements": 3,
+    "minimum": 13,
+    "stud_area": 37
+  },
+  "Trans-Clear / insert": {
+    "elements": 3,
+    "minimum": 30,
+    "stud_area": 0
+  },
+  "Trans-Clear / mug": {
+    "elements": 1,
+    "minimum": 6,
+    "stud_area": 6
+  },
+  "Trans-Clear / panel": {
+    "elements": 4,
+    "minimum": 19,
+    "stud_area": 56
+  },
+  "Trans-Clear / plate": {
+    "elements": 2,
+    "minimum": 19,
+    "stud_area": 33
+  },
+  "Trans-Clear / round": {
+    "elements": 1,
+    "minimum": 5,
+    "stud_area": 5
+  },
+  "Trans-Clear / tile": {
+    "elements": 3,
+    "minimum": 10,
+    "stud_area": 24
+  },
+  "Trans-Dark Blue / plate": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Trans-Dark Blue / round": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 3
+  },
+  "Trans-Dark Blue / tile": {
+    "elements": 2,
+    "minimum": 7,
+    "stud_area": 20
+  },
+  "Trans-Dark Pink / brick": {
+    "elements": 2,
+    "minimum": 3,
+    "stud_area": 4
+  },
+  "Trans-Dark Pink / plate": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 6
+  },
+  "Trans-Green / round": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 1
+  },
+  "Trans-Light Blue / brick": {
+    "elements": 2,
+    "minimum": 2,
+    "stud_area": 3
+  },
+  "Trans-Light Blue / insert": {
+    "elements": 3,
+    "minimum": 11,
+    "stud_area": 0
+  },
+  "Trans-Light Blue / panel": {
+    "elements": 5,
+    "minimum": 18,
+    "stud_area": 64
+  },
+  "Trans-Light Blue / plate": {
+    "elements": 2,
+    "minimum": 12,
+    "stud_area": 19
+  },
+  "Trans-Light Blue / round": {
+    "elements": 1,
+    "minimum": 12,
+    "stud_area": 12
+  },
+  "Trans-Light Blue / slope": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 6
+  },
+  "Trans-Light Blue / tile": {
+    "elements": 3,
+    "minimum": 18,
+    "stud_area": 40
+  },
+  "Trans-Neon Green / plate": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Trans-Orange / brick": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 3
+  },
+  "Trans-Orange / plate": {
+    "elements": 2,
+    "minimum": 10,
+    "stud_area": 16
+  },
+  "Trans-Orange / tile": {
+    "elements": 2,
+    "minimum": 4,
+    "stud_area": 12
+  },
+  "Trans-Purple / plate": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Trans-Purple / slope": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 4
+  },
+  "Trans-Purple / tile": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 4
+  },
+  "Trans-Red / plate": {
+    "elements": 2,
+    "minimum": 9,
+    "stud_area": 17
+  },
+  "Trans-Red / round": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 3
+  },
+  "Trans-Red / tile": {
+    "elements": 3,
+    "minimum": 12,
+    "stud_area": 22
+  },
+  "Trans-Yellow / brick": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 2
+  },
+  "Trans-Yellow / plate": {
+    "elements": 2,
+    "minimum": 9,
+    "stud_area": 15
+  },
+  "Trans-Yellow / round": {
+    "elements": 1,
+    "minimum": 6,
+    "stud_area": 6
+  },
+  "Trans-Yellow / tile": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "White / arch": {
+    "elements": 1,
+    "minimum": 2,
+    "stud_area": 12
+  },
+  "White / arch_small": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 12
+  },
+  "White / arch_wide": {
+    "elements": 1,
+    "minimum": 24,
+    "stud_area": 144
+  },
+  "White / brick": {
+    "elements": 18,
+    "minimum": 453,
+    "stud_area": 1853
+  },
+  "White / fence": {
+    "elements": 1,
+    "minimum": 5,
+    "stud_area": 20
+  },
+  "White / flower": {
+    "elements": 1,
+    "minimum": 8,
+    "stud_area": 8
+  },
+  "White / frame": {
+    "elements": 5,
+    "minimum": 53,
+    "stud_area": 212
+  },
+  "White / hinge": {
+    "elements": 2,
+    "minimum": 17,
+    "stud_area": 34
+  },
+  "White / insert": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 0
+  },
+  "White / mug": {
+    "elements": 1,
+    "minimum": 4,
+    "stud_area": 4
+  },
+  "White / panel": {
+    "elements": 5,
+    "minimum": 42,
+    "stud_area": 162
+  },
+  "White / plate": {
+    "elements": 29,
+    "minimum": 773,
+    "stud_area": 7592
+  },
+  "White / railing": {
+    "elements": 1,
+    "minimum": 5,
+    "stud_area": 10
+  },
+  "White / round": {
+    "elements": 1,
+    "minimum": 13,
+    "stud_area": 13
+  },
+  "White / side_stud_brick": {
+    "elements": 2,
+    "minimum": 72,
+    "stud_area": 109
+  },
+  "White / slope": {
+    "elements": 3,
+    "minimum": 21,
+    "stud_area": 76
+  },
+  "White / tile": {
+    "elements": 9,
+    "minimum": 307,
+    "stud_area": 1231
+  },
+  "Yellow / brick": {
+    "elements": 11,
+    "minimum": 55,
+    "stud_area": 209
+  },
+  "Yellow / flower": {
+    "elements": 1,
+    "minimum": 6,
+    "stud_area": 6
+  },
+  "Yellow / frame": {
+    "elements": 4,
+    "minimum": 16,
+    "stud_area": 66
+  },
+  "Yellow / hinge": {
+    "elements": 2,
+    "minimum": 5,
+    "stud_area": 10
+  },
+  "Yellow / leaf": {
+    "elements": 1,
+    "minimum": 3,
+    "stud_area": 3
+  },
+  "Yellow / mug": {
+    "elements": 1,
+    "minimum": 12,
+    "stud_area": 12
+  },
+  "Yellow / panel": {
+    "elements": 3,
+    "minimum": 8,
+    "stud_area": 22
+  },
+  "Yellow / plate": {
+    "elements": 19,
+    "minimum": 156,
+    "stud_area": 1290
+  },
+  "Yellow / railing": {
+    "elements": 1,
+    "minimum": 4,
+    "stud_area": 8
+  },
+  "Yellow / round": {
+    "elements": 1,
+    "minimum": 13,
+    "stud_area": 13
+  },
+  "Yellow / side_stud_brick": {
+    "elements": 2,
+    "minimum": 19,
+    "stud_area": 28
+  },
+  "Yellow / slope": {
+    "elements": 2,
+    "minimum": 3,
+    "stud_area": 10
+  },
+  "Yellow / tile": {
+    "elements": 9,
+    "minimum": 89,
+    "stud_area": 350
+  },
+  "Yellowish Green / brick": {
+    "elements": 2,
+    "minimum": 6,
+    "stud_area": 12
+  },
+  "Yellowish Green / frame": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 2
+  },
+  "Yellowish Green / panel": {
+    "elements": 1,
+    "minimum": 1,
+    "stud_area": 6
+  },
+  "Yellowish Green / plate": {
+    "elements": 2,
+    "minimum": 4,
+    "stud_area": 134
+  },
+  "Yellowish Green / tile": {
+    "elements": 2,
+    "minimum": 2,
+    "stud_area": 5
+  }
+}

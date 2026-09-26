@@ -1,0 +1,6293 @@
+{
+  "status": "architectural proxy, not parts verified",
+  "base_studs": [
+    120,
+    88
+  ],
+  "base_cm": [
+    96,
+    70.4
+  ],
+  "maximum_height_studs": 90.75,
+  "maximum_height_cm": 72.6,
+  "main_villa_footprint_studs": [
+    [
+      22,
+      10
+    ],
+    [
+      58,
+      10
+    ],
+    [
+      58,
+      32
+    ],
+    [
+      38,
+      32
+    ],
+    [
+      38,
+      47
+    ],
+    [
+      22,
+      47
+    ]
+  ],
+  "main_villa_wall_height_studs": 42,
+  "connector_wall_volume_studs": [
+    16,
+    22,
+    32
+  ],
+  "right_wing_wall_volume_studs": [
+    28,
+    26,
+    42
+  ],
+  "right_wing_floor_levels_studs": [
+    12,
+    26,
+    40
+  ],
+  "right_wing_footprint_bounds_studs": [
+    90,
+    40,
+    118,
+    66
+  ],
+  "main_courtyard_level_studs": 40,
+  "villa_garden_bounds_studs": [
+    3,
+    12,
+    22,
+    50
+  ],
+  "pool_studs": [
+    22,
+    12
+  ],
+  "stair_clear_width_studs": 14,
+  "model_sha256": "cf8806ea1283b4cdc193e4c7a16c24d7fa7463c903492a974bb5a1bb1917e2fd",
+  "triangles": 15576,
+  "objects": [
+    {
+      "name": "display base",
+      "origin": [
+        0,
+        0,
+        -1
+      ],
+      "size": [
+        120,
+        88,
+        1
+      ],
+      "color": "base"
+    },
+    {
+      "name": "water envelope",
+      "origin": [
+        1,
+        1,
+        0
+      ],
+      "size": [
+        118,
+        86,
+        0.3
+      ],
+      "color": "water"
+    },
+    {
+      "name": "main plateau",
+      "origin": [
+        22,
+        7,
+        0.3
+      ],
+      "size": [
+        60,
+        47,
+        39.7
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "main courtyard",
+      "origin": [
+        22,
+        7,
+        39.5
+      ],
+      "size": [
+        60,
+        47,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper wing access terrace support",
+      "origin": [
+        82,
+        40,
+        0.3
+      ],
+      "size": [
+        8,
+        14,
+        39.7
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "upper wing access terrace",
+      "origin": [
+        82,
+        40,
+        39.5
+      ],
+      "size": [
+        8,
+        14,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "side garden foundation",
+      "origin": [
+        3,
+        12,
+        0.3
+      ],
+      "size": [
+        19,
+        38,
+        39.7
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "side garden paving",
+      "origin": [
+        3,
+        12,
+        40
+      ],
+      "size": [
+        19,
+        38,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "villa front apron core",
+      "origin": [
+        22,
+        47,
+        0.3
+      ],
+      "size": [
+        21,
+        14,
+        39.7
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "villa front apron",
+      "origin": [
+        22,
+        47,
+        40
+      ],
+      "size": [
+        21,
+        14,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "side garden planter",
+      "origin": [
+        5,
+        15,
+        40.5
+      ],
+      "size": [
+        14,
+        5,
+        1.2
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "side garden planting envelope",
+      "origin": [
+        5.3,
+        15.3,
+        41.7
+      ],
+      "size": [
+        13.4,
+        4.4,
+        0.25
+      ],
+      "color": "garden"
+    },
+    {
+      "name": "side garden planter",
+      "origin": [
+        5,
+        40,
+        40.5
+      ],
+      "size": [
+        14,
+        5,
+        1.2
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "side garden planting envelope",
+      "origin": [
+        5.3,
+        40.3,
+        41.7
+      ],
+      "size": [
+        13.4,
+        4.4,
+        0.25
+      ],
+      "color": "garden"
+    },
+    {
+      "name": "side garden planter",
+      "origin": [
+        4.5,
+        22,
+        40.5
+      ],
+      "size": [
+        2,
+        16,
+        1.2
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "side garden planting envelope",
+      "origin": [
+        4.8,
+        22.3,
+        41.7
+      ],
+      "size": [
+        1.4,
+        15.4,
+        0.25
+      ],
+      "color": "garden"
+    },
+    {
+      "name": "villa terrace parapet",
+      "origin": [
+        3,
+        12,
+        40.5
+      ],
+      "size": [
+        1.2,
+        38,
+        2.6
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "villa terrace parapet",
+      "origin": [
+        3,
+        12,
+        40.5
+      ],
+      "size": [
+        19,
+        1.2,
+        2.6
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "villa terrace parapet",
+      "origin": [
+        3,
+        48.8,
+        40.5
+      ],
+      "size": [
+        19,
+        1.2,
+        2.6
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "villa terrace parapet",
+      "origin": [
+        22,
+        59.8,
+        40.5
+      ],
+      "size": [
+        20,
+        1.2,
+        2.6
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "pool terrace core",
+      "origin": [
+        60,
+        54,
+        0.3
+      ],
+      "size": [
+        28,
+        19,
+        37.2
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "pool terrace paving",
+      "origin": [
+        60,
+        50,
+        38
+      ],
+      "size": [
+        22,
+        4,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "pool terrace paving",
+      "origin": [
+        60,
+        54,
+        38
+      ],
+      "size": [
+        28,
+        2,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "pool terrace paving",
+      "origin": [
+        60,
+        56,
+        38
+      ],
+      "size": [
+        3,
+        12,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "pool terrace paving",
+      "origin": [
+        85,
+        56,
+        38
+      ],
+      "size": [
+        3,
+        12,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "pool terrace paving",
+      "origin": [
+        60,
+        68,
+        38
+      ],
+      "size": [
+        28,
+        5,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "pool water",
+      "origin": [
+        63,
+        56,
+        37.8
+      ],
+      "size": [
+        22,
+        12,
+        0.12
+      ],
+      "color": "water"
+    },
+    {
+      "name": "pool coping",
+      "origin": [
+        62.4,
+        55.4,
+        38.5
+      ],
+      "size": [
+        23.2,
+        0.6,
+        0.3
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "pool coping",
+      "origin": [
+        62.4,
+        68,
+        38.5
+      ],
+      "size": [
+        23.2,
+        0.6,
+        0.3
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "pool coping",
+      "origin": [
+        62.4,
+        56,
+        38.5
+      ],
+      "size": [
+        0.6,
+        12,
+        0.3
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "pool coping",
+      "origin": [
+        85,
+        56,
+        38.5
+      ],
+      "size": [
+        0.6,
+        12,
+        0.3
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "pool front parapet",
+      "origin": [
+        60,
+        71.8,
+        38.5
+      ],
+      "size": [
+        28,
+        1.2,
+        2.6
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "pool side parapet",
+      "origin": [
+        86.8,
+        58,
+        38.5
+      ],
+      "size": [
+        1.2,
+        13.8,
+        2.6
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "pool garden bed",
+      "origin": [
+        61,
+        69.5,
+        38.5
+      ],
+      "size": [
+        20,
+        1.5,
+        0.8
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "pool planting envelope",
+      "origin": [
+        61.3,
+        69.8,
+        39.3
+      ],
+      "size": [
+        19.4,
+        0.9,
+        0.2
+      ],
+      "color": "garden"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        54.0,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        38.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        54.0,
+        39
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        54.0,
+        39
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        54.78,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        37.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        54.78,
+        38
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        54.78,
+        38
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        55.56,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        36.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        55.56,
+        37
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        55.56,
+        37
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        56.34,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        35.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        56.34,
+        36
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        56.34,
+        36
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        57.12,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        34.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        57.12,
+        35
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        57.12,
+        35
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        57.9,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        33.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        57.9,
+        34
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        57.9,
+        34
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        58.68,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        32.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        58.68,
+        33
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        58.68,
+        33
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        59.46,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        31.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        59.46,
+        32
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        59.46,
+        32
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        60.24,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        30.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        60.24,
+        31
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        60.24,
+        31
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        61.02,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        29.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        61.02,
+        30
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        61.02,
+        30
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        61.8,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        28.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        61.8,
+        29
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        61.8,
+        29
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        62.58,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        27.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        62.58,
+        28
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        62.58,
+        28
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        63.36,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        26.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        63.36,
+        27
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        63.36,
+        27
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        64.14,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        25.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        64.14,
+        26
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        64.14,
+        26
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        64.92,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        24.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        64.92,
+        25
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        64.92,
+        25
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        65.7,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        23.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        65.7,
+        24
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        65.7,
+        24
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        66.48,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        22.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        66.48,
+        23
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        66.48,
+        23
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair tread",
+      "origin": [
+        44,
+        67.26,
+        0.3
+      ],
+      "size": [
+        14,
+        0.78,
+        21.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        42.8,
+        67.26,
+        22
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper stair parapet",
+      "origin": [
+        58,
+        67.26,
+        22
+      ],
+      "size": [
+        1.2,
+        0.78,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "stair landing",
+      "origin": [
+        44,
+        68.04,
+        0.3
+      ],
+      "size": [
+        21,
+        6,
+        21.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        74.04,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        20.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        74.04,
+        21
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        74.04,
+        21
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        74.69000000000001,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        19.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        74.69000000000001,
+        20
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        74.69000000000001,
+        20
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        75.34,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        18.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        75.34,
+        19
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        75.34,
+        19
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        75.99000000000001,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        17.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        75.99000000000001,
+        18
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        75.99000000000001,
+        18
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        76.64,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        16.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        76.64,
+        17
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        76.64,
+        17
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        77.29,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        15.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        77.29,
+        16
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        77.29,
+        16
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        77.94000000000001,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        14.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        77.94000000000001,
+        15
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        77.94000000000001,
+        15
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        78.59,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        13.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        78.59,
+        14
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        78.59,
+        14
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        79.24000000000001,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        12.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        79.24000000000001,
+        13
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        79.24000000000001,
+        13
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        79.89,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        11.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        79.89,
+        12
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        79.89,
+        12
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        80.54,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        10.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        80.54,
+        11
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        80.54,
+        11
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        81.19000000000001,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        9.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        81.19000000000001,
+        10
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        81.19000000000001,
+        10
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        81.84,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        8.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        81.84,
+        9
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        81.84,
+        9
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        82.49000000000001,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        7.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        82.49000000000001,
+        8
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        82.49000000000001,
+        8
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        83.14,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        6.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        83.14,
+        7
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        83.14,
+        7
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        83.79,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        5.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        83.79,
+        6
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        83.79,
+        6
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        84.44000000000001,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        4.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        84.44000000000001,
+        5
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        84.44000000000001,
+        5
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair tread",
+      "origin": [
+        51,
+        85.09,
+        0.3
+      ],
+      "size": [
+        14,
+        0.65,
+        3.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        49.8,
+        85.09,
+        4
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "lower stair parapet",
+      "origin": [
+        65,
+        85.09,
+        4
+      ],
+      "size": [
+        1.2,
+        0.65,
+        2.1
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "stair foot",
+      "origin": [
+        51,
+        85.74,
+        0.3
+      ],
+      "size": [
+        14,
+        1.1,
+        2.7
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "cliff envelope 0",
+      "origin": [
+        1,
+        13,
+        0.3
+      ],
+      "size": [
+        4,
+        20,
+        26
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "cliff envelope 1",
+      "origin": [
+        1,
+        34,
+        0.3
+      ],
+      "size": [
+        5,
+        15,
+        30
+      ],
+      "color": "rock"
+    },
+    {
+      "name": "cliff envelope 2",
+      "origin": [
+        4,
+        50,
+        0.3
+      ],
+      "size": [
+        10,
+        10,
+        32
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "cliff envelope 3",
+      "origin": [
+        5,
+        61,
+        0.3
+      ],
+      "size": [
+        9,
+        9,
+        23
+      ],
+      "color": "rock"
+    },
+    {
+      "name": "cliff envelope 4",
+      "origin": [
+        12,
+        52,
+        0.3
+      ],
+      "size": [
+        10,
+        12,
+        35
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "cliff envelope 5",
+      "origin": [
+        14,
+        65,
+        0.3
+      ],
+      "size": [
+        9,
+        10,
+        25
+      ],
+      "color": "rock"
+    },
+    {
+      "name": "cliff envelope 6",
+      "origin": [
+        23,
+        61,
+        0.3
+      ],
+      "size": [
+        9,
+        9,
+        32
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "cliff envelope 7",
+      "origin": [
+        24,
+        72,
+        0.3
+      ],
+      "size": [
+        9,
+        9,
+        16
+      ],
+      "color": "rock"
+    },
+    {
+      "name": "cliff envelope 8",
+      "origin": [
+        32,
+        61,
+        0.3
+      ],
+      "size": [
+        10,
+        10,
+        30
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "cliff envelope 9",
+      "origin": [
+        34,
+        73,
+        0.3
+      ],
+      "size": [
+        9,
+        8,
+        12
+      ],
+      "color": "rock"
+    },
+    {
+      "name": "cliff envelope 10",
+      "origin": [
+        13,
+        79,
+        0.3
+      ],
+      "size": [
+        12,
+        6,
+        8
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "cliff envelope 11",
+      "origin": [
+        38,
+        81,
+        0.3
+      ],
+      "size": [
+        10,
+        4,
+        6
+      ],
+      "color": "rock"
+    },
+    {
+      "name": "cliff envelope 12",
+      "origin": [
+        66,
+        74,
+        0.3
+      ],
+      "size": [
+        8,
+        7,
+        18
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "cliff envelope 13",
+      "origin": [
+        75,
+        74,
+        0.3
+      ],
+      "size": [
+        9,
+        8,
+        25
+      ],
+      "color": "rock"
+    },
+    {
+      "name": "cliff envelope 14",
+      "origin": [
+        83,
+        74,
+        0.3
+      ],
+      "size": [
+        9,
+        7,
+        15
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "cliff envelope 15",
+      "origin": [
+        90,
+        65,
+        0.3
+      ],
+      "size": [
+        9,
+        11,
+        10
+      ],
+      "color": "rock"
+    },
+    {
+      "name": "cliff envelope 16",
+      "origin": [
+        99,
+        62,
+        0.3
+      ],
+      "size": [
+        10,
+        10,
+        8
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "cliff envelope 17",
+      "origin": [
+        94,
+        75,
+        0.3
+      ],
+      "size": [
+        11,
+        8,
+        6
+      ],
+      "color": "rock"
+    },
+    {
+      "name": "cliff envelope 18",
+      "origin": [
+        108,
+        32,
+        0.3
+      ],
+      "size": [
+        3,
+        20,
+        10
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "cliff envelope 19",
+      "origin": [
+        85,
+        82,
+        0.3
+      ],
+      "size": [
+        10,
+        4,
+        6
+      ],
+      "color": "rock"
+    },
+    {
+      "name": "cliff envelope 20",
+      "origin": [
+        3,
+        72,
+        0.3
+      ],
+      "size": [
+        8,
+        8,
+        12
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "main villa rear bar back",
+      "origin": [
+        22,
+        10,
+        40
+      ],
+      "size": [
+        36,
+        1.2,
+        42
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        11.2,
+        40
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        11.2,
+        42.4
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        11.2,
+        51.9
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        11.2,
+        56.4
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        9.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        11.2,
+        65.9
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        11.2,
+        70.4
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        11.2,
+        79.9
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        14,
+        40
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        14,
+        51.9
+      ],
+      "size": [
+        1.2,
+        5.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        14,
+        65.9
+      ],
+      "size": [
+        1.2,
+        5.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        14,
+        79.9
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        19.5,
+        40
+      ],
+      "size": [
+        1.2,
+        2.5,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        19.5,
+        42.4
+      ],
+      "size": [
+        1.2,
+        2.5,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        19.5,
+        51.9
+      ],
+      "size": [
+        1.2,
+        2.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        19.5,
+        56.4
+      ],
+      "size": [
+        1.2,
+        2.5,
+        9.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        19.5,
+        65.9
+      ],
+      "size": [
+        1.2,
+        2.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        19.5,
+        70.4
+      ],
+      "size": [
+        1.2,
+        2.5,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        19.5,
+        79.9
+      ],
+      "size": [
+        1.2,
+        2.5,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        22,
+        40
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        22,
+        51.9
+      ],
+      "size": [
+        1.2,
+        5.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        22,
+        65.9
+      ],
+      "size": [
+        1.2,
+        5.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        22,
+        79.9
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        27.5,
+        40
+      ],
+      "size": [
+        1.2,
+        4.5,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        27.5,
+        42.4
+      ],
+      "size": [
+        1.2,
+        4.5,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        27.5,
+        51.9
+      ],
+      "size": [
+        1.2,
+        4.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        27.5,
+        56.4
+      ],
+      "size": [
+        1.2,
+        4.5,
+        9.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        27.5,
+        65.9
+      ],
+      "size": [
+        1.2,
+        4.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        27.5,
+        70.4
+      ],
+      "size": [
+        1.2,
+        4.5,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar left",
+      "origin": [
+        22,
+        27.5,
+        79.9
+      ],
+      "size": [
+        1.2,
+        4.5,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar right",
+      "origin": [
+        56.8,
+        11.2,
+        40
+      ],
+      "size": [
+        1.2,
+        20.8,
+        42
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar floor",
+      "origin": [
+        22,
+        10,
+        40.0
+      ],
+      "size": [
+        36,
+        22,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "main villa rear bar floor",
+      "origin": [
+        22,
+        10,
+        54.0
+      ],
+      "size": [
+        36,
+        22,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "main villa rear bar floor line",
+      "origin": [
+        21.75,
+        9.75,
+        54.0
+      ],
+      "size": [
+        36.5,
+        22.5,
+        0.45
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "main villa rear bar floor",
+      "origin": [
+        22,
+        10,
+        68.0
+      ],
+      "size": [
+        36,
+        22,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "main villa rear bar floor line",
+      "origin": [
+        21.75,
+        9.75,
+        68.0
+      ],
+      "size": [
+        36.5,
+        22.5,
+        0.45
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        22,
+        30.8,
+        40
+      ],
+      "size": [
+        3,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        22,
+        30.8,
+        42.4
+      ],
+      "size": [
+        3,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        22,
+        30.8,
+        51.9
+      ],
+      "size": [
+        3,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        22,
+        30.8,
+        56.4
+      ],
+      "size": [
+        3,
+        1.2,
+        9.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        22,
+        30.8,
+        65.9
+      ],
+      "size": [
+        3,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        22,
+        30.8,
+        70.4
+      ],
+      "size": [
+        3,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        22,
+        30.8,
+        79.9
+      ],
+      "size": [
+        3,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        25,
+        30.8,
+        40
+      ],
+      "size": [
+        6,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        25,
+        30.8,
+        51.9
+      ],
+      "size": [
+        6,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        25,
+        30.8,
+        65.9
+      ],
+      "size": [
+        6,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        25,
+        30.8,
+        79.9
+      ],
+      "size": [
+        6,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        31,
+        30.8,
+        40
+      ],
+      "size": [
+        4,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        31,
+        30.8,
+        42.4
+      ],
+      "size": [
+        4,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        31,
+        30.8,
+        51.9
+      ],
+      "size": [
+        4,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        31,
+        30.8,
+        56.4
+      ],
+      "size": [
+        4,
+        1.2,
+        9.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        31,
+        30.8,
+        65.9
+      ],
+      "size": [
+        4,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        31,
+        30.8,
+        70.4
+      ],
+      "size": [
+        4,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        31,
+        30.8,
+        79.9
+      ],
+      "size": [
+        4,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        35,
+        30.8,
+        40
+      ],
+      "size": [
+        6,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        35,
+        30.8,
+        51.9
+      ],
+      "size": [
+        6,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        35,
+        30.8,
+        65.9
+      ],
+      "size": [
+        6,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        35,
+        30.8,
+        79.9
+      ],
+      "size": [
+        6,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        41,
+        30.8,
+        40
+      ],
+      "size": [
+        5,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        41,
+        30.8,
+        42.4
+      ],
+      "size": [
+        5,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        41,
+        30.8,
+        51.9
+      ],
+      "size": [
+        5,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        41,
+        30.8,
+        56.4
+      ],
+      "size": [
+        5,
+        1.2,
+        9.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        41,
+        30.8,
+        65.9
+      ],
+      "size": [
+        5,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        41,
+        30.8,
+        70.4
+      ],
+      "size": [
+        5,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        41,
+        30.8,
+        79.9
+      ],
+      "size": [
+        5,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        46,
+        30.8,
+        40
+      ],
+      "size": [
+        8,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        46,
+        30.8,
+        51.9
+      ],
+      "size": [
+        8,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        46,
+        30.8,
+        65.9
+      ],
+      "size": [
+        8,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        46,
+        30.8,
+        79.9
+      ],
+      "size": [
+        8,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        54,
+        30.8,
+        40
+      ],
+      "size": [
+        4,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        54,
+        30.8,
+        42.4
+      ],
+      "size": [
+        4,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        54,
+        30.8,
+        51.9
+      ],
+      "size": [
+        4,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        54,
+        30.8,
+        56.4
+      ],
+      "size": [
+        4,
+        1.2,
+        9.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        54,
+        30.8,
+        65.9
+      ],
+      "size": [
+        4,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        54,
+        30.8,
+        70.4
+      ],
+      "size": [
+        4,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar facade",
+      "origin": [
+        54,
+        30.8,
+        79.9
+      ],
+      "size": [
+        4,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa rear bar cornice",
+      "origin": [
+        21.3,
+        9.3,
+        82
+      ],
+      "size": [
+        37.4,
+        23.4,
+        0.75
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "main villa forward return back",
+      "origin": [
+        22,
+        32,
+        40
+      ],
+      "size": [
+        16,
+        1.2,
+        42
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        33.2,
+        40
+      ],
+      "size": [
+        1.2,
+        2.799999999999997,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        33.2,
+        42.4
+      ],
+      "size": [
+        1.2,
+        2.799999999999997,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        33.2,
+        51.9
+      ],
+      "size": [
+        1.2,
+        2.799999999999997,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        33.2,
+        56.4
+      ],
+      "size": [
+        1.2,
+        2.799999999999997,
+        9.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        33.2,
+        65.9
+      ],
+      "size": [
+        1.2,
+        2.799999999999997,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        33.2,
+        70.4
+      ],
+      "size": [
+        1.2,
+        2.799999999999997,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        33.2,
+        79.9
+      ],
+      "size": [
+        1.2,
+        2.799999999999997,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        36,
+        40
+      ],
+      "size": [
+        1.2,
+        1,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        36,
+        51.9
+      ],
+      "size": [
+        1.2,
+        1,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        36,
+        65.9
+      ],
+      "size": [
+        1.2,
+        1,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        36,
+        79.9
+      ],
+      "size": [
+        1.2,
+        1,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        37,
+        40
+      ],
+      "size": [
+        1.2,
+        4.5,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        37,
+        51.9
+      ],
+      "size": [
+        1.2,
+        4.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        37,
+        65.9
+      ],
+      "size": [
+        1.2,
+        4.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        37,
+        79.9
+      ],
+      "size": [
+        1.2,
+        4.5,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        41.5,
+        40
+      ],
+      "size": [
+        1.2,
+        1.0,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        41.5,
+        51.9
+      ],
+      "size": [
+        1.2,
+        1.0,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        41.5,
+        65.9
+      ],
+      "size": [
+        1.2,
+        1.0,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        41.5,
+        79.9
+      ],
+      "size": [
+        1.2,
+        1.0,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        42.5,
+        40
+      ],
+      "size": [
+        1.2,
+        4.5,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        42.5,
+        42.4
+      ],
+      "size": [
+        1.2,
+        4.5,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        42.5,
+        51.9
+      ],
+      "size": [
+        1.2,
+        4.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        42.5,
+        56.4
+      ],
+      "size": [
+        1.2,
+        4.5,
+        9.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        42.5,
+        65.9
+      ],
+      "size": [
+        1.2,
+        4.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        42.5,
+        70.4
+      ],
+      "size": [
+        1.2,
+        4.5,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return left",
+      "origin": [
+        22,
+        42.5,
+        79.9
+      ],
+      "size": [
+        1.2,
+        4.5,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return right",
+      "origin": [
+        36.8,
+        33.2,
+        40
+      ],
+      "size": [
+        1.2,
+        13.8,
+        42
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return floor",
+      "origin": [
+        22,
+        32,
+        40.0
+      ],
+      "size": [
+        16,
+        15,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "main villa forward return floor",
+      "origin": [
+        22,
+        32,
+        54.0
+      ],
+      "size": [
+        16,
+        15,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "main villa forward return floor line",
+      "origin": [
+        21.75,
+        31.75,
+        54.0
+      ],
+      "size": [
+        16.5,
+        15.5,
+        0.45
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "main villa forward return floor",
+      "origin": [
+        22,
+        32,
+        68.0
+      ],
+      "size": [
+        16,
+        15,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "main villa forward return floor line",
+      "origin": [
+        21.75,
+        31.75,
+        68.0
+      ],
+      "size": [
+        16.5,
+        15.5,
+        0.45
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        22,
+        45.8,
+        40
+      ],
+      "size": [
+        2.5,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        22,
+        45.8,
+        42.4
+      ],
+      "size": [
+        2.5,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        22,
+        45.8,
+        51.9
+      ],
+      "size": [
+        2.5,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        22,
+        45.8,
+        56.4
+      ],
+      "size": [
+        2.5,
+        1.2,
+        9.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        22,
+        45.8,
+        65.9
+      ],
+      "size": [
+        2.5,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        22,
+        45.8,
+        70.4
+      ],
+      "size": [
+        2.5,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        22,
+        45.8,
+        79.9
+      ],
+      "size": [
+        2.5,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        24.5,
+        45.8,
+        40
+      ],
+      "size": [
+        4.5,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        24.5,
+        45.8,
+        51.9
+      ],
+      "size": [
+        4.5,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        24.5,
+        45.8,
+        65.9
+      ],
+      "size": [
+        4.5,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        24.5,
+        45.8,
+        79.9
+      ],
+      "size": [
+        4.5,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        29.0,
+        45.8,
+        40
+      ],
+      "size": [
+        2.0,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        29.0,
+        45.8,
+        42.4
+      ],
+      "size": [
+        2.0,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        29.0,
+        45.8,
+        51.9
+      ],
+      "size": [
+        2.0,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        29.0,
+        45.8,
+        56.4
+      ],
+      "size": [
+        2.0,
+        1.2,
+        9.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        29.0,
+        45.8,
+        65.9
+      ],
+      "size": [
+        2.0,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        29.0,
+        45.8,
+        70.4
+      ],
+      "size": [
+        2.0,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        29.0,
+        45.8,
+        79.9
+      ],
+      "size": [
+        2.0,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        31,
+        45.8,
+        40
+      ],
+      "size": [
+        4.5,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        31,
+        45.8,
+        51.9
+      ],
+      "size": [
+        4.5,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        31,
+        45.8,
+        65.9
+      ],
+      "size": [
+        4.5,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        31,
+        45.8,
+        79.9
+      ],
+      "size": [
+        4.5,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        35.5,
+        45.8,
+        40
+      ],
+      "size": [
+        2.5,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        35.5,
+        45.8,
+        42.4
+      ],
+      "size": [
+        2.5,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        35.5,
+        45.8,
+        51.9
+      ],
+      "size": [
+        2.5,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        35.5,
+        45.8,
+        56.4
+      ],
+      "size": [
+        2.5,
+        1.2,
+        9.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        35.5,
+        45.8,
+        65.9
+      ],
+      "size": [
+        2.5,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        35.5,
+        45.8,
+        70.4
+      ],
+      "size": [
+        2.5,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return facade",
+      "origin": [
+        35.5,
+        45.8,
+        79.9
+      ],
+      "size": [
+        2.5,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "main villa forward return cornice",
+      "origin": [
+        21.3,
+        31.3,
+        82
+      ],
+      "size": [
+        17.4,
+        16.4,
+        0.75
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "return balcony envelope",
+      "origin": [
+        23.5,
+        47,
+        54
+      ],
+      "size": [
+        13,
+        2.5,
+        0.65
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "recessed villa balcony envelope",
+      "origin": [
+        45,
+        32,
+        54
+      ],
+      "size": [
+        10,
+        2.5,
+        0.65
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "return balcony envelope",
+      "origin": [
+        23.5,
+        47,
+        68
+      ],
+      "size": [
+        13,
+        2.5,
+        0.65
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "recessed villa balcony envelope",
+      "origin": [
+        45,
+        32,
+        68
+      ],
+      "size": [
+        10,
+        2.5,
+        0.65
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "joined L roof",
+      "origin": [
+        20.5,
+        8.5,
+        82.75
+      ],
+      "size": [
+        39,
+        40,
+        7
+      ],
+      "color": "roof"
+    },
+    {
+      "name": "middle building back",
+      "origin": [
+        58,
+        12,
+        40
+      ],
+      "size": [
+        16,
+        1.2,
+        32
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        13.2,
+        40
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        13.2,
+        42.4
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        11.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        13.2,
+        53.9
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        13.2,
+        58.4
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        11.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        13.2,
+        69.9
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        16,
+        40
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        16,
+        53.9
+      ],
+      "size": [
+        1.2,
+        5.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        16,
+        69.9
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        21.5,
+        40
+      ],
+      "size": [
+        1.2,
+        2.5,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        21.5,
+        42.4
+      ],
+      "size": [
+        1.2,
+        2.5,
+        11.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        21.5,
+        53.9
+      ],
+      "size": [
+        1.2,
+        2.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        21.5,
+        58.4
+      ],
+      "size": [
+        1.2,
+        2.5,
+        11.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        21.5,
+        69.9
+      ],
+      "size": [
+        1.2,
+        2.5,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        24,
+        40
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        24,
+        53.9
+      ],
+      "size": [
+        1.2,
+        5.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        24,
+        69.9
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        29.5,
+        40
+      ],
+      "size": [
+        1.2,
+        4.5,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        29.5,
+        42.4
+      ],
+      "size": [
+        1.2,
+        4.5,
+        11.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        29.5,
+        53.9
+      ],
+      "size": [
+        1.2,
+        4.5,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        29.5,
+        58.4
+      ],
+      "size": [
+        1.2,
+        4.5,
+        11.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building left",
+      "origin": [
+        58,
+        29.5,
+        69.9
+      ],
+      "size": [
+        1.2,
+        4.5,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building right",
+      "origin": [
+        72.8,
+        13.2,
+        40
+      ],
+      "size": [
+        1.2,
+        20.8,
+        32
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building floor",
+      "origin": [
+        58,
+        12,
+        40.0
+      ],
+      "size": [
+        16,
+        22,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "middle building floor",
+      "origin": [
+        58,
+        12,
+        56.0
+      ],
+      "size": [
+        16,
+        22,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "middle building floor line",
+      "origin": [
+        57.75,
+        11.75,
+        56.0
+      ],
+      "size": [
+        16.5,
+        22.5,
+        0.45
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "middle building facade",
+      "origin": [
+        58,
+        32.8,
+        40
+      ],
+      "size": [
+        4,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building facade",
+      "origin": [
+        58,
+        32.8,
+        42.4
+      ],
+      "size": [
+        4,
+        1.2,
+        11.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building facade",
+      "origin": [
+        58,
+        32.8,
+        53.9
+      ],
+      "size": [
+        4,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building facade",
+      "origin": [
+        58,
+        32.8,
+        58.4
+      ],
+      "size": [
+        4,
+        1.2,
+        11.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building facade",
+      "origin": [
+        58,
+        32.8,
+        69.9
+      ],
+      "size": [
+        4,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building facade",
+      "origin": [
+        62,
+        32.8,
+        40
+      ],
+      "size": [
+        8,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building facade",
+      "origin": [
+        62,
+        32.8,
+        53.9
+      ],
+      "size": [
+        8,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building facade",
+      "origin": [
+        62,
+        32.8,
+        69.9
+      ],
+      "size": [
+        8,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building facade",
+      "origin": [
+        70,
+        32.8,
+        40
+      ],
+      "size": [
+        4,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building facade",
+      "origin": [
+        70,
+        32.8,
+        42.4
+      ],
+      "size": [
+        4,
+        1.2,
+        11.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building facade",
+      "origin": [
+        70,
+        32.8,
+        53.9
+      ],
+      "size": [
+        4,
+        1.2,
+        4.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building facade",
+      "origin": [
+        70,
+        32.8,
+        58.4
+      ],
+      "size": [
+        4,
+        1.2,
+        11.500000000000007
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building facade",
+      "origin": [
+        70,
+        32.8,
+        69.9
+      ],
+      "size": [
+        4,
+        1.2,
+        2.0999999999999943
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "middle building cornice",
+      "origin": [
+        57.3,
+        11.3,
+        72
+      ],
+      "size": [
+        17.4,
+        23.4,
+        0.75
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "middle hip roof",
+      "origin": [
+        56.8,
+        10.8,
+        72.75
+      ],
+      "size": [
+        18.4,
+        24.4,
+        5
+      ],
+      "color": "roof"
+    },
+    {
+      "name": "descending wing plinth",
+      "origin": [
+        90,
+        40,
+        0.3
+      ],
+      "size": [
+        28,
+        26,
+        11.7
+      ],
+      "color": "rock2"
+    },
+    {
+      "name": "descending wing lower floor back",
+      "origin": [
+        90,
+        40,
+        12
+      ],
+      "size": [
+        28,
+        1.2,
+        14
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor left",
+      "origin": [
+        90,
+        41.2,
+        12
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        2.4000000000000004
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor left",
+      "origin": [
+        90,
+        41.2,
+        14.4
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        9.499999999999998
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor left",
+      "origin": [
+        90,
+        41.2,
+        23.9
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor left",
+      "origin": [
+        90,
+        44,
+        12
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.4000000000000004
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor left",
+      "origin": [
+        90,
+        44,
+        23.9
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor left",
+      "origin": [
+        90,
+        49.5,
+        12
+      ],
+      "size": [
+        1.2,
+        6.5,
+        2.4000000000000004
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor left",
+      "origin": [
+        90,
+        49.5,
+        14.4
+      ],
+      "size": [
+        1.2,
+        6.5,
+        9.499999999999998
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor left",
+      "origin": [
+        90,
+        49.5,
+        23.9
+      ],
+      "size": [
+        1.2,
+        6.5,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor left",
+      "origin": [
+        90,
+        56,
+        12
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.4000000000000004
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor left",
+      "origin": [
+        90,
+        56,
+        23.9
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor left",
+      "origin": [
+        90,
+        61.5,
+        12
+      ],
+      "size": [
+        1.2,
+        4.5,
+        2.4000000000000004
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor left",
+      "origin": [
+        90,
+        61.5,
+        14.4
+      ],
+      "size": [
+        1.2,
+        4.5,
+        9.499999999999998
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor left",
+      "origin": [
+        90,
+        61.5,
+        23.9
+      ],
+      "size": [
+        1.2,
+        4.5,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor right",
+      "origin": [
+        116.8,
+        41.2,
+        12
+      ],
+      "size": [
+        1.2,
+        24.8,
+        14
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor floor",
+      "origin": [
+        90,
+        40,
+        12.0
+      ],
+      "size": [
+        28,
+        26,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "descending wing lower floor facade",
+      "origin": [
+        90,
+        64.8,
+        12
+      ],
+      "size": [
+        5,
+        1.2,
+        2.4000000000000004
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor facade",
+      "origin": [
+        90,
+        64.8,
+        14.4
+      ],
+      "size": [
+        5,
+        1.2,
+        9.499999999999998
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor facade",
+      "origin": [
+        90,
+        64.8,
+        23.9
+      ],
+      "size": [
+        5,
+        1.2,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor facade",
+      "origin": [
+        95,
+        64.8,
+        12
+      ],
+      "size": [
+        6,
+        1.2,
+        2.4000000000000004
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor facade",
+      "origin": [
+        95,
+        64.8,
+        23.9
+      ],
+      "size": [
+        6,
+        1.2,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor facade",
+      "origin": [
+        101,
+        64.8,
+        12
+      ],
+      "size": [
+        6,
+        1.2,
+        2.4000000000000004
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor facade",
+      "origin": [
+        101,
+        64.8,
+        14.4
+      ],
+      "size": [
+        6,
+        1.2,
+        9.499999999999998
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor facade",
+      "origin": [
+        101,
+        64.8,
+        23.9
+      ],
+      "size": [
+        6,
+        1.2,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor facade",
+      "origin": [
+        107,
+        64.8,
+        12
+      ],
+      "size": [
+        6,
+        1.2,
+        2.4000000000000004
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor facade",
+      "origin": [
+        107,
+        64.8,
+        23.9
+      ],
+      "size": [
+        6,
+        1.2,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor facade",
+      "origin": [
+        113,
+        64.8,
+        12
+      ],
+      "size": [
+        5,
+        1.2,
+        2.4000000000000004
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor facade",
+      "origin": [
+        113,
+        64.8,
+        14.4
+      ],
+      "size": [
+        5,
+        1.2,
+        9.499999999999998
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor facade",
+      "origin": [
+        113,
+        64.8,
+        23.9
+      ],
+      "size": [
+        5,
+        1.2,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing lower floor cornice",
+      "origin": [
+        89.3,
+        39.3,
+        26
+      ],
+      "size": [
+        29.4,
+        27.4,
+        0.75
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "arcade rear",
+      "origin": [
+        90,
+        40,
+        26
+      ],
+      "size": [
+        28,
+        1.2,
+        14
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "arcade right",
+      "origin": [
+        116.8,
+        41.2,
+        26
+      ],
+      "size": [
+        1.2,
+        24.8,
+        14
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "arcade left",
+      "origin": [
+        90,
+        41.2,
+        26
+      ],
+      "size": [
+        1.2,
+        24.8,
+        14
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "arcade floor",
+      "origin": [
+        90,
+        40,
+        26
+      ],
+      "size": [
+        28,
+        26,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "arcade pier",
+      "origin": [
+        90,
+        64.8,
+        26
+      ],
+      "size": [
+        3,
+        1.2,
+        14
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "arcade pier",
+      "origin": [
+        103,
+        64.8,
+        26
+      ],
+      "size": [
+        3,
+        1.2,
+        14
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "arcade pier",
+      "origin": [
+        116,
+        64.8,
+        26
+      ],
+      "size": [
+        2,
+        1.2,
+        14
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "arcade lintel",
+      "origin": [
+        90,
+        64.8,
+        38.6
+      ],
+      "size": [
+        28,
+        1.2,
+        1.4
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "arcade balcony envelope",
+      "origin": [
+        91,
+        66,
+        26
+      ],
+      "size": [
+        27,
+        3,
+        0.8
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "arcade balcony parapet",
+      "origin": [
+        97,
+        68,
+        26.8
+      ],
+      "size": [
+        21,
+        1,
+        1.8
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "descending wing upper floor back",
+      "origin": [
+        90,
+        40,
+        40
+      ],
+      "size": [
+        28,
+        1.2,
+        14
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor left",
+      "origin": [
+        90,
+        41.2,
+        40
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor left",
+      "origin": [
+        90,
+        41.2,
+        42.4
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor left",
+      "origin": [
+        90,
+        41.2,
+        51.9
+      ],
+      "size": [
+        1.2,
+        2.8000000000000007,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor left",
+      "origin": [
+        90,
+        44,
+        40
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor left",
+      "origin": [
+        90,
+        44,
+        51.9
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor left",
+      "origin": [
+        90,
+        49.5,
+        40
+      ],
+      "size": [
+        1.2,
+        6.5,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor left",
+      "origin": [
+        90,
+        49.5,
+        42.4
+      ],
+      "size": [
+        1.2,
+        6.5,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor left",
+      "origin": [
+        90,
+        49.5,
+        51.9
+      ],
+      "size": [
+        1.2,
+        6.5,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor left",
+      "origin": [
+        90,
+        56,
+        40
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor left",
+      "origin": [
+        90,
+        56,
+        51.9
+      ],
+      "size": [
+        1.2,
+        5.5,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor left",
+      "origin": [
+        90,
+        61.5,
+        40
+      ],
+      "size": [
+        1.2,
+        4.5,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor left",
+      "origin": [
+        90,
+        61.5,
+        42.4
+      ],
+      "size": [
+        1.2,
+        4.5,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor left",
+      "origin": [
+        90,
+        61.5,
+        51.9
+      ],
+      "size": [
+        1.2,
+        4.5,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor right",
+      "origin": [
+        116.8,
+        41.2,
+        40
+      ],
+      "size": [
+        1.2,
+        24.8,
+        14
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor floor",
+      "origin": [
+        90,
+        40,
+        40.0
+      ],
+      "size": [
+        28,
+        26,
+        0.5
+      ],
+      "color": "deck"
+    },
+    {
+      "name": "descending wing upper floor facade",
+      "origin": [
+        90,
+        64.8,
+        40
+      ],
+      "size": [
+        5,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor facade",
+      "origin": [
+        90,
+        64.8,
+        42.4
+      ],
+      "size": [
+        5,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor facade",
+      "origin": [
+        90,
+        64.8,
+        51.9
+      ],
+      "size": [
+        5,
+        1.2,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor facade",
+      "origin": [
+        95,
+        64.8,
+        40
+      ],
+      "size": [
+        6,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor facade",
+      "origin": [
+        95,
+        64.8,
+        51.9
+      ],
+      "size": [
+        6,
+        1.2,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor facade",
+      "origin": [
+        101,
+        64.8,
+        40
+      ],
+      "size": [
+        6,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor facade",
+      "origin": [
+        101,
+        64.8,
+        42.4
+      ],
+      "size": [
+        6,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor facade",
+      "origin": [
+        101,
+        64.8,
+        51.9
+      ],
+      "size": [
+        6,
+        1.2,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor facade",
+      "origin": [
+        107,
+        64.8,
+        40
+      ],
+      "size": [
+        6,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor facade",
+      "origin": [
+        107,
+        64.8,
+        51.9
+      ],
+      "size": [
+        6,
+        1.2,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor facade",
+      "origin": [
+        113,
+        64.8,
+        40
+      ],
+      "size": [
+        5,
+        1.2,
+        2.3999999999999986
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor facade",
+      "origin": [
+        113,
+        64.8,
+        42.4
+      ],
+      "size": [
+        5,
+        1.2,
+        9.5
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor facade",
+      "origin": [
+        113,
+        64.8,
+        51.9
+      ],
+      "size": [
+        5,
+        1.2,
+        2.1000000000000014
+      ],
+      "color": "wall"
+    },
+    {
+      "name": "descending wing upper floor cornice",
+      "origin": [
+        89.3,
+        39.3,
+        54
+      ],
+      "size": [
+        29.4,
+        27.4,
+        0.75
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "upper wing balcony envelope",
+      "origin": [
+        91,
+        66,
+        40
+      ],
+      "size": [
+        27,
+        3,
+        0.8
+      ],
+      "color": "trim"
+    },
+    {
+      "name": "descending wing hip roof",
+      "origin": [
+        88.5,
+        38.5,
+        54.75
+      ],
+      "size": [
+        31,
+        29,
+        6
+      ],
+      "color": "roof"
+    },
+    {
+      "name": "descending wing low rock",
+      "origin": [
+        111,
+        68,
+        0.3
+      ],
+      "size": [
+        7,
+        10,
+        8
+      ],
+      "color": "rock"
+    },
+    {
+      "name": "descending wing low rock",
+      "origin": [
+        104,
+        77,
+        0.3
+      ],
+      "size": [
+        10,
+        7,
+        7
+      ],
+      "color": "rock"
+    },
+    {
+      "name": "descending wing low rock",
+      "origin": [
+        116,
+        46,
+        0.3
+      ],
+      "size": [
+        3,
+        18,
+        9
+      ],
+      "color": "rock"
+    },
+    {
+      "name": "side garden pergola post",
+      "origin": [
+        7,
+        23,
+        40.5
+      ],
+      "size": [
+        1,
+        1,
+        10
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "side garden pergola post",
+      "origin": [
+        7,
+        35,
+        40.5
+      ],
+      "size": [
+        1,
+        1,
+        10
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "side garden pergola post",
+      "origin": [
+        18,
+        23,
+        40.5
+      ],
+      "size": [
+        1,
+        1,
+        10
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "side garden pergola post",
+      "origin": [
+        18,
+        35,
+        40.5
+      ],
+      "size": [
+        1,
+        1,
+        10
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "side garden pergola beam",
+      "origin": [
+        7,
+        23,
+        50.5
+      ],
+      "size": [
+        12,
+        1,
+        1
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "side garden pergola beam",
+      "origin": [
+        7,
+        35,
+        50.5
+      ],
+      "size": [
+        12,
+        1,
+        1
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "side garden pergola beam",
+      "origin": [
+        7,
+        23,
+        50.5
+      ],
+      "size": [
+        1,
+        13,
+        1
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "side garden pergola beam",
+      "origin": [
+        18,
+        23,
+        50.5
+      ],
+      "size": [
+        1,
+        13,
+        1
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "middle pergola post",
+      "origin": [
+        59,
+        36,
+        40.5
+      ],
+      "size": [
+        1,
+        1,
+        10
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "middle pergola post",
+      "origin": [
+        59,
+        46,
+        40.5
+      ],
+      "size": [
+        1,
+        1,
+        10
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "middle pergola post",
+      "origin": [
+        71,
+        36,
+        40.5
+      ],
+      "size": [
+        1,
+        1,
+        10
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "middle pergola post",
+      "origin": [
+        71,
+        46,
+        40.5
+      ],
+      "size": [
+        1,
+        1,
+        10
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "middle pergola beam",
+      "origin": [
+        59,
+        36,
+        50.5
+      ],
+      "size": [
+        13,
+        1,
+        1
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "middle pergola beam",
+      "origin": [
+        59,
+        46,
+        50.5
+      ],
+      "size": [
+        13,
+        1,
+        1
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "middle pergola beam",
+      "origin": [
+        59,
+        36,
+        50.5
+      ],
+      "size": [
+        1,
+        11,
+        1
+      ],
+      "color": "shadow"
+    },
+    {
+      "name": "middle pergola beam",
+      "origin": [
+        71,
+        36,
+        50.5
+      ],
+      "size": [
+        1,
+        11,
+        1
+      ],
+      "color": "shadow"
+    }
+  ]
+}

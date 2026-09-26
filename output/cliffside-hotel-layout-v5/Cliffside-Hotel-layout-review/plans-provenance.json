@@ -1,0 +1,11 @@
+{
+  "layout_sha256": "d6b73d5d940ad8f716e468f822da410dfcd4093773b5301f6cf6a469e30e5411",
+  "drawings": {
+    "plan-arrival.png": "da040a3931f5427beaf5211706be29ab0db1fe776716a46844adb3ba01af7aae",
+    "plan-arrival.svg": "0ee4a2ed136a77e27292685a3c6d989e25b49ad090b19dc9e5ecf024238c18c8",
+    "plan-guest-floor.png": "f203375761a18c90f6415d8d12c14e68953175fdbf19e7e744d084c5b7a775ce",
+    "plan-guest-floor.svg": "69f80ad538f8594b526856c0401bf9b6a208cdf207a70fdfbec856fa0b7685b6",
+    "plan-services.png": "85aeec925c1fa12ff26b3aeb825d7a4e3f632a577d5fe7b6bcea9cc186f60dcd",
+    "plan-services.svg": "898cd32074dc0dbdee08edef2702c07acac580225b015392c0e0fbac9a59f2d9"
+  }
+}

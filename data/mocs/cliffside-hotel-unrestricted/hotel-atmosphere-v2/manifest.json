@@ -1,0 +1,154 @@
+{
+  "scope": "Richer hotel exterior atmosphere; architectural proxy over approved v6 layout",
+  "model_sha256": "384dd328699a33404a60f377b19c0ae8884da87484aba7041eba076bfb55c818",
+  "files": {
+    "README.md": {
+      "sha256": "29cce45e9a6f6732cdbc00e3de096dcc4ad1269914c6b72a0e3175ec0a524d1a",
+      "bytes": 5114
+    },
+    "annex_exterior.py": {
+      "sha256": "21d6435d7f6d019c3ba6e9fbcba50ae2f3a4d18d7e64181b0bd4060805ac10c5",
+      "bytes": 7743
+    },
+    "atmosphere.py": {
+      "sha256": "2a5cc22c50c499f04c90d2a852bfd02f5acd0bc38aa4c0ff5179f61bc236cf10",
+      "bytes": 14943
+    },
+    "blockout-concept.png": {
+      "sha256": "e04078e401bf70e62e0d0b6999123445456e3ca249ec1958938f3660adca1dac",
+      "bytes": 3608430
+    },
+    "blockout-concept.render.json": {
+      "sha256": "fb7d3fdf11e3d7d8ff893f7a856151e25b24cb9f6e5f7963843842eeca934f98",
+      "bytes": 1015
+    },
+    "blockout-front.png": {
+      "sha256": "aa33ccdd2912008c092142cc634f3e876bd44ad71ef46a3ddcf4f10305d86d98",
+      "bytes": 2295053
+    },
+    "blockout-front.render.json": {
+      "sha256": "81debc3c6fe97d0bf968a98fa44976128f4b67db6388df3ba119379f737e0ea2",
+      "bytes": 995
+    },
+    "blockout-plan.png": {
+      "sha256": "9f1fe17ec5643ab3d3764c3f760bad24d06449547f90f85f62980295fa0b5b0a",
+      "bytes": 2273563
+    },
+    "blockout-plan.render.json": {
+      "sha256": "bc6c5f81a4fc4683d47666f5e44ce57210a367cf8c2bacce96b5d553528999bc",
+      "bytes": 990
+    },
+    "blockout-rear.png": {
+      "sha256": "d455abb357d8b31550ffb8c21dd44a54cdf5977684310d44c14eb75203d3afe4",
+      "bytes": 2150255
+    },
+    "blockout-rear.render.json": {
+      "sha256": "ac3c7f2b62637f504ffafa3762fa88677a4f8a076f591ed33963bb965f0bb73a",
+      "bytes": 1011
+    },
+    "blockout.ldr": {
+      "sha256": "384dd328699a33404a60f377b19c0ae8884da87484aba7041eba076bfb55c818",
+      "bytes": 54973909
+    },
+    "build.py": {
+      "sha256": "9407e8439272c7f45558cd54184c19f881e1ebb80d6181ee1bfcc620abbefa31",
+      "bytes": 9809
+    },
+    "check_layout.py": {
+      "sha256": "6a0b5c8dfff574bb559fdc8cb452011bf2178ff69bf5bd5cdb4e9a085c8e5e56",
+      "bytes": 4057
+    },
+    "circulation-check.json": {
+      "sha256": "e4e8a72d50808333b796dd99f42a209b28b405ae63fac088b8f2cfdae28fa183",
+      "bytes": 8777
+    },
+    "donor-candidates.json": {
+      "sha256": "8173975162d56e48984b266e9af479f0ee3f0daebd05b875161f15a24e301667",
+      "bytes": 6552
+    },
+    "donor-reuse.md": {
+      "sha256": "37762a389eb998e3b5ad2d2030a09cd98e190fd1834db8be195cc0f2f34624ca",
+      "bytes": 3115
+    },
+    "donors.py": {
+      "sha256": "0c7d20fad80817bc2a99c3518a26c59877fb7c89a5efdbb0d72384265537badb",
+      "bytes": 2629
+    },
+    "exterior.py": {
+      "sha256": "82c90e3f9bde9491713e769aadd0bda02c94d804660bf0c11534db448ac8013d",
+      "bytes": 11236
+    },
+    "geometry.py": {
+      "sha256": "6595ada3577bc1a3b2e7259ab0ebe636f41134109eca82f81c9991033dca0ae6",
+      "bytes": 4826
+    },
+    "layout.json": {
+      "sha256": "f5ac0f4dec40c9b16153b5c798a27997459161d6fbac0002473af977d41f156a",
+      "bytes": 1804512
+    },
+    "layout.py": {
+      "sha256": "31601d0b61fc7ce09f6ac25a57b1962c27529da556449ba4ca0ec9136747841d",
+      "bytes": 10823
+    },
+    "plan-arrival.png": {
+      "sha256": "6e78182d5ca85be135aa4a9585fd50b3b7f039b1a47d6d9f9fd97b6e927ac11b",
+      "bytes": 92054
+    },
+    "plan-arrival.svg": {
+      "sha256": "109da58f81e520c171a666355d6b31dd7cea2e5dbb132ca8b43728dab9dde381",
+      "bytes": 27855
+    },
+    "plan-cottage.png": {
+      "sha256": "c2a555a6e80692f3c7b86e5e3dbab81666cdf5e2ebb7c2aaf7d0de18178353c8",
+      "bytes": 56297
+    },
+    "plan-cottage.svg": {
+      "sha256": "ea5dd999aa3d6f398db2c65801084a91e842bf45e0c376b7a37beba994f19922",
+      "bytes": 13714
+    },
+    "plan-guest-floor.png": {
+      "sha256": "f203375761a18c90f6415d8d12c14e68953175fdbf19e7e744d084c5b7a775ce",
+      "bytes": 45961
+    },
+    "plan-guest-floor.svg": {
+      "sha256": "69f80ad538f8594b526856c0401bf9b6a208cdf207a70fdfbec856fa0b7685b6",
+      "bytes": 10655
+    },
+    "plan-services.png": {
+      "sha256": "85aeec925c1fa12ff26b3aeb825d7a4e3f632a577d5fe7b6bcea9cc186f60dcd",
+      "bytes": 61593
+    },
+    "plan-services.svg": {
+      "sha256": "898cd32074dc0dbdee08edef2702c07acac580225b015392c0e0fbac9a59f2d9",
+      "bytes": 19078
+    },
+    "plans-provenance.json": {
+      "sha256": "e9f1765b36a4e981b2dc779553d38533c9d784e51e020160762b205e649d73bd",
+      "bytes": 1043
+    },
+    "plans.py": {
+      "sha256": "49517b1803fd1a75a3eda1fae1972914be6454033e44835602eeacda2b8667bd",
+      "bytes": 10488
+    },
+    "render.py": {
+      "sha256": "7dabca3797756fc3e325ae6e5a86c6def6814141be318c99073620d7f4035e84",
+      "bytes": 5215
+    },
+    "verification.json": {
+      "sha256": "a154119067d7b040dc258ff360309e371799b8748adc420dd22cd26ae6594670",
+      "bytes": 1758
+    },
+    "verify.py": {
+      "sha256": "64cb834d678283a3fa12bfaf3be901ad53eeaa4da81e0abe2e6baa69c1371625",
+      "bytes": 12090
+    },
+    "villa-detail.ldr": {
+      "sha256": "fe01ce5346481861ed1dbfd8af98df68b67ecb39d8c49b10b1b9fbb8faeddf87",
+      "bytes": 19858083
+    },
+    "reference-concept.png": {
+      "sha256": "ebf1e0ac0c13cfb5e602b7fb6c23d5bb9a1ec7ca9aa90efc63d8b459a9074e6a",
+      "bytes": 2420873
+    }
+  }
+}

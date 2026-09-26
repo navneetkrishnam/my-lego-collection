@@ -1,0 +1,15 @@
+{
+  "allocation_pass": true,
+  "allocation_rows": 2456,
+  "current_digital_reports_pass": true,
+  "current_render_hashes_pass": true,
+  "deterministic_placements": true,
+  "donor_sets": 139,
+  "exact_elements": 401,
+  "instruction_quantity_rows_verified": 129,
+  "ldr_sha256": "3efb2333b841e32db80b5ba2b71c7934684cad75a36c4442de0662c9393acbd7",
+  "model_sha256": "404ada1bb0d576b969e550f9b2b86cf1d3dab386e6544510aa6fbfa1efeb122a",
+  "physical_build_tested": false,
+  "piece_count": 3275,
+  "visual_status": "Review draft; taller cliff, turning stairs and stud-connected hip roofs; roof texture remains stylized"
+}

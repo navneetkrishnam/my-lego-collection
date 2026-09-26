@@ -1,0 +1,477 @@
+{
+  "bounds_errors": [],
+  "candidate_pairs_checked": 589,
+  "strict_surface_crossings": [],
+  "expected_engagement_crossings": [
+    {
+      "a": "H00552",
+      "b": "H01534",
+      "elements": [
+        "6262945",
+        "4211404"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "pavilion",
+        "architectural-trim"
+      ],
+      "intersection_points": 8,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00552",
+      "b": "H01536",
+      "elements": [
+        "6262945",
+        "379501"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "pavilion",
+        "architectural-trim"
+      ],
+      "intersection_points": 8,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00462",
+      "b": "H01515",
+      "elements": [
+        "6262945",
+        "303201"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "guest-wing",
+        "architectural-trim"
+      ],
+      "intersection_points": 8,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00421",
+      "b": "H01520",
+      "elements": [
+        "6262945",
+        "244501"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "guest-wing",
+        "architectural-trim"
+      ],
+      "intersection_points": 16,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00525",
+      "b": "H01522",
+      "elements": [
+        "6262945",
+        "244501"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "guest-wing",
+        "architectural-trim"
+      ],
+      "intersection_points": 16,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00294",
+      "b": "H01492",
+      "elements": [
+        "6262945",
+        "244501"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "main-building",
+        "architectural-trim"
+      ],
+      "intersection_points": 8,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00294",
+      "b": "H01496",
+      "elements": [
+        "6262945",
+        "379501"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "main-building",
+        "architectural-trim"
+      ],
+      "intersection_points": 8,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00296",
+      "b": "H01495",
+      "elements": [
+        "6262945",
+        "4243812"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "main-building",
+        "architectural-trim"
+      ],
+      "intersection_points": 8,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00296",
+      "b": "H01497",
+      "elements": [
+        "6262945",
+        "4243812"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "main-building",
+        "architectural-trim"
+      ],
+      "intersection_points": 8,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00489",
+      "b": "H01527",
+      "elements": [
+        "6262945",
+        "4114001"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "guest-wing",
+        "architectural-trim"
+      ],
+      "intersection_points": 8,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00489",
+      "b": "H01528",
+      "elements": [
+        "6262945",
+        "4114001"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "guest-wing",
+        "architectural-trim"
+      ],
+      "intersection_points": 8,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00345",
+      "b": "H01511",
+      "elements": [
+        "6262945",
+        "244501"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "main-building",
+        "architectural-trim"
+      ],
+      "intersection_points": 16,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00347",
+      "b": "H01511",
+      "elements": [
+        "6262945",
+        "244501"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "main-building",
+        "architectural-trim"
+      ],
+      "intersection_points": 16,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00347",
+      "b": "H01512",
+      "elements": [
+        "6262945",
+        "379501"
+      ],
+      "kinds": [
+        "frame",
+        "plate"
+      ],
+      "modules": [
+        "main-building",
+        "architectural-trim"
+      ],
+      "intersection_points": 8,
+      "classification": "stud engagement envelope"
+    },
+    {
+      "a": "H00196",
+      "b": "H00204",
+      "elements": [
+        "4225201",
+        "6310268"
+      ],
+      "kinds": [
+        "hinge",
+        "hinge"
+      ],
+      "modules": [
+        "pavilion-roof",
+        "pavilion-roof"
+      ],
+      "intersection_points": 240,
+      "classification": "bar within clip grip envelope"
+    },
+    {
+      "a": "H00197",
+      "b": "H00205",
+      "elements": [
+        "4225201",
+        "6310268"
+      ],
+      "kinds": [
+        "hinge",
+        "hinge"
+      ],
+      "modules": [
+        "pavilion-roof",
+        "pavilion-roof"
+      ],
+      "intersection_points": 240,
+      "classification": "bar within clip grip envelope"
+    },
+    {
+      "a": "H00198",
+      "b": "H00219",
+      "elements": [
+        "4225201",
+        "6310268"
+      ],
+      "kinds": [
+        "hinge",
+        "hinge"
+      ],
+      "modules": [
+        "pavilion-roof",
+        "pavilion-roof"
+      ],
+      "intersection_points": 240,
+      "classification": "bar within clip grip envelope"
+    },
+    {
+      "a": "H00199",
+      "b": "H00220",
+      "elements": [
+        "6236915",
+        "6310268"
+      ],
+      "kinds": [
+        "hinge",
+        "hinge"
+      ],
+      "modules": [
+        "pavilion-roof",
+        "pavilion-roof"
+      ],
+      "intersection_points": 240,
+      "classification": "bar within clip grip envelope"
+    },
+    {
+      "a": "H00131",
+      "b": "H00139",
+      "elements": [
+        "4225201",
+        "6310268"
+      ],
+      "kinds": [
+        "hinge",
+        "hinge"
+      ],
+      "modules": [
+        "guest-roof",
+        "guest-roof"
+      ],
+      "intersection_points": 240,
+      "classification": "bar within clip grip envelope"
+    },
+    {
+      "a": "H00132",
+      "b": "H00140",
+      "elements": [
+        "4225201",
+        "6310268"
+      ],
+      "kinds": [
+        "hinge",
+        "hinge"
+      ],
+      "modules": [
+        "guest-roof",
+        "guest-roof"
+      ],
+      "intersection_points": 240,
+      "classification": "bar within clip grip envelope"
+    },
+    {
+      "a": "H00133",
+      "b": "H00157",
+      "elements": [
+        "4225201",
+        "6310268"
+      ],
+      "kinds": [
+        "hinge",
+        "hinge"
+      ],
+      "modules": [
+        "guest-roof",
+        "guest-roof"
+      ],
+      "intersection_points": 240,
+      "classification": "bar within clip grip envelope"
+    },
+    {
+      "a": "H00134",
+      "b": "H00158",
+      "elements": [
+        "4225201",
+        "6310268"
+      ],
+      "kinds": [
+        "hinge",
+        "hinge"
+      ],
+      "modules": [
+        "guest-roof",
+        "guest-roof"
+      ],
+      "intersection_points": 240,
+      "classification": "bar within clip grip envelope"
+    },
+    {
+      "a": "H00038",
+      "b": "H00046",
+      "elements": [
+        "4225201",
+        "6310268"
+      ],
+      "kinds": [
+        "hinge",
+        "hinge"
+      ],
+      "modules": [
+        "main-roof",
+        "main-roof"
+      ],
+      "intersection_points": 240,
+      "classification": "bar within clip grip envelope"
+    },
+    {
+      "a": "H00039",
+      "b": "H00047",
+      "elements": [
+        "4225201",
+        "6310268"
+      ],
+      "kinds": [
+        "hinge",
+        "hinge"
+      ],
+      "modules": [
+        "main-roof",
+        "main-roof"
+      ],
+      "intersection_points": 240,
+      "classification": "bar within clip grip envelope"
+    },
+    {
+      "a": "H00040",
+      "b": "H00070",
+      "elements": [
+        "4225201",
+        "6310268"
+      ],
+      "kinds": [
+        "hinge",
+        "hinge"
+      ],
+      "modules": [
+        "main-roof",
+        "main-roof"
+      ],
+      "intersection_points": 240,
+      "classification": "bar within clip grip envelope"
+    },
+    {
+      "a": "H00041",
+      "b": "H00071",
+      "elements": [
+        "4225201",
+        "6310268"
+      ],
+      "kinds": [
+        "hinge",
+        "hinge"
+      ],
+      "modules": [
+        "main-roof",
+        "main-roof"
+      ],
+      "intersection_points": 240,
+      "classification": "bar within clip grip envelope"
+    }
+  ],
+  "scope": "Actual recursively transformed LDraw meshes. Special parts and all tilted instances against neighboring geometry. Every classified contact point must lie inside a shared 6 LDU stud / 4 LDU bar engagement envelope. Coplanar contact and full containment excluded; not a complete solid collision solver.",
+  "model_sha256": "0464c63e3b5fc2565d98d57ff8efb2ffb29b8b2be80a590c8a0c64b7e2f491f6"
+}

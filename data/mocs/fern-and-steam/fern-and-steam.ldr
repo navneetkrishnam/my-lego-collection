@@ -1,0 +1,259 @@
+0 Fern & Steam - garden tea kiosk, revision 1
+0 Name: fern-and-steam.ldr
+0 Author: Navneet / Codex
+0 // Inventory-checked prototype; physical build pending.
+0 // Origin: rear-left outer corner; X right, Z front, Y up is negative.
+0 // Step 1: Lay out the foundation
+0 // P001 LEGO element 303526
+1 0 40 -8 80 1 0 0 0 1 0 0 0 1 3035.dat
+0 // P002 LEGO element 303526
+1 0 120 -8 80 1 0 0 0 1 0 0 0 1 3035.dat
+0 // P003 LEGO element 303526
+1 0 200 -8 80 1 0 0 0 1 0 0 0 1 3035.dat
+0 // P004 LEGO element 303526
+1 0 280 -8 80 1 0 0 0 1 0 0 0 1 3035.dat
+0 // P005 LEGO element 303526
+1 0 40 -8 240 1 0 0 0 1 0 0 0 1 3035.dat
+0 // P006 LEGO element 303526
+1 0 120 -8 240 1 0 0 0 1 0 0 0 1 3035.dat
+0 // P007 LEGO element 303526
+1 0 200 -8 240 1 0 0 0 1 0 0 0 1 3035.dat
+0 // P008 LEGO element 303526
+1 0 280 -8 240 1 0 0 0 1 0 0 0 1 3035.dat
+0 STEP
+0 // Step 2: Lock the base together
+0 // P009 LEGO element 4509897
+1 19 80 -16 80 1 0 0 0 1 0 0 0 1 3035.dat
+0 // P010 LEGO element 4509897
+1 19 80 -16 240 1 0 0 0 1 0 0 0 1 3035.dat
+0 // P011 LEGO element 4509897
+1 19 240 -16 80 1 0 0 0 1 0 0 0 1 3035.dat
+0 // P012 LEGO element 4509897
+1 19 240 -16 240 1 0 0 0 1 0 0 0 1 3035.dat
+0 // P013 LEGO element 4243824
+1 19 160 -16 40 1 0 0 0 1 0 0 0 1 3031.dat
+0 // P014 LEGO element 4509897
+1 19 160 -16 160 1 0 0 0 1 0 0 0 1 3035.dat
+0 // P015 LEGO element 4243824
+1 19 160 -16 280 1 0 0 0 1 0 0 0 1 3031.dat
+0 // P016 LEGO element 4114309
+1 19 20 -16 40 1 0 0 0 1 0 0 0 1 3020.dat
+0 // P017 LEGO element 4114309
+1 19 20 -16 120 1 0 0 0 1 0 0 0 1 3020.dat
+0 // P018 LEGO element 4114309
+1 19 20 -16 200 1 0 0 0 1 0 0 0 1 3020.dat
+0 // P019 LEGO element 4114309
+1 19 20 -16 280 1 0 0 0 1 0 0 0 1 3020.dat
+0 // P020 LEGO element 4114309
+1 19 300 -16 40 1 0 0 0 1 0 0 0 1 3020.dat
+0 // P021 LEGO element 4114309
+1 19 300 -16 120 1 0 0 0 1 0 0 0 1 3020.dat
+0 // P022 LEGO element 4114309
+1 19 300 -16 200 1 0 0 0 1 0 0 0 1 3020.dat
+0 // P023 LEGO element 4114309
+1 19 300 -16 280 1 0 0 0 1 0 0 0 1 3020.dat
+0 STEP
+0 // Step 3: Lay the courtyard path
+0 // P024 LEGO element 4211414
+1 71 180 -24 290 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 // P025 LEGO element 4211414
+1 71 180 -24 310 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 // P026 LEGO element 4211414
+1 71 180 -24 250 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 // P027 LEGO element 4211414
+1 71 180 -24 270 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 // P028 LEGO element 4211414
+1 71 160 -24 210 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 // P029 LEGO element 4211414
+1 71 160 -24 230 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 // P030 LEGO element 4211414
+1 71 140 -24 170 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 // P031 LEGO element 4211414
+1 71 140 -24 190 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 // P032 LEGO element 4211414
+1 71 120 -24 150 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 STEP
+0 // Step 4: Raise the kiosk, course 1
+0 // P033 LEGO element 300501
+1 15 30 -40 50 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P034 LEGO element 300501
+1 15 170 -40 50 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P035 LEGO element 300501
+1 15 30 -40 150 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P036 LEGO element 300501
+1 15 170 -40 150 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P037 LEGO element 301001
+1 15 80 -40 50 0 0 1 0 1 0 -1 0 0 3010.dat
+0 // P038 LEGO element 300401
+1 15 140 -40 50 0 0 1 0 1 0 -1 0 0 3004.dat
+0 // P039 LEGO element 301001
+1 15 30 -40 100 1 0 0 0 1 0 0 0 1 3010.dat
+0 // P040 LEGO element 300401
+1 15 60 -40 110 0 0 1 0 1 0 -1 0 0 3004.dat
+0 // P041 LEGO element 300401
+1 15 100 -40 110 0 0 1 0 1 0 -1 0 0 3004.dat
+0 // P042 LEGO element 300401
+1 15 140 -40 110 0 0 1 0 1 0 -1 0 0 3004.dat
+0 // P043 LEGO element 300401
+1 15 60 -40 130 0 0 1 0 1 0 -1 0 0 3004.dat
+0 // P044 LEGO element 300401
+1 15 100 -40 130 0 0 1 0 1 0 -1 0 0 3004.dat
+0 // P045 LEGO element 300401
+1 15 140 -40 130 0 0 1 0 1 0 -1 0 0 3004.dat
+0 STEP
+0 // Step 5: Raise the kiosk, course 2
+0 // P046 LEGO element 300501
+1 15 30 -64 50 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P047 LEGO element 300501
+1 15 170 -64 50 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P048 LEGO element 300501
+1 15 30 -64 150 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P049 LEGO element 300501
+1 15 170 -64 150 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P050 LEGO element 301001
+1 15 80 -64 50 0 0 1 0 1 0 -1 0 0 3010.dat
+0 // P051 LEGO element 300401
+1 15 140 -64 50 0 0 1 0 1 0 -1 0 0 3004.dat
+0 // P052 LEGO element 301001
+1 15 30 -64 100 1 0 0 0 1 0 0 0 1 3010.dat
+0 // P053 LEGO element 300401
+1 15 60 -64 110 0 0 1 0 1 0 -1 0 0 3004.dat
+0 // P054 LEGO element 300401
+1 15 100 -64 110 0 0 1 0 1 0 -1 0 0 3004.dat
+0 // P055 LEGO element 300401
+1 15 140 -64 110 0 0 1 0 1 0 -1 0 0 3004.dat
+0 // P056 LEGO element 300401
+1 15 60 -64 130 0 0 1 0 1 0 -1 0 0 3004.dat
+0 // P057 LEGO element 300401
+1 15 100 -64 130 0 0 1 0 1 0 -1 0 0 3004.dat
+0 // P058 LEGO element 300401
+1 15 140 -64 130 0 0 1 0 1 0 -1 0 0 3004.dat
+0 STEP
+0 // Step 6: Finish the wall and counter
+0 // P059 LEGO element 300501
+1 15 30 -88 50 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P060 LEGO element 300501
+1 15 170 -88 50 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P061 LEGO element 300501
+1 15 30 -88 150 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P062 LEGO element 300501
+1 15 170 -88 150 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P063 LEGO element 301001
+1 15 80 -88 50 0 0 1 0 1 0 -1 0 0 3010.dat
+0 // P064 LEGO element 300401
+1 15 140 -88 50 0 0 1 0 1 0 -1 0 0 3004.dat
+0 // P065 LEGO element 301001
+1 15 30 -88 100 1 0 0 0 1 0 0 0 1 3010.dat
+0 // P066 LEGO element 4211247
+1 70 100 -72 120 0 0 1 0 1 0 -1 0 0 3795.dat
+0 // P067 LEGO element 4221590
+1 70 100 -96 50 0 0 1 0 1 0 -1 0 0 3666.dat
+0 // P068 LEGO element 306901
+1 15 60 -80 130 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 // P069 LEGO element 306901
+1 15 100 -80 130 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 // P070 LEGO element 306901
+1 15 140 -80 130 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 STEP
+0 // Step 7: Make the courtyard bench
+0 // P071 LEGO element 4211388
+1 71 230 -40 160 1 0 0 0 1 0 0 0 1 3004.dat
+0 // P072 LEGO element 4211388
+1 71 290 -40 160 1 0 0 0 1 0 0 0 1 3004.dat
+0 // P073 LEGO element 4211186
+1 70 260 -48 160 0 0 1 0 1 0 -1 0 0 3020.dat
+0 // P074 LEGO element 4211151
+1 70 240 -56 170 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 // P075 LEGO element 4211151
+1 70 280 -56 170 0 0 1 0 1 0 -1 0 0 3069b.dat
+0 // P076 LEGO element 4211225
+1 70 260 -72 150 0 0 1 0 1 0 -1 0 0 3010.dat
+0 // P077 LEGO element 4211194
+1 70 260 -80 150 0 0 1 0 1 0 -1 0 0 2431.dat
+0 STEP
+0 // Step 8: Add table and planters
+0 // P078 LEGO element 300301
+1 15 240 -40 240 1 0 0 0 1 0 0 0 1 3003.dat
+0 // P079 LEGO element 4216695
+1 70 240 -48 240 1 0 0 0 1 0 0 0 1 3022.dat
+0 // P080 LEGO element 4211210
+1 70 240 -40 60 1 0 0 0 1 0 0 0 1 3003.dat
+0 // P081 LEGO element 302228
+1 2 240 -48 60 1 0 0 0 1 0 0 0 1 3022.dat
+0 // P082 LEGO element 4211210
+1 70 300 -40 80 1 0 0 0 1 0 0 0 1 3003.dat
+0 // P083 LEGO element 302228
+1 2 300 -48 80 1 0 0 0 1 0 0 0 1 3022.dat
+0 // P084 LEGO element 4211210
+1 70 60 -40 240 1 0 0 0 1 0 0 0 1 3003.dat
+0 // P085 LEGO element 302228
+1 2 60 -48 240 1 0 0 0 1 0 0 0 1 3022.dat
+0 STEP
+0 // Step 9: Plant the garden and serve tea
+0 // P086 LEGO element 6182261
+1 10 230 -51 50 1 0 0 0 1 0 0 0 1 32607.dat
+0 // P087 LEGO element 6212501
+1 29 230 -53 50 1 0 0 0 1 0 0 0 1 24866.dat
+0 // P088 LEGO element 6182261
+1 10 290 -51 70 1 0 0 0 1 0 0 0 1 32607.dat
+0 // P089 LEGO element 6295242
+1 353 290 -53 70 1 0 0 0 1 0 0 0 1 24866.dat
+0 // P090 LEGO element 6182261
+1 10 50 -51 230 1 0 0 0 1 0 0 0 1 32607.dat
+0 // P091 LEGO element 6212501
+1 29 50 -53 230 1 0 0 0 1 0 0 0 1 24866.dat
+0 // P092 LEGO element 6182261
+1 10 110 -19 250 1 0 0 0 1 0 0 0 1 32607.dat
+0 // P093 LEGO element 6295242
+1 353 110 -21 250 1 0 0 0 1 0 0 0 1 24866.dat
+0 // P094 LEGO element 6182261
+1 10 50 -19 290 1 0 0 0 1 0 0 0 1 32607.dat
+0 // P095 LEGO element 6212501
+1 29 50 -21 290 1 0 0 0 1 0 0 0 1 24866.dat
+0 // P096 LEGO element 6182261
+1 10 290 -19 290 1 0 0 0 1 0 0 0 1 32607.dat
+0 // P097 LEGO element 6295242
+1 353 290 -21 290 1 0 0 0 1 0 0 0 1 24866.dat
+0 // P098 LEGO element 6182261
+1 10 290 -19 210 1 0 0 0 1 0 0 0 1 32607.dat
+0 // P099 LEGO element 389924
+1 14 70 -90 110 -1 0 0 0 1 0 0 0 -1 3899.dat
+0 // P100 LEGO element 389924
+1 14 230 -66 230 -1 0 0 0 1 0 0 0 -1 3899.dat
+0 STEP
+0 // Step 10: Raise the pergola posts
+0 // P101 LEGO element 300501
+1 15 30 -112 50 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P102 LEGO element 300501
+1 15 170 -112 50 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P103 LEGO element 300501
+1 15 30 -112 150 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P104 LEGO element 300501
+1 15 170 -112 150 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P105 LEGO element 300501
+1 15 30 -136 50 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P106 LEGO element 300501
+1 15 170 -136 50 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P107 LEGO element 300501
+1 15 30 -136 150 1 0 0 0 1 0 0 0 1 3005.dat
+0 // P108 LEGO element 300501
+1 15 170 -136 150 1 0 0 0 1 0 0 0 1 3005.dat
+0 STEP
+0 // Step 11: Fit the pergola beams
+0 // P109 LEGO element 4216945
+1 70 100 -144 50 0 0 1 0 1 0 -1 0 0 3460.dat
+0 // P110 LEGO element 4216945
+1 70 100 -144 150 0 0 1 0 1 0 -1 0 0 3460.dat
+0 STEP
+0 // Step 12: Fit the five roof slats
+0 // P111 LEGO element 4221590
+1 70 30 -152 100 1 0 0 0 1 0 0 0 1 3666.dat
+0 // P112 LEGO element 4221590
+1 70 70 -152 100 1 0 0 0 1 0 0 0 1 3666.dat
+0 // P113 LEGO element 4221590
+1 70 110 -152 100 1 0 0 0 1 0 0 0 1 3666.dat
+0 // P114 LEGO element 4221590
+1 70 150 -152 100 1 0 0 0 1 0 0 0 1 3666.dat
+0 // P115 LEGO element 4221590
+1 70 170 -152 100 1 0 0 0 1 0 0 0 1 3666.dat
+0 STEP

@@ -1,0 +1,5 @@
+{
+  "candidate_pairs_checked": 54,
+  "strict_surface_crossings": [],
+  "scope": "Accessory edge/triangle crossing probe, excludes coplanar contact; not a full solid collision solver."
+}

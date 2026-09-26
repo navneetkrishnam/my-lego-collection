@@ -1,0 +1,31 @@
+{
+  "blocked_insertions": [],
+  "clutch_and_stability": "NOT_TESTED",
+  "components": 1,
+  "donor_set_copies": 26,
+  "element_mapping": "MANUALLY_SELECTED_NOT_PHYSICALLY_CONFIRMED",
+  "fine_mesh_collision": "NOT_TESTED",
+  "geometry_scope": "Axis-aligned structural bodies; integer stud overlap and prior support. Decorative bodies use mounting abstractions, not fine meshes.",
+  "hashes": {
+    "allocation.json": "7cba297a5b5019b212a674cd4202e1e1a4e90768bf46b9a2898264936f38a24a",
+    "bom.json": "a758d412b50559fdc3a1594ccf7067fe42e71ad499c2e2ac057b0bfb65464577",
+    "fern-and-steam.ldr": "e34ba847722be24eb06214b86fe811fc87021d9e76007f1b755c6aadeb817e23",
+    "inventory-snapshot.json": "2fe4643be26cafcf0e4bceea489b617962f7063b40ef76db4ad6dbf92b421f3b",
+    "model.json": "21f16874dec8fb0165aa99a4f04102a43c5ffb943776985b821444c3384aa09b",
+    "model.py": "59a4f20ee6533ed9bcb9ef5dd8a84dac41d79506fd65585b8882412b7d4809d1",
+    "part-map.json": "bfd48497e8f89a8ed6a739e2ff3d4f08d977f78ab08e4b2ce9477fec3e65c154",
+    "verify.py": "71907dd02a6266880b241e67d9e9d393146110791d709c6e1ab9a0f0a5461317"
+  },
+  "inventory_pass": true,
+  "out_of_bounds": [],
+  "overlaps": [],
+  "physical_build": "NOT_TESTED",
+  "piece_count": 115,
+  "reproducibility": "Frozen input snapshot; stable ordering; deterministic allocation; no generation timestamps.",
+  "shortages": {},
+  "simplified_accessory_instances": 15,
+  "steps": 12,
+  "structural_pass": true,
+  "unique_elements": 25,
+  "unsupported": []
+}

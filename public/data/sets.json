@@ -2952,5 +2952,73 @@
     ],
     "status": "Not Started",
     "history": []
+  },
+  {
+    "id": "30724",
+    "name": "Dumbledore's Office with Harry Potter™",
+    "theme": "Harry Potter™",
+    "age": "6+",
+    "pieces": 42,
+    "thumbnail": "/images/30724/thumb.webp",
+    "images": [
+      "/images/30724/0.png",
+      "/images/30724/1.png",
+      "/images/30724/2.png",
+      "/images/30724/3.png",
+      "/images/30724/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "41911",
+    "name": "Go Team! Bracelet",
+    "theme": "DOTS",
+    "age": "6+",
+    "pieces": 33,
+    "thumbnail": "/images/41911/thumb.webp",
+    "images": [
+      "/images/41911/0.png",
+      "/images/41911/1.png",
+      "/images/41911/2.png",
+      "/images/41911/3.png",
+      "/images/41911/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "41950",
+    "name": "Lots of DOTS – Lettering",
+    "theme": "DOTS",
+    "age": "6+",
+    "pieces": 722,
+    "thumbnail": "/images/41950/thumb.webp",
+    "images": [
+      "/images/41950/0.png",
+      "/images/41950/1.png",
+      "/images/41950/2.png",
+      "/images/41950/3.png",
+      "/images/41950/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "40807",
+    "name": "Birthday Numbers",
+    "theme": "Other",
+    "age": "6+",
+    "pieces": 281,
+    "thumbnail": "/images/40807/thumb.webp",
+    "images": [
+      "/images/40807/0.png",
+      "/images/40807/1.png",
+      "/images/40807/2.png",
+      "/images/40807/3.png",
+      "/images/40807/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
   }
 ]

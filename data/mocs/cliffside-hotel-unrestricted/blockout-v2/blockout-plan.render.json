@@ -1,0 +1,15 @@
+{
+  "view": "plan",
+  "model_sha256": "cf8806ea1283b4cdc193e4c7a16c24d7fa7463c903492a974bb5a1bb1917e2fd",
+  "render_sha256": "2a0101df3f7d69c027290c6b16e38ccb94af8ce91ca046fabbab4bd1e5cd2830",
+  "generator_sha256": "b165d226c5bfaece5218d1dc91562eb61ce1d4ecd7835df204b096d0e96bad10",
+  "renderer_sha256": "f4cf3e9f90050303101f058eadbf3a953bce8b613ed886de384a3bbadd5054ce",
+  "camera_direction": [
+    0.0,
+    0.999999995,
+    9.999999950000001e-05
+  ],
+  "samples": 64,
+  "seed": 42,
+  "status": "proxy geometry; not a LEGO parts model"
+}

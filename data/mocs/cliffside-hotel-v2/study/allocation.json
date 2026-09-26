@@ -1,0 +1,3333 @@
+[
+  {
+    "copy": 1,
+    "element": "243226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "243226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41727"
+  },
+  {
+    "copy": 1,
+    "element": "243226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "243226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41736"
+  },
+  {
+    "copy": 1,
+    "element": "243226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42619"
+  },
+  {
+    "copy": 1,
+    "element": "243226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42691"
+  },
+  {
+    "copy": 1,
+    "element": "243226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42704"
+  },
+  {
+    "copy": 1,
+    "element": "243226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60366"
+  },
+  {
+    "copy": 1,
+    "element": "244501",
+    "printed_page": 390,
+    "quantity": 19,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "244501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "244501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "244501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41727"
+  },
+  {
+    "copy": 1,
+    "element": "244501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42669"
+  },
+  {
+    "copy": 1,
+    "element": "244501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42704"
+  },
+  {
+    "copy": 1,
+    "element": "244501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60371"
+  },
+  {
+    "copy": 1,
+    "element": "245301",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "245301",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "245301",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31155"
+  },
+  {
+    "copy": 1,
+    "element": "245301",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "245301",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41743"
+  },
+  {
+    "copy": 1,
+    "element": "245301",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41744"
+  },
+  {
+    "copy": 1,
+    "element": "245301",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42604"
+  },
+  {
+    "copy": 1,
+    "element": "245301",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42605"
+  },
+  {
+    "copy": 1,
+    "element": "245401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "245401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "245401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42604"
+  },
+  {
+    "copy": 1,
+    "element": "245401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42704"
+  },
+  {
+    "copy": 1,
+    "element": "245401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60316"
+  },
+  {
+    "copy": 1,
+    "element": "245401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60320"
+  },
+  {
+    "copy": 1,
+    "element": "245401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60330"
+  },
+  {
+    "copy": 1,
+    "element": "245401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60350"
+  },
+  {
+    "copy": 1,
+    "element": "245401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60371"
+  },
+  {
+    "copy": 1,
+    "element": "245401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60497"
+  },
+  {
+    "copy": 1,
+    "element": "245401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60502"
+  },
+  {
+    "copy": 1,
+    "element": "246501",
+    "printed_page": 390,
+    "quantity": 1,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "246501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41727"
+  },
+  {
+    "copy": 1,
+    "element": "246501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "246501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42604"
+  },
+  {
+    "copy": 1,
+    "element": "246501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42687"
+  },
+  {
+    "copy": 1,
+    "element": "246501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42689"
+  },
+  {
+    "copy": 1,
+    "element": "246501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42691"
+  },
+  {
+    "copy": 1,
+    "element": "246501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60330"
+  },
+  {
+    "copy": 1,
+    "element": "246501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60363"
+  },
+  {
+    "copy": 1,
+    "element": "246501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60434"
+  },
+  {
+    "copy": 1,
+    "element": "246501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60502"
+  },
+  {
+    "copy": 1,
+    "element": "246526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "246526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "246526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60337"
+  },
+  {
+    "copy": 1,
+    "element": "246526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60366"
+  },
+  {
+    "copy": 1,
+    "element": "246526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60386"
+  },
+  {
+    "copy": 1,
+    "element": "246526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60497"
+  },
+  {
+    "copy": 1,
+    "element": "246526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76417"
+  },
+  {
+    "copy": 1,
+    "element": "300101",
+    "printed_page": 390,
+    "quantity": 3,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "300101",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "300101",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "300101",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21355"
+  },
+  {
+    "copy": 1,
+    "element": "300101",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "300101",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40804"
+  },
+  {
+    "copy": 1,
+    "element": "300501",
+    "printed_page": 390,
+    "quantity": 3,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "300526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "300526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "300526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "300526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41756"
+  },
+  {
+    "copy": 1,
+    "element": "300526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41759"
+  },
+  {
+    "copy": 1,
+    "element": "300526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42604"
+  },
+  {
+    "copy": 1,
+    "element": "300526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42619"
+  },
+  {
+    "copy": 1,
+    "element": "300526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60371"
+  },
+  {
+    "copy": 1,
+    "element": "300526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60469"
+  },
+  {
+    "copy": 1,
+    "element": "300526",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60502"
+  },
+  {
+    "copy": 1,
+    "element": "300801",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "300801",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "300801",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "300801",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "300801",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31209"
+  },
+  {
+    "copy": 1,
+    "element": "300801",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40528"
+  },
+  {
+    "copy": 1,
+    "element": "300801",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40953"
+  },
+  {
+    "copy": 1,
+    "element": "300901",
+    "printed_page": 390,
+    "quantity": 5,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "301001",
+    "printed_page": 390,
+    "quantity": 15,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "301001",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11039"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40817"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42614"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42619"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42674"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42676"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60366"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60434"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60497"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60502"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76417"
+  },
+  {
+    "copy": 1,
+    "element": "301026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76446"
+  },
+  {
+    "copy": 1,
+    "element": "302001",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11039"
+  },
+  {
+    "copy": 1,
+    "element": "302001",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "302101",
+    "printed_page": 390,
+    "quantity": 2,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "302201",
+    "printed_page": 390,
+    "quantity": 1,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "302301",
+    "printed_page": 390,
+    "quantity": 3,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "302401",
+    "printed_page": 390,
+    "quantity": 1,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "302426",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "302426",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "302426",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "303201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "303201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "303201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41727"
+  },
+  {
+    "copy": 1,
+    "element": "303201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41744"
+  },
+  {
+    "copy": 1,
+    "element": "303201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42619"
+  },
+  {
+    "copy": 1,
+    "element": "303201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42669"
+  },
+  {
+    "copy": 1,
+    "element": "303201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42670"
+  },
+  {
+    "copy": 1,
+    "element": "303201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60371"
+  },
+  {
+    "copy": 1,
+    "element": "303201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60434"
+  },
+  {
+    "copy": 1,
+    "element": "303201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60452"
+  },
+  {
+    "copy": 1,
+    "element": "303201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60454"
+  },
+  {
+    "copy": 1,
+    "element": "303201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76417"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "printed_page": 390,
+    "quantity": 8,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31155"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41756"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41759"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42663"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42670"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42689"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "43271"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60439"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60454"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60497"
+  },
+  {
+    "copy": 1,
+    "element": "303401",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76417"
+  },
+  {
+    "copy": 1,
+    "element": "303501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "303501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31169"
+  },
+  {
+    "copy": 1,
+    "element": "303501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31172"
+  },
+  {
+    "copy": 1,
+    "element": "303501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42659"
+  },
+  {
+    "copy": 1,
+    "element": "303501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60366"
+  },
+  {
+    "copy": 1,
+    "element": "303501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60434"
+  },
+  {
+    "copy": 1,
+    "element": "306226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "306226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "306226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "306226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42655"
+  },
+  {
+    "copy": 1,
+    "element": "306226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42669"
+  },
+  {
+    "copy": 1,
+    "element": "306226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60371"
+  },
+  {
+    "copy": 1,
+    "element": "307026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "307026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "307026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21355"
+  },
+  {
+    "copy": 1,
+    "element": "307026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "307026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40619"
+  },
+  {
+    "copy": 1,
+    "element": "307026",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40804"
+  },
+  {
+    "copy": 1,
+    "element": "362226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "362226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "362226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "362226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "362226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "362226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "362226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41737"
+  },
+  {
+    "copy": 1,
+    "element": "362226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42687"
+  },
+  {
+    "copy": 1,
+    "element": "362226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60366"
+  },
+  {
+    "copy": 1,
+    "element": "362226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60384"
+  },
+  {
+    "copy": 1,
+    "element": "362226",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76417"
+  },
+  {
+    "copy": 1,
+    "element": "362301",
+    "printed_page": 390,
+    "quantity": 1,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "366601",
+    "printed_page": 390,
+    "quantity": 4,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "371028",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "371028",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "371028",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40804"
+  },
+  {
+    "copy": 1,
+    "element": "371028",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40878"
+  },
+  {
+    "copy": 1,
+    "element": "371028",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41743"
+  },
+  {
+    "copy": 1,
+    "element": "371028",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42652"
+  },
+  {
+    "copy": 1,
+    "element": "371028",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60316"
+  },
+  {
+    "copy": 1,
+    "element": "371028",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60320"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31134"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31209"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40818"
+  },
+  {
+    "copy": 1,
+    "element": "379501",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "383201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "383201",
+    "printed_page": 390,
+    "quantity": 1,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "383201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "383201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31169"
+  },
+  {
+    "copy": 1,
+    "element": "383201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31209"
+  },
+  {
+    "copy": 1,
+    "element": "383201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41756"
+  },
+  {
+    "copy": 1,
+    "element": "383201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42663"
+  },
+  {
+    "copy": 1,
+    "element": "383201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42704"
+  },
+  {
+    "copy": 1,
+    "element": "383201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60439"
+  },
+  {
+    "copy": 1,
+    "element": "4109995",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4109995",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "4109995",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31156"
+  },
+  {
+    "copy": 1,
+    "element": "4109995",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40519"
+  },
+  {
+    "copy": 1,
+    "element": "4109995",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42642"
+  },
+  {
+    "copy": 1,
+    "element": "4112980",
+    "printed_page": 259,
+    "quantity": 2,
+    "rule": "verified instruction inventory",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4112980",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "4112980",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42655"
+  },
+  {
+    "copy": 1,
+    "element": "4112982",
+    "printed_page": 259,
+    "quantity": 8,
+    "rule": "verified instruction inventory",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31155"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31156"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40519"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40818"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41737"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42646"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42652"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42663"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42671"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42676"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42704"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60469"
+  },
+  {
+    "copy": 1,
+    "element": "4113915",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76446"
+  },
+  {
+    "copy": 1,
+    "element": "4113916",
+    "printed_page": 259,
+    "quantity": 13,
+    "rule": "verified instruction inventory",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4114064",
+    "printed_page": 259,
+    "quantity": 2,
+    "rule": "verified instruction inventory",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4114306",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4114306",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "4119227",
+    "printed_page": 390,
+    "quantity": 4,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "4119227",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31209"
+  },
+  {
+    "copy": 1,
+    "element": "4119227",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42655"
+  },
+  {
+    "copy": 1,
+    "element": "4119227",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60384"
+  },
+  {
+    "copy": 1,
+    "element": "4119227",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60454"
+  },
+  {
+    "copy": 1,
+    "element": "4119227",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60502"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "printed_page": 259,
+    "quantity": 30,
+    "rule": "verified instruction inventory",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "printed_page": 390,
+    "quantity": 23,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31156"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40519"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40719"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41737"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41744"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41754"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42646"
+  },
+  {
+    "copy": 1,
+    "element": "4159553",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42655"
+  },
+  {
+    "copy": 1,
+    "element": "4159774",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "4159774",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21355"
+  },
+  {
+    "copy": 1,
+    "element": "4159774",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "4159774",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42655"
+  },
+  {
+    "copy": 1,
+    "element": "4159774",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60469"
+  },
+  {
+    "copy": 1,
+    "element": "4162465",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4162465",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "4162465",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31156"
+  },
+  {
+    "copy": 1,
+    "element": "4162465",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40818"
+  },
+  {
+    "copy": 1,
+    "element": "4162465",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42655"
+  },
+  {
+    "copy": 1,
+    "element": "4162465",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42663"
+  },
+  {
+    "copy": 1,
+    "element": "4162465",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42671"
+  },
+  {
+    "copy": 1,
+    "element": "4162465",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42691"
+  },
+  {
+    "copy": 1,
+    "element": "4162465",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42695"
+  },
+  {
+    "copy": 1,
+    "element": "4162465",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42703"
+  },
+  {
+    "copy": 1,
+    "element": "4162465",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42704"
+  },
+  {
+    "copy": 1,
+    "element": "4162465",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60469"
+  },
+  {
+    "copy": 1,
+    "element": "4162465",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76417"
+  },
+  {
+    "copy": 1,
+    "element": "4166138",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "4166138",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42655"
+  },
+  {
+    "copy": 1,
+    "element": "4210783",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60337"
+  },
+  {
+    "copy": 1,
+    "element": "4210783",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76417"
+  },
+  {
+    "copy": 1,
+    "element": "4210796",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60330"
+  },
+  {
+    "copy": 1,
+    "element": "4210796",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60439"
+  },
+  {
+    "copy": 1,
+    "element": "4210796",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60469"
+  },
+  {
+    "copy": 1,
+    "element": "4210796",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60497"
+  },
+  {
+    "copy": 1,
+    "element": "4210796",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60500"
+  },
+  {
+    "copy": 1,
+    "element": "4210798",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4210798",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42669"
+  },
+  {
+    "copy": 1,
+    "element": "4210798",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60511"
+  },
+  {
+    "copy": 1,
+    "element": "4210875",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76417"
+  },
+  {
+    "copy": 1,
+    "element": "4211061",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4211061",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4211061",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "4211061",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "4211061",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "4211061",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42603"
+  },
+  {
+    "copy": 1,
+    "element": "4211061",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42687"
+  },
+  {
+    "copy": 1,
+    "element": "4211061",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60434"
+  },
+  {
+    "copy": 1,
+    "element": "4211061",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60511"
+  },
+  {
+    "copy": 1,
+    "element": "4211061",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76417"
+  },
+  {
+    "copy": 1,
+    "element": "4211085",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "4211183",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "10329"
+  },
+  {
+    "copy": 1,
+    "element": "4211183",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211183",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "30689"
+  },
+  {
+    "copy": 1,
+    "element": "4211183",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41737"
+  },
+  {
+    "copy": 1,
+    "element": "4211183",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42624"
+  },
+  {
+    "copy": 1,
+    "element": "4211183",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42648"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "10344"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11039"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "4211186",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42652"
+  },
+  {
+    "copy": 1,
+    "element": "4211202",
+    "printed_page": 261,
+    "quantity": 66,
+    "rule": "verified instruction inventory",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4211204",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211204",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "4211211",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "4211211",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "4211225",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "4211247",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "4211247",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4211247",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31156"
+  },
+  {
+    "copy": 1,
+    "element": "4211247",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42691"
+  },
+  {
+    "copy": 1,
+    "element": "4211247",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60350"
+  },
+  {
+    "copy": 1,
+    "element": "4211247",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60469"
+  },
+  {
+    "copy": 1,
+    "element": "4211366",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211366",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "4211366",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42604"
+  },
+  {
+    "copy": 1,
+    "element": "4211366",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42669"
+  },
+  {
+    "copy": 1,
+    "element": "4211407",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4211407",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4211407",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21358"
+  },
+  {
+    "copy": 1,
+    "element": "4211407",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40528"
+  },
+  {
+    "copy": 1,
+    "element": "4211407",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41727"
+  },
+  {
+    "copy": 1,
+    "element": "4211407",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60316"
+  },
+  {
+    "copy": 1,
+    "element": "4211462",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "4211462",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "4211486",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "4211486",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60320"
+  },
+  {
+    "copy": 1,
+    "element": "4211486",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60337"
+  },
+  {
+    "copy": 1,
+    "element": "4211486",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60489"
+  },
+  {
+    "copy": 1,
+    "element": "4211486",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60502"
+  },
+  {
+    "copy": 1,
+    "element": "4211486",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76417"
+  },
+  {
+    "copy": 1,
+    "element": "4211486",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76446"
+  },
+  {
+    "copy": 1,
+    "element": "4211522",
+    "printed_page": 322,
+    "quantity": 1,
+    "rule": "verified instruction inventory",
+    "set": "42670"
+  },
+  {
+    "copy": 1,
+    "element": "4211795",
+    "printed_page": 322,
+    "quantity": 1,
+    "rule": "verified instruction inventory",
+    "set": "42670"
+  },
+  {
+    "copy": 1,
+    "element": "4216695",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "4216695",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4243812",
+    "printed_page": 390,
+    "quantity": 3,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "4243812",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "4243812",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4243812",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4243812",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31391"
+  },
+  {
+    "copy": 1,
+    "element": "4243812",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40619"
+  },
+  {
+    "copy": 1,
+    "element": "4243812",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40803"
+  },
+  {
+    "copy": 1,
+    "element": "4243812",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42703"
+  },
+  {
+    "copy": 1,
+    "element": "4243812",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60415"
+  },
+  {
+    "copy": 1,
+    "element": "4271949",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4271949",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "4271949",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21355"
+  },
+  {
+    "copy": 1,
+    "element": "4277016",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4277016",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41727"
+  },
+  {
+    "copy": 1,
+    "element": "4295313",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42691"
+  },
+  {
+    "copy": 1,
+    "element": "447701",
+    "printed_page": 390,
+    "quantity": 1,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "4514842",
+    "printed_page": 390,
+    "quantity": 3,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "4530589",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "4530589",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "4530589",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "4530589",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42605"
+  },
+  {
+    "copy": 1,
+    "element": "4530589",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42655"
+  },
+  {
+    "copy": 1,
+    "element": "4530589",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60337"
+  },
+  {
+    "copy": 1,
+    "element": "4530589",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60366"
+  },
+  {
+    "copy": 1,
+    "element": "4530589",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60384"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11042"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31155"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42663"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42666"
+  },
+  {
+    "copy": 1,
+    "element": "4530590",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42670"
+  },
+  {
+    "copy": 1,
+    "element": "4550324",
+    "printed_page": 390,
+    "quantity": 7,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "4550324",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "10362"
+  },
+  {
+    "copy": 1,
+    "element": "4558952",
+    "printed_page": 390,
+    "quantity": 1,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "4560183",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4579260",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21058"
+  },
+  {
+    "copy": 1,
+    "element": "4579260",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "4579260",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31134"
+  },
+  {
+    "copy": 1,
+    "element": "4579260",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "4579260",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42605"
+  },
+  {
+    "copy": 1,
+    "element": "4579260",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42703"
+  },
+  {
+    "copy": 1,
+    "element": "4579260",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76417"
+  },
+  {
+    "copy": 1,
+    "element": "4579690",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "4579690",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42652"
+  },
+  {
+    "copy": 1,
+    "element": "4579690",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60337"
+  },
+  {
+    "copy": 1,
+    "element": "4579690",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76446"
+  },
+  {
+    "copy": 1,
+    "element": "4585337",
+    "printed_page": 261,
+    "quantity": 9,
+    "rule": "verified instruction inventory",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "4585337",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "4585337",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42648"
+  },
+  {
+    "copy": 1,
+    "element": "4585337",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42652"
+  },
+  {
+    "copy": 1,
+    "element": "6037384",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31209"
+  },
+  {
+    "copy": 1,
+    "element": "6037390",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40805"
+  },
+  {
+    "copy": 1,
+    "element": "6037390",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60366"
+  },
+  {
+    "copy": 1,
+    "element": "6037399",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "6037399",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41737"
+  },
+  {
+    "copy": 1,
+    "element": "6037399",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60371"
+  },
+  {
+    "copy": 1,
+    "element": "6037399",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76417"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "printed_page": 390,
+    "quantity": 10,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31155"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40528"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41736"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41744"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42604"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42605"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42644"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42670"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42687"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42689"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42699"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60350"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60439"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60452"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60500"
+  },
+  {
+    "copy": 1,
+    "element": "6055541",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60502"
+  },
+  {
+    "copy": 1,
+    "element": "6057517",
+    "printed_page": 259,
+    "quantity": 2,
+    "rule": "verified instruction inventory",
+    "set": "21341"
+  },
+  {
+    "copy": 1,
+    "element": "6075179",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "6075179",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31156"
+  },
+  {
+    "copy": 1,
+    "element": "6075179",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41737"
+  },
+  {
+    "copy": 1,
+    "element": "6075179",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42652"
+  },
+  {
+    "copy": 1,
+    "element": "6075179",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42689"
+  },
+  {
+    "copy": 1,
+    "element": "6075179",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60469"
+  },
+  {
+    "copy": 1,
+    "element": "6075179",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "76417"
+  },
+  {
+    "copy": 1,
+    "element": "6106183",
+    "printed_page": 390,
+    "quantity": 15,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "611101",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21345"
+  },
+  {
+    "copy": 1,
+    "element": "611101",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41737"
+  },
+  {
+    "copy": 1,
+    "element": "611101",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42670"
+  },
+  {
+    "copy": 1,
+    "element": "611101",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42671"
+  },
+  {
+    "copy": 1,
+    "element": "611101",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42691"
+  },
+  {
+    "copy": 1,
+    "element": "611101",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42704"
+  },
+  {
+    "copy": 1,
+    "element": "611201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42604"
+  },
+  {
+    "copy": 1,
+    "element": "611201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42619"
+  },
+  {
+    "copy": 1,
+    "element": "611201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42670"
+  },
+  {
+    "copy": 1,
+    "element": "611201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60316"
+  },
+  {
+    "copy": 1,
+    "element": "611201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60330"
+  },
+  {
+    "copy": 1,
+    "element": "611201",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60337"
+  },
+  {
+    "copy": 1,
+    "element": "6122047",
+    "printed_page": 390,
+    "quantity": 1,
+    "rule": "verified instruction inventory",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "6146877",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "11370"
+  },
+  {
+    "copy": 1,
+    "element": "6146877",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21060"
+  },
+  {
+    "copy": 1,
+    "element": "6146877",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "6146877",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41756"
+  },
+  {
+    "copy": 1,
+    "element": "6146877",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42648"
+  },
+  {
+    "copy": 1,
+    "element": "6146877",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42695"
+  },
+  {
+    "copy": 1,
+    "element": "6187438",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60386"
+  },
+  {
+    "copy": 1,
+    "element": "6209673",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41727"
+  },
+  {
+    "copy": 1,
+    "element": "6209673",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41743"
+  },
+  {
+    "copy": 1,
+    "element": "6209673",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41744"
+  },
+  {
+    "copy": 1,
+    "element": "6209673",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42604"
+  },
+  {
+    "copy": 1,
+    "element": "6209673",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42641"
+  },
+  {
+    "copy": 1,
+    "element": "6209673",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42644"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21353"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "21355"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31391"
+  },
+  {
+    "copy": 1,
+    "element": "6229130",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "40528"
+  },
+  {
+    "copy": 1,
+    "element": "6299813",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41737"
+  },
+  {
+    "copy": 1,
+    "element": "6299813",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42604"
+  },
+  {
+    "copy": 1,
+    "element": "6299813",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42671"
+  },
+  {
+    "copy": 1,
+    "element": "6299813",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42676"
+  },
+  {
+    "copy": 1,
+    "element": "6299813",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42687"
+  },
+  {
+    "copy": 1,
+    "element": "6299813",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60330"
+  },
+  {
+    "copy": 1,
+    "element": "6378410",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60330"
+  },
+  {
+    "copy": 1,
+    "element": "6378410",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60371"
+  },
+  {
+    "copy": 1,
+    "element": "6432006",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60371"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31141"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "31153"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41731"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "41756"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42646"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42655"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42663"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42669"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42671"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42680"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "42695"
+  },
+  {
+    "copy": 1,
+    "element": "6514142",
+    "quantity": 1,
+    "rule": "membership",
+    "set": "60453"
+  }
+]

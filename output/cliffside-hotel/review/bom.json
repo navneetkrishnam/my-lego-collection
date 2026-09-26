@@ -1,0 +1,1964 @@
+[
+  {
+    "available": 45,
+    "color": "White",
+    "element": "243101",
+    "ldraw": "2431.dat",
+    "margin": 20,
+    "name": "FLAT TILE 1X4",
+    "required": 25
+  },
+  {
+    "available": 7,
+    "color": "Blue",
+    "element": "243123",
+    "ldraw": "2431.dat",
+    "margin": 0,
+    "name": "FLAT TILE 1X4",
+    "required": 7
+  },
+  {
+    "available": 17,
+    "color": "Black",
+    "element": "243126",
+    "ldraw": "2431.dat",
+    "margin": 2,
+    "name": "FLAT TILE 1X4",
+    "required": 15
+  },
+  {
+    "available": 2,
+    "color": "Green",
+    "element": "243128",
+    "ldraw": "2431.dat",
+    "margin": 0,
+    "name": "FLAT TILE 1X4",
+    "required": 2
+  },
+  {
+    "available": 25,
+    "color": "White",
+    "element": "244501",
+    "ldraw": "2445.dat",
+    "margin": 0,
+    "name": "PLATE 2X12",
+    "required": 25
+  },
+  {
+    "available": 11,
+    "color": "Black",
+    "element": "244526",
+    "ldraw": "2445.dat",
+    "margin": 3,
+    "name": "PLATE 2X12",
+    "required": 8
+  },
+  {
+    "available": 20,
+    "color": "White",
+    "element": "245301",
+    "ldraw": "2453a.dat",
+    "margin": 0,
+    "name": "BRICK 1X1X5",
+    "required": 20
+  },
+  {
+    "available": 11,
+    "color": "White",
+    "element": "245401",
+    "ldraw": "2454.dat",
+    "margin": 0,
+    "name": "BRICK 1X2X5",
+    "required": 11
+  },
+  {
+    "available": 11,
+    "color": "White",
+    "element": "246501",
+    "ldraw": "2465.dat",
+    "margin": 7,
+    "name": "BRICK 1X16",
+    "required": 4
+  },
+  {
+    "available": 22,
+    "color": "White",
+    "element": "300301",
+    "ldraw": "3003.dat",
+    "margin": 0,
+    "name": "BRICK 2X2",
+    "required": 22
+  },
+  {
+    "available": 8,
+    "color": "Red",
+    "element": "300321",
+    "ldraw": "3003.dat",
+    "margin": 0,
+    "name": "BRICK 2X2",
+    "required": 8
+  },
+  {
+    "available": 4,
+    "color": "Blue",
+    "element": "300323",
+    "ldraw": "3003.dat",
+    "margin": 0,
+    "name": "BRICK 2X2",
+    "required": 4
+  },
+  {
+    "available": 6,
+    "color": "Yellow",
+    "element": "300324",
+    "ldraw": "3003.dat",
+    "margin": 0,
+    "name": "BRICK 2X2",
+    "required": 6
+  },
+  {
+    "available": 10,
+    "color": "Black",
+    "element": "300326",
+    "ldraw": "3003.dat",
+    "margin": 0,
+    "name": "BRICK 2X2",
+    "required": 10
+  },
+  {
+    "available": 3,
+    "color": "Green",
+    "element": "300328",
+    "ldraw": "3003.dat",
+    "margin": 0,
+    "name": "BRICK 2X2",
+    "required": 3
+  },
+  {
+    "available": 77,
+    "color": "White",
+    "element": "300401",
+    "ldraw": "3004.dat",
+    "margin": 0,
+    "name": "BRICK 1X2",
+    "required": 77
+  },
+  {
+    "available": 10,
+    "color": "Red",
+    "element": "300421",
+    "ldraw": "3004.dat",
+    "margin": 0,
+    "name": "BRICK 1X2",
+    "required": 10
+  },
+  {
+    "available": 8,
+    "color": "Blue",
+    "element": "300423",
+    "ldraw": "3004.dat",
+    "margin": 0,
+    "name": "BRICK 1X2",
+    "required": 8
+  },
+  {
+    "available": 14,
+    "color": "Yellow",
+    "element": "300424",
+    "ldraw": "3004.dat",
+    "margin": 0,
+    "name": "BRICK 1X2",
+    "required": 14
+  },
+  {
+    "available": 25,
+    "color": "Black",
+    "element": "300426",
+    "ldraw": "3004.dat",
+    "margin": 0,
+    "name": "BRICK 1X2",
+    "required": 25
+  },
+  {
+    "available": 77,
+    "color": "White",
+    "element": "300501",
+    "ldraw": "3005.dat",
+    "margin": 53,
+    "name": "BRICK 1X1",
+    "required": 24
+  },
+  {
+    "available": 19,
+    "color": "White",
+    "element": "300801",
+    "ldraw": "3008.dat",
+    "margin": 0,
+    "name": "BRICK 1X8",
+    "required": 19
+  },
+  {
+    "available": 41,
+    "color": "White",
+    "element": "300901",
+    "ldraw": "3009.dat",
+    "margin": 33,
+    "name": "BRICK 1X6",
+    "required": 8
+  },
+  {
+    "available": 52,
+    "color": "White",
+    "element": "301001",
+    "ldraw": "3010.dat",
+    "margin": 24,
+    "name": "BRICK 1X4",
+    "required": 28
+  },
+  {
+    "available": 42,
+    "color": "White",
+    "element": "302001",
+    "ldraw": "3020.dat",
+    "margin": 36,
+    "name": "PLATE 2X4",
+    "required": 6
+  },
+  {
+    "available": 34,
+    "color": "Black",
+    "element": "302026",
+    "ldraw": "3020.dat",
+    "margin": 22,
+    "name": "PLATE 2X4",
+    "required": 12
+  },
+  {
+    "available": 38,
+    "color": "White",
+    "element": "302101",
+    "ldraw": "3021.dat",
+    "margin": 37,
+    "name": "PLATE 2X3",
+    "required": 1
+  },
+  {
+    "available": 19,
+    "color": "Black",
+    "element": "302126",
+    "ldraw": "3021.dat",
+    "margin": 13,
+    "name": "PLATE 2X3",
+    "required": 6
+  },
+  {
+    "available": 53,
+    "color": "White",
+    "element": "302201",
+    "ldraw": "3022.dat",
+    "margin": 46,
+    "name": "PLATE 2X2",
+    "required": 7
+  },
+  {
+    "available": 12,
+    "color": "Red",
+    "element": "302221",
+    "ldraw": "3022.dat",
+    "margin": 0,
+    "name": "PLATE 2X2",
+    "required": 12
+  },
+  {
+    "available": 7,
+    "color": "Blue",
+    "element": "302223",
+    "ldraw": "3022.dat",
+    "margin": 0,
+    "name": "PLATE 2X2",
+    "required": 7
+  },
+  {
+    "available": 13,
+    "color": "Yellow",
+    "element": "302224",
+    "ldraw": "3022.dat",
+    "margin": 12,
+    "name": "PLATE 2X2",
+    "required": 1
+  },
+  {
+    "available": 24,
+    "color": "Black",
+    "element": "302226",
+    "ldraw": "3022.dat",
+    "margin": 0,
+    "name": "PLATE 2X2",
+    "required": 24
+  },
+  {
+    "available": 132,
+    "color": "White",
+    "element": "302301",
+    "ldraw": "3023b.dat",
+    "margin": 113,
+    "name": "PLATE 1X2",
+    "required": 19
+  },
+  {
+    "available": 43,
+    "color": "Black",
+    "element": "302326",
+    "ldraw": "3023b.dat",
+    "margin": 32,
+    "name": "PLATE 1X2",
+    "required": 11
+  },
+  {
+    "available": 108,
+    "color": "White",
+    "element": "302401",
+    "ldraw": "3024.dat",
+    "margin": 99,
+    "name": "PLATE 1X1",
+    "required": 9
+  },
+  {
+    "available": 4,
+    "color": "Black",
+    "element": "302826",
+    "ldraw": "3028.dat",
+    "margin": 0,
+    "name": "PLATE 6X12",
+    "required": 4
+  },
+  {
+    "available": 7,
+    "color": "Black",
+    "element": "302926",
+    "ldraw": "3029.dat",
+    "margin": 0,
+    "name": "PLATE 4X12",
+    "required": 7
+  },
+  {
+    "available": 4,
+    "color": "Black",
+    "element": "303026",
+    "ldraw": "3030.dat",
+    "margin": 0,
+    "name": "PLATE 4X10",
+    "required": 4
+  },
+  {
+    "available": 12,
+    "color": "White",
+    "element": "303201",
+    "ldraw": "3032.dat",
+    "margin": 0,
+    "name": "PLATE 4X6",
+    "required": 12
+  },
+  {
+    "available": 2,
+    "color": "Black",
+    "element": "303326",
+    "ldraw": "3033.dat",
+    "margin": 0,
+    "name": "PLATE 6X10",
+    "required": 2
+  },
+  {
+    "available": 17,
+    "color": "Black",
+    "element": "303426",
+    "ldraw": "3034.dat",
+    "margin": 15,
+    "name": "PLATE 2X8",
+    "required": 2
+  },
+  {
+    "available": 8,
+    "color": "Black",
+    "element": "303526",
+    "ldraw": "3035.dat",
+    "margin": 6,
+    "name": "PLATE 4X8",
+    "required": 2
+  },
+  {
+    "available": 6,
+    "color": "Black",
+    "element": "303626",
+    "ldraw": "3036.dat",
+    "margin": 0,
+    "name": "PLATE 6X8",
+    "required": 6
+  },
+  {
+    "available": 13,
+    "color": "White",
+    "element": "306201",
+    "ldraw": "3062b.dat",
+    "margin": 5,
+    "name": "ROUND BRICK 1X1",
+    "required": 8
+  },
+  {
+    "available": 24,
+    "color": "White",
+    "element": "306801",
+    "ldraw": "3068b.dat",
+    "margin": 6,
+    "name": "FLAT TILE 2X2",
+    "required": 18
+  },
+  {
+    "available": 3,
+    "color": "Blue",
+    "element": "306823",
+    "ldraw": "3068b.dat",
+    "margin": 0,
+    "name": "FLAT TILE 2X2",
+    "required": 3
+  },
+  {
+    "available": 56,
+    "color": "White",
+    "element": "306901",
+    "ldraw": "3069b.dat",
+    "margin": 35,
+    "name": "FLAT TILE 1X2",
+    "required": 21
+  },
+  {
+    "available": 31,
+    "color": "White",
+    "element": "307001",
+    "ldraw": "3070b.dat",
+    "margin": 21,
+    "name": "FLAT TILE 1X1",
+    "required": 10
+  },
+  {
+    "available": 30,
+    "color": "White",
+    "element": "346001",
+    "ldraw": "3460.dat",
+    "margin": 24,
+    "name": "PLATE 1X8",
+    "required": 6
+  },
+  {
+    "available": 17,
+    "color": "Black",
+    "element": "346026",
+    "ldraw": "3460.dat",
+    "margin": 0,
+    "name": "PLATE 1X8",
+    "required": 17
+  },
+  {
+    "available": 29,
+    "color": "White",
+    "element": "362201",
+    "ldraw": "3622.dat",
+    "margin": 0,
+    "name": "BRICK 1X3",
+    "required": 29
+  },
+  {
+    "available": 44,
+    "color": "White",
+    "element": "362301",
+    "ldraw": "3623.dat",
+    "margin": 27,
+    "name": "PLATE 1X3",
+    "required": 17
+  },
+  {
+    "available": 60,
+    "color": "White",
+    "element": "366601",
+    "ldraw": "3666.dat",
+    "margin": 54,
+    "name": "PLATE 1X6",
+    "required": 6
+  },
+  {
+    "available": 34,
+    "color": "Black",
+    "element": "366626",
+    "ldraw": "3666.dat",
+    "margin": 31,
+    "name": "PLATE 1X6",
+    "required": 3
+  },
+  {
+    "available": 70,
+    "color": "White",
+    "element": "371001",
+    "ldraw": "3710.dat",
+    "margin": 49,
+    "name": "PLATE 1X4",
+    "required": 21
+  },
+  {
+    "available": 23,
+    "color": "White",
+    "element": "379501",
+    "ldraw": "3795.dat",
+    "margin": 18,
+    "name": "PLATE 2X6",
+    "required": 5
+  },
+  {
+    "available": 25,
+    "color": "Black",
+    "element": "379526",
+    "ldraw": "3795.dat",
+    "margin": 23,
+    "name": "PLATE 2X6",
+    "required": 2
+  },
+  {
+    "available": 8,
+    "color": "Black",
+    "element": "395826",
+    "ldraw": "3958.dat",
+    "margin": 7,
+    "name": "PLATE 6X6",
+    "required": 1
+  },
+  {
+    "available": 3,
+    "color": "Green",
+    "element": "4107736",
+    "ldraw": "3004.dat",
+    "margin": 2,
+    "name": "BRICK 1X2",
+    "required": 1
+  },
+  {
+    "available": 2,
+    "color": "Green",
+    "element": "4107762",
+    "ldraw": "3068b.dat",
+    "margin": 0,
+    "name": "FLAT TILE 2X2",
+    "required": 2
+  },
+  {
+    "available": 11,
+    "color": "Tan",
+    "element": "4109995",
+    "ldraw": "3004.dat",
+    "margin": 0,
+    "name": "BRICK 1X2",
+    "required": 11
+  },
+  {
+    "available": 6,
+    "color": "Tan",
+    "element": "4112980",
+    "ldraw": "2453a.dat",
+    "margin": 0,
+    "name": "BRICK 1X1X5",
+    "required": 6
+  },
+  {
+    "available": 48,
+    "color": "Tan",
+    "element": "4112982",
+    "ldraw": "3009.dat",
+    "margin": 0,
+    "name": "BRICK 1X6",
+    "required": 48
+  },
+  {
+    "available": 57,
+    "color": "Tan",
+    "element": "4113233",
+    "ldraw": "3710.dat",
+    "margin": 53,
+    "name": "PLATE 1X4",
+    "required": 4
+  },
+  {
+    "available": 17,
+    "color": "Tan",
+    "element": "4113915",
+    "ldraw": "3005.dat",
+    "margin": 0,
+    "name": "BRICK 1X1",
+    "required": 17
+  },
+  {
+    "available": 30,
+    "color": "Tan",
+    "element": "4113916",
+    "ldraw": "3010.dat",
+    "margin": 23,
+    "name": "BRICK 1X4",
+    "required": 7
+  },
+  {
+    "available": 50,
+    "color": "Tan",
+    "element": "4113917",
+    "ldraw": "3023b.dat",
+    "margin": 0,
+    "name": "PLATE 1X2",
+    "required": 50
+  },
+  {
+    "available": 17,
+    "color": "Tan",
+    "element": "4113993",
+    "ldraw": "3795.dat",
+    "margin": 10,
+    "name": "PLATE 2X6",
+    "required": 7
+  },
+  {
+    "available": 5,
+    "color": "Tan",
+    "element": "4114001",
+    "ldraw": "3032.dat",
+    "margin": 0,
+    "name": "PLATE 4X6",
+    "required": 5
+  },
+  {
+    "available": 53,
+    "color": "Tan",
+    "element": "4114026",
+    "ldraw": "3069b.dat",
+    "margin": 0,
+    "name": "FLAT TILE 1X2",
+    "required": 53
+  },
+  {
+    "available": 6,
+    "color": "Tan",
+    "element": "4114064",
+    "ldraw": "2454.dat",
+    "margin": 0,
+    "name": "BRICK 1X2X5",
+    "required": 6
+  },
+  {
+    "available": 19,
+    "color": "Tan",
+    "element": "4114084",
+    "ldraw": "3022.dat",
+    "margin": 0,
+    "name": "PLATE 2X2",
+    "required": 19
+  },
+  {
+    "available": 10,
+    "color": "Tan",
+    "element": "4114306",
+    "ldraw": "3003.dat",
+    "margin": 0,
+    "name": "BRICK 2X2",
+    "required": 10
+  },
+  {
+    "available": 13,
+    "color": "Tan",
+    "element": "4114319",
+    "ldraw": "3001.dat",
+    "margin": 6,
+    "name": "BRICK 2X4",
+    "required": 7
+  },
+  {
+    "available": 2,
+    "color": "Tan",
+    "element": "4114322",
+    "ldraw": "3039.dat",
+    "margin": 0,
+    "name": "ROOF TILE 2X2/45\u00b0",
+    "required": 2
+  },
+  {
+    "available": 10,
+    "color": "Tan",
+    "element": "4114324",
+    "ldraw": "3460.dat",
+    "margin": 0,
+    "name": "PLATE 1X8",
+    "required": 10
+  },
+  {
+    "available": 6,
+    "color": "Orange",
+    "element": "4121739",
+    "ldraw": "3004.dat",
+    "margin": 0,
+    "name": "BRICK 1X2",
+    "required": 6
+  },
+  {
+    "available": 20,
+    "color": "Tan",
+    "element": "4121921",
+    "ldraw": "3623.dat",
+    "margin": 16,
+    "name": "PLATE 1X3",
+    "required": 4
+  },
+  {
+    "available": 36,
+    "color": "Tan",
+    "element": "4124067",
+    "ldraw": "3666.dat",
+    "margin": 30,
+    "name": "PLATE 1X6",
+    "required": 6
+  },
+  {
+    "available": 16,
+    "color": "Tan",
+    "element": "4125253",
+    "ldraw": "3070b.dat",
+    "margin": 0,
+    "name": "FLAT TILE 1X1",
+    "required": 16
+  },
+  {
+    "available": 17,
+    "color": "Tan",
+    "element": "4143409",
+    "ldraw": "4477.dat",
+    "margin": 16,
+    "name": "PLATE 1X10",
+    "required": 1
+  },
+  {
+    "available": 2,
+    "color": "Orange",
+    "element": "4153825",
+    "ldraw": "3003.dat",
+    "margin": 0,
+    "name": "BRICK 2X2",
+    "required": 2
+  },
+  {
+    "available": 14,
+    "color": "Tan",
+    "element": "4157277",
+    "ldraw": "6636.dat",
+    "margin": 2,
+    "name": "FLAT TILE 1X6",
+    "required": 12
+  },
+  {
+    "available": 73,
+    "color": "Tan",
+    "element": "4159553",
+    "ldraw": "3024.dat",
+    "margin": 0,
+    "name": "PLATE 1X1",
+    "required": 73
+  },
+  {
+    "available": 5,
+    "color": "Tan",
+    "element": "4159774",
+    "ldraw": "3008.dat",
+    "margin": 0,
+    "name": "BRICK 1X8",
+    "required": 5
+  },
+  {
+    "available": 36,
+    "color": "White",
+    "element": "416201",
+    "ldraw": "4162.dat",
+    "margin": 2,
+    "name": "FLAT TILE 1X8",
+    "required": 34
+  },
+  {
+    "available": 9,
+    "color": "Black",
+    "element": "416226",
+    "ldraw": "4162.dat",
+    "margin": 2,
+    "name": "FLAT TILE 1X8",
+    "required": 7
+  },
+  {
+    "available": 13,
+    "color": "Tan",
+    "element": "4162465",
+    "ldraw": "3622.dat",
+    "margin": 5,
+    "name": "BRICK 1X3",
+    "required": 8
+  },
+  {
+    "available": 2,
+    "color": "Tan",
+    "element": "4166138",
+    "ldraw": "6111.dat",
+    "margin": 0,
+    "name": "BRICK 1X10",
+    "required": 2
+  },
+  {
+    "available": 1,
+    "color": "Black",
+    "element": "4166619",
+    "ldraw": "41539.dat",
+    "margin": 0,
+    "name": "PLATE 8X8",
+    "required": 1
+  },
+  {
+    "available": 10,
+    "color": "Tan",
+    "element": "4181134",
+    "ldraw": "2456.dat",
+    "margin": 0,
+    "name": "BRICK 2X6",
+    "required": 10
+  },
+  {
+    "available": 44,
+    "color": "Tan",
+    "element": "4185177",
+    "ldraw": "3068b.dat",
+    "margin": 0,
+    "name": "FLAT TILE 2X2",
+    "required": 44
+  },
+  {
+    "available": 4,
+    "color": "Dark Bluish Gray",
+    "element": "4210706",
+    "ldraw": "3029.dat",
+    "margin": 0,
+    "name": "PLATE 4X12",
+    "required": 4
+  },
+  {
+    "available": 18,
+    "color": "Dark Bluish Gray",
+    "element": "4210719",
+    "ldraw": "3024.dat",
+    "margin": 0,
+    "name": "PLATE 1X1",
+    "required": 18
+  },
+  {
+    "available": 3,
+    "color": "Dark Bluish Gray",
+    "element": "4210720",
+    "ldraw": "3456.dat",
+    "margin": 0,
+    "name": "PLATE 6X14",
+    "required": 3
+  },
+  {
+    "available": 7,
+    "color": "Dark Bluish Gray",
+    "element": "4210794",
+    "ldraw": "3036.dat",
+    "margin": 0,
+    "name": "PLATE 6X8",
+    "required": 7
+  },
+  {
+    "available": 2,
+    "color": "Dark Bluish Gray",
+    "element": "4210802",
+    "ldraw": "41539.dat",
+    "margin": 0,
+    "name": "PLATE 8X8",
+    "required": 2
+  },
+  {
+    "available": 14,
+    "color": "Dark Bluish Gray",
+    "element": "4210998",
+    "ldraw": "3460.dat",
+    "margin": 0,
+    "name": "PLATE 1X8",
+    "required": 14
+  },
+  {
+    "available": 10,
+    "color": "Dark Bluish Gray",
+    "element": "4211008",
+    "ldraw": "4162.dat",
+    "margin": 7,
+    "name": "FLAT TILE 1X8",
+    "required": 3
+  },
+  {
+    "available": 4,
+    "color": "Dark Bluish Gray",
+    "element": "4211054",
+    "ldraw": "3039.dat",
+    "margin": 0,
+    "name": "ROOF TILE 2X2/45\u00b0",
+    "required": 4
+  },
+  {
+    "available": 3,
+    "color": "Dark Bluish Gray",
+    "element": "4211060",
+    "ldraw": "3003.dat",
+    "margin": 0,
+    "name": "BRICK 2X2",
+    "required": 3
+  },
+  {
+    "available": 16,
+    "color": "Dark Bluish Gray",
+    "element": "4211063",
+    "ldraw": "3023b.dat",
+    "margin": 0,
+    "name": "PLATE 1X2",
+    "required": 16
+  },
+  {
+    "available": 8,
+    "color": "Dark Bluish Gray",
+    "element": "4211088",
+    "ldraw": "3004.dat",
+    "margin": 0,
+    "name": "BRICK 1X2",
+    "required": 8
+  },
+  {
+    "available": 14,
+    "color": "Dark Bluish Gray",
+    "element": "4211094",
+    "ldraw": "3022.dat",
+    "margin": 0,
+    "name": "PLATE 2X2",
+    "required": 14
+  },
+  {
+    "available": 11,
+    "color": "Dark Bluish Gray",
+    "element": "4211098",
+    "ldraw": "3005.dat",
+    "margin": 0,
+    "name": "BRICK 1X1",
+    "required": 11
+  },
+  {
+    "available": 2,
+    "color": "Dark Bluish Gray",
+    "element": "4211099",
+    "ldraw": "3008.dat",
+    "margin": 0,
+    "name": "BRICK 1X8",
+    "required": 2
+  },
+  {
+    "available": 9,
+    "color": "Dark Bluish Gray",
+    "element": "4211100",
+    "ldraw": "3009.dat",
+    "margin": 0,
+    "name": "BRICK 1X6",
+    "required": 9
+  },
+  {
+    "available": 5,
+    "color": "Dark Bluish Gray",
+    "element": "4211114",
+    "ldraw": "3033.dat",
+    "margin": 0,
+    "name": "PLATE 6X10",
+    "required": 5
+  },
+  {
+    "available": 1,
+    "color": "Dark Bluish Gray",
+    "element": "4211122",
+    "ldraw": "3030.dat",
+    "margin": 0,
+    "name": "PLATE 4X10",
+    "required": 1
+  },
+  {
+    "available": 17,
+    "color": "Reddish Brown",
+    "element": "4211186",
+    "ldraw": "3020.dat",
+    "margin": 12,
+    "name": "PLATE 2X4",
+    "required": 5
+  },
+  {
+    "available": 6,
+    "color": "Reddish Brown",
+    "element": "4211194",
+    "ldraw": "2431.dat",
+    "margin": 5,
+    "name": "FLAT TILE 1X4",
+    "required": 1
+  },
+  {
+    "available": 5,
+    "color": "Reddish Brown",
+    "element": "4211201",
+    "ldraw": "3001.dat",
+    "margin": 0,
+    "name": "BRICK 2X4",
+    "required": 5
+  },
+  {
+    "available": 8,
+    "color": "Reddish Brown",
+    "element": "4211204",
+    "ldraw": "6636.dat",
+    "margin": 5,
+    "name": "FLAT TILE 1X6",
+    "required": 3
+  },
+  {
+    "available": 2,
+    "color": "Reddish Brown",
+    "element": "4211211",
+    "ldraw": "3034.dat",
+    "margin": 0,
+    "name": "PLATE 2X8",
+    "required": 2
+  },
+  {
+    "available": 2,
+    "color": "Reddish Brown",
+    "element": "4211214",
+    "ldraw": "3832.dat",
+    "margin": 0,
+    "name": "PLATE 2X10",
+    "required": 2
+  },
+  {
+    "available": 10,
+    "color": "Reddish Brown",
+    "element": "4211220",
+    "ldraw": "3622.dat",
+    "margin": 5,
+    "name": "BRICK 1X3",
+    "required": 5
+  },
+  {
+    "available": 7,
+    "color": "Reddish Brown",
+    "element": "4211225",
+    "ldraw": "3010.dat",
+    "margin": 2,
+    "name": "BRICK 1X4",
+    "required": 5
+  },
+  {
+    "available": 6,
+    "color": "Reddish Brown",
+    "element": "4211247",
+    "ldraw": "3795.dat",
+    "margin": 5,
+    "name": "PLATE 2X6",
+    "required": 1
+  },
+  {
+    "available": 4,
+    "color": "Light Bluish Gray",
+    "element": "4211362",
+    "ldraw": "2453a.dat",
+    "margin": 0,
+    "name": "BRICK 1X1X5",
+    "required": 4
+  },
+  {
+    "available": 3,
+    "color": "Light Bluish Gray",
+    "element": "4211363",
+    "ldraw": "2454.dat",
+    "margin": 0,
+    "name": "BRICK 1X2X5",
+    "required": 3
+  },
+  {
+    "available": 18,
+    "color": "Light Bluish Gray",
+    "element": "4211387",
+    "ldraw": "3003.dat",
+    "margin": 0,
+    "name": "BRICK 2X2",
+    "required": 18
+  },
+  {
+    "available": 26,
+    "color": "Light Bluish Gray",
+    "element": "4211388",
+    "ldraw": "3004.dat",
+    "margin": 0,
+    "name": "BRICK 1X2",
+    "required": 26
+  },
+  {
+    "available": 25,
+    "color": "Light Bluish Gray",
+    "element": "4211389",
+    "ldraw": "3005.dat",
+    "margin": 0,
+    "name": "BRICK 1X1",
+    "required": 25
+  },
+  {
+    "available": 9,
+    "color": "Light Bluish Gray",
+    "element": "4211392",
+    "ldraw": "3008.dat",
+    "margin": 0,
+    "name": "BRICK 1X8",
+    "required": 9
+  },
+  {
+    "available": 5,
+    "color": "Light Bluish Gray",
+    "element": "4211393",
+    "ldraw": "3009.dat",
+    "margin": 0,
+    "name": "BRICK 1X6",
+    "required": 5
+  },
+  {
+    "available": 25,
+    "color": "Light Bluish Gray",
+    "element": "4211397",
+    "ldraw": "3022.dat",
+    "margin": 0,
+    "name": "PLATE 2X2",
+    "required": 25
+  },
+  {
+    "available": 50,
+    "color": "Light Bluish Gray",
+    "element": "4211398",
+    "ldraw": "3023b.dat",
+    "margin": 0,
+    "name": "PLATE 1X2",
+    "required": 50
+  },
+  {
+    "available": 31,
+    "color": "Light Bluish Gray",
+    "element": "4211399",
+    "ldraw": "3024.dat",
+    "margin": 0,
+    "name": "PLATE 1X1",
+    "required": 31
+  },
+  {
+    "available": 6,
+    "color": "Light Bluish Gray",
+    "element": "4211401",
+    "ldraw": "3029.dat",
+    "margin": 3,
+    "name": "PLATE 4X12",
+    "required": 3
+  },
+  {
+    "available": 4,
+    "color": "Light Bluish Gray",
+    "element": "4211402",
+    "ldraw": "3030.dat",
+    "margin": 2,
+    "name": "PLATE 4X10",
+    "required": 2
+  },
+  {
+    "available": 10,
+    "color": "Light Bluish Gray",
+    "element": "4211404",
+    "ldraw": "3032.dat",
+    "margin": 8,
+    "name": "PLATE 4X6",
+    "required": 2
+  },
+  {
+    "available": 10,
+    "color": "Light Bluish Gray",
+    "element": "4211408",
+    "ldraw": "3036.dat",
+    "margin": 2,
+    "name": "PLATE 6X8",
+    "required": 8
+  },
+  {
+    "available": 5,
+    "color": "Light Bluish Gray",
+    "element": "4211410",
+    "ldraw": "3039.dat",
+    "margin": 0,
+    "name": "ROOF TILE 2X2/45\u00b0",
+    "required": 5
+  },
+  {
+    "available": 10,
+    "color": "Light Bluish Gray",
+    "element": "4211412",
+    "ldraw": "3062b.dat",
+    "margin": 2,
+    "name": "ROUND BRICK 1X1",
+    "required": 8
+  },
+  {
+    "available": 35,
+    "color": "Light Bluish Gray",
+    "element": "4211413",
+    "ldraw": "3068b.dat",
+    "margin": 34,
+    "name": "FLAT TILE 2X2",
+    "required": 1
+  },
+  {
+    "available": 31,
+    "color": "Light Bluish Gray",
+    "element": "4211414",
+    "ldraw": "3069b.dat",
+    "margin": 29,
+    "name": "FLAT TILE 1X2",
+    "required": 2
+  },
+  {
+    "available": 9,
+    "color": "Light Bluish Gray",
+    "element": "4211425",
+    "ldraw": "3460.dat",
+    "margin": 0,
+    "name": "PLATE 1X8",
+    "required": 9
+  },
+  {
+    "available": 20,
+    "color": "Light Bluish Gray",
+    "element": "4211481",
+    "ldraw": "4162.dat",
+    "margin": 11,
+    "name": "FLAT TILE 1X8",
+    "required": 9
+  },
+  {
+    "available": 14,
+    "color": "Light Bluish Gray",
+    "element": "4211795",
+    "ldraw": "2456.dat",
+    "margin": 3,
+    "name": "BRICK 2X6",
+    "required": 11
+  },
+  {
+    "available": 13,
+    "color": "Reddish Brown",
+    "element": "4216695",
+    "ldraw": "3022.dat",
+    "margin": 6,
+    "name": "PLATE 2X2",
+    "required": 7
+  },
+  {
+    "available": 11,
+    "color": "Black",
+    "element": "4225201",
+    "ldraw": "48336.dat",
+    "margin": 0,
+    "name": "PLATE 1X2 W. STICK 3.18",
+    "required": 11
+  },
+  {
+    "available": 1,
+    "color": "Reddish Brown",
+    "element": "4225715",
+    "ldraw": "3030.dat",
+    "margin": 0,
+    "name": "PLATE 4X10",
+    "required": 1
+  },
+  {
+    "available": 11,
+    "color": "White",
+    "element": "4243812",
+    "ldraw": "3031.dat",
+    "margin": 8,
+    "name": "PLATE 4X4",
+    "required": 3
+  },
+  {
+    "available": 5,
+    "color": "Tan",
+    "element": "4243824",
+    "ldraw": "3031.dat",
+    "margin": 3,
+    "name": "PLATE 4X4",
+    "required": 2
+  },
+  {
+    "available": 3,
+    "color": "Reddish Brown",
+    "element": "4243838",
+    "ldraw": "3031.dat",
+    "margin": 0,
+    "name": "PLATE 4X4",
+    "required": 3
+  },
+  {
+    "available": 10,
+    "color": "Tan",
+    "element": "4249019",
+    "ldraw": "3832.dat",
+    "margin": 8,
+    "name": "PLATE 2X10",
+    "required": 2
+  },
+  {
+    "available": 5,
+    "color": "Dark Tan",
+    "element": "4255416",
+    "ldraw": "3003.dat",
+    "margin": 0,
+    "name": "BRICK 2X2",
+    "required": 5
+  },
+  {
+    "available": 7,
+    "color": "Reddish Brown",
+    "element": "4271874",
+    "ldraw": "3032.dat",
+    "margin": 5,
+    "name": "PLATE 4X6",
+    "required": 2
+  },
+  {
+    "available": 7,
+    "color": "Black",
+    "element": "428226",
+    "ldraw": "4282.dat",
+    "margin": 1,
+    "name": "PLATE 2X16",
+    "required": 6
+  },
+  {
+    "available": 1,
+    "color": "Tan",
+    "element": "4295313",
+    "ldraw": "2465.dat",
+    "margin": 0,
+    "name": "BRICK 1X16",
+    "required": 1
+  },
+  {
+    "available": 10,
+    "color": "White",
+    "element": "4504228",
+    "ldraw": "59349.dat",
+    "margin": 6,
+    "name": "WALL ELEMENT 1x6x5, ABS",
+    "required": 4
+  },
+  {
+    "available": 11,
+    "color": "Tan",
+    "element": "4509897",
+    "ldraw": "3035.dat",
+    "margin": 9,
+    "name": "PLATE 4X8",
+    "required": 2
+  },
+  {
+    "available": 2,
+    "color": "Tan",
+    "element": "4512688",
+    "ldraw": "59349.dat",
+    "margin": 0,
+    "name": "WALL ELEMENT 1x6x5, ABS",
+    "required": 2
+  },
+  {
+    "available": 13,
+    "color": "White",
+    "element": "4514842",
+    "ldraw": "60479.dat",
+    "margin": 12,
+    "name": "PLATE 1X12",
+    "required": 1
+  },
+  {
+    "available": 1,
+    "color": "Dark Brown",
+    "element": "4518687",
+    "ldraw": "3795.dat",
+    "margin": 0,
+    "name": "PLATE 2X6",
+    "required": 1
+  },
+  {
+    "available": 5,
+    "color": "Dark Tan",
+    "element": "4521914",
+    "ldraw": "3004.dat",
+    "margin": 0,
+    "name": "BRICK 1X2",
+    "required": 5
+  },
+  {
+    "available": 14,
+    "color": "White",
+    "element": "4528341",
+    "ldraw": "3033.dat",
+    "margin": 13,
+    "name": "PLATE 6X10",
+    "required": 1
+  },
+  {
+    "available": 8,
+    "color": "Dark Tan",
+    "element": "4528604",
+    "ldraw": "3023b.dat",
+    "margin": 0,
+    "name": "PLATE 1X2",
+    "required": 8
+  },
+  {
+    "available": 1,
+    "color": "Dark Green",
+    "element": "4528778",
+    "ldraw": "3068b.dat",
+    "margin": 0,
+    "name": "FLAT TILE 2X2",
+    "required": 1
+  },
+  {
+    "available": 13,
+    "color": "White",
+    "element": "4530590",
+    "ldraw": "60594.dat",
+    "margin": 5,
+    "name": "FRAME 1X4X3",
+    "required": 8
+  },
+  {
+    "available": 8,
+    "color": "Tan",
+    "element": "4544139",
+    "ldraw": "4162.dat",
+    "margin": 0,
+    "name": "FLAT TILE 1X8",
+    "required": 8
+  },
+  {
+    "available": 6,
+    "color": "Dark Tan",
+    "element": "4549436",
+    "ldraw": "3024.dat",
+    "margin": 2,
+    "name": "PLATE 1X1",
+    "required": 4
+  },
+  {
+    "available": 20,
+    "color": "Tan",
+    "element": "4550324",
+    "ldraw": "2431.dat",
+    "margin": 0,
+    "name": "FLAT TILE 1X4",
+    "required": 20
+  },
+  {
+    "available": 30,
+    "color": "White",
+    "element": "4558168",
+    "ldraw": "63864.dat",
+    "margin": 21,
+    "name": "FLAT TILE 1X3",
+    "required": 9
+  },
+  {
+    "available": 14,
+    "color": "White",
+    "element": "4558208",
+    "ldraw": "60581.dat",
+    "margin": 6,
+    "name": "WALL ELEMENT 1X4X3, ABS",
+    "required": 8
+  },
+  {
+    "available": 14,
+    "color": "White",
+    "element": "4558952",
+    "ldraw": "87087.dat",
+    "margin": 0,
+    "name": "BRICK 1X1 W. 1 KNOB",
+    "required": 14
+  },
+  {
+    "available": 18,
+    "color": "White",
+    "element": "4560178",
+    "ldraw": "87079.dat",
+    "margin": 0,
+    "name": "FLAT TILE 2X4",
+    "required": 18
+  },
+  {
+    "available": 19,
+    "color": "Black",
+    "element": "4560182",
+    "ldraw": "87079.dat",
+    "margin": 9,
+    "name": "FLAT TILE 2X4",
+    "required": 10
+  },
+  {
+    "available": 19,
+    "color": "Light Bluish Gray",
+    "element": "4560183",
+    "ldraw": "87079.dat",
+    "margin": 10,
+    "name": "FLAT TILE 2X4",
+    "required": 9
+  },
+  {
+    "available": 9,
+    "color": "Dark Bluish Gray",
+    "element": "4560184",
+    "ldraw": "87079.dat",
+    "margin": 6,
+    "name": "FLAT TILE 2X4",
+    "required": 3
+  },
+  {
+    "available": 7,
+    "color": "Tan",
+    "element": "4579260",
+    "ldraw": "87087.dat",
+    "margin": 6,
+    "name": "BRICK 1X1 W. 1 KNOB",
+    "required": 1
+  },
+  {
+    "available": 4,
+    "color": "Reddish Brown",
+    "element": "4579690",
+    "ldraw": "87079.dat",
+    "margin": 0,
+    "name": "FLAT TILE 2X4",
+    "required": 4
+  },
+  {
+    "available": 13,
+    "color": "Reddish Brown",
+    "element": "4585337",
+    "ldraw": "4162.dat",
+    "margin": 0,
+    "name": "FLAT TILE 1X8",
+    "required": 13
+  },
+  {
+    "available": 5,
+    "color": "White",
+    "element": "4585448",
+    "ldraw": "87544.dat",
+    "margin": 0,
+    "name": "WALL ELEMENT 1X2X3",
+    "required": 5
+  },
+  {
+    "available": 10,
+    "color": "Tan",
+    "element": "4609726",
+    "ldraw": "92438.dat",
+    "margin": 4,
+    "name": "PLATE 8X16",
+    "required": 6
+  },
+  {
+    "available": 4,
+    "color": "White",
+    "element": "4659665",
+    "ldraw": "3899.dat",
+    "margin": 1,
+    "name": "MUG",
+    "required": 3
+  },
+  {
+    "available": 61,
+    "color": "Dark Tan",
+    "element": "6001824",
+    "ldraw": "3005.dat",
+    "margin": 0,
+    "name": "BRICK 1X1",
+    "required": 61
+  },
+  {
+    "available": 2,
+    "color": "Tan",
+    "element": "6030980",
+    "ldraw": "4282.dat",
+    "margin": 1,
+    "name": "PLATE 2X16",
+    "required": 1
+  },
+  {
+    "available": 5,
+    "color": "Dark Tan",
+    "element": "6047415",
+    "ldraw": "3022.dat",
+    "margin": 0,
+    "name": "PLATE 2X2",
+    "required": 5
+  },
+  {
+    "available": 5,
+    "color": "White",
+    "element": "6047813",
+    "ldraw": "15332.dat",
+    "margin": 1,
+    "name": "FENCE 1X4X2 W. 4 KNOBS",
+    "required": 4
+  },
+  {
+    "available": 29,
+    "color": "White",
+    "element": "6055541",
+    "ldraw": "14716.dat",
+    "margin": 0,
+    "name": "BRICK 1X1X3",
+    "required": 29
+  },
+  {
+    "available": 17,
+    "color": "Tan",
+    "element": "6057517",
+    "ldraw": "14716.dat",
+    "margin": 0,
+    "name": "BRICK 1X1X3",
+    "required": 17
+  },
+  {
+    "available": 5,
+    "color": "Light Bluish Gray",
+    "element": "6061702",
+    "ldraw": "14716.dat",
+    "margin": 0,
+    "name": "BRICK 1X1X3",
+    "required": 5
+  },
+  {
+    "available": 1,
+    "color": "Reddish Brown",
+    "element": "6065139",
+    "ldraw": "3029.dat",
+    "margin": 0,
+    "name": "PLATE 4X12",
+    "required": 1
+  },
+  {
+    "available": 7,
+    "color": "Tan",
+    "element": "6075179",
+    "ldraw": "6112.dat",
+    "margin": 1,
+    "name": "BRICK 1X12",
+    "required": 6
+  },
+  {
+    "available": 5,
+    "color": "Tan",
+    "element": "6093864",
+    "ldraw": "2445.dat",
+    "margin": 2,
+    "name": "PLATE 2X12",
+    "required": 3
+  },
+  {
+    "available": 3,
+    "color": "Black",
+    "element": "6094066",
+    "ldraw": "92438.dat",
+    "margin": 0,
+    "name": "PLATE 8X16",
+    "required": 3
+  },
+  {
+    "available": 6,
+    "color": "White",
+    "element": "611101",
+    "ldraw": "6111.dat",
+    "margin": 0,
+    "name": "BRICK 1X10",
+    "required": 6
+  },
+  {
+    "available": 22,
+    "color": "Tan",
+    "element": "6122047",
+    "ldraw": "87079.dat",
+    "margin": 0,
+    "name": "FLAT TILE 2X4",
+    "required": 22
+  },
+  {
+    "available": 14,
+    "color": "Tan",
+    "element": "6131896",
+    "ldraw": "63864.dat",
+    "margin": 0,
+    "name": "FLAT TILE 1X3",
+    "required": 14
+  },
+  {
+    "available": 7,
+    "color": "Tan",
+    "element": "6146877",
+    "ldraw": "60581.dat",
+    "margin": 3,
+    "name": "WALL ELEMENT 1X4X3, ABS",
+    "required": 4
+  },
+  {
+    "available": 1,
+    "color": "Bright Light Blue",
+    "element": "6162894",
+    "ldraw": "3068b.dat",
+    "margin": 0,
+    "name": "FLAT TILE 2X2",
+    "required": 1
+  },
+  {
+    "available": 28,
+    "color": "Bright Green",
+    "element": "6182261",
+    "ldraw": "32607.dat",
+    "margin": 26,
+    "name": "PLANT, W/ PLATE 1X1, NO. 1",
+    "required": 2
+  },
+  {
+    "available": 1,
+    "color": "Dark Tan",
+    "element": "6184880",
+    "ldraw": "3039.dat",
+    "margin": 0,
+    "name": "ROOF TILE 2X2/45\u00b0",
+    "required": 1
+  },
+  {
+    "available": 8,
+    "color": "White",
+    "element": "6206149",
+    "ldraw": "24866.dat",
+    "margin": 6,
+    "name": "FLOWER 1X1",
+    "required": 2
+  },
+  {
+    "available": 13,
+    "color": "Bright Pink",
+    "element": "6212501",
+    "ldraw": "24866.dat",
+    "margin": 5,
+    "name": "FLOWER 1X1",
+    "required": 8
+  },
+  {
+    "available": 8,
+    "color": "Dark Brown",
+    "element": "6226792",
+    "ldraw": "3020.dat",
+    "margin": 5,
+    "name": "PLATE 2X4",
+    "required": 3
+  },
+  {
+    "available": 20,
+    "color": "Green",
+    "element": "6229130",
+    "ldraw": "32607.dat",
+    "margin": 12,
+    "name": "PLANT, W/ PLATE 1X1, NO. 1",
+    "required": 8
+  },
+  {
+    "available": 6,
+    "color": "Reddish Brown",
+    "element": "6236915",
+    "ldraw": "48336.dat",
+    "margin": 5,
+    "name": "PLATE 1X2 W. STICK 3.18",
+    "required": 1
+  },
+  {
+    "available": 2,
+    "color": "White",
+    "element": "6249033",
+    "ldraw": "40066.dat",
+    "margin": 0,
+    "name": "WALL 1X6X7, W/ ARCH",
+    "required": 2
+  },
+  {
+    "available": 12,
+    "color": "White",
+    "element": "6256127",
+    "ldraw": "42205.dat",
+    "margin": 7,
+    "name": "FRAME 1X6X6",
+    "required": 5
+  },
+  {
+    "available": 16,
+    "color": "White",
+    "element": "6262945",
+    "ldraw": "60596.dat",
+    "margin": 6,
+    "name": "FRAME 1X4X6",
+    "required": 10
+  },
+  {
+    "available": 9,
+    "color": "Dark Turquoise",
+    "element": "6292786",
+    "ldraw": "2431.dat",
+    "margin": 8,
+    "name": "FLAT TILE 1X4",
+    "required": 1
+  },
+  {
+    "available": 19,
+    "color": "Dark Brown",
+    "element": "6295366",
+    "ldraw": "6636.dat",
+    "margin": 0,
+    "name": "FLAT TILE 1X6",
+    "required": 19
+  },
+  {
+    "available": 9,
+    "color": "Tan",
+    "element": "6300317",
+    "ldraw": "87544.dat",
+    "margin": 0,
+    "name": "WALL ELEMENT 1X2X3",
+    "required": 9
+  },
+  {
+    "available": 12,
+    "color": "Black",
+    "element": "6310268",
+    "ldraw": "60470b.dat",
+    "margin": 0,
+    "name": "PLATE 1X2 W/HOLDER, VERTICAL",
+    "required": 12
+  },
+  {
+    "available": 4,
+    "color": "Dark Brown",
+    "element": "6313874",
+    "ldraw": "2431.dat",
+    "margin": 0,
+    "name": "FLAT TILE 1X4",
+    "required": 4
+  },
+  {
+    "available": 11,
+    "color": "Dark Green",
+    "element": "6400754",
+    "ldraw": "32607.dat",
+    "margin": 7,
+    "name": "PLANT, W/ PLATE 1X1, NO. 1",
+    "required": 4
+  },
+  {
+    "available": 18,
+    "color": "Dark Brown",
+    "element": "6447565",
+    "ldraw": "4162.dat",
+    "margin": 0,
+    "name": "FLAT TILE 1X8",
+    "required": 18
+  },
+  {
+    "available": 14,
+    "color": "Dark Brown",
+    "element": "6447571",
+    "ldraw": "3035.dat",
+    "margin": 5,
+    "name": "PLATE 4X8",
+    "required": 9
+  },
+  {
+    "available": 6,
+    "color": "Bright Light Blue",
+    "element": "6468267",
+    "ldraw": "2431.dat",
+    "margin": 0,
+    "name": "FLAT TILE 1X4",
+    "required": 6
+  },
+  {
+    "available": 4,
+    "color": "Trans-Light Blue",
+    "element": "6510178",
+    "ldraw": "2431.dat",
+    "margin": 0,
+    "name": "FLAT TILE 1X4",
+    "required": 4
+  },
+  {
+    "available": 3,
+    "color": "Trans-Clear",
+    "element": "6510182",
+    "ldraw": "2431.dat",
+    "margin": 0,
+    "name": "FLAT TILE 1X4",
+    "required": 3
+  },
+  {
+    "available": 5,
+    "color": "Trans-Clear",
+    "element": "6511024",
+    "ldraw": "42509.dat",
+    "margin": 0,
+    "name": "GLASS FOR FRAME 1X6X6",
+    "required": 5
+  },
+  {
+    "available": 12,
+    "color": "Trans-Clear",
+    "element": "6514119",
+    "ldraw": "60616a.dat",
+    "margin": 2,
+    "name": "GLASS DOOR F\u00dcR FRAME 1X4X6",
+    "required": 10
+  },
+  {
+    "available": 13,
+    "color": "Trans-Clear",
+    "element": "6514142",
+    "ldraw": "86210.dat",
+    "margin": 5,
+    "name": "GLASS FOR FRAME 1X4X3",
+    "required": 8
+  },
+  {
+    "available": 39,
+    "color": "White",
+    "element": "663601",
+    "ldraw": "6636.dat",
+    "margin": 7,
+    "name": "FLAT TILE 1X6",
+    "required": 32
+  }
+]

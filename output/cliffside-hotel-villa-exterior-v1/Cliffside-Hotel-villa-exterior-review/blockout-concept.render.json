@@ -1,0 +1,18 @@
+{
+  "view": "concept",
+  "model_sha256": "4410baa7093039b04b743d5be1df263982ced8e008a1711b4f7914a8bd19ef52",
+  "render_sha256": "bf3fa9ddff0b956309b544640e3adbe23d8fdc665df1f13a76e6b58b7d4bacda",
+  "generator_sha256": "6e591e4f8b75d564182593cd6db9a6adc5946a31f83982bcbf4ac7f680bce5d1",
+  "renderer_sha256": "f2fda12ed15873e39b9004d3fd370fc810c13843a9d835592ae593a6df6a8f36",
+  "camera_direction": [
+    -0.5150746982028543,
+    0.47215180668594986,
+    0.7153815252817421
+  ],
+  "samples": 128,
+  "seed": 42,
+  "layout_sha256": "d6b73d5d940ad8f716e468f822da410dfcd4093773b5301f6cf6a469e30e5411",
+  "geometry_sha256": "6595ada3577bc1a3b2e7259ab0ebe636f41134109eca82f81c9991033dca0ae6",
+  "exterior_sha256": "82c90e3f9bde9491713e769aadd0bda02c94d804660bf0c11534db448ac8013d",
+  "status": "proxy geometry; not a LEGO parts model"
+}

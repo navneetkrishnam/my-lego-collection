@@ -1,0 +1,146 @@
+{
+  "revision": "layout-v6",
+  "model_sha256": "08783dac3593d09074498ddd194d508b0c33a7d0e9c5a37d01957df66282be89",
+  "files": {
+    "README.md": {
+      "bytes": 5679,
+      "sha256": "7e3147ae9994899a5f6fb21976daef2c46256bce001747a4e9af28aa297303ef"
+    },
+    "blockout-concept.png": {
+      "bytes": 3336524,
+      "sha256": "ab22c57366aaf8ed075c50b604eed5ff477871d5068c44a35f62098f629cb568"
+    },
+    "blockout-concept.render.json": {
+      "bytes": 829,
+      "sha256": "b427554a7154dd73179b10dc330fa1ef570cb8568130fdaee1765ac54dbac032"
+    },
+    "blockout-front.png": {
+      "bytes": 2135173,
+      "sha256": "a75af05b213ad929059dd9762f7c91296d96fc566b3c322e497e2e401b436002"
+    },
+    "blockout-front.render.json": {
+      "bytes": 809,
+      "sha256": "a73c3c658e7b35926a50efaff7d5dc4343adfb829486cb6282d88221f6ef1e7e"
+    },
+    "blockout-plan.png": {
+      "bytes": 2149868,
+      "sha256": "4b64d154ab2cd5801f5d8358b3193b012dd34f4efd16a51516ba562c8bf513a6"
+    },
+    "blockout-plan.render.json": {
+      "bytes": 804,
+      "sha256": "a719c9e39f4a95309892c72b867beef9601ee78059e1db6e8c41af53417ee863"
+    },
+    "blockout-rear.png": {
+      "bytes": 2099685,
+      "sha256": "9f9d7f855f9b765c9fc16ea85d85a9e4562565c85ccc9fb838976bb34f1ca1a5"
+    },
+    "blockout-rear.render.json": {
+      "bytes": 825,
+      "sha256": "69ee0436d8ca8f817f27b0806598b01fd953920ba20b6182ae0f1022067b5c1e"
+    },
+    "blockout.ldr": {
+      "bytes": 8381942,
+      "sha256": "08783dac3593d09074498ddd194d508b0c33a7d0e9c5a37d01957df66282be89"
+    },
+    "build.py": {
+      "bytes": 9665,
+      "sha256": "b709111fe9cf3b5feb90739aa611f0e53bf5869a2f940e22495d2c4b691a0585"
+    },
+    "check_layout.py": {
+      "bytes": 3883,
+      "sha256": "84826aa7964ad75edbfc1090ae2712df233d7a614be1160e7ab9cf218bb1a56b"
+    },
+    "circulation-check.json": {
+      "bytes": 8777,
+      "sha256": "e4e8a72d50808333b796dd99f42a209b28b405ae63fac088b8f2cfdae28fa183"
+    },
+    "donor-candidates.json": {
+      "bytes": 6552,
+      "sha256": "8173975162d56e48984b266e9af479f0ee3f0daebd05b875161f15a24e301667"
+    },
+    "donor-reuse.md": {
+      "bytes": 2998,
+      "sha256": "0e575a7790fc17d4eb2bd1e8814623dab4f9452cb983ba02ba4bb8e972f66378"
+    },
+    "donors.py": {
+      "bytes": 2629,
+      "sha256": "0c7d20fad80817bc2a99c3518a26c59877fb7c89a5efdbb0d72384265537badb"
+    },
+    "exterior.py": {
+      "bytes": 11236,
+      "sha256": "82c90e3f9bde9491713e769aadd0bda02c94d804660bf0c11534db448ac8013d"
+    },
+    "geometry.py": {
+      "bytes": 4826,
+      "sha256": "6595ada3577bc1a3b2e7259ab0ebe636f41134109eca82f81c9991033dca0ae6"
+    },
+    "layout.json": {
+      "bytes": 898777,
+      "sha256": "a384a663be1f1d7d4d321c404cbea6990778eebfc9af6784a43231d8bbecde0c"
+    },
+    "layout.py": {
+      "bytes": 10823,
+      "sha256": "31601d0b61fc7ce09f6ac25a57b1962c27529da556449ba4ca0ec9136747841d"
+    },
+    "plan-arrival.png": {
+      "bytes": 91508,
+      "sha256": "04001267e20698bd9106c14d299ccd9c4881f793480ab50f538cda58334189b2"
+    },
+    "plan-arrival.svg": {
+      "bytes": 27444,
+      "sha256": "4d88aff90a9595a9b5b8a01f89fcbf52ed3d78f7e945e32edca7871789b0fa8b"
+    },
+    "plan-cottage.png": {
+      "bytes": 56297,
+      "sha256": "c2a555a6e80692f3c7b86e5e3dbab81666cdf5e2ebb7c2aaf7d0de18178353c8"
+    },
+    "plan-cottage.svg": {
+      "bytes": 13714,
+      "sha256": "ea5dd999aa3d6f398db2c65801084a91e842bf45e0c376b7a37beba994f19922"
+    },
+    "plan-guest-floor.png": {
+      "bytes": 45961,
+      "sha256": "f203375761a18c90f6415d8d12c14e68953175fdbf19e7e744d084c5b7a775ce"
+    },
+    "plan-guest-floor.svg": {
+      "bytes": 10655,
+      "sha256": "69f80ad538f8594b526856c0401bf9b6a208cdf207a70fdfbec856fa0b7685b6"
+    },
+    "plan-services.png": {
+      "bytes": 61593,
+      "sha256": "85aeec925c1fa12ff26b3aeb825d7a4e3f632a577d5fe7b6bcea9cc186f60dcd"
+    },
+    "plan-services.svg": {
+      "bytes": 19078,
+      "sha256": "898cd32074dc0dbdee08edef2702c07acac580225b015392c0e0fbac9a59f2d9"
+    },
+    "plans-provenance.json": {
+      "bytes": 856,
+      "sha256": "39e20b52d7c0a791e06900e0d4193af01fe3b4ff8e8a990e13951c89e6d6ca5b"
+    },
+    "plans.py": {
+      "bytes": 10179,
+      "sha256": "a0d3d59f5b4efdb0c83ea5ab022b1e476085610e07192612ee82a5525f8b1398"
+    },
+    "render.py": {
+      "bytes": 5017,
+      "sha256": "f2fda12ed15873e39b9004d3fd370fc810c13843a9d835592ae593a6df6a8f36"
+    },
+    "verification.json": {
+      "bytes": 1434,
+      "sha256": "3a55361b5be7f0297f4468df42d9f6aa419c8ac6dc96d168baabf07e1064ae8a"
+    },
+    "verify.py": {
+      "bytes": 9326,
+      "sha256": "618d51953774c5b34f679146d891479a2cb32ffc2cfdd853e713664a896cac10"
+    },
+    "villa-detail.ldr": {
+      "bytes": 7387956,
+      "sha256": "93a818bdbd92cd0877f3a0d66eed3a8aeb5c5910896d0b8d31dbe4218eb3dca7"
+    },
+    "reference-concept.png": {
+      "bytes": 2420873,
+      "sha256": "ebf1e0ac0c13cfb5e602b7fb6c23d5bb9a1ec7ca9aa90efc63d8b459a9074e6a"
+    }
+  }
+}

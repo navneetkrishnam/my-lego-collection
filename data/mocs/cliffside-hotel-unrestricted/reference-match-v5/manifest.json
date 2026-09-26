@@ -1,0 +1,239 @@
+{
+  "scope": "Reference comparison v5 with ten staircase pots and two visual review iterations",
+  "model_sha256": "faca3b8511e721d4835227dc2479b7e3e3c3ec1e30eed42d0fc222287c561f0d",
+  "reference_sha256": "ebf1e0ac0c13cfb5e602b7fb6c23d5bb9a1ec7ca9aa90efc63d8b459a9074e6a",
+  "visual_assessment": {
+    "approximate_percent": 75,
+    "method": "subjective comparison of actual front and three-quarter renders; not a measured image similarity score"
+  },
+  "files": {
+    "COMPARISON.md": {
+      "sha256": "5f3b7204ae70aa9102f208893261809596920402860740f68bcbdb7138b2bd2f",
+      "bytes": 3342
+    },
+    "README.md": {
+      "sha256": "2e4a66d670e19b4faaa35e57b26df3f045b3a1f56918b5c677ab9fb42c51e577",
+      "bytes": 3880
+    },
+    "annex_exterior.py": {
+      "sha256": "21d6435d7f6d019c3ba6e9fbcba50ae2f3a4d18d7e64181b0bd4060805ac10c5",
+      "bytes": 7743
+    },
+    "atmosphere.py": {
+      "sha256": "9d178738897220429aa31dd5c91653d858fd17ba302765c7c7f7d1ebd27202b2",
+      "bytes": 11839
+    },
+    "blockout-concept.png": {
+      "sha256": "3e0cbc509bd2edcfcc6f1be87f0254f46e4c478d93776e748f601a4c5990f415",
+      "bytes": 4178342
+    },
+    "blockout-concept.render.json": {
+      "sha256": "626cdbca3ed4fd70ca93b2be9ea767c7399d75469217b4793ce85278489a98d7",
+      "bytes": 1499
+    },
+    "blockout-cottage.png": {
+      "sha256": "2be03f9368af2ec47b105bb477e91bd7d5421c721b90b64f511fc7c7d5937c1f",
+      "bytes": 3009151
+    },
+    "blockout-cottage.render.json": {
+      "sha256": "5b07a4367035bda7ce2c30b980f5c01f4f391052bfee57d1506232b56955790b",
+      "bytes": 1546
+    },
+    "blockout-dusk.png": {
+      "sha256": "e638d6dd8d82c37fb3cab86c7bb16b7d020aca114879bab2aa8d01a679ee3287",
+      "bytes": 2494870
+    },
+    "blockout-dusk.render.json": {
+      "sha256": "f0aba81d9f1f094e1178331770d34df05257e398e7db0e5bfec348867d564644",
+      "bytes": 1508
+    },
+    "blockout-front.png": {
+      "sha256": "1c2f13f8af47f4e125336610d4e60f1ea5c20bdc076d581e0f90ce86d4ef90b6",
+      "bytes": 2572743
+    },
+    "blockout-front.render.json": {
+      "sha256": "add1fc6fe076b38c57937e63a65edabe830aaef873d7f84dc50758cfcfc745ca",
+      "bytes": 1480
+    },
+    "blockout-garden.png": {
+      "sha256": "4eeddfc5b3f9bbd444f79b7d88e13d9b080a13d8c52483acacdf1210273a2827",
+      "bytes": 2998127
+    },
+    "blockout-garden.render.json": {
+      "sha256": "4ea1a94817c7ee04234ab08331efdc7750d5fcb515b67854d24ba0b88e8aeae7",
+      "bytes": 1544
+    },
+    "blockout-plan.png": {
+      "sha256": "4bd4d9b636b4ccdb2ee667476ae586c9a6adc7a5ef431ae986dcb506c702a162",
+      "bytes": 2434595
+    },
+    "blockout-plan.render.json": {
+      "sha256": "2cdfb0d2e1b8632e651f8ff6f001d493833a48145aa9f0fdb95a44465a07eb72",
+      "bytes": 1475
+    },
+    "blockout-pool.png": {
+      "sha256": "a564d64b1b531a35af0e82e9eee2b20599d499900ec9b05f10f4e8f2ff57934d",
+      "bytes": 3069476
+    },
+    "blockout-pool.render.json": {
+      "sha256": "f4d92a3794ffe715ccb1458111b2c5d5ff36744b317480883140a1d67a96f304",
+      "bytes": 1542
+    },
+    "blockout-rear.png": {
+      "sha256": "19fd37554bf9b1f558c306dbab03076c8d3b6b33476387dddf9304839be0794b",
+      "bytes": 2434994
+    },
+    "blockout-rear.render.json": {
+      "sha256": "02eca14db7d0dd7b2a87ec586a2ac58e22174065cfb36300f85961c55f071c90",
+      "bytes": 1496
+    },
+    "blockout.ldr": {
+      "sha256": "faca3b8511e721d4835227dc2479b7e3e3c3ec1e30eed42d0fc222287c561f0d",
+      "bytes": 94306239
+    },
+    "build.py": {
+      "sha256": "a8ae1c68afa237cdeb2c1c31f89e1eff86ea4cfddc11303ec19bbaf84ebf0bb4",
+      "bytes": 9964
+    },
+    "check_layout.py": {
+      "sha256": "8684c4777b099259469e61d42ae53daa0f0f9da45946f8edd2bf56194a75b78b",
+      "bytes": 4179
+    },
+    "circulation-check.json": {
+      "sha256": "e4e8a72d50808333b796dd99f42a209b28b405ae63fac088b8f2cfdae28fa183",
+      "bytes": 8777
+    },
+    "donor-candidates.json": {
+      "sha256": "1d59b34d8f52bfd1e2fa3ed1a1a45ccec2663914f4be95c2d6f63df023e0bef7",
+      "bytes": 6552
+    },
+    "donor-reuse.md": {
+      "sha256": "37762a389eb998e3b5ad2d2030a09cd98e190fd1834db8be195cc0f2f34624ca",
+      "bytes": 3115
+    },
+    "donors.py": {
+      "sha256": "0c7d20fad80817bc2a99c3518a26c59877fb7c89a5efdbb0d72384265537badb",
+      "bytes": 2629
+    },
+    "exterior.py": {
+      "sha256": "82c90e3f9bde9491713e769aadd0bda02c94d804660bf0c11534db448ac8013d",
+      "bytes": 11236
+    },
+    "garden_pool.py": {
+      "sha256": "2a90fdfb42c3d1fd2e797a4933e0ba8e62fa6d4ce955d65541bae0a78aba9f53",
+      "bytes": 8479
+    },
+    "geometry.py": {
+      "sha256": "6595ada3577bc1a3b2e7259ab0ebe636f41134109eca82f81c9991033dca0ae6",
+      "bytes": 4826
+    },
+    "iterations/01/assessment.md": {
+      "sha256": "c4e5e2b22ec20379a1717921195890503589e160ce42c8af746b9ccb64f9a0df",
+      "bytes": 644
+    },
+    "iterations/01/blockout-concept.png": {
+      "sha256": "ae3d97918d6042e2139060aa349deeb80fd798c98428362db4ff117453208e7d",
+      "bytes": 2709520
+    },
+    "iterations/01/blockout-concept.render.json": {
+      "sha256": "719fcd7a2432d66f9ffa8199c7ac21ae86f30f92506b55dac08c7693f19882cf",
+      "bytes": 1499
+    },
+    "iterations/01/blockout-front.png": {
+      "sha256": "4cd5a3158c39066e58cd9db820adec8c220047848cfdbe6b9881c43714a6f24b",
+      "bytes": 2276070
+    },
+    "iterations/01/blockout-front.render.json": {
+      "sha256": "5afe993490da0d5a15c9dceccaa05a5245f4464c0e130b33a705f1fbc58dae9e",
+      "bytes": 1480
+    },
+    "layout.json": {
+      "sha256": "2c27e3ff6da9047636614b5e5d0d2ca10dee81c929c1baf9642525c7a503f001",
+      "bytes": 2379309
+    },
+    "layout.py": {
+      "sha256": "31601d0b61fc7ce09f6ac25a57b1962c27529da556449ba4ca0ec9136747841d",
+      "bytes": 10823
+    },
+    "natural.py": {
+      "sha256": "55396da595d170668960aade636e094e46fd2ec5f416972a9e1cd7b156763676",
+      "bytes": 18670
+    },
+    "plan-arrival.png": {
+      "sha256": "84fe6b54b6985d8d5eafcd7c4ef5dcd9f5534f86969157c752730c721bfcf526",
+      "bytes": 93123
+    },
+    "plan-arrival.svg": {
+      "sha256": "7e4722b9c56d5d95bd961ac59ab9fbb04523b9619be37f5f40891f7b746edbf8",
+      "bytes": 29633
+    },
+    "plan-cottage.png": {
+      "sha256": "c2a555a6e80692f3c7b86e5e3dbab81666cdf5e2ebb7c2aaf7d0de18178353c8",
+      "bytes": 56297
+    },
+    "plan-cottage.svg": {
+      "sha256": "ea5dd999aa3d6f398db2c65801084a91e842bf45e0c376b7a37beba994f19922",
+      "bytes": 13714
+    },
+    "plan-guest-floor.png": {
+      "sha256": "227e0cce580d8abbefb082048f83521bbe15574fba7b80c6c1edfe07b7216faa",
+      "bytes": 46018
+    },
+    "plan-guest-floor.svg": {
+      "sha256": "e44b2ac0349b5bf944818d78d1ff2eaab1e91c0a05a39aceb2a4893e264d0036",
+      "bytes": 10752
+    },
+    "plan-services.png": {
+      "sha256": "934616c0722d7ee2863435e421b22124e2571da2b91d6e8fc1ef1717484f9cad",
+      "bytes": 61691
+    },
+    "plan-services.svg": {
+      "sha256": "6ab8c623b6886cd4355fffaa499cd9c04773ebfe36d1b8269eb77d4fbcbc9ca4",
+      "bytes": 19271
+    },
+    "plan-staircase.png": {
+      "sha256": "044b78bb588f70f41bba7ae8c1c8086edff38d543972abff0e2111cff1e397a4",
+      "bytes": 49346
+    },
+    "plan-staircase.svg": {
+      "sha256": "2bae26f39cfe937df9639a9d3345ae63b2d5cafba0f5092711e65e2fcde2b402",
+      "bytes": 9230
+    },
+    "plans-provenance.json": {
+      "sha256": "de2b411caf35578a8a45b6b227f553d9bac9590f74562a7a01a03d0c2c38f717",
+      "bytes": 1508
+    },
+    "plans.py": {
+      "sha256": "23626b91d7c90822a34838db5a82ee09d749f418880fb340718bf75bcb98f9b2",
+      "bytes": 12471
+    },
+    "reference-concept.png": {
+      "sha256": "ebf1e0ac0c13cfb5e602b7fb6c23d5bb9a1ec7ca9aa90efc63d8b459a9074e6a",
+      "bytes": 2420873
+    },
+    "reference_finish.py": {
+      "sha256": "f8a5617f3540abc3a762950b517cda4a38eb65b11e5da7e4225b8d652f9ed6ff",
+      "bytes": 7725
+    },
+    "render.py": {
+      "sha256": "eb7ef8ce0e41a97d89689200a0101cbba73a38dd91a84d3168abbd329a1e10e1",
+      "bytes": 7129
+    },
+    "verification.json": {
+      "sha256": "5e2613f7fdcce91d416e761b62bc4602f5b166c93fc93fc14b543f490fbfa712",
+      "bytes": 2740
+    },
+    "verify.py": {
+      "sha256": "e846e16ffa2bcb9131e77cd14701c11b8ed159746c7681bbdd7daacaaacb1144",
+      "bytes": 19270
+    },
+    "villa-detail.ldr": {
+      "sha256": "b9d678f74dc8c422230818eb61af9383c78dbd553e97a58ce154af6ac38cfd69",
+      "bytes": 29035956
+    },
+    "DECORATION_BASELINE.md": {
+      "sha256": "ace05a0d79443fc61a5c41a95021cd693070ad6fb388632d637faefa281aeebd",
+      "bytes": 2209
+    }
+  }
+}

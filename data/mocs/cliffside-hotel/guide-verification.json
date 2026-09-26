@@ -1,0 +1,12 @@
+{
+  "guide_matches_model": true,
+  "placements_checked": 2188,
+  "stages_checked": 18,
+  "picking_elements": 218,
+  "donor_rows": 1557,
+  "local_links_checked": 17,
+  "script_syntax_and_execution": true,
+  "filtering_and_pagination": true,
+  "browser_visual_check": false,
+  "browser_visual_check_reason": "No browser available through the computer-use tool."
+}

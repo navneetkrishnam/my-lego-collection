@@ -1,0 +1,30 @@
+{
+  "title": "Cliffside Hotel digital build draft",
+  "pieces": 2188,
+  "files_sha256": {
+    "README.md": "156ffde4d5454cf15ec8a5deec7c6a92cacbb52f91859979049a6f032a538e1a",
+    "guide.html": "0625d020cc58872cade7ed0a4860b8f26a09b80386da24482109d4bea5eeee91",
+    "cliffside-hotel.ldr": "76da44f8e03949fb2f414e5a3ed9b6ce125a8d3ebe09e726c85e048293982463",
+    "model.json": "0464c63e3b5fc2565d98d57ff8efb2ffb29b8b2be80a590c8a0c64b7e2f491f6",
+    "bom.json": "425994915120dd5fcae02ad3a51d38aa17fcbe20fa791d08ad8247a0bba14062",
+    "allocation.json": "fe02dd41585911ebd1ab5cde5af8354ac946b0909da45fa121d761ff3e2c0c9d",
+    "inventory-snapshot.json": "39fefa43303aaab9f9edd80cc9e01060215a20018fddac056ea610dd1fc238a2",
+    "verified-donor-quantities.json": "900bfc4a3b4fe747735d7135b3768a8633b5b782e19b08c4bbbe312f242cabb5",
+    "quantity-evidence-verification.json": "b95f35e73a27d3764f82ddc1a270b0bbbe350d20ff13d2154b366d3d58aad628",
+    "verification.json": "fa6d22fc55103c93a537168f6211f4b88d434ddf5a29f8707da6863705a70569",
+    "geometry-verification.json": "a3197e9fb4bff56078e1d4cc9dfcc803f1775ea5ac58abdce14f8b3fbbeaf314",
+    "reproducibility.json": "0062efcde9e3d70c1ea3853934af1a0d3275ca24c628311b065bb8836ec36d25",
+    "guide-verification.json": "32da26d2bf8932f009b7d2b0a3bae1a61ad539be1a7bfdefa1a225e8411998c0",
+    "preview.png": "c5a63e956ab4bfb8df8904c0aaa53664f0b0569403c93a7ba29f4ebf9d9977ec",
+    "preview-rear.png": "fde8c6dae2fc494ca8432e94f1b3b36002a97f6adcbfb20913ad5138e1cab50e",
+    "preview.render.json": "8eb23678f3d1942b86ea95fabcd68cb5cc13a58ea3f76fd3d5c7592591aafdc6",
+    "preview-rear.render.json": "a79755ad8d97c62aadc2c8e15ad673466ea39193c04b0cc0b37cb781a3fb3c1e",
+    "concept-approved.png": "ebf1e0ac0c13cfb5e602b7fb6c23d5bb9a1ec7ca9aa90efc63d8b459a9074e6a",
+    "evidence/21341-page259.png": "4205fecfdedc5c49b641def5b95ce8b92dc219945a35086f0bc024603ac843e9",
+    "evidence/21341-page260.png": "96d3991ae57264b21e23b9e89bbb134d0f3c52fd1e6bd37d67658c62056a5f73",
+    "evidence/21341-page261.png": "24f39fb14283edc43b404e80d2c1c4a2150bfcc3f0971df3dddee0a1b781946a",
+    "evidence/21341-page262.png": "b488abff4a18869a9ee3a736d0436367317618dcc363ddba73da52423d0c8c5e",
+    "evidence/21353-page390.png": "025d844618f6f11f913c2637908d32f3b66ce30ed062689fd27e8790b8a3e08d",
+    "evidence/42670-page322.png": "41b46c982bb8a74cec26902af067e126e44e380c5df1398e7ac2d67f4d1575eb"
+  }
+}

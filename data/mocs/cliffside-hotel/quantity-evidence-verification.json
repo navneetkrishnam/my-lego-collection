@@ -1,0 +1,26 @@
+{
+  "override_rows_checked": 124,
+  "all_selected_quantities_match_official_pdf_text": true,
+  "duplicate_override_keys": 0,
+  "overrides_sha256": "900bfc4a3b4fe747735d7135b3768a8633b5b782e19b08c4bbbe312f242cabb5",
+  "documents": [
+    {
+      "set": "21341",
+      "file": "6469476.pdf",
+      "sha256": "9ce1b9de04522627d2c4cfa9587232a0dcab97b36e224e089eed4a8a22e02efc",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21341"
+    },
+    {
+      "set": "21353",
+      "file": "6546830.pdf",
+      "sha256": "1271d41c5a5ca8a1fc89f79f65a00c4192e3cb278c581b8a767f7db59ac845b7",
+      "source_url": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6546830.pdf"
+    },
+    {
+      "set": "42670",
+      "file": "6554573.pdf",
+      "sha256": "5dd6c4316b85a0665eb542b65f036a94b210852171864d2bd8e519bf99e0a03b",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670"
+    }
+  ]
+}

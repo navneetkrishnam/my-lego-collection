@@ -1,0 +1,203 @@
+{
+  "scope": "Candidate donors; ownership and element membership only. Not an allocation or bill of materials.",
+  "sources": {
+    "data/owned-sets.csv": "8b85a0e53522b10da6cd176c85b55e97c543a653d022359889537faad49144a1",
+    "public/data/sets.json": "a045f83c1048ac3127e33bb9d70918b0614deefa8199d6b90e0e5acb2f6e1e66"
+  },
+  "donors": [
+    {
+      "set_id": "42655",
+      "name": "Restaurant and Cooking School",
+      "owned_copies": 1,
+      "role": "Primary restaurant donor",
+      "reuse_note": "Adapt the visible dining chairs/tables and kitchen counter arrangement; tableware and tap are locally listed.",
+      "parts_source": "public/data/parts/42655.json",
+      "parts_source_sha256": "d9bac971cb14ce2c96858aa70a11349525b5f6297047d96c3f6557d5c9595dae",
+      "elements": [
+        {
+          "element_id": "6245261",
+          "name": "MIXER TAP",
+          "quantity_in_set": null
+        },
+        {
+          "element_id": "6404592",
+          "name": "CUPBOARD 2X3X2",
+          "quantity_in_set": null
+        },
+        {
+          "element_id": "6361354",
+          "name": "FORK, NO. 1",
+          "quantity_in_set": null
+        },
+        {
+          "element_id": "6235083",
+          "name": "CUP, NO. 1002",
+          "quantity_in_set": null
+        }
+      ],
+      "inspected_images": [
+        {
+          "path": "public/images/42655/0.png",
+          "sha256": "2dcaf91e7a292b1296c9d6dbefcb636371481b85a11edf150de0c4cf33b4e3ee"
+        },
+        {
+          "path": "public/images/42655/2.png",
+          "sha256": "cc6cd78278b153c6b4fe117078492229689d44d04ec668e1af0707a85578d782"
+        },
+        {
+          "path": "public/images/42655/3.png",
+          "sha256": "1cc7eba225f8a2ff1c6131c1d8c8bc14b2a64b9f9b946f95c600375e70d419e7"
+        }
+      ]
+    },
+    {
+      "set_id": "42691",
+      "name": "Garden Restaurant",
+      "owned_copies": 1,
+      "role": "Supplementary restaurant / spa fittings",
+      "reuse_note": "Use dining/garden details as inspiration; tap and flat-tile elements are spa candidates. No intact module fit is claimed.",
+      "parts_source": "public/data/parts/42691.json",
+      "parts_source_sha256": "cda4ef1950c4bcaba660d0e1bc6b0b17108c5d45e4a59e29f55500d99e95c1c2",
+      "elements": [
+        {
+          "element_id": "6245261",
+          "name": "MIXER TAP",
+          "quantity_in_set": null
+        },
+        {
+          "element_id": "6146054",
+          "name": "TAP \u00d84.9/6.4",
+          "quantity_in_set": null
+        },
+        {
+          "element_id": "4560180",
+          "name": "FLAT TILE 2X4",
+          "quantity_in_set": null
+        },
+        {
+          "element_id": "6174229",
+          "name": "BOOK, NO. 2",
+          "quantity_in_set": null
+        }
+      ],
+      "inspected_images": [
+        {
+          "path": "public/images/42691/0.png",
+          "sha256": "4b07f2c1a3474c44fffdd5f05e00a11b7ee22b0c9c614148420b92a2e4f63a2c"
+        }
+      ]
+    },
+    {
+      "set_id": "42662",
+      "name": "Hair Salon and Accessories Store",
+      "owned_copies": 1,
+      "role": "Primary salon donor",
+      "reuse_note": "Rebuild the visible mirror/styling-chair/counter setup inside the hotel envelope; reserve a separate wash station.",
+      "parts_source": "public/data/parts/42662.json",
+      "parts_source_sha256": "0a9aaa61c484dd935cf63aa445bfde2f3315ceaeb15ac8a5e58c23ab4a9d3c33",
+      "elements": [
+        {
+          "element_id": "6489198",
+          "name": "SCISSORS W. 3.2 SHAFT",
+          "quantity_in_set": null
+        },
+        {
+          "element_id": "6058368",
+          "name": "HAIR BRUSH",
+          "quantity_in_set": null
+        },
+        {
+          "element_id": "4243668",
+          "name": "HAIR BRUSH",
+          "quantity_in_set": null
+        },
+        {
+          "element_id": "6146054",
+          "name": "TAP \u00d84.9/6.4",
+          "quantity_in_set": null
+        },
+        {
+          "element_id": "6313992",
+          "name": "CUPBOARD 2X3X2",
+          "quantity_in_set": null
+        }
+      ],
+      "inspected_images": [
+        {
+          "path": "public/images/42662/0.png",
+          "sha256": "18fb4b46fc8ecddab82bc12b868f6dd4f8b422f2d28097a456d7d448e96e6262"
+        },
+        {
+          "path": "public/images/42662/3.png",
+          "sha256": "b5261cbe78e45a2a8fbd7cdc45fa852425ddec397603c524ff3f9c0939016b7b"
+        }
+      ]
+    },
+    {
+      "set_id": "41743",
+      "name": "Hair Salon",
+      "owned_copies": 1,
+      "role": "Supplementary salon donor",
+      "reuse_note": "Candidate second styling station and accessories; recolor surrounding built furniture to suit the hotel.",
+      "parts_source": "public/data/parts/41743.json",
+      "parts_source_sha256": "ada5a5e8bdb68870bb9a530549db6e01e790ed22dcca57c7c8175d1bc0ed9c5e",
+      "elements": [
+        {
+          "element_id": "6096993",
+          "name": "SCISSORS W. 3.2 SHAFT",
+          "quantity_in_set": null
+        },
+        {
+          "element_id": "4243668",
+          "name": "HAIR BRUSH",
+          "quantity_in_set": null
+        },
+        {
+          "element_id": "6146054",
+          "name": "TAP \u00d84.9/6.4",
+          "quantity_in_set": null
+        }
+      ],
+      "inspected_images": [
+        {
+          "path": "public/images/41743/0.png",
+          "sha256": "11e225484dcaf4774bdf275f5b7522b92a082ab4f48583421a7e30d3f2b9361d"
+        },
+        {
+          "path": "public/images/41743/2.png",
+          "sha256": "efe4a0088b09584e7b2088e063d9bce1dd8e32b5eb1b7a7a8b67cce9ff622501"
+        }
+      ]
+    },
+    {
+      "set_id": "10362",
+      "name": "French Caf\u00e9",
+      "owned_copies": 1,
+      "role": "Library and spa finishing candidates",
+      "reuse_note": "Locally listed book elements for the library; flat tiles can finish custom spa furniture. Quantities unknown.",
+      "parts_source": "public/data/parts/10362.json",
+      "parts_source_sha256": "f6a483a626ec6d7024a7d41a130cec1b8ba01e015a0453b2bd0d7a896036b65e",
+      "elements": [
+        {
+          "element_id": "6174229",
+          "name": "BOOK, NO. 2",
+          "quantity_in_set": null
+        },
+        {
+          "element_id": "6523320",
+          "name": "BOOK, NO. 48",
+          "quantity_in_set": null
+        },
+        {
+          "element_id": "6164288",
+          "name": "FLAT TILE 2X4",
+          "quantity_in_set": null
+        }
+      ],
+      "inspected_images": []
+    }
+  ],
+  "exact_quantities_known": false,
+  "intact_module_fit_verified": false,
+  "inventory_reserved": false
+}

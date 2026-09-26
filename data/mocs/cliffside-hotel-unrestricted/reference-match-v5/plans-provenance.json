@@ -1,0 +1,20 @@
+{
+  "reference_finish_sha256": "f8a5617f3540abc3a762950b517cda4a38eb65b11e5da7e4225b8d652f9ed6ff",
+  "natural_sha256": "55396da595d170668960aade636e094e46fd2ec5f416972a9e1cd7b156763676",
+  "garden_pool_sha256": "2a90fdfb42c3d1fd2e797a4933e0ba8e62fa6d4ce955d65541bae0a78aba9f53",
+  "atmosphere_sha256": "9d178738897220429aa31dd5c91653d858fd17ba302765c7c7f7d1ebd27202b2",
+  "plans_generator_sha256": "23626b91d7c90822a34838db5a82ee09d749f418880fb340718bf75bcb98f9b2",
+  "layout_sha256": "31601d0b61fc7ce09f6ac25a57b1962c27529da556449ba4ca0ec9136747841d",
+  "drawings": {
+    "plan-arrival.png": "84fe6b54b6985d8d5eafcd7c4ef5dcd9f5534f86969157c752730c721bfcf526",
+    "plan-arrival.svg": "7e4722b9c56d5d95bd961ac59ab9fbb04523b9619be37f5f40891f7b746edbf8",
+    "plan-cottage.png": "c2a555a6e80692f3c7b86e5e3dbab81666cdf5e2ebb7c2aaf7d0de18178353c8",
+    "plan-cottage.svg": "ea5dd999aa3d6f398db2c65801084a91e842bf45e0c376b7a37beba994f19922",
+    "plan-guest-floor.png": "227e0cce580d8abbefb082048f83521bbe15574fba7b80c6c1edfe07b7216faa",
+    "plan-guest-floor.svg": "e44b2ac0349b5bf944818d78d1ff2eaab1e91c0a05a39aceb2a4893e264d0036",
+    "plan-services.png": "934616c0722d7ee2863435e421b22124e2571da2b91d6e8fc1ef1717484f9cad",
+    "plan-services.svg": "6ab8c623b6886cd4355fffaa499cd9c04773ebfe36d1b8269eb77d4fbcbc9ca4",
+    "plan-staircase.png": "044b78bb588f70f41bba7ae8c1c8086edff38d543972abff0e2111cff1e397a4",
+    "plan-staircase.svg": "2bae26f39cfe937df9639a9d3345ae63b2d5cafba0f5092711e65e2fcde2b402"
+  }
+}

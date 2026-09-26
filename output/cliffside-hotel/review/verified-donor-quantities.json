@@ -1,0 +1,1090 @@
+{
+  "document": "LEGO 21341 instruction booklet 6469476.pdf",
+  "pdf_sha256": "9ce1b9de04522627d2c4cfa9587232a0dcab97b36e224e089eed4a8a22e02efc",
+  "rows": [
+    {
+      "element": "6447573",
+      "quantity": 8,
+      "set": "21341",
+      "printed_page": 262,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "6447571",
+      "quantity": 14,
+      "set": "21341",
+      "printed_page": 262,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "4519946",
+      "quantity": 32,
+      "set": "21341",
+      "printed_page": 262,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "6252667",
+      "quantity": 20,
+      "set": "21341",
+      "printed_page": 262,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "6058221",
+      "quantity": 41,
+      "set": "21341",
+      "printed_page": 262,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "6226792",
+      "quantity": 7,
+      "set": "21341",
+      "printed_page": 262,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "6295366",
+      "quantity": 19,
+      "set": "21341",
+      "printed_page": 262,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "6447565",
+      "quantity": 17,
+      "set": "21341",
+      "printed_page": 262,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "6313874",
+      "quantity": 4,
+      "set": "21341",
+      "printed_page": 262,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "6447568",
+      "quantity": 6,
+      "set": "21341",
+      "printed_page": 262,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "4211202",
+      "quantity": 66,
+      "set": "21341",
+      "printed_page": 261,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "6035291",
+      "quantity": 17,
+      "set": "21341",
+      "printed_page": 261,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "4211151",
+      "quantity": 11,
+      "set": "21341",
+      "printed_page": 261,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "4211194",
+      "quantity": 4,
+      "set": "21341",
+      "printed_page": 261,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "4585337",
+      "quantity": 9,
+      "set": "21341",
+      "printed_page": 261,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "4211394",
+      "quantity": 13,
+      "set": "21341",
+      "printed_page": 261,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "4211389",
+      "quantity": 4,
+      "set": "21341",
+      "printed_page": 261,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "4211103",
+      "quantity": 11,
+      "set": "21341",
+      "printed_page": 262,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "4210998",
+      "quantity": 4,
+      "set": "21341",
+      "printed_page": 262,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "6057517",
+      "quantity": 13,
+      "set": "21341",
+      "printed_page": 259,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "6300317",
+      "quantity": 5,
+      "set": "21341",
+      "printed_page": 259,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "4114064",
+      "quantity": 2,
+      "set": "21341",
+      "printed_page": 259,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "4112980",
+      "quantity": 2,
+      "set": "21341",
+      "printed_page": 259,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "4159553",
+      "quantity": 30,
+      "set": "21341",
+      "printed_page": 259,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "4113916",
+      "quantity": 13,
+      "set": "21341",
+      "printed_page": 259,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "4112982",
+      "quantity": 37,
+      "set": "21341",
+      "printed_page": 259,
+      "evidence": "Official instruction inventory, visually read from PDF page image."
+    },
+    {
+      "element": "301001",
+      "quantity": 15,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "300901",
+      "quantity": 20,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "300501",
+      "quantity": 35,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "6055541",
+      "quantity": 10,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "300401",
+      "quantity": 35,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "362201",
+      "quantity": 9,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "300101",
+      "quantity": 3,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "300301",
+      "quantity": 4,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "246501",
+      "quantity": 1,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "302301",
+      "quantity": 77,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "302401",
+      "quantity": 67,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "302201",
+      "quantity": 18,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "306901",
+      "quantity": 12,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "307001",
+      "quantity": 2,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4181142",
+      "quantity": 6,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "346001",
+      "quantity": 8,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4514842",
+      "quantity": 6,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "447701",
+      "quantity": 7,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "303401",
+      "quantity": 8,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "244501",
+      "quantity": 19,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "383201",
+      "quantity": 1,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4119227",
+      "quantity": 4,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4528341",
+      "quantity": 5,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "416201",
+      "quantity": 13,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "362301",
+      "quantity": 15,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "366601",
+      "quantity": 25,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "371001",
+      "quantity": 31,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "302101",
+      "quantity": 7,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4243812",
+      "quantity": 3,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4558168",
+      "quantity": 3,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "663601",
+      "quantity": 12,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "243101",
+      "quantity": 15,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "6262945",
+      "quantity": 2,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4159553",
+      "quantity": 23,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4121921",
+      "quantity": 8,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4113233",
+      "quantity": 29,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4113917",
+      "quantity": 18,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "6131896",
+      "quantity": 4,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4114026",
+      "quantity": 34,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4125253",
+      "quantity": 7,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4550324",
+      "quantity": 7,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4185177",
+      "quantity": 31,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4143409",
+      "quantity": 11,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4124067",
+      "quantity": 11,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4114309",
+      "quantity": 3,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "4157277",
+      "quantity": 6,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "6122047",
+      "quantity": 12,
+      "set": "21353",
+      "printed_page": 390,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21353",
+      "document": "6546830.pdf"
+    },
+    {
+      "element": "6001824",
+      "quantity": 56,
+      "set": "21341",
+      "printed_page": 260,
+      "evidence": "Official inventory page visually checked."
+    },
+    {
+      "element": "6186003",
+      "quantity": 2,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4650865",
+      "quantity": 8,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "6186106",
+      "quantity": 4,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "6072668",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "6020073",
+      "quantity": 3,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "6003004",
+      "quantity": 2,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "6097511",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4221744",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211150",
+      "quantity": 4,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211199",
+      "quantity": 3,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211186",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211389",
+      "quantity": 6,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211399",
+      "quantity": 5,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211414",
+      "quantity": 9,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211398",
+      "quantity": 9,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211388",
+      "quantity": 8,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211614",
+      "quantity": 10,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211387",
+      "quantity": 4,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211397",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211413",
+      "quantity": 17,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211429",
+      "quantity": 2,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211428",
+      "quantity": 4,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4558169",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211386",
+      "quantity": 2,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211396",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211445",
+      "quantity": 2,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211394",
+      "quantity": 4,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211356",
+      "quantity": 7,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211385",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211395",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211549",
+      "quantity": 2,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211438",
+      "quantity": 5,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211795",
+      "quantity": 4,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211452",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211481",
+      "quantity": 6,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211392",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4251149",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211521",
+      "quantity": 2,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211522",
+      "quantity": 3,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211360",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211405",
+      "quantity": 2,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211088",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211052",
+      "quantity": 2,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211001",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211002",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "4211067",
+      "quantity": 1,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "6316569",
+      "quantity": 10,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "6285271",
+      "quantity": 2,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "6097861",
+      "quantity": 9,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    },
+    {
+      "element": "6362254",
+      "quantity": 6,
+      "set": "42670",
+      "printed_page": 322,
+      "evidence": "Official PDF text cross-checked against rendered inventory page.",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670",
+      "document": "6554573.pdf"
+    }
+  ],
+  "rule": "Replace the membership allowance of one in donor21341 by this exact per-copy quantity; retain other donors. Not additive to the existing allowance.",
+  "source_url": "https://www.lego.com/en-us/service/building-instructions/21341",
+  "documents": [
+    {
+      "set": "21341",
+      "file": "6469476.pdf",
+      "sha256": "9ce1b9de04522627d2c4cfa9587232a0dcab97b36e224e089eed4a8a22e02efc",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/21341"
+    },
+    {
+      "set": "21353",
+      "file": "6546830.pdf",
+      "sha256": "1271d41c5a5ca8a1fc89f79f65a00c4192e3cb278c581b8a767f7db59ac845b7",
+      "source_url": "https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6546830.pdf"
+    },
+    {
+      "set": "42670",
+      "file": "6554573.pdf",
+      "sha256": "5dd6c4316b85a0665eb542b65f036a94b210852171864d2bd8e519bf99e0a03b",
+      "source_url": "https://www.lego.com/en-us/service/building-instructions/42670"
+    }
+  ]
+}

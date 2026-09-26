@@ -1,0 +1,19 @@
+{
+  "connected_components": 1,
+  "duplicate_placements": [],
+  "invalid_inserts": [],
+  "inventory_pass": true,
+  "isolated_components": [],
+  "limitations": [
+    "No triangle-level full-model collision test.",
+    "Stud graph checks engagement positions, not clutch strength, loading or build access.",
+    "Arch/frame/roof/plant/mug meshes are excluded from ordinary solid-box collision checks.",
+    "Decorative geometry can extend beyond its nominal mounting footprint.",
+    "Physical build NOT TESTED."
+  ],
+  "nominal_out_of_bounds": [],
+  "regular_solid_overlap_pass": true,
+  "shortages": {},
+  "solid_body_overlaps": [],
+  "stud_graph_connected": true
+}

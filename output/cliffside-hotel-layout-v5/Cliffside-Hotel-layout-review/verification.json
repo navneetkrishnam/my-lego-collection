@@ -1,0 +1,31 @@
+{
+  "scope": "room-programmed architectural proxy",
+  "deterministic_export": true,
+  "room_program_pass": true,
+  "private_cottage_extension_pass": true,
+  "villa_library_restored": true,
+  "cottage_service_east_alignment_pass": true,
+  "pool_facing_corridor_windows_pass": true,
+  "furniture_envelopes_nonoverlapping": true,
+  "cottage_roof_separation_pass": true,
+  "donor_evidence_current": true,
+  "straight_exterior_stair_pass": true,
+  "pool_support_envelopes_pass": true,
+  "balcony_support_envelopes_pass": true,
+  "declared_floor_shafts_pass": true,
+  "circulation_destinations": "50/50",
+  "public_routes_avoid_private_rooms": true,
+  "villa_library_access_without_cottage": true,
+  "pool_walking_loop_clear": true,
+  "model_sha256": "bda1473564180a7a20069d41094a77a6be79ca55ff5c94d88af40049be0fb961",
+  "render_provenance": {
+    "concept": "current",
+    "front": "current",
+    "plan": "current",
+    "rear": "current"
+  },
+  "plan_provenance": true,
+  "lego_connections_verified": false,
+  "structural_analysis_performed": false,
+  "physical_assembly_tested": false
+}

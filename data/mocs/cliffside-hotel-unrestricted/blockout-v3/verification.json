@@ -1,0 +1,23 @@
+{
+  "scope": "room-programmed architectural proxy",
+  "deterministic_export": true,
+  "room_program_pass": true,
+  "straight_exterior_stair_pass": true,
+  "pool_support_envelopes_pass": true,
+  "balcony_support_envelopes_pass": true,
+  "declared_floor_shafts_pass": true,
+  "circulation_destinations": "48/48",
+  "public_routes_avoid_private_rooms": true,
+  "pool_walking_loop_clear": true,
+  "model_sha256": "473fd61bf62f08cbf34f50f43fe2b3179163d1c0166c02984be7f5598a19c42e",
+  "render_provenance": {
+    "concept": "current",
+    "front": "current",
+    "plan": "current",
+    "rear": "current"
+  },
+  "plan_provenance": true,
+  "lego_connections_verified": false,
+  "structural_analysis_performed": false,
+  "physical_assembly_tested": false
+}
