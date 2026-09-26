@@ -3035,5 +3035,39 @@
     ],
     "status": "Not Started",
     "history": []
+  },
+  {
+    "id": "31146",
+    "name": "Flatbed Truck with Helicopter",
+    "theme": "Creator 3-in-1",
+    "age": "7+",
+    "pieces": 270,
+    "thumbnail": "/images/31146/thumb.webp",
+    "images": [
+      "/images/31146/0.png",
+      "/images/31146/1.png",
+      "/images/31146/2.png",
+      "/images/31146/3.png",
+      "/images/31146/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "41726",
+    "name": "Holiday Camping Trip",
+    "theme": "Friends",
+    "age": "4+",
+    "pieces": 87,
+    "thumbnail": "/images/41726/thumb.webp",
+    "images": [
+      "/images/41726/0.png",
+      "/images/41726/1.png",
+      "/images/41726/2.png",
+      "/images/41726/3.png",
+      "/images/41726/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
   }
 ]
