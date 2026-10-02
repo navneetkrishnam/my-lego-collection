@@ -3069,5 +3069,39 @@
     ],
     "status": "Not Started",
     "history": []
+  },
+  {
+    "id": "30732",
+    "name": "Alex's Campfire Conflict",
+    "theme": "Minecraft®",
+    "age": "6+",
+    "pieces": 31,
+    "thumbnail": "/images/30732/thumb.webp",
+    "images": [
+      "/images/30732/0.png",
+      "/images/30732/1.png",
+      "/images/30732/2.png",
+      "/images/30732/3.png",
+      "/images/30732/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "30696",
+    "name": "Autumn's Waffle Stand",
+    "theme": "Friends",
+    "age": "5+",
+    "pieces": 37,
+    "thumbnail": "/images/30696/thumb.webp",
+    "images": [
+      "/images/30696/0.png",
+      "/images/30696/1.png",
+      "/images/30696/2.png",
+      "/images/30696/3.png",
+      "/images/30696/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
   }
 ]
