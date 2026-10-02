@@ -3084,8 +3084,13 @@
       "/images/30732/3.png",
       "/images/30732/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-09-28",
+        "builder": "Anirud Krishna"
+      }
+    ]
   },
   {
     "id": "30696",
@@ -3101,7 +3106,12 @@
       "/images/30696/3.png",
       "/images/30696/4.png"
     ],
-    "status": "Not Started",
-    "history": []
+    "status": "Done",
+    "history": [
+      {
+        "date": "2026-09-29",
+        "builder": "Anirud Krishna"
+      }
+    ]
   }
 ]
