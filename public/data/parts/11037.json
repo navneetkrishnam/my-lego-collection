@@ -1,0 +1,932 @@
+[
+  {
+    "id": "6343877",
+    "name": "BRICK 1X2 W/O PIN",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6343877.jpg",
+    "rawText": "BRICK 1X2 W/O PIN\n\n6343877\n\nSelect this piece"
+  },
+  {
+    "id": "6146866",
+    "name": "BRICK 2X3 W. ARCH",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6146866.jpg",
+    "rawText": "BRICK 2X3 W. ARCH\n\n6146866\n\nSelect this piece"
+  },
+  {
+    "id": "6236575",
+    "name": "BRICK 1X2, OUTSIDE HALF BOW",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6236575.jpg",
+    "rawText": "BRICK 1X2, OUTSIDE HALF BOW\n\n6236575\n\nSelect this piece"
+  },
+  {
+    "id": "6172518",
+    "name": "ROOF TILE 2X2/45°",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6172518.jpg",
+    "rawText": "ROOF TILE 2X2/45°\n\n6172518\n\nSelect this piece"
+  },
+  {
+    "id": "4121965",
+    "name": "ROOF TILE 1X2/45°",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4121965.jpg",
+    "rawText": "ROOF TILE 1X2/45°\n\n4121965\n\nSelect this piece"
+  },
+  {
+    "id": "6305455",
+    "name": "PLATE 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6305455.jpg",
+    "rawText": "PLATE 2X4\n\n6305455\n\nSelect this piece"
+  },
+  {
+    "id": "6388037",
+    "name": "PLATE 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6388037.jpg",
+    "rawText": "PLATE 2X4\n\n6388037\n\nSelect this piece"
+  },
+  {
+    "id": "366024",
+    "name": "ROOF TILE 2X2/45 INV.",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/366024.jpg",
+    "rawText": "ROOF TILE 2X2/45 INV.\n\n366024\n\nSelect this piece"
+  },
+  {
+    "id": "6294307",
+    "name": "ROOF TILE 2X3/25°",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6294307.jpg",
+    "rawText": "ROOF TILE 2X3/25°\n\n6294307\n\nSelect this piece"
+  },
+  {
+    "id": "300124",
+    "name": "BRICK 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300124.jpg",
+    "rawText": "BRICK 2X4\n\n300124\n\nSelect this piece"
+  },
+  {
+    "id": "6382560",
+    "name": "ELEPHANT TRUNK",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6382560.jpg",
+    "rawText": "ELEPHANT TRUNK\n\n6382560\n\nSelect this piece"
+  },
+  {
+    "id": "6431715",
+    "name": "FLAT TILE 1X1, ROUND, NO. 224",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6431715.jpg",
+    "rawText": "FLAT TILE 1X1, ROUND, NO. 224\n\n6431715\n\nSelect this piece"
+  },
+  {
+    "id": "6186542",
+    "name": "BRICK 1X6",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6186542.jpg",
+    "rawText": "BRICK 1X6\n\n6186542\n\nSelect this piece"
+  },
+  {
+    "id": "6056297",
+    "name": "NOSE CONE 2X2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6056297.jpg",
+    "rawText": "NOSE CONE 2X2X2\n\n6056297\n\nSelect this piece"
+  },
+  {
+    "id": "6331687",
+    "name": "PLATE 1X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6331687.jpg",
+    "rawText": "PLATE 1X2\n\n6331687\n\nSelect this piece"
+  },
+  {
+    "id": "6431334",
+    "name": "BRICK 1X1 W. 1 KNOB",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6431334.jpg",
+    "rawText": "BRICK 1X1 W. 1 KNOB\n\n6431334\n\nSelect this piece"
+  },
+  {
+    "id": "4118829",
+    "name": "ROOF TILE 2X2/45° INV.",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4118829.jpg",
+    "rawText": "ROOF TILE 2X2/45° INV.\n\n4118829\n\nSelect this piece"
+  },
+  {
+    "id": "6145255",
+    "name": "FLAT TILE 2X2, ROUND",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6145255.jpg",
+    "rawText": "FLAT TILE 2X2, ROUND\n\n6145255\n\nSelect this piece"
+  },
+  {
+    "id": "6514021",
+    "name": "NOSE CONE SMALL 1X1",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6514021.jpg",
+    "rawText": "NOSE CONE SMALL 1X1\n\n6514021\n\nSelect this piece"
+  },
+  {
+    "id": "6070731",
+    "name": "BALL 10.2, W/ CROSS HOLE",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6070731.jpg",
+    "rawText": "BALL 10.2, W/ CROSS HOLE\n\n6070731\n\nSelect this piece"
+  },
+  {
+    "id": "4550348",
+    "name": "ROOF TILE 1 X 2 X 2/3, ABS",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4550348.jpg",
+    "rawText": "ROOF TILE 1 X 2 X 2/3, ABS\n\n4550348\n\nSelect this piece"
+  },
+  {
+    "id": "6056373",
+    "name": "BRICK 1X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6056373.jpg",
+    "rawText": "BRICK 1X4\n\n6056373\n\nSelect this piece"
+  },
+  {
+    "id": "6258572",
+    "name": "BRICK 1X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6258572.jpg",
+    "rawText": "BRICK 1X2\n\n6258572\n\nSelect this piece"
+  },
+  {
+    "id": "4625629",
+    "name": "BRICK 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4625629.jpg",
+    "rawText": "BRICK 2X4\n\n4625629\n\nSelect this piece"
+  },
+  {
+    "id": "6426720",
+    "name": "BRICK 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6426720.jpg",
+    "rawText": "BRICK 2X2\n\n6426720\n\nSelect this piece"
+  },
+  {
+    "id": "6175294",
+    "name": "PLATE 2X6",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6175294.jpg",
+    "rawText": "PLATE 2X6\n\n6175294\n\nSelect this piece"
+  },
+  {
+    "id": "4558952",
+    "name": "BRICK 1X1 W. 1 KNOB",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/https://www.lego.com/cdn/cs/set/assets/blteaf5eb16a94fd404/4558952.jpg",
+    "rawText": "BRICK 1X1 W. 1 KNOB\n\n4558952\n\nSelect this piece"
+  },
+  {
+    "id": "300101",
+    "name": "BRICK 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300101.jpg",
+    "rawText": "BRICK 2X4\n\n300101\n\nSelect this piece"
+  },
+  {
+    "id": "4121936",
+    "name": "ROOF TILE 1X2/45°",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4121936.jpg",
+    "rawText": "ROOF TILE 1X2/45°\n\n4121936\n\nSelect this piece"
+  },
+  {
+    "id": "4211385",
+    "name": "BRICK 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211385.jpg",
+    "rawText": "BRICK 2X4\n\n4211385\n\nSelect this piece"
+  },
+  {
+    "id": "300426",
+    "name": "BRICK 1X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300426.jpg",
+    "rawText": "BRICK 1X2\n\n300426\n\nSelect this piece"
+  },
+  {
+    "id": "6070695",
+    "name": "FLAT TILE 2X2, ROUND",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6070695.jpg",
+    "rawText": "FLAT TILE 2X2, ROUND\n\n6070695\n\nSelect this piece"
+  },
+  {
+    "id": "302201",
+    "name": "PLATE 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/302201.jpg",
+    "rawText": "PLATE 2X2\n\n302201\n\nSelect this piece"
+  },
+  {
+    "id": "300223",
+    "name": "BRICK 2X3",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300223.jpg",
+    "rawText": "BRICK 2X3\n\n300223\n\nSelect this piece"
+  },
+  {
+    "id": "6273154",
+    "name": "BRICK Ø16 W. CROSS",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6273154.jpg",
+    "rawText": "BRICK Ø16 W. CROSS\n\n6273154\n\nSelect this piece"
+  },
+  {
+    "id": "6097444",
+    "name": "ROOF TILE 1 X 2 X 2/3, ABS",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6097444.jpg",
+    "rawText": "ROOF TILE 1 X 2 X 2/3, ABS\n\n6097444\n\nSelect this piece"
+  },
+  {
+    "id": "4625626",
+    "name": "ROOF TILE 1X2/45°",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4625626.jpg",
+    "rawText": "ROOF TILE 1X2/45°\n\n4625626\n\nSelect this piece"
+  },
+  {
+    "id": "4623598",
+    "name": "BRICK 1X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4623598.jpg",
+    "rawText": "BRICK 1X2\n\n4623598\n\nSelect this piece"
+  },
+  {
+    "id": "6022032",
+    "name": "BRICK 1X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6022032.jpg",
+    "rawText": "BRICK 1X2\n\n6022032\n\nSelect this piece"
+  },
+  {
+    "id": "6099349",
+    "name": "BRICK 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6099349.jpg",
+    "rawText": "BRICK 2X2\n\n6099349\n\nSelect this piece"
+  },
+  {
+    "id": "6335306",
+    "name": "BRICK 1X2 W. HORIZONTAL HOLDER",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6335306.jpg",
+    "rawText": "BRICK 1X2 W. HORIZONTAL HOLDER\n\n6335306\n\nSelect this piece"
+  },
+  {
+    "id": "6099352",
+    "name": "BRICK 1X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6099352.jpg",
+    "rawText": "BRICK 1X2\n\n6099352\n\nSelect this piece"
+  },
+  {
+    "id": "4625032",
+    "name": "PLATE 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4625032.jpg",
+    "rawText": "PLATE 2X2\n\n4625032\n\nSelect this piece"
+  },
+  {
+    "id": "4220632",
+    "name": "BRICK 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4220632.jpg",
+    "rawText": "BRICK 2X2\n\n4220632\n\nSelect this piece"
+  },
+  {
+    "id": "287701",
+    "name": "PROFILE BRICK 1X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/287701.jpg",
+    "rawText": "PROFILE BRICK 1X2\n\n287701\n\nSelect this piece"
+  },
+  {
+    "id": "4653970",
+    "name": "BRICK 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4653970.jpg",
+    "rawText": "BRICK 2X2\n\n4653970\n\nSelect this piece"
+  },
+  {
+    "id": "6422918",
+    "name": "BRICK 1X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6422918.jpg",
+    "rawText": "BRICK 1X4\n\n6422918\n\nSelect this piece"
+  },
+  {
+    "id": "6267189",
+    "name": "BRICK 1X1 W. 1 KNOB",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6267189.jpg",
+    "rawText": "BRICK 1X1 W. 1 KNOB\n\n6267189\n\nSelect this piece"
+  },
+  {
+    "id": "4583862",
+    "name": "BRICK 1X1 W. 1 KNOB",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4583862.jpg",
+    "rawText": "BRICK 1X1 W. 1 KNOB\n\n4583862\n\nSelect this piece"
+  },
+  {
+    "id": "366021",
+    "name": "ROOF TILE 2X2/45° INV.",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/366021.jpg",
+    "rawText": "ROOF TILE 2X2/45° INV.\n\n366021\n\nSelect this piece"
+  },
+  {
+    "id": "329824",
+    "name": "ROOF TILE 2X3/25°",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/329824.jpg",
+    "rawText": "ROOF TILE 2X3/25°\n\n329824\n\nSelect this piece"
+  },
+  {
+    "id": "6227184",
+    "name": "BRICK 1X2, OUTSIDE HALF BOW",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6227184.jpg",
+    "rawText": "BRICK 1X2, OUTSIDE HALF BOW\n\n6227184\n\nSelect this piece"
+  },
+  {
+    "id": "6248827",
+    "name": "BRICK 1X2, OUTSIDE HALF BOW",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6248827.jpg",
+    "rawText": "BRICK 1X2, OUTSIDE HALF BOW\n\n6248827\n\nSelect this piece"
+  },
+  {
+    "id": "302001",
+    "name": "PLATE 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/302001.jpg",
+    "rawText": "PLATE 2X4\n\n302001\n\nSelect this piece"
+  },
+  {
+    "id": "303926",
+    "name": "ROOF TILE 2X2/45°",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/303926.jpg",
+    "rawText": "ROOF TILE 2X2/45°\n\n303926\n\nSelect this piece"
+  },
+  {
+    "id": "4211462",
+    "name": "PLATE 2X10",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211462.jpg",
+    "rawText": "PLATE 2X10\n\n4211462\n\nSelect this piece"
+  },
+  {
+    "id": "6172860",
+    "name": "ROOF TILE 2X2/45 INV.",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6172860.jpg",
+    "rawText": "ROOF TILE 2X2/45 INV.\n\n6172860\n\nSelect this piece"
+  },
+  {
+    "id": "4537925",
+    "name": "ROOF TILE 1X2/45°",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4537925.jpg",
+    "rawText": "ROOF TILE 1X2/45°\n\n4537925\n\nSelect this piece"
+  },
+  {
+    "id": "6273887",
+    "name": "ROOF TILE 1X2/45°",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6273887.jpg",
+    "rawText": "ROOF TILE 1X2/45°\n\n6273887\n\nSelect this piece"
+  },
+  {
+    "id": "6092663",
+    "name": "NOSE CONE 2X2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6092663.jpg",
+    "rawText": "NOSE CONE 2X2X2\n\n6092663\n\nSelect this piece"
+  },
+  {
+    "id": "368001",
+    "name": "TURN PLATE 2X2, LOWER PART",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/368001.jpg",
+    "rawText": "TURN PLATE 2X2, LOWER PART\n\n368001\n\nSelect this piece"
+  },
+  {
+    "id": "6322828",
+    "name": "TECHNIC BRICK 1X2, Ø4.9",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6322828.jpg",
+    "rawText": "TECHNIC BRICK 1X2, Ø4.9\n\n6322828\n\nSelect this piece"
+  },
+  {
+    "id": "4217918",
+    "name": "BRICK 2X3 W. ARCH",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4217918.jpg",
+    "rawText": "BRICK 2X3 W. ARCH\n\n4217918\n\nSelect this piece"
+  },
+  {
+    "id": "6433501",
+    "name": "FLAT TILE 1X1, ROUND, NO. 226",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6433501.jpg",
+    "rawText": "FLAT TILE 1X1, ROUND, NO. 226\n\n6433501\n\nSelect this piece"
+  },
+  {
+    "id": "6514283",
+    "name": "BRICK Ø16 W. CROSS",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6514283.jpg",
+    "rawText": "BRICK Ø16 W. CROSS\n\n6514283\n\nSelect this piece"
+  },
+  {
+    "id": "6514232",
+    "name": "ROUND BRICK 1X1",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6514232.jpg",
+    "rawText": "ROUND BRICK 1X1\n\n6514232\n\nSelect this piece"
+  },
+  {
+    "id": "6461062",
+    "name": "BRICK 2X4, INVERTED, OUTSIDE BOW",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6461062.jpg",
+    "rawText": "BRICK 2X4, INVERTED, OUTSIDE BOW\n\n6461062\n\nSelect this piece"
+  },
+  {
+    "id": "6431716",
+    "name": "FLAT TILE 1X1, ROUND, NO. 223",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6431716.jpg",
+    "rawText": "FLAT TILE 1X1, ROUND, NO. 223\n\n6431716\n\nSelect this piece"
+  },
+  {
+    "id": "366023",
+    "name": "ROOF TILE 2X2/45° INV.",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/366023.jpg",
+    "rawText": "ROOF TILE 2X2/45° INV.\n\n366023\n\nSelect this piece"
+  },
+  {
+    "id": "6432105",
+    "name": "FLAT TILE 1X1, ROUND, NO. 225",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6432105.jpg",
+    "rawText": "FLAT TILE 1X1, ROUND, NO. 225\n\n6432105\n\nSelect this piece"
+  },
+  {
+    "id": "4211060",
+    "name": "BRICK 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211060.jpg",
+    "rawText": "BRICK 2X2\n\n4211060\n\nSelect this piece"
+  },
+  {
+    "id": "6435857",
+    "name": "ROOF TILE 2X2/45 INVERTED",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6435857.jpg",
+    "rawText": "ROOF TILE 2X2/45 INVERTED\n\n6435857\n\nSelect this piece"
+  },
+  {
+    "id": "6475339",
+    "name": "BRICK 1X2 W/ 1 KNOB",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6475339.jpg",
+    "rawText": "BRICK 1X2 W/ 1 KNOB\n\n6475339\n\nSelect this piece"
+  },
+  {
+    "id": "300323",
+    "name": "BRICK 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300323.jpg",
+    "rawText": "BRICK 2X2\n\n300323\n\nSelect this piece"
+  },
+  {
+    "id": "4211387",
+    "name": "BRICK 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211387.jpg",
+    "rawText": "BRICK 2X2\n\n4211387\n\nSelect this piece"
+  },
+  {
+    "id": "4558953",
+    "name": "BRICK 1X1 W. 1 KNOB",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4558953.jpg",
+    "rawText": "BRICK 1X1 W. 1 KNOB\n\n4558953\n\nSelect this piece"
+  },
+  {
+    "id": "302023",
+    "name": "PLATE 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/302023.jpg",
+    "rawText": "PLATE 2X4\n\n302023\n\nSelect this piece"
+  },
+  {
+    "id": "6497651",
+    "name": "BI 3101, 76+4, 11037 V39",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6497651.jpg",
+    "rawText": "BI 3101, 76+4, 11037 V39\n\n6497651\n\nSelect this piece"
+  },
+  {
+    "id": "6337596",
+    "name": "NOSE CONE SMALL 1X1",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6337596.jpg",
+    "rawText": "NOSE CONE SMALL 1X1\n\n6337596\n\nSelect this piece"
+  },
+  {
+    "id": "6170916",
+    "name": "ROOF TILE 2X2/45 INV.",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6170916.jpg",
+    "rawText": "ROOF TILE 2X2/45 INV.\n\n6170916\n\nSelect this piece"
+  },
+  {
+    "id": "621501",
+    "name": "BRICK 2X3 W. ARCH",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/621501.jpg",
+    "rawText": "BRICK 2X3 W. ARCH\n\n621501\n\nSelect this piece"
+  },
+  {
+    "id": "6099355",
+    "name": "PLATE 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6099355.jpg",
+    "rawText": "PLATE 2X4\n\n6099355\n\nSelect this piece"
+  },
+  {
+    "id": "300324",
+    "name": "BRICK 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300324.jpg",
+    "rawText": "BRICK 2X2\n\n300324\n\nSelect this piece"
+  },
+  {
+    "id": "4619516",
+    "name": "PLATE 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4619516.jpg",
+    "rawText": "PLATE 2X4\n\n4619516\n\nSelect this piece"
+  },
+  {
+    "id": "4164022",
+    "name": "BRICK 1X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4164022.jpg",
+    "rawText": "BRICK 1X2\n\n4164022\n\nSelect this piece"
+  },
+  {
+    "id": "4619655",
+    "name": "ROOF TILE 1X2/45°",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4619655.jpg",
+    "rawText": "ROOF TILE 1X2/45°\n\n4619655\n\nSelect this piece"
+  },
+  {
+    "id": "6384680",
+    "name": "NOSE CONE SMALL 1X1",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6384680.jpg",
+    "rawText": "NOSE CONE SMALL 1X1\n\n6384680\n\nSelect this piece"
+  },
+  {
+    "id": "6455791",
+    "name": "BRICK 1X2 W/ 1 KNOB",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6455791.jpg",
+    "rawText": "BRICK 1X2 W/ 1 KNOB\n\n6455791\n\nSelect this piece"
+  },
+  {
+    "id": "6514272",
+    "name": "BRICK 1X2 W/O PIN",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6514272.jpg",
+    "rawText": "BRICK 1X2 W/O PIN\n\n6514272\n\nSelect this piece"
+  },
+  {
+    "id": "4558886",
+    "name": "BRICK 1X1 W. 1 KNOB",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/https://www.lego.com/cdn/cs/set/assets/blt5e8a248643df5699/4558886.jpg",
+    "rawText": "BRICK 1X1 W. 1 KNOB\n\n4558886\n\nSelect this piece"
+  },
+  {
+    "id": "4121932",
+    "name": "ROOF TILE 1X2/45°",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4121932.jpg",
+    "rawText": "ROOF TILE 1X2/45°\n\n4121932\n\nSelect this piece"
+  },
+  {
+    "id": "6507944",
+    "name": "SATELLITE DISH 6X6",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6507944.jpg",
+    "rawText": "SATELLITE DISH 6X6\n\n6507944\n\nSelect this piece"
+  },
+  {
+    "id": "6004491",
+    "name": "ROOF TILE 2X2X3/ 73 GR.",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6004491.jpg",
+    "rawText": "ROOF TILE 2X2X3/ 73 GR.\n\n6004491\n\nSelect this piece"
+  },
+  {
+    "id": "370023",
+    "name": "TECHNIC BRICK 1X2, Ø4.9",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/370023.jpg",
+    "rawText": "TECHNIC BRICK 1X2, Ø4.9\n\n370023\n\nSelect this piece"
+  },
+  {
+    "id": "6208291",
+    "name": "BRICK 1X2 W. 2 KNOBS",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6208291.jpg",
+    "rawText": "BRICK 1X2 W. 2 KNOBS\n\n6208291\n\nSelect this piece"
+  },
+  {
+    "id": "73587",
+    "name": "MINI ANTENNA ASS.BLA/BLA",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/73587.jpg",
+    "rawText": "MINI ANTENNA ASS.BLA/BLA\n\n73587\n\nSelect this piece"
+  },
+  {
+    "id": "4211388",
+    "name": "BRICK 1X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211388.jpg",
+    "rawText": "BRICK 1X2\n\n4211388\n\nSelect this piece"
+  },
+  {
+    "id": "4211394",
+    "name": "BRICK 1X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211394.jpg",
+    "rawText": "BRICK 1X4\n\n4211394\n\nSelect this piece"
+  },
+  {
+    "id": "302021",
+    "name": "PLATE 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/302021.jpg",
+    "rawText": "PLATE 2X4\n\n302021\n\nSelect this piece"
+  },
+  {
+    "id": "302026",
+    "name": "PLATE 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/302026.jpg",
+    "rawText": "PLATE 2X4\n\n302026\n\nSelect this piece"
+  },
+  {
+    "id": "302226",
+    "name": "PLATE 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/302226.jpg",
+    "rawText": "PLATE 2X2\n\n302226\n\nSelect this piece"
+  },
+  {
+    "id": "4655256",
+    "name": "PLATE 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4655256.jpg",
+    "rawText": "PLATE 2X4\n\n4655256\n\nSelect this piece"
+  },
+  {
+    "id": "6273152",
+    "name": "BRICK Ø16 W. CROSS",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6273152.jpg",
+    "rawText": "BRICK Ø16 W. CROSS\n\n6273152\n\nSelect this piece"
+  },
+  {
+    "id": "6060734",
+    "name": "ROUND TILE 2X2 NO. \"1003\"",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6060734.jpg",
+    "rawText": "ROUND TILE 2X2 NO. \"1003\"\n\n6060734\n\nSelect this piece"
+  },
+  {
+    "id": "6431713",
+    "name": "BRICK 1X2, NO. 101",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6431713.jpg",
+    "rawText": "BRICK 1X2, NO. 101\n\n6431713\n\nSelect this piece"
+  },
+  {
+    "id": "4121967",
+    "name": "ROOF TILE 1X2/45°",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4121967.jpg",
+    "rawText": "ROOF TILE 1X2/45°\n\n4121967\n\nSelect this piece"
+  },
+  {
+    "id": "6382563",
+    "name": "ELEPHANT TRUNK",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6382563.jpg",
+    "rawText": "ELEPHANT TRUNK\n\n6382563\n\nSelect this piece"
+  },
+  {
+    "id": "6507886",
+    "name": "LIGHT SWORD - BLADE",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6507886.jpg",
+    "rawText": "LIGHT SWORD - BLADE\n\n6507886\n\nSelect this piece"
+  },
+  {
+    "id": "6432104",
+    "name": "BRICK 1X2, NO. 103",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6432104.jpg",
+    "rawText": "BRICK 1X2, NO. 103\n\n6432104\n\nSelect this piece"
+  },
+  {
+    "id": "6223734",
+    "name": "BRICK 1X3",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6223734.jpg",
+    "rawText": "BRICK 1X3\n\n6223734\n\nSelect this piece"
+  },
+  {
+    "id": "6306030",
+    "name": "ROOF TILE 1X2 INV.",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6306030.jpg",
+    "rawText": "ROOF TILE 1X2 INV.\n\n6306030\n\nSelect this piece"
+  },
+  {
+    "id": "6097867",
+    "name": "BRICK 1X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6097867.jpg",
+    "rawText": "BRICK 1X4\n\n6097867\n\nSelect this piece"
+  },
+  {
+    "id": "6434345",
+    "name": "FLAT TILE 1X1, ROUND, NO. 229",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6434345.jpg",
+    "rawText": "FLAT TILE 1X1, ROUND, NO. 229\n\n6434345\n\nSelect this piece"
+  },
+  {
+    "id": "6003003",
+    "name": "BRICK 1X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6003003.jpg",
+    "rawText": "BRICK 1X2\n\n6003003\n\nSelect this piece"
+  },
+  {
+    "id": "4517992",
+    "name": "BRICK 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4517992.jpg",
+    "rawText": "BRICK 2X2\n\n4517992\n\nSelect this piece"
+  },
+  {
+    "id": "6261292",
+    "name": "BRICK 1X1 W. 1 KNOB",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6261292.jpg",
+    "rawText": "BRICK 1X1 W. 1 KNOB\n\n6261292\n\nSelect this piece"
+  },
+  {
+    "id": "6284592",
+    "name": "FLAT TILE 1X1, ROUND",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6284592.jpg",
+    "rawText": "FLAT TILE 1X1, ROUND\n\n6284592\n\nSelect this piece"
+  },
+  {
+    "id": "6073026",
+    "name": "BRICK 1X1 W. 1 KNOB",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6073026.jpg",
+    "rawText": "BRICK 1X1 W. 1 KNOB\n\n6073026\n\nSelect this piece"
+  },
+  {
+    "id": "4211395",
+    "name": "PLATE 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4211395.jpg",
+    "rawText": "PLATE 2X4\n\n4211395\n\nSelect this piece"
+  },
+  {
+    "id": "300321",
+    "name": "BRICK 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300321.jpg",
+    "rawText": "BRICK 2X2\n\n300321\n\nSelect this piece"
+  },
+  {
+    "id": "4121934",
+    "name": "ROOF TILE 1X2/45°",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/https://www.lego.com/cdn/cs/set/assets/blt358c462aea3f1c40/4121934.jpg",
+    "rawText": "ROOF TILE 1X2/45°\n\n4121934\n\nSelect this piece"
+  },
+  {
+    "id": "4540203",
+    "name": "TURN PLATE 2X2, UPPER PART",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4540203.jpg",
+    "rawText": "TURN PLATE 2X2, UPPER PART\n\n4540203\n\nSelect this piece"
+  },
+  {
+    "id": "4165967",
+    "name": "BRICK 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4165967.jpg",
+    "rawText": "BRICK 2X4\n\n4165967\n\nSelect this piece"
+  },
+  {
+    "id": "4529679",
+    "name": "ROOF TILE 2X2/45 INV.",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4529679.jpg",
+    "rawText": "ROOF TILE 2X2/45 INV.\n\n4529679\n\nSelect this piece"
+  },
+  {
+    "id": "300926",
+    "name": "BRICK 1X6",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300926.jpg",
+    "rawText": "BRICK 1X6\n\n300926\n\nSelect this piece"
+  },
+  {
+    "id": "383226",
+    "name": "PLATE 2X10",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/383226.jpg",
+    "rawText": "PLATE 2X10\n\n383226\n\nSelect this piece"
+  },
+  {
+    "id": "6100027",
+    "name": "BRICK 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6100027.jpg",
+    "rawText": "BRICK 2X4\n\n6100027\n\nSelect this piece"
+  },
+  {
+    "id": "302223",
+    "name": "PLATE 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/302223.jpg",
+    "rawText": "PLATE 2X2\n\n302223\n\nSelect this piece"
+  },
+  {
+    "id": "4624985",
+    "name": "BRICK 1X1 W. 1 KNOB",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4624985.jpg",
+    "rawText": "BRICK 1X1 W. 1 KNOB\n\n4624985\n\nSelect this piece"
+  },
+  {
+    "id": "6497650",
+    "name": "BI 3101, 76+4, 11037 V29",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6497650.jpg",
+    "rawText": "BI 3101, 76+4, 11037 V29\n\n6497650\n\nSelect this piece"
+  },
+  {
+    "id": "6223655",
+    "name": "ROUND BRICK 1X1",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6223655.jpg",
+    "rawText": "ROUND BRICK 1X1\n\n6223655\n\nSelect this piece"
+  },
+  {
+    "id": "6545267",
+    "name": "ROUND TILE 2X2, NO. 1003",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6545267.jpg",
+    "rawText": "ROUND TILE 2X2, NO. 1003\n\n6545267\n\nSelect this piece"
+  },
+  {
+    "id": "6432102",
+    "name": "BRICK 1X2, NO. 102",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6432102.jpg",
+    "rawText": "BRICK 1X2, NO. 102\n\n6432102\n\nSelect this piece"
+  },
+  {
+    "id": "6023157",
+    "name": "ROOF TILE 1X2/45°",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6023157.jpg",
+    "rawText": "ROOF TILE 1X2/45°\n\n6023157\n\nSelect this piece"
+  },
+  {
+    "id": "6392166",
+    "name": "BRICK 1X2, OUTSIDE HALF ARCH, NO. 1",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6392166.jpg",
+    "rawText": "BRICK 1X2, OUTSIDE HALF ARCH, NO. 1\n\n6392166\n\nSelect this piece"
+  },
+  {
+    "id": "4537936",
+    "name": "PLATE 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4537936.jpg",
+    "rawText": "PLATE 2X4\n\n4537936\n\nSelect this piece"
+  },
+  {
+    "id": "6133200",
+    "name": "1/2 CIRCLE PLATE 4X8",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6133200.jpg",
+    "rawText": "1/2 CIRCLE PLATE 4X8\n\n6133200\n\nSelect this piece"
+  },
+  {
+    "id": "621521",
+    "name": "BRICK 2X3 W. ARCH",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/621521.jpg",
+    "rawText": "BRICK 2X3 W. ARCH\n\n621521\n\nSelect this piece"
+  },
+  {
+    "id": "4621545",
+    "name": "BRICK 1X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4621545.jpg",
+    "rawText": "BRICK 1X2\n\n4621545\n\nSelect this piece"
+  },
+  {
+    "id": "4621542",
+    "name": "BRICK 1X4",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/https://www.lego.com/cdn/cs/set/assets/blt78c2cb622d35094e/4621542.jpg",
+    "rawText": "BRICK 1X4\n\n4621542\n\nSelect this piece"
+  },
+  {
+    "id": "6109817",
+    "name": "PLATE 6X6 ROUND WITH TUBE SNAP",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6109817.jpg",
+    "rawText": "PLATE 6X6 ROUND WITH TUBE SNAP\n\n6109817\n\nSelect this piece"
+  },
+  {
+    "id": "6366391",
+    "name": "ROOF TILE 2X2/45 INVERTED",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6366391.jpg",
+    "rawText": "ROOF TILE 2X2/45 INVERTED\n\n6366391\n\nSelect this piece"
+  },
+  {
+    "id": "6433502",
+    "name": "FLAT TILE 1X1, ROUND, NO. 227",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6433502.jpg",
+    "rawText": "FLAT TILE 1X1, ROUND, NO. 227\n\n6433502\n\nSelect this piece"
+  },
+  {
+    "id": "301001",
+    "name": "BRICK 1X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/301001.jpg",
+    "rawText": "BRICK 1X4\n\n301001\n\nSelect this piece"
+  },
+  {
+    "id": "370021",
+    "name": "TECHNIC BRICK 1X2, Ø4.9",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/370021.jpg",
+    "rawText": "TECHNIC BRICK 1X2, Ø4.9\n\n370021\n\nSelect this piece"
+  },
+  {
+    "id": "6458178",
+    "name": "TILE 4X4, W/ BOW, NO. 5",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6458178.jpg",
+    "rawText": "TILE 4X4, W/ BOW, NO. 5\n\n6458178\n\nSelect this piece"
+  },
+  {
+    "id": "6058177",
+    "name": "BRICK 1X2 W. 2 KNOBS",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6058177.jpg",
+    "rawText": "BRICK 1X2 W. 2 KNOBS\n\n6058177\n\nSelect this piece"
+  },
+  {
+    "id": "6514281",
+    "name": "BRICK Ø16 W. CROSS",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6514281.jpg",
+    "rawText": "BRICK Ø16 W. CROSS\n\n6514281\n\nSelect this piece"
+  },
+  {
+    "id": "300401",
+    "name": "BRICK 1X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/300401.jpg",
+    "rawText": "BRICK 1X2\n\n300401\n\nSelect this piece"
+  },
+  {
+    "id": "6070756",
+    "name": "ROOF TILE 2X2/45 INV.",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/6070756.jpg",
+    "rawText": "ROOF TILE 2X2/45 INV.\n\n6070756\n\nSelect this piece"
+  },
+  {
+    "id": "302221",
+    "name": "PLATE 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/302221.jpg",
+    "rawText": "PLATE 2X2\n\n302221\n\nSelect this piece"
+  },
+  {
+    "id": "301023",
+    "name": "BRICK 1X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/301023.jpg",
+    "rawText": "BRICK 1X4\n\n301023\n\nSelect this piece"
+  },
+  {
+    "id": "4158355",
+    "name": "PLATE 2X4",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/4158355.jpg",
+    "rawText": "PLATE 2X4\n\n4158355\n\nSelect this piece"
+  },
+  {
+    "id": "362221",
+    "name": "BRICK 1X3",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/https://www.lego.com/cdn/cs/set/assets/blt7b735c09bb0600c3/362221.jpg",
+    "rawText": "BRICK 1X3\n\n362221\n\nSelect this piece"
+  },
+  {
+    "id": "302224",
+    "name": "PLATE 2X2",
+    "imageUrl": "https://www.lego.com/cdn/product-assets/element.img.lod5photo.192x192/302224.jpg",
+    "rawText": "PLATE 2X2\n\n302224\n\nSelect this piece"
+  }
+]

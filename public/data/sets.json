@@ -3113,5 +3113,379 @@
         "builder": "Anirud Krishna"
       }
     ]
+  },
+  {
+    "id": "43019",
+    "name": "Soccer Ball",
+    "theme": "LEGO® Editions",
+    "age": "10+",
+    "pieces": 1498,
+    "thumbnail": "/images/43019/thumb.webp",
+    "images": [
+      "/images/43019/0.png",
+      "/images/43019/1.png",
+      "/images/43019/2.png",
+      "/images/43019/3.png",
+      "/images/43019/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "42228",
+    "name": "McLaren MCL39 F1® Car",
+    "theme": "Technic™",
+    "age": "18+",
+    "pieces": 1675,
+    "thumbnail": "/images/42228/thumb.webp",
+    "images": [
+      "/images/42228/0.png",
+      "/images/42228/1.png",
+      "/images/42228/2.png",
+      "/images/42228/3.png",
+      "/images/42228/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "31212",
+    "name": "The Milky Way Galaxy",
+    "theme": "Art",
+    "age": "18+",
+    "pieces": 3091,
+    "thumbnail": "/images/31212/thumb.webp",
+    "images": [
+      "/images/31212/0.png",
+      "/images/31212/1.png",
+      "/images/31212/2.png",
+      "/images/31212/3.png",
+      "/images/31212/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "11380",
+    "name": "Road Bike",
+    "theme": "LEGO® Icons",
+    "age": "18+",
+    "pieces": 1015,
+    "thumbnail": "/images/11380/thumb.webp",
+    "images": [
+      "/images/11380/0.png",
+      "/images/11380/1.png",
+      "/images/11380/2.png",
+      "/images/11380/3.png",
+      "/images/11380/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "71043",
+    "name": "Hogwarts™ Castle",
+    "theme": "Harry Potter™",
+    "age": "16+",
+    "pieces": 6020,
+    "thumbnail": "/images/71043/thumb.webp",
+    "images": [
+      "/images/71043/0.png",
+      "/images/71043/1.png",
+      "/images/71043/2.png",
+      "/images/71043/3.png",
+      "/images/71043/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "11376",
+    "name": "Ford Model T",
+    "theme": "LEGO® Icons",
+    "age": "18+",
+    "pieces": 1060,
+    "thumbnail": "/images/11376/thumb.webp",
+    "images": [
+      "/images/11376/0.png",
+      "/images/11376/1.png",
+      "/images/11376/2.png",
+      "/images/11376/3.png",
+      "/images/11376/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "21362",
+    "name": "Mineral Collection",
+    "theme": "Ideas",
+    "age": "18+",
+    "pieces": 880,
+    "thumbnail": "/images/21362/thumb.webp",
+    "images": [
+      "/images/21362/0.png",
+      "/images/21362/1.png",
+      "/images/21362/2.png",
+      "/images/21362/3.png",
+      "/images/21362/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "21367",
+    "name": "Tintin® Moon Rocket",
+    "theme": "Ideas",
+    "age": "18+",
+    "pieces": 1283,
+    "thumbnail": "/images/21367/thumb.webp",
+    "images": [
+      "/images/21367/0.png",
+      "/images/21367/1.png",
+      "/images/21367/2.png",
+      "/images/21367/3.png",
+      "/images/21367/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "76466",
+    "name": "Sorcerer's Stone – Collectors' Edition",
+    "theme": "Harry Potter™",
+    "age": "18+",
+    "pieces": 1571,
+    "thumbnail": "/images/76466/thumb.webp",
+    "images": [
+      "/images/76466/0.png",
+      "/images/76466/1.png",
+      "/images/76466/2.png",
+      "/images/76466/3.png",
+      "/images/76466/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "60402",
+    "name": "Blue Monster Truck",
+    "theme": "City",
+    "age": "5+",
+    "pieces": 148,
+    "thumbnail": "/images/60402/thumb.webp",
+    "images": [
+      "/images/60402/0.png",
+      "/images/60402/1.png",
+      "/images/60402/2.png",
+      "/images/60402/3.png",
+      "/images/60402/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "11037",
+    "name": "Creative Space Planets",
+    "theme": "Classic",
+    "age": "5+",
+    "pieces": 450,
+    "thumbnail": "/images/11037/thumb.webp",
+    "images": [
+      "/images/11037/0.png",
+      "/images/11037/1.png",
+      "/images/11037/2.png",
+      "/images/11037/3.png",
+      "/images/11037/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "76458",
+    "name": "Thestral Family",
+    "theme": "Harry Potter™",
+    "age": "10+",
+    "pieces": 548,
+    "thumbnail": "/images/76458/thumb.webp",
+    "images": [
+      "/images/76458/0.png",
+      "/images/76458/1.png",
+      "/images/76458/2.png",
+      "/images/76458/3.png",
+      "/images/76458/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "77082",
+    "name": "Rave Cave",
+    "theme": "LEGO® Fortnite",
+    "age": "12+",
+    "pieces": 1963,
+    "thumbnail": "/images/77082/thumb.webp",
+    "images": [
+      "/images/77082/0.png",
+      "/images/77082/1.png",
+      "/images/77082/2.png",
+      "/images/77082/3.png",
+      "/images/77082/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "31220",
+    "name": "Claude Monet – Bridge over a Pond of Water Lilies",
+    "theme": "Art",
+    "age": "18+",
+    "pieces": 3179,
+    "thumbnail": "/images/31220/thumb.webp",
+    "images": [
+      "/images/31220/0.png",
+      "/images/31220/1.png",
+      "/images/31220/2.png",
+      "/images/31220/3.png",
+      "/images/31220/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "43020",
+    "name": "FIFA World Cup™ Official Trophy",
+    "theme": "LEGO® Editions",
+    "age": "12+",
+    "pieces": 2842,
+    "thumbnail": "/images/43020/thumb.webp",
+    "images": [
+      "/images/43020/0.png",
+      "/images/43020/1.png",
+      "/images/43020/2.png",
+      "/images/43020/3.png",
+      "/images/43020/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "10354",
+    "name": "The Lord of the Rings: The Shire™",
+    "theme": "LEGO® Icons",
+    "age": "18+",
+    "pieces": 2017,
+    "thumbnail": "/images/10354/thumb.webp",
+    "images": [
+      "/images/10354/0.png",
+      "/images/10354/1.png",
+      "/images/10354/2.png",
+      "/images/10354/3.png",
+      "/images/10354/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "10320",
+    "name": "Eldorado Fortress",
+    "theme": "LEGO® Icons",
+    "age": "18+",
+    "pieces": 2509,
+    "thumbnail": "/images/10320/thumb.webp",
+    "images": [
+      "/images/10320/0.png",
+      "/images/10320/1.png",
+      "/images/10320/2.png",
+      "/images/10320/3.png",
+      "/images/10320/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "10333",
+    "name": "The Lord of the Rings: Barad-dûr™",
+    "theme": "LEGO® Icons",
+    "age": "18+",
+    "pieces": 5471,
+    "thumbnail": "/images/10333/thumb.webp",
+    "images": [
+      "/images/10333/0.png",
+      "/images/10333/1.png",
+      "/images/10333/2.png",
+      "/images/10333/3.png",
+      "/images/10333/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "42233",
+    "name": "Mighty Machines",
+    "theme": "Technic™",
+    "age": "7+",
+    "pieces": 44,
+    "thumbnail": "/images/42233/thumb.webp",
+    "images": [
+      "/images/42233/0.png",
+      "/images/42233/1.png",
+      "/images/42233/2.png",
+      "/images/42233/3.png",
+      "/images/42233/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "76437",
+    "name": "The Burrow – Collectors' Edition",
+    "theme": "Harry Potter™",
+    "age": "18+",
+    "pieces": 2405,
+    "thumbnail": "/images/76437/thumb.webp",
+    "images": [
+      "/images/76437/0.png",
+      "/images/76437/1.png",
+      "/images/76437/2.png",
+      "/images/76437/3.png",
+      "/images/76437/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "43022",
+    "name": "Scuderia Ferrari HP Lewis Hamilton Helmet",
+    "theme": "LEGO® Editions",
+    "age": "14+",
+    "pieces": 884,
+    "thumbnail": "/images/43022/thumb.webp",
+    "images": [
+      "/images/43022/0.png",
+      "/images/43022/1.png",
+      "/images/43022/2.png",
+      "/images/43022/3.png",
+      "/images/43022/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "11377",
+    "name": "The Lord of the Rings: Minas Tirith™",
+    "theme": "Lord of the Rings™",
+    "age": "18+",
+    "pieces": 8278,
+    "thumbnail": "/images/11377/thumb.webp",
+    "images": [
+      "/images/11377/0.png",
+      "/images/11377/1.png",
+      "/images/11377/2.png",
+      "/images/11377/3.png",
+      "/images/11377/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
   }
 ]
