@@ -3487,5 +3487,90 @@
     ],
     "status": "Not Started",
     "history": []
+  },
+  {
+    "id": "43300",
+    "name": "Winnie the Pooh",
+    "theme": "Disney™",
+    "age": "18+",
+    "pieces": 1399,
+    "thumbnail": "/images/43300/thumb.webp",
+    "images": [
+      "/images/43300/0.png",
+      "/images/43300/1.png",
+      "/images/43300/2.png",
+      "/images/43300/3.png",
+      "/images/43300/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "31218",
+    "name": "Japanese Cherry Blossom Landscape",
+    "theme": "Art",
+    "age": "18+",
+    "pieces": 1892,
+    "thumbnail": "/images/31218/thumb.webp",
+    "images": [
+      "/images/31218/0.png",
+      "/images/31218/1.png",
+      "/images/31218/2.png",
+      "/images/31218/3.png",
+      "/images/31218/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "10365",
+    "name": "Captain Jack Sparrow's Pirate Ship",
+    "theme": "LEGO® Icons",
+    "age": "18+",
+    "pieces": 2862,
+    "thumbnail": "/images/10365/thumb.webp",
+    "images": [
+      "/images/10365/0.png",
+      "/images/10365/1.png",
+      "/images/10365/2.png",
+      "/images/10365/3.png",
+      "/images/10365/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "75397",
+    "name": "Jabba's Sail Barge™",
+    "theme": "Star Wars™",
+    "age": "18+",
+    "pieces": 3943,
+    "thumbnail": "/images/75397/thumb.webp",
+    "images": [
+      "/images/75397/0.png",
+      "/images/75397/1.png",
+      "/images/75397/2.png",
+      "/images/75397/3.png",
+      "/images/75397/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
+  },
+  {
+    "id": "10341",
+    "name": "NASA Artemis Space Launch System",
+    "theme": "LEGO® Icons",
+    "age": "18+",
+    "pieces": 3601,
+    "thumbnail": "/images/10341/thumb.webp",
+    "images": [
+      "/images/10341/0.png",
+      "/images/10341/1.png",
+      "/images/10341/2.png",
+      "/images/10341/3.png",
+      "/images/10341/4.png"
+    ],
+    "status": "Not Started",
+    "history": []
   }
 ]
